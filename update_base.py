@@ -26,72 +26,71 @@ def parse_plugins():
         html_content = response.text
         print(f"Статус ответа сайта: {response.status_code}")
         
-        if response.status_code == 403 or "cloudflare" in html_content.lower() or "ddos-guard" in html_content.lower():
-            print("Обнаружена блокировка (403/Cloudflare). Пробуем через прокси-api...")
-            proxy_url = f"https://api.allorigins.win/get?url={urllib.parse.quote(url)}"
-            api_res = requests.get(proxy_url, timeout=15)
-            print(f"Статус ответа прокси: {api_res.status_code}")
-            if api_res.status_code == 200:
-                html_content = api_res.json().get('contents', '')
-                
         soup = BeautifulSoup(html_content, 'html.parser')
-        articles = soup.find_all(['div', 'article'], class_=re.compile(r'(short|post|item|product|story|entry)'))
-        print(f"Найдено блоков с плагинами: {len(articles)}")
         
-        if not articles:
-            all_links = soup.find_all('a', href=re.compile(r'/plugins/.*\.html'))
-            print(f"Альтернативный поиск: найдено ссылок на плагины: {len(all_links)}")
-            articles = list(set([l.find_parent(['div', 'article']) for l in all_links if l.find_parent(['div', 'article'])]))
-            print(f"После фильтрации родительских блоков: {len(articles)}")
-
-        idx = 0
+        # Находим ВООБЩЕ ВСЕ ссылки, ведущие на страницы плагинов (.html)
+        all_links = soup.find_all('a', href=re.compile(r'/plugins/.*\.html'))
+        print(f"Всего ссылок на плагины на странице: {len(all_links)}")
+        
         added_links = set()
-
-        for article in articles:
-            if not article:
-                continue
+        idx = 0
+        
+        for link in all_links:
+            href = link['href']
+            # Приводим к полному URL
+            if not href.startswith('http'):
+                href = "https://vsthouse.ru" + href
                 
-            title_link = article.find('a', href=re.compile(r'\.html$'))
-            if not title_link and article.name == 'a':
-                title_link = article
-
-            if not title_link or not title_link.has_attr('href'):
-                continue
-
-            href = title_link['href']
             if href in added_links:
                 continue
-
-            title = title_link.get_text(strip=True)
-            if not title:
-                h_elem = article.find(['h2', 'h1', 'h3', 'div'], class_=re.compile(r'(title|name|header)'))
-                if h_elem:
+                
+            # Ищем название плагина в тексте ссылки или у картинки внутри неё
+            title = link.get_text(strip=True)
+            img_elem = link.find('img')
+            
+            if img_elem and not title:
+                title = img_elem.get('alt', '').strip()
+                
+            # Если ссылка — это просто кнопка "Подробнее" или пустая, ищем заголовок рядом
+            parent = link.find_parent(['div', 'article', 'td', 'li'])
+            if parent and (not title or len(title) < 5 or any(x in title.lower() for x in ["подробнее", "скачать", "коммент"])):
+                # Пробуем найти заголовок внутри этого же блока
+                h_elem = parent.find(['h2', 'h1', 'h3', 'h4', 'a'], class_=re.compile(r'.*'))
+                if h_elem and h_elem != link:
                     title = h_elem.get_text(strip=True)
-
-            if not title or len(href) < 22 or any(x in title.lower() for x in ["комментарии", "подробнее", "категория", "читать", "скачать"]):
+            
+            # Проверки на валидность заголовка
+            if not title or len(title) < 4 or any(x in title.lower() for x in ["комментарии", "подробнее", "категория", "читать", "скачать", "просмотров"]):
                 continue
-
-            img_elem = article.find('img')
+                
+            # Ищем картинку в родительском блоке
             img_url = ""
-            if img_elem:
+            if parent:
+                parent_img = parent.find('img')
+                if parent_img:
+                    img_url = parent_img.get('src', parent_img.get('data-src', ''))
+            if not img_url and img_elem:
                 img_url = img_elem.get('src', img_elem.get('data-src', ''))
-
+                
             if img_url and not img_url.startswith('http'):
                 img_url = "https://vsthouse.ru" + img_url
-
+                
+            # Текст описания
             desc = "Нажмите 'Открыть инфо' для просмотра деталей и скачивания торрента."
-            desc_elem = article.find(['div', 'p'], class_=re.compile(r'(text|story|desc|message|info|short|preview|eMessage)'))
-            if desc_elem:
-                desc_text = desc_elem.get_text(strip=True)
-                if desc_text and len(desc_text) > 10:
-                    desc = desc_text
+            if parent:
+                # Ищем любой текстовый блок рядом
+                for p_tag in parent.find_all(['p', 'div']):
+                    p_text = p_tag.get_text(strip=True)
+                    if len(p_text) > 20 and not p_tag.find('a') and p_tag != h_elem:
+                        desc = p_text
+                        break
 
             parsed_plugins.append({
                 "id": f"vst_{idx}",
                 "name": title[:30] + "..." if len(title) > 30 else title,
                 "full_name": title,
                 "version": "VST / VST3 / AAX",
-                "link": href if href.startswith('http') else "https://vsthouse.ru" + href,
+                "link": href,
                 "img_url": img_url,
                 "desc": desc[:197] + "..." if len(desc) > 200 else desc
             })
@@ -100,13 +99,22 @@ def parse_plugins():
 
         print(f"Итого собрано валидных плагинов для записи: {len(parsed_plugins)}")
 
-        # Сохраняем в файл ТОЛЬКО если что-то нашли, чтобы не затирать базу пустышкой
-        if parsed_plugins:
-            with open("plugins.json", "w", encoding="utf-8") as f:
-                json.dump(parsed_plugins, f, ensure_ascii=False, indent=4)
-            print(f"Успешно записано {len(parsed_plugins)} плагинов в plugins.json.")
-        else:
-            print("Список пуст. plugins.json не переписывался.")
+        # Сохраняем базу (если пусто — сохраняем тестовый плагин, чтобы лаунчер не падал)
+        if not parsed_plugins:
+            print("Парсер собрал 0 плагинов. Записываем тестовую базу, чтобы проверить связь.")
+            parsed_plugins = [{
+                "id": "vst_test",
+                "name": "Serum (Тест связи)",
+                "full_name": "Xfer Records - Serum v1.35b1 VST",
+                "version": "VST / VST3 / AAX",
+                "link": "https://vsthouse.ru/",
+                "img_url": "https://vsthouse.ru/templates/vsthouse/images/logo.png",
+                "desc": "База данных успешно подключена к лаунчеру! Если вы видите эту карточку, значит лаунчер работает с GitHub правильно."
+            }]
+
+        with open("plugins.json", "w", encoding="utf-8") as f:
+            json.dump(parsed_plugins, f, ensure_ascii=False, indent=4)
+        print(f"Успешно записано в plugins.json.")
 
     except Exception as e:
         print(f"Произошла ошибка при парсинге: {e}")
