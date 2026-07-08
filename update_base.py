@@ -21,21 +21,28 @@ def parse_plugins():
     }
     
     try:
+        print(f"Запрос к сайту: {url}")
         response = scraper.get(url, headers=headers, timeout=15)
         html_content = response.text
+        print(f"Статус ответа сайта: {response.status_code}")
         
         if response.status_code == 403 or "cloudflare" in html_content.lower() or "ddos-guard" in html_content.lower():
+            print("Обнаружена блокировка (403/Cloudflare). Пробуем через прокси-api...")
             proxy_url = f"https://api.allorigins.win/get?url={urllib.parse.quote(url)}"
             api_res = requests.get(proxy_url, timeout=15)
+            print(f"Статус ответа прокси: {api_res.status_code}")
             if api_res.status_code == 200:
                 html_content = api_res.json().get('contents', '')
                 
         soup = BeautifulSoup(html_content, 'html.parser')
         articles = soup.find_all(['div', 'article'], class_=re.compile(r'(short|post|item|product|story|entry)'))
+        print(f"Найдено блоков с плагинами: {len(articles)}")
         
         if not articles:
             all_links = soup.find_all('a', href=re.compile(r'/plugins/.*\.html'))
+            print(f"Альтернативный поиск: найдено ссылок на плагины: {len(all_links)}")
             articles = list(set([l.find_parent(['div', 'article']) for l in all_links if l.find_parent(['div', 'article'])]))
+            print(f"После фильтрации родительских блоков: {len(articles)}")
 
         idx = 0
         added_links = set()
@@ -69,9 +76,6 @@ def parse_plugins():
             if img_elem:
                 img_url = img_elem.get('src', img_elem.get('data-src', ''))
 
-            if img_url and any(x in img_url.lower() for x in ["avatar", "icon", "logo", "spacer"]):
-                img_url = ""
-
             if img_url and not img_url.startswith('http'):
                 img_url = "https://vsthouse.ru" + img_url
 
@@ -81,9 +85,6 @@ def parse_plugins():
                 desc_text = desc_elem.get_text(strip=True)
                 if desc_text and len(desc_text) > 10:
                     desc = desc_text
-            
-            if len(desc) > 200:
-                desc = desc[:197] + "..."
 
             parsed_plugins.append({
                 "id": f"vst_{idx}",
@@ -92,17 +93,20 @@ def parse_plugins():
                 "version": "VST / VST3 / AAX",
                 "link": href if href.startswith('http') else "https://vsthouse.ru" + href,
                 "img_url": img_url,
-                "desc": desc
+                "desc": desc[:197] + "..." if len(desc) > 200 else desc
             })
             added_links.add(href)
             idx += 1
 
+        print(f"Итого собрано валидных плагинов для записи: {len(parsed_plugins)}")
+
+        # Сохраняем в файл ТОЛЬКО если что-то нашли, чтобы не затирать базу пустышкой
         if parsed_plugins:
             with open("plugins.json", "w", encoding="utf-8") as f:
                 json.dump(parsed_plugins, f, ensure_ascii=False, indent=4)
-            print(f"Успешно спарсено и сохранено {len(parsed_plugins)} плагинов.")
+            print(f"Успешно записано {len(parsed_plugins)} плагинов в plugins.json.")
         else:
-            print("Не удалось собрать данные, список пуст.")
+            print("Список пуст. plugins.json не переписывался.")
 
     except Exception as e:
         print(f"Произошла ошибка при парсинге: {e}")
