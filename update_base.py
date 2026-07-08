@@ -1,41 +1,29 @@
 import json
-import cloudscraper
 from bs4 import BeautifulSoup
 import re
-import urllib.parse
-import requests
+from curl_cffi import requests
 
 def parse_plugins():
     parsed_plugins = []
+    url = "https://vsthouse.ru/"
     
-    # Сразу используем прокси-сервис для обхода ограничений GitHub-серверов
-    target_url = "https://vsthouse.ru/"
-    proxy_url = f"https://api.allorigins.win/get?url={urllib.parse.quote(target_url)}"
-    
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-    }
-    
+    print(f"Запрос к сайту напрямую с эмуляцией браузера Chrome...")
     try:
-        print(f"Запрос к сайту через прокси-шлюз...")
-        response = requests.get(proxy_url, headers=headers, timeout=20)
-        print(f"Статус ответа шлюза: {response.status_code}")
+        # Имитируем чистый Chrome 120 на Windows, обходя проверку TLS-отпечатков Cloudflare
+        response = requests.get(
+            url, 
+            impersonate="chrome120", 
+            timeout=20,
+            headers={
+                "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Referer": "https://vsthouse.ru/"
+            }
+        )
         
-        if response.status_code == 200:
-            # Вытаскиваем реальный HTML из ответа прокси
-            html_content = response.json().get('contents', '')
-            print(f"Размер полученного HTML: {len(html_content)} символов")
-        else:
-            print("Не удалось получить данные через основной шлюз. Пробуем резервный...")
-            # Резервный прокси-шлюз на случай сбоя первого
-            backup_url = f"https://api.codetabs.com/v1/proxy?quest={urllib.parse.quote(target_url)}"
-            response = requests.get(backup_url, headers=headers, timeout=20)
-            html_content = response.text
-            print(f"Статус резервного шлюза: {response.status_code}")
-
+        print(f"Статус ответа сайта: {response.status_code}")
+        html_content = response.text
+        
         soup = BeautifulSoup(html_content, 'html.parser')
-        
-        # Находим все ссылки на плагины
         all_links = soup.find_all('a', href=re.compile(r'/plugins/.*\.html'))
         print(f"Всего найденных ссылок на плагины: {len(all_links)}")
         
@@ -98,10 +86,8 @@ def parse_plugins():
 
         print(f"Итого успешно собрано плагинов: {len(parsed_plugins)}")
 
-        # Если прокси сработал и плагины найдены — записываем их. 
-        # Если вдруг опять пусто — оставляем тест, чтобы ничего не ломалось.
         if not parsed_plugins:
-            print("Парсер вернул 0. Оставляем тестовую запись.")
+            print("Парсер вернул 0. Сохраняем тест, чтобы не ломать структуру.")
             parsed_plugins = [{
                 "id": "vst_test",
                 "name": "Serum (Тест связи)",
@@ -114,7 +100,7 @@ def parse_plugins():
 
         with open("plugins.json", "w", encoding="utf-8") as f:
             json.dump(parsed_plugins, f, ensure_ascii=False, indent=4)
-        print("Запись в файл plugins.json выполнена успешно.")
+        print("Запись в файл plugins.json выполнена.")
 
     except Exception as e:
         print(f"Произошла ошибка при парсинге: {e}")
