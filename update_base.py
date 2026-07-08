@@ -31,8 +31,7 @@ def parse_plugins():
     html_content = ""
     success = False
     
-    # Пробуем найти рабочий прокси, который сможет пробить сайт
-    for i, proxy in enumerate(proxy_list[:30]):  # Проверяем топ-30 свежих прокси
+    for i, proxy in enumerate(proxy_list[:30]):
         print(f"Попытка [{i+1}/30] через прокси: {proxy}")
         try:
             proxy_dict = {
@@ -40,7 +39,6 @@ def parse_plugins():
                 "https://vsthouse.ru/": f"http://{proxy}"
             }
             
-            # Делаем скрытый запрос через прокси
             response = curl_requests.get(
                 url, 
                 impersonate="chrome120", 
@@ -52,24 +50,18 @@ def parse_plugins():
                 }
             )
             
-            if response.status_code == 200 and len(response.text) > 10000:
-                # Проверяем, что в коде страницы есть хоть какое-то упоминание плагинов, а не пустая заглушка
-                if "plugins" in response.text.lower() or "vst" in response.text.lower():
-                    html_content = response.text
-                    print(f"Успех! Прокси {proxy} вернул полную страницу ({len(html_content)} симв.)")
-                    success = True
-                    break
-                else:
-                    print("Сайт вернул пустую заглушку. Ищем следующий прокси...")
+            if response.status_code == 200 and len(response.text) > 15000:
+                html_content = response.text
+                print(f"Успех! Страница получена ({len(html_content)} симв.)")
+                success = True
+                break
             else:
-                print(f"Статус ответа: {response.status_code}, слишком маленький размер.")
-        except Exception as e:
-            print(f"Прокси не ответил.")
+                print(f"Статус: {response.status_code}, размер маловат.")
+        except Exception:
             continue
 
     if not success:
-        print("Ни один прокси из списка не смог вытянуть оригинальный контент сайта.")
-        # Загружаем старую страницу напрямую, чтобы хоть как-то отработать (вернет тест)
+        print("Не удалось пробить сайт через прокси. Пробуем напрямую...")
         try:
             res = curl_requests.get(url, impersonate="chrome120", timeout=10)
             html_content = res.text
@@ -77,18 +69,27 @@ def parse_plugins():
             pass
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    all_links = soup.find_all('a', href=re.compile(r'/plugins/.*\.html'))
-    print(f"Всего найденных ссылок на плагины: {len(all_links)}")
+    
+    # Ищем вообще ВСЕ ссылки на плагины (более гибкий поиск)
+    all_links = soup.find_all('a', href=True)
     
     added_links = set()
     idx = 0
     
     for link in all_links:
         href = link['href']
+        
+        # Фильтруем ссылки: они должны вести на плагины/материалы сайта
+        if not ('/plugins/' in href or '/vst/' in href or href.endswith('.html')):
+            continue
+            
+        if any(x in href for x in ['/loads/', '/reklama/', '/user/', '/rules/']):
+            continue
+            
         if not href.startswith('http'):
             href = "https://vsthouse.ru" + href
             
-        if href in added_links:
+        if href in added_links or href == "https://vsthouse.ru/plugins/" or href == "https://vsthouse.ru/":
             continue
             
         title = link.get_text(strip=True)
@@ -97,13 +98,13 @@ def parse_plugins():
         if img_elem and not title:
             title = img_elem.get('alt', '').strip()
             
-        parent = link.find_parent(['div', 'article', 'td', 'li'])
+        parent = link.find_parent(['div', 'article', 'td', 'li', 'h2', 'h3'])
         if parent and (not title or len(title) < 5 or any(x in title.lower() for x in ["подробнее", "скачать", "коммент"])):
             h_elem = parent.find(['h2', 'h1', 'h3', 'h4', 'a'])
             if h_elem and h_elem != link:
                 title = h_elem.get_text(strip=True)
         
-        if not title or len(title) < 4 or any(x in title.lower() for x in ["комментарии", "подробнее", "категория", "читать", "скачать", "просмотров", "главная"]):
+        if not title or len(title) < 5 or any(x in title.lower() for x in ["комментарии", "подробнее", "категория", "читать", "скачать", "просмотров", "главная", "контакты"]):
             continue
             
         img_url = ""
@@ -131,7 +132,7 @@ def parse_plugins():
             "full_name": title,
             "version": "VST / VST3 / AAX",
             "link": href,
-            "img_url": img_url,
+            "img_url": img_url if img_url else "https://vsthouse.ru/templates/vsthouse/images/logo.png",
             "desc": desc[:197] + "..." if len(desc) > 200 else desc
         })
         added_links.add(href)
