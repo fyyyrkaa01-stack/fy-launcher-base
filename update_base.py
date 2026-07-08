@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import re
 import requests
 from curl_cffi import requests as curl_requests
+import time
+import random
 
 def get_free_proxies():
     print("Получаем свежий список прокси...")
@@ -19,10 +21,14 @@ def get_free_proxies():
                 proxies.extend(extracted)
         except Exception:
             continue
-    return list(set(proxies))
+    # Перемешиваем список, чтобы при каждом запуске пробовать разные адреса
+    proxies = list(set(proxies))
+    random.shuffle(proxies)
+    return proxies
 
-def make_request_via_proxy(url, proxy_list):
-    for i, proxy in enumerate(proxy_list[:25]):
+def make_request_via_proxy(url, proxy_list, start_idx=0):
+    # Проверяем до 30 прокси, начиная со смещения, чтобы не долбить одни и те же
+    for i, proxy in enumerate(proxy_list[start_idx:start_idx+30]):
         try:
             proxy_dict = {
                 "http": f"http://{proxy}",
@@ -32,17 +38,18 @@ def make_request_via_proxy(url, proxy_list):
                 url, 
                 impersonate="chrome120", 
                 proxies=proxy_dict,
-                timeout=10,
+                timeout=12,
                 headers={
                     "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8",
                     "Referer": "https://vsthouse.ru/"
                 }
             )
             if response.status_code == 200 and len(response.text) > 15000:
-                return response.text
+                print(f" Успешный ответ через прокси: {proxy}")
+                return response.text, start_idx + i + 1
         except Exception:
             continue
-    return ""
+    return "", start_idx
 
 def parse_plugins():
     parsed_plugins = []
@@ -51,8 +58,8 @@ def parse_plugins():
     
     added_links = set()
     idx = 0
+    proxy_cursor = 0  # Запоминаем индекс рабочего прокси
     
-    # Настраиваем количество страниц для сбора (собираем первые 5 страниц)
     pages_to_parse = 5
     
     for page in range(1, pages_to_parse + 1):
@@ -60,13 +67,23 @@ def parse_plugins():
             current_url = "https://vsthouse.ru/"
         else:
             current_url = f"https://vsthouse.ru/page/{page}/"
+            # Небольшая пауза перед следующей страницей, чтобы не злить защиту
+            sleep_time = random.uniform(2.0, 4.5)
+            print(f"Пауза {sleep_time:.1f} сек перед запросом...")
+            time.sleep(sleep_time)
             
         print(f"\n--- Парсим страницу {page} из {pages_to_parse}: {current_url} ---")
-        html_content = make_request_via_proxy(current_url, proxy_list)
+        
+        # Передаем cursor, чтобы для новой страницы подбор шел дальше по списку
+        html_content, proxy_cursor = make_request_via_proxy(current_url, proxy_list, proxy_cursor)
         
         if not html_content:
-            print(f"Не удалось получить контент страницы {page}.")
-            continue
+            print(f"Не удалось получить контент страницы {page}. Пробуем сбросить курсор прокси...")
+            # Если ушли далеко и ничего не нашли, пробуем еще раз с начала списка
+            html_content, proxy_cursor = make_request_via_proxy(current_url, proxy_list, 0)
+            if not html_content:
+                print(f"Страница {page} пропущена.")
+                continue
             
         soup = BeautifulSoup(html_content, 'html.parser')
         all_links = soup.find_all('a', href=True)
