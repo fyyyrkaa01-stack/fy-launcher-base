@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "vst_test",
+        "name": "Serum (Тест связи)",
+        "full_name": "Xfer Records - Serum v1.35b1 VST",
+        "version": "VST / VST3 / AAX",
+        "link": "https://vsthouse.ru/",
+        "img_url": "https://vsthouse.ru/templates/vsthouse/images/logo.png",
+        "desc": "База данных успешно подключена к лаунчеру! Если вы видите эту карточку, значит лаунчер работает с GitHub правильно."
+    }
+]
