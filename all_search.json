@@ -1,5 +1,17 @@
 [
     {
+        "id": "test_2",
+        "name": "TEST 2",
+        "full_name": "test 2",
+        "version": "vst3",
+        "desc": "тестовая карточка чтобы затестить загрузку плагинов",
+        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/Aberrant_DSP_-_Lair_v1_0_0_WIN_MAC_VST3_AAX_AU_x64_31_05_2024__rutracker-6534850_torrent.torrent",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/ChatGPT Image 4 июл. 2026 г., 01_11_59.png",
+        "tags": [
+            "reverb"
+        ]
+    },
+    {
         "id": "serum_vst",
         "name": "Xfer Serum",
         "full_name": "Xfer Serum v1.35b1",
