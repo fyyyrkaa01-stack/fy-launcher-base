@@ -1,0 +1,38 @@
+[
+    {
+        "id": "xfer_serum",
+        "name": "Serum",
+        "full_name": "Xfer Serum v1.35b1",
+        "version": "VST3 | x64",
+        "desc": "Продвинутый таблично-волновой синтезатор с невероятным качеством звука, гибким движком и возможностью визуального создания собственных волновых таблиц.",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
+        "link": "https://vsthouse.ru/load/vst_instrumenty/sintezatory/xfer_records_serum/9-1-0-1234"
+    },
+    {
+        "id": "refx_nexus_4",
+        "name": "Nexus 4",
+        "full_name": "reFX Nexus v4.5.13",
+        "version": "VST3 | AAX | x64",
+        "desc": "Легендарный ромлер с огромной библиотекой готовых превосходных звуков для электронной музыки, поп-треков и хип-хопа. Включает продвинутый арпеджиатор и эффекты.",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/nexus4.png",
+        "link": "https://vsthouse.ru/load/vst_instrumenty/romlery/refx_nexus_4/12-1-0-5678"
+    },
+    {
+        "id": "fabfilter_saturn_2",
+        "name": "Saturn 2",
+        "full_name": "FabFilter Saturn 2 v2.05",
+        "version": "VST | VST3 | x64",
+        "desc": "Высококачественный многополосный сатуратор и дисторшн. Отлично подходит как для тонкого аналогового тепла, так и для жесткого разрушения звука.",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/saturn2.png",
+        "link": "https://vsthouse.ru/load/vst_ehffekty/saturation/fabfilter_saturn_2/15-1-0-9999"
+    },
+    {
+        "id": "valhalla_vintage_verb",
+        "name": "VintageVerb",
+        "full_name": "Valhalla DSP VintageVerb v4.0.0",
+        "version": "VST3 | x64",
+        "desc": "Один из лучших ревербераторов в индустрии. Моделирует классическое аналоговое и цифровое пространство из 70-х и 80-х годов. Идеален для вокала и синтов.",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/vintageverb.png",
+        "link": "https://vsthouse.ru/load/vst_ehffekty/reverb/valhalla_vintage_verb/15-1-0-8888"
+    }
+]
