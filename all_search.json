@@ -1,21 +1,11 @@
 [
     {
-        "id": "xfer_serum",
-        "name": "Serum",
+        "id": "serum_vst",
         "full_name": "Xfer Serum v1.35b1",
         "version": "VST3 | x64",
-        "desc": "Продвинутый таблично-волновой синтезатор с невероятным качеством звука, гибким движком и возможностью визуального создания собственных волновых таблиц.",
-        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
-        "link": "https://vsthouse.ru/load/vst_instrumenty/sintezatory/xfer_records_serum/9-1-0-1234"
-    },
-    {
-        "id": "refx_nexus_4",
-        "name": "Nexus 4",
-        "full_name": "reFX Nexus v4.5.13",
-        "version": "VST3 | AAX | x64",
-        "desc": "Легендарный ромлер с огромной библиотекой готовых превосходных звуков для электронной музыки, поп-треков и хип-хопа. Включает продвинутый арпеджиатор и эффекты.",
-        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/nexus4.png",
-        "link": "https://vsthouse.ru/load/vst_instrumenty/romlery/refx_nexus_4/12-1-0-5678"
+        "desc": "Продвинутый таблично-волновой синтезатор. Добавлен вручную в базу FY LAUNCHER.",
+        "link": "https://твоя-ссылка-на-скачивание.com",
+        "img_url": ""
     },
     {
         "id": "vst_4",
