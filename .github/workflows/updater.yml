@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add plugins.json
+          git add synths.json effects.json all_search.json
           # Проверяем изменения, чтобы скрипт не падал, если база не обновилась
           git diff --quiet && git diff --staged --quiet || (git commit -m "Авто-обновление базы плагинов [skip ci]" && git push)
