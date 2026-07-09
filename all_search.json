@@ -1,5 +1,15 @@
 [
     {
+        "id": "test__gemini",
+        "name": "RUTRAC",
+        "full_name": "ага 12",
+        "version": "VST3",
+        "desc": "фу фу фу плагины музыканты пидоры",
+        "link": "C:/Users/fyyyr/Downloads/baby-audio-magic-switch-pc-v1-0-1.torrent",
+        "img_url": "",
+        "tags": []
+    },
+    {
         "id": "serum_vst",
         "name": "Xfer Serum",
         "full_name": "Xfer Serum v1.35b1",
