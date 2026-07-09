@@ -26,30 +26,41 @@ def get_free_proxies():
     return proxies
 
 def parse_plugins():
-    # 1. Загружаем уже существующую базу, чтобы не потерять старые плагины
-    existing_plugins = []
-    if os.path.exists("plugins.json"):
+    # 1. Загружаем существующие базы из synths.json и effects.json, чтобы ничего не потерять
+    existing_synths = []
+    existing_effects = []
+    
+    if os.path.exists("synths.json"):
         try:
-            with open("plugins.json", "r", encoding="utf-8") as f:
-                existing_plugins = json.load(f)
-                # Если там тестовая карточка, очищаем
-                if len(existing_plugins) == 1 and existing_plugins[0].get("id") == "vst_test":
-                    existing_plugins = []
-            print(f"Загружено существующих плагинов из базы: {len(existing_plugins)}")
+            with open("synths.json", "r", encoding="utf-8") as f:
+                existing_synths = json.load(f)
         except Exception:
-            print("Не удалось прочитать plugins.json, создаем новую базу.")
+            print("Не удалось прочитать synths.json, создаем пустой список.")
 
-    # Создаем пул существующих ссылок, чтобы не плодить дубликаты
-    existing_links = {p["link"] for p in existing_plugins if "link" in p}
+    if os.path.exists("effects.json"):
+        try:
+            with open("effects.json", "r", encoding="utf-8") as f:
+                existing_effects = json.load(f)
+        except Exception:
+            print("Не удалось прочитать effects.json, создаем пустой список.")
 
-    parsed_plugins = []
+    # Объединяем старые пулы ссылок, чтобы не плодить дубликаты
+    existing_links = set()
+    for p in existing_synths + existing_effects:
+        if "link" in p:
+            existing_links.add(p["link"])
+
+    print(f"Загружено из старой базы: {len(existing_synths)} синтов и {len(existing_effects)} эффектов.")
+
+    new_synths = []
+    new_effects = []
+    
     url = "https://vsthouse.ru/"
     proxy_list = get_free_proxies()
     
     html_content = ""
     success = False
     
-    # Парсим ТОЛЬКО главную страницу (она стабильна)
     print("\n--- Стучимся на главную страницу vsthouse.ru ---")
     for i, proxy in enumerate(proxy_list[:30]):
         try:
@@ -82,21 +93,20 @@ def parse_plugins():
     soup = BeautifulSoup(html_content, 'html.parser')
     all_links = soup.find_all('a', href=True)
     
-    new_count = 0
-    # Начинаем индекс ID с конца существующей базы
-    idx = len(existing_plugins)
+    # Считаем общий индекс для генерации ID новых карточек
+    total_existing_count = len(existing_synths) + len(existing_effects)
+    idx = total_existing_count
     
     for link in all_links:
         href = link['href']
         
-        if not ('/plugins/' in href or '/vst/' in href or href.endswith('.html')):
+        if not ('/plugins/' in href or '/vst/' in href or '/load/' in href or href.endswith('.html')):
             continue
         if any(x in href for x in ['/loads/', '/reklama/', '/user/', '/rules/']):
             continue
         if not href.startswith('http'):
             href = "https://vsthouse.ru" + href
             
-        # ПРОПУСКАЕМ, если этот плагин уже есть в нашей накопленной базе
         if href in existing_links or href in ["https://vsthouse.ru/plugins/", "https://vsthouse.ru/"]:
             continue
             
@@ -134,7 +144,7 @@ def parse_plugins():
                     desc = p_text
                     break
 
-        parsed_plugins.append({
+        plugin_data = {
             "id": f"vst_{idx}",
             "name": title[:30] + "..." if len(title) > 30 else title,
             "full_name": title,
@@ -142,18 +152,39 @@ def parse_plugins():
             "link": href,
             "img_url": img_url if img_url else "https://vsthouse.ru/templates/vsthouse/images/logo.png",
             "desc": desc[:197] + "..." if len(desc) > 200 else desc
-        })
+        }
+
+        # СОРТИРОВКА: определяем, синт это или эффект по элементам ссылки
+        href_lower = href.lower()
+        if "sintezatory" in href_lower or "romlery" in href_lower or "synths" in href_lower or "vst_instrumenty" in href_lower:
+            new_synths.append(plugin_data)
+        else:
+            # Все остальное (эквалайзеры, реверы, дилеи, сатураторы) распределяем в эффекты
+            new_effects.append(plugin_data)
+
         existing_links.add(href)
         idx += 1
-        new_count += 1
 
-    # Соединяем старые плагины с только что найденными новинками
-    final_base = existing_plugins + parsed_plugins
-    print(f"Найдено свежих новинок: {new_count}. Итого в базе теперь: {len(final_base)}")
+    # ВАЖНО: Новые плагины соединяем ТАК, чтобы новинки были в самом начале списка (сверху страницы)
+    final_synths = new_synths + existing_synths
+    final_effects = new_effects + existing_effects
+    final_search = final_synths + final_effects
 
-    with open("plugins.json", "w", encoding="utf-8") as f:
-        json.dump(final_base, f, ensure_ascii=False, indent=4)
-    print("Запись в файл plugins.json выполнена успешно.")
+    print(f"\n--- Итоги парсинга ---")
+    print(f"Добавлено новых синтов: {len(new_synths)} (Всего стало: {len(final_synths)})")
+    print(f"Добавлено новых эффектов: {len(new_effects)} (Всего стало: {len(final_effects)})")
+
+    # Перезаписываем обновленные файлы структуры
+    with open("synths.json", "w", encoding="utf-8") as f:
+        json.dump(final_synths, f, ensure_ascii=False, indent=4)
+
+    with open("effects.json", "w", encoding="utf-8") as f:
+        json.dump(final_effects, f, ensure_ascii=False, indent=4)
+
+    with open("all_search.json", "w", encoding="utf-8") as f:
+        json.dump(final_search, f, ensure_ascii=False, indent=4)
+
+    print("Все три файла (synths.json, effects.json, all_search.json) успешно обновлены!")
 
 if __name__ == "__main__":
     parse_plugins()
