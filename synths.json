@@ -1,5 +1,15 @@
 [
     {
+        "id": "fa",
+        "name": "fa",
+        "full_name": "fafafvs",
+        "version": "vst",
+        "desc": "afafwfafwfawff",
+        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/Elementary_Sounds_-_WREMENA_COLLECTION_1_2_0_VSTi3_x64_WIN-macOS__20_12_2023__rutracker-6464247_torrent.torrent",
+        "img_url": "",
+        "tags": []
+    },
+    {
         "id": "serum_vst",
         "name": "Xfer Serum",
         "full_name": "Xfer Serum v1.35b1",
