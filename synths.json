@@ -2,10 +2,13 @@
     {
         "id": "serum_vst",
         "name": "Xfer Serum",
-        "full_name": "Xfer Serum v1.35b1",
+        "full_name": "Xfer Records - Serum 2 v2.0.20",
         "version": "VST3 | x64",
-        "desc": "Продвинутый таблично-волновой синтезатор. Добавлен вручную.",
-        "link": "https://твоя-ссылка-на-скачивание.com/serum.torrent",
-        "img_url": ""
+        "desc": "SERUM 2 - усовершенствованный гибридный синтезатор.",
+        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
+        "tags": [
+            "сентизатор"
+        ]
     }
 ]
