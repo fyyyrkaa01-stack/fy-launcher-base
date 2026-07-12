@@ -1,15 +1,5 @@
 [
     {
-        "id": "vst_4719c0",
-        "name": "тестовый",
-        "full_name": "ага тест",
-        "version": "VST",
-        "desc": "афафацац",
-        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/40824_GForce-Prophet_.torrent",
-        "img_url": "",
-        "tags": []
-    },
-    {
         "id": "serum_vst",
         "name": "Xfer Serum",
         "full_name": "Xfer Serum v1.35b1",
