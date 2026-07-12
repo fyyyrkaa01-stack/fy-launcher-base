@@ -1,5 +1,20 @@
 [
     {
+        "id": "vst_740cb1",
+        "name": "ТЕСТ",
+        "full_name": "ТЕСТ",
+        "version": "VST",
+        "desc": "ТЕСТ ТУТ ПЛАГИНЫ ПИШЕШЬ",
+        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/baby-audio-magic-switch-pc-v1-0-1.torrent",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/fl.png",
+        "tags": [
+            "reverb",
+            "eq",
+            "delay",
+            "compressor"
+        ]
+    },
+    {
         "id": "serum_vst",
         "name": "Xfer Serum",
         "full_name": "Xfer Records - Serum 2 v2.0.20",
