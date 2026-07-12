@@ -2,10 +2,13 @@
     {
         "id": "valhalla_vintage",
         "name": "Valhalla VintageVerb",
-        "full_name": "Valhalla DSP VintageVerb v4.0.0",
+        "full_name": "Valhalla DSP VintageVerb v4.0.5",
         "version": "VST3 | x64",
         "desc": "Превосходный ревербератор для создания объемного пространства.",
-        "link": "https://твоя-ссылка-на-скачивание.com/vintageverb.torrent",
-        "img_url": ""
+        "link": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
+        "img_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/Valhalla VintageVerb.png",
+        "tags": [
+            "reverb"
+        ]
     }
 ]
