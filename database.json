@@ -1,6 +1,19 @@
 {
   "daws": [],
-  "drumkits": [],
+  "drumkits": [
+    {
+      "id": "fafaf",
+      "title": "fafaf",
+      "full_title": "fafafwf",
+      "arch": "fawfa",
+      "tags": [
+        "Free"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/fafaf_cover.jpg",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/fafaf.torrent",
+      "description": "fawfa"
+    }
+  ],
   "effects": [
     {
       "arch": "VST3 | x64",
@@ -43,18 +56,6 @@
       ],
       "title": "лропи",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent"
-    },
-    {
-      "id": "test",
-      "title": "ТЕСТ",
-      "full_title": "АФ",
-      "arch": "VST3",
-      "tags": [
-        "Free"
-      ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/test_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/test.torrent",
-      "description": "FAFW"
     }
   ]
 }
