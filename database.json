@@ -20,29 +20,29 @@
   ],
   "synths": [
     {
-      "arch": "VST3 | x64",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
-      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
-      "full_title": "Xfer Records - Serum 2 v2.0.20",
-      "id": "serum_vst",
-      "tags": [
-        "сентизатор"
-      ],
-      "title": "Xfer Serum",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent"
-    },
-    {
-      "id": "lropi",
-      "title": "лропи",
-      "full_title": "нпашол",
       "arch": "vst",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi_cover.png",
+      "description": "guky",
+      "full_title": "нпашол",
+      "id": "lropi",
       "tags": [
         "VST3",
         "AU"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent",
-      "description": "guky"
+      "title": "лропи",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent"
+    },
+    {
+      "id": "serum_vst",
+      "title": "Xfer Serum",
+      "full_title": "Xfer Records - Serum 2 v2.0.20",
+      "arch": "VST3 | x64",
+      "tags": [
+        "Синтезатор"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
+      "description": "SERUM 2 - усовершенствованный гибридный синтезатор."
     }
   ]
 }
