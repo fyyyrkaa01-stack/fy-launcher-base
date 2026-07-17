@@ -32,17 +32,29 @@
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent"
     },
     {
-      "id": "lropi",
-      "title": "лропи",
-      "full_title": "нпашол",
       "arch": "vst",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi_cover.png",
+      "description": "guky",
+      "full_title": "нпашол",
+      "id": "lropi",
       "tags": [
         "VST3",
         "AU"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent",
-      "description": "guky"
+      "title": "лропи",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent"
+    },
+    {
+      "id": "test",
+      "title": "ТЕСТ",
+      "full_title": "АФ",
+      "arch": "VST3",
+      "tags": [
+        "Free"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/test_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/test.torrent",
+      "description": "FAFW"
     }
   ]
 }
