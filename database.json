@@ -15,7 +15,9 @@
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent"
     }
   ],
-  "featured": [],
+  "featured": [
+    "synths:lropi"
+  ],
   "synths": [
     {
       "arch": "VST3 | x64",
