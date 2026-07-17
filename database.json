@@ -1,29 +1,48 @@
 {
-  "featured": [],
-  "synths": [
-    {
-      "id": "serum_vst",
-      "title": "Xfer Serum",
-      "full_title": "Xfer Records - Serum 2 v2.0.20",
-      "arch": "VST3 | x64",
-      "tags": ["сентизатор"],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
-      "description": "SERUM 2 - усовершенствованный гибридный синтезатор."
-    }
-  ],
+  "daws": [],
+  "drumkits": [],
   "effects": [
     {
-      "id": "valhalla_vintage",
-      "title": "Valhalla VintageVerb",
-      "full_title": "Valhalla DSP VintageVerb v4.0.5",
       "arch": "VST3 | x64",
-      "tags": ["reverb"],
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/Valhalla VintageVerb.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
-      "description": "Превосходный ревербератор для создания объемного пространства."
+      "description": "Превосходный ревербератор для создания объемного пространства.",
+      "full_title": "Valhalla DSP VintageVerb v4.0.5",
+      "id": "valhalla_vintage",
+      "tags": [
+        "reverb"
+      ],
+      "title": "Valhalla VintageVerb",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent"
     }
   ],
-  "drumkits": [],
-  "daws": []
+  "featured": [
+    "synths:lropi"
+  ],
+  "synths": [
+    {
+      "arch": "VST3 | x64",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/covers/serum.png",
+      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
+      "full_title": "Xfer Records - Serum 2 v2.0.20",
+      "id": "serum_vst",
+      "tags": [
+        "сентизатор"
+      ],
+      "title": "Xfer Serum",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent"
+    },
+    {
+      "id": "lropi",
+      "title": "лропи",
+      "full_title": "нпашол",
+      "arch": "vst",
+      "tags": [
+        "VST3",
+        "AU"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/lropi.torrent",
+      "description": "guky"
+    }
+  ]
 }
