@@ -3,21 +3,34 @@
   "drumkits": [],
   "effects": [
     {
-      "id": "valhalla_vintage",
-      "title": "Valhalla VintageVerb",
-      "full_title": "Valhalla DSP VintageVerb v4.0.5",
       "arch": "VST3 | x64",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/valhalla_vintage_cover.png",
+      "description": "Превосходный ревербератор для создания объемного пространства.",
+      "full_title": "Valhalla DSP VintageVerb v4.0.5",
+      "id": "valhalla_vintage",
       "tags": [
         "reverb"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/valhalla_vintage_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
-      "description": "Превосходный ревербератор для создания объемного пространства."
+      "title": "Valhalla VintageVerb",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent"
+    },
+    {
+      "id": "kiive_paradox",
+      "title": "Kiive Paradox",
+      "full_title": "Kiive Paradox FX Series Duo Bundle v1.0.0",
+      "arch": "VST3",
+      "tags": [
+        "Effect"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/kiive_paradox_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/kiive_paradox.torrent",
+      "description": "абор из двух эффектов серии Paradox для Windows, рассчитанный на работу с модуляцией, движением и пространством в миксе. В комплект входят Paradox | VC Rotary и Paradox | Chorus — плагины, которые можно использовать как в сведении, так и на этапе написания музыки, когда нужно быстро добавить партии живости, ширины и выразительного движения."
     }
   ],
   "featured": [
     "synths:serum_vst",
-    "effects:valhalla_vintage"
+    "effects:valhalla_vintage",
+    "effects:kiive_paradox"
   ],
   "news": [],
   "synths": [
