@@ -1,19 +1,6 @@
 {
   "daws": [],
-  "drumkits": [
-    {
-      "arch": "fawfa",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/fafaf_cover.jpg",
-      "description": "fawfa",
-      "full_title": "fafafwf",
-      "id": "fafaf",
-      "tags": [
-        "Free"
-      ],
-      "title": "fafaf",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/fafaf.torrent"
-    }
-  ],
+  "drumkits": [],
   "effects": [
     {
       "arch": "VST3 | x64",
