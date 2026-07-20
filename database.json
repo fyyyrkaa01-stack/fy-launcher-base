@@ -70,9 +70,9 @@
     }
   ],
   "featured": [
-    "effects:valhalla_vintage",
     "synths:serum_vst",
-    "daws:fl_studio"
+    "daws:fl_studio",
+    "daws:ableton_live"
   ],
   "news": [],
   "synths": [
