@@ -13,18 +13,32 @@
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/ableton_live.torrent"
     },
     {
-      "id": "fl_studio",
-      "title": "FL Studio",
-      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 (All Plugins Edition)",
       "arch": "DAW",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/fl_studio_cover.png",
+      "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
+      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 (All Plugins Edition)",
+      "id": "fl_studio",
+      "screenshots": [],
       "tags": [
         "DAW"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/fl_studio_cover.png",
+      "title": "FL Studio",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/fl_studio.torrent",
-      "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
-      "screenshots": [],
       "video_url": "https://www.youtube.com/watch?v=u0yQI4CkvVE"
+    },
+    {
+      "id": "serum_vst",
+      "title": "Xfer Serum",
+      "full_title": "Xfer Records - Serum 2 v2.0.20",
+      "arch": "VST3 | x64",
+      "tags": [
+        "Синтезатор"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
+      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
+      "screenshots": [],
+      "video_url": ""
     }
   ],
   "drumkits": [],
@@ -55,23 +69,10 @@
     }
   ],
   "featured": [
-    "synths:serum_vst",
     "effects:valhalla_vintage",
-    "effects:kiive_paradox"
+    "effects:kiive_paradox",
+    "daws:serum_vst"
   ],
   "news": [],
-  "synths": [
-    {
-      "arch": "VST3 | x64",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/serum_vst_cover.png",
-      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
-      "full_title": "Xfer Records - Serum 2 v2.0.20",
-      "id": "serum_vst",
-      "tags": [
-        "Синтезатор"
-      ],
-      "title": "Xfer Serum",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent"
-    }
-  ]
+  "synths": []
 }
