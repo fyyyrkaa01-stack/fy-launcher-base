@@ -2,10 +2,34 @@
   "daws": [
     {
       "arch": "DAW",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/fl_studio_cover.png",
-      "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
-      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 (All Plugins Edition)",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/ableton_live_cover.png",
+      "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе.",
+      "full_title": "Ableton - Live 12 Suite v12.4.3 x64",
+      "id": "ableton_live",
+      "screenshots": [
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_1.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_2.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_3.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_4.png"
+      ],
+      "tags": [
+        "DAW"
+      ],
+      "title": "Ableton Live",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/ableton_live.torrent",
+      "video_url": "https://www.youtube.com/watch?v=xBk_GVgfm1Y"
+    },
+    {
       "id": "fl_studio",
+      "title": "FL Studio",
+      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 (All Plugins Edition)",
+      "arch": "DAW",
+      "tags": [
+        "DAW"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/fl_studio_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/fl_studio.torrent",
+      "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
       "screenshots": [
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_1.png",
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_2.png",
@@ -13,31 +37,7 @@
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_4.png",
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_5.png"
       ],
-      "tags": [
-        "DAW"
-      ],
-      "title": "FL Studio",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/fl_studio.torrent",
       "video_url": "https://www.youtube.com/watch?v=SOuwuKzgiko"
-    },
-    {
-      "id": "ableton_live",
-      "title": "Ableton Live",
-      "full_title": "Ableton - Live 12 Suite v12.4.3 x64",
-      "arch": "DAW",
-      "tags": [
-        "DAW"
-      ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/ableton_live_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/ableton_live.torrent",
-      "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_1.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_2.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_3.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_4.png"
-      ],
-      "video_url": "https://www.youtube.com/watch?v=xBk_GVgfm1Y"
     }
   ],
   "drumkits": [],
@@ -71,7 +71,6 @@
   ],
   "featured": [
     "synths:serum_vst",
-    "daws:fl_studio",
     "daws:ableton_live"
   ],
   "news": [],
