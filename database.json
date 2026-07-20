@@ -63,9 +63,9 @@
     }
   ],
   "featured": [
-    "effects:kiive_paradox",
     "effects:valhalla_vintage",
-    "synths:serum_vst"
+    "synths:serum_vst",
+    "daws:fl_studio"
   ],
   "news": [],
   "synths": [
