@@ -25,9 +25,12 @@
       "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
       "screenshots": [
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_1.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_2.jpg"
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_2.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_3.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_4.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/fl_studio_screen_5.png"
       ],
-      "video_url": "https://www.youtube.com/watch?v=u0yQI4CkvVE"
+      "video_url": "https://www.youtube.com/watch?v=SOuwuKzgiko"
     }
   ],
   "drumkits": [],
