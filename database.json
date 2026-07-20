@@ -57,39 +57,41 @@
       "video_url": ""
     },
     {
-      "id": "kiive_paradox",
-      "title": "Kiive Paradox",
-      "full_title": "Kiive Paradox FX Series Duo Bundle v1.0.0",
       "arch": "VST3",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/kiive_paradox_cover.png",
+      "description": "абор из двух эффектов серии Paradox для Windows, рассчитанный на работу с модуляцией, движением и пространством в миксе. В комплект входят Paradox | VC Rotary и Paradox | Chorus — плагины, которые можно использовать как в сведении, так и на этапе написания музыки, когда нужно быстро добавить партии живости, ширины и выразительного движения.",
+      "full_title": "Kiive Paradox FX Series Duo Bundle v1.0.0",
+      "id": "kiive_paradox",
+      "screenshots": [],
       "tags": [
         "Effect"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/kiive_paradox_cover.png",
+      "title": "Kiive Paradox",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/kiive_paradox.torrent",
-      "description": "абор из двух эффектов серии Paradox для Windows, рассчитанный на работу с модуляцией, движением и пространством в миксе. В комплект входят Paradox | VC Rotary и Paradox | Chorus — плагины, которые можно использовать как в сведении, так и на этапе написания музыки, когда нужно быстро добавить партии живости, ширины и выразительного движения.",
-      "screenshots": [],
       "video_url": ""
     }
   ],
   "featured": [
-    "synths:serum_vst",
     "daws:ableton_live",
-    "effects:kiive_paradox"
+    "effects:kiive_paradox",
+    "synths:serum_vst"
   ],
   "news": [],
   "synths": [
     {
-      "arch": "VST3 | x64",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_cover.png",
-      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
-      "full_title": "Xfer Records - Serum 2 v2.0.20",
       "id": "serum_vst",
-      "screenshots": [],
+      "title": "Xfer Serum",
+      "full_title": "Xfer Records - Serum 2 v2.0.20",
+      "arch": "VST3 | x64",
       "tags": [
         "Синтезатор"
       ],
-      "title": "Xfer Serum",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_cover.png",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
+      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_screen_1.png"
+      ],
       "video_url": ""
     }
   ]
