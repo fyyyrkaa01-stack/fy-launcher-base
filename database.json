@@ -40,7 +40,24 @@
       "video_url": "https://www.youtube.com/watch?v=SOuwuKzgiko"
     }
   ],
-  "drumkits": [
+  "drumkits": [],
+  "effects": [
+    {
+      "arch": "VST3 | x64",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_cover.png",
+      "description": "Превосходный ревербератор для создания объемного пространства.",
+      "full_title": "Valhalla DSP VintageVerb v4.0.5",
+      "id": "valhalla_vintage",
+      "screenshots": [
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_screen_1.png"
+      ],
+      "tags": [
+        "reverb"
+      ],
+      "title": "Valhalla VintageVerb",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
+      "video_url": ""
+    },
     {
       "id": "kiive_paradox",
       "title": "Kiive Paradox",
@@ -59,28 +76,10 @@
       "video_url": ""
     }
   ],
-  "effects": [
-    {
-      "arch": "VST3 | x64",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_cover.png",
-      "description": "Превосходный ревербератор для создания объемного пространства.",
-      "full_title": "Valhalla DSP VintageVerb v4.0.5",
-      "id": "valhalla_vintage",
-      "screenshots": [
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_screen_1.png"
-      ],
-      "tags": [
-        "reverb"
-      ],
-      "title": "Valhalla VintageVerb",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
-      "video_url": ""
-    }
-  ],
   "featured": [
     "daws:ableton_live",
     "synths:serum_vst",
-    "drumkits:kiive_paradox"
+    "effects:kiive_paradox"
   ],
   "news": [],
   "synths": [
