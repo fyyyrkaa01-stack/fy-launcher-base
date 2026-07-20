@@ -3,13 +3,13 @@
     {
       "id": "fl_studio",
       "title": "FL Studio",
-      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 Build 5547 (All Plugins Edition) [13.07.2026]",
+      "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 (All Plugins Edition)",
       "arch": "DAW",
       "tags": [
         "DAW"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/fl_studio_cover.png",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/fl_studio.torrent",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/fl_studio_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/fl_studio.torrent",
       "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов."
     }
   ],
