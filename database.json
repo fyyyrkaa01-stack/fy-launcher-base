@@ -25,20 +25,6 @@
       "title": "FL Studio",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/fl_studio.torrent",
       "video_url": "https://www.youtube.com/watch?v=u0yQI4CkvVE"
-    },
-    {
-      "arch": "VST3 | x64",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_cover.png",
-      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
-      "full_title": "Xfer Records - Serum 2 v2.0.20",
-      "id": "serum_vst",
-      "screenshots": [],
-      "tags": [
-        "Синтезатор"
-      ],
-      "title": "Xfer Serum",
-      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
-      "video_url": ""
     }
   ],
   "drumkits": [],
@@ -56,25 +42,40 @@
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/kiive_paradox.torrent"
     },
     {
-      "id": "valhalla_vintage",
-      "title": "Valhalla VintageVerb",
-      "full_title": "Valhalla DSP VintageVerb v4.0.5",
       "arch": "VST3 | x64",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_cover.png",
+      "description": "Превосходный ревербератор для создания объемного пространства.",
+      "full_title": "Valhalla DSP VintageVerb v4.0.5",
+      "id": "valhalla_vintage",
+      "screenshots": [],
       "tags": [
         "reverb"
       ],
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/valhalla_vintage_cover.png",
+      "title": "Valhalla VintageVerb",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/35525_Valhalla_DSP-Va.torrent",
-      "description": "Превосходный ревербератор для создания объемного пространства.",
-      "screenshots": [],
       "video_url": ""
     }
   ],
   "featured": [
     "effects:kiive_paradox",
-    "daws:serum_vst",
-    "effects:valhalla_vintage"
+    "effects:valhalla_vintage",
+    "synths:serum_vst"
   ],
   "news": [],
-  "synths": []
+  "synths": [
+    {
+      "id": "serum_vst",
+      "title": "Xfer Serum",
+      "full_title": "Xfer Records - Serum 2 v2.0.20",
+      "arch": "VST3 | x64",
+      "tags": [
+        "Синтезатор"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/serum_vst_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
+      "description": "SERUM 2 - усовершенствованный гибридный синтезатор.",
+      "screenshots": [],
+      "video_url": ""
+    }
+  ]
 }
