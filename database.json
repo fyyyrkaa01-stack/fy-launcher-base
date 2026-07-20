@@ -69,10 +69,7 @@
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/kiive_paradox_cover.png",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/kiive_paradox.torrent",
       "description": "Набор из двух эффектов серии Paradox для Windows, рассчитанный на работу с модуляцией, движением и пространством в миксе. В комплект входят Paradox | VC Rotary и Paradox | Chorus — плагины, которые можно использовать как в сведении, так и на этапе написания музыки, когда нужно быстро добавить партии живости, ширины и выразительного движения.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/kiive_paradox_screen_1.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/kiive_paradox_screen_2.png"
-      ],
+      "screenshots": [],
       "video_url": ""
     }
   ],
