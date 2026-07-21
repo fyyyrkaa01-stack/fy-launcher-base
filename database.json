@@ -31,7 +31,14 @@
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Изображения/ableton_live_cover.png",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/Загрузки/ableton_live.torrent",
       "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе.",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_1.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_2.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_3.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_4.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_5.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/Активы/Изображения/ableton_live_screen_6.png"
+      ],
       "video_url": "https://www.youtube.com/watch?v=xBk_GVgfm1Y"
     }
   ],
