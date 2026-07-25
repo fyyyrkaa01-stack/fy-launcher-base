@@ -1,4 +1,6 @@
 {
-  "featured": [],
+  "featured": [
+    "synths:test"
+  ],
   "news": []
 }
