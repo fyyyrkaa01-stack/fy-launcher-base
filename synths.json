@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "test",
+    "title": "тест",
+    "full_title": "тест 1",
+    "arch": "vst",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/test.torrent",
+    "description": "fafsfafsfasa",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_screenshot_1.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_screenshot_2.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_screenshot_3.png"
+    ],
+    "video_url": ""
+  }
+]
