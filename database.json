@@ -90,6 +90,20 @@
       "title": "Xfer Serum",
       "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/torrents/38564_Xfer_Records-Se.torrent",
       "video_url": ""
+    },
+    {
+      "id": "acf",
+      "title": "ацф",
+      "full_title": "афцаф",
+      "arch": "ацфа",
+      "tags": [
+        "DAW"
+      ],
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/acf_cover.png",
+      "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/acf.torrent",
+      "description": "афцацаффцаацф",
+      "screenshots": [],
+      "video_url": ""
     }
   ]
 }
