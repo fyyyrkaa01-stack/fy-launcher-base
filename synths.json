@@ -1,29 +1,29 @@
 [
   {
-    "arch": "VST",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test_cover.png",
-    "description": "GDAA",
-    "full_title": "TEST",
-    "id": "test",
-    "screenshots": [],
-    "tags": [
-      "Trap"
-    ],
-    "title": "TEST",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test.torrent",
-    "video_url": ""
-  },
-  {
-    "id": "fawf",
-    "title": "FAWF",
-    "full_title": "FAW",
     "arch": "FAW",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/fawf_cover.png",
+    "description": "",
+    "full_title": "FAW",
+    "id": "fawf",
+    "screenshots": [],
     "tags": [
       "DAW"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/fawf_cover.png",
+    "title": "FAWF",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/fawf.torrent",
-    "description": "",
+    "video_url": ""
+  },
+  {
+    "id": "test",
+    "title": "TEST",
+    "full_title": "TEST",
+    "arch": "VST",
+    "tags": [
+      "Trap"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test.torrent",
+    "description": "GDAA",
     "screenshots": [],
     "video_url": ""
   }
