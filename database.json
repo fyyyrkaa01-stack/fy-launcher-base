@@ -73,7 +73,17 @@
     "effects:kiive_paradox",
     "daws:ableton_live"
   ],
-  "news": [],
+  "news": [
+    {
+      "id": "testovaa_novost",
+      "title": "ТЕСТОВАЯ НОВОСТЬ!",
+      "date": "2026-07-25",
+      "category": "events",
+      "description": "ТЕСТ",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/news_testovaa_novost_banner.png",
+      "text": "\n                <style>\n                    body { color: #FFFFFF; font-family: sans-serif; line-height: 1.5; }\n                    p { margin-bottom: 8px; }\n                    h1, h2, h3 { color: #3B6BFF; font-weight: bold; }\n                    img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; }\n                    a { color: #3B6BFF; }\n                </style>\n                <p>Fasfaff f</p><p>Asfsafaf</p><p>Af</p><p>Saf</p><p>A</p><p>F</p><p>F</p><p>Af</p><p>As</p><p>Fsa</p><p>Ff</p><p>Af</p><p>Saf</p><p>afs</p>\n                "
+    }
+  ],
   "synths": [
     {
       "arch": "VST3 | x64",
