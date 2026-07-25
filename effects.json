@@ -1,1 +1,82 @@
-[]
+[
+    {
+      "id": "tone_empire_loc_ness_v3",
+      "title": "Loc-Ness V3",
+      "full_title": "Tone Empire - Loc-Ness V3 v.1.0 VST3, AAX x64 [BUBBiX] - процессор эффектов",
+      "arch": "VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Процессор эффектов с винтажными аналоговыми характеристиками и современной нейронной обработкой"
+    },
+    {
+      "id": "smash_bass_bass_processor",
+      "title": "Smash Bass",
+      "full_title": "Smash Bass - Bass Processor VST3, AAX x64 [BUBBiX] - процессор эффектов",
+      "arch": "VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Процессор бас-звуков с настройкой тембра и динамики"
+    },
+    {
+      "id": "mastering_the_mix_mastering_suite",
+      "title": "Mastering Suite",
+      "full_title": "Mastering The Mix - Mastering Suite 11 плагинов VST3 x64 [R2R] - набор плагинов",
+      "arch": "VST3 x64",
+      "tags": ["Effect"],
+      "description": "Набор аналитических плагинов для оптимизации звуковых решений"
+    },
+    {
+      "id": "bertom_audio_denoiser_pro",
+      "title": "Denoiser Pro",
+      "full_title": "Bertom Audio - Denoiser Pro v.3.0.11 Rev.2 VST3 x64 [Team BATs] - шумоподавитель",
+      "arch": "VST3 x64",
+      "tags": ["Effect"],
+      "description": "Шумоподавитель с нулевой задержкой для обработки музыки и живых выступлений"
+    },
+    {
+      "id": "pspaudioware_psp_bbdelay",
+      "title": "PSP BBDelay",
+      "full_title": "PSPaudioware - PSP BBDelay v 1.0.0 VST, VST3, AAX x64 [R2R] - дилэй",
+      "arch": "VST, VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Аналоговый процессор задержки на основе BBD чипов"
+    },
+    {
+      "id": "nuro_audio_flexion",
+      "title": "Flexion",
+      "full_title": "Nuro Audio - Flexion v.1.0.2 VST3, AAX x64 [R2R] - плагин для мастеринга",
+      "arch": "VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Финализатор для улучшения детализации и четкости миксов"
+    },
+    {
+      "id": "karanyi_sounds_wavesurfer",
+      "title": "Wavesurfer",
+      "full_title": "Karanyi Sounds - Wavesurfer v.1.0.0 VST3, AAX x64 [BUBBiX] - процессор эффектов",
+      "arch": "VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Процессор с винтажными эффектами и нейронной обработкой"
+    },
+    {
+      "id": "karanyi_sounds_playmod",
+      "title": "Playmod",
+      "full_title": "Karanyi Sounds - Playmod v.1.0.0 VST3, AAX x64 [BUBBiX] - процессор эффектов",
+      "arch": "VST3, AAX x64",
+      "tags": ["Effect"],
+      "description": "Креативный звуковой генератор с нестандартными настройками"
+    },
+    {
+      "id": "paa_audio_tape56k",
+      "title": "Tape56K",
+      "full_title": "PAA Audio - Tape56K v.0.32 VST3 x64 [BUBBiX] - сатуратор",
+      "arch": "VST3 x64",
+      "tags": ["Effect"],
+      "description": "Сатуратор для улучшения звучания источников"
+    },
+    {
+      "id": "karanyi_sounds_megamass",
+      "title": "Megamass",
+      "full_title": "Karanyi Sounds - Megamass v 1.0.0 VST3 x64 [BUBBiX] - процессор эффектов",
+      "arch": "VST3 x64",
+      "tags": ["Effect"],
+      "description": "Драм-процессор для усиления кик-сетов"
+    }
+  ],
