@@ -1,15 +1,29 @@
 [
   {
-    "id": "test",
-    "title": "TEST",
-    "full_title": "TEST",
     "arch": "VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test_cover.png",
+    "description": "GDAA",
+    "full_title": "TEST",
+    "id": "test",
+    "screenshots": [],
     "tags": [
       "Trap"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test_cover.png",
+    "title": "TEST",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test.torrent",
-    "description": "GDAA",
+    "video_url": ""
+  },
+  {
+    "id": "fawf",
+    "title": "FAWF",
+    "full_title": "FAW",
+    "arch": "FAW",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/fawf_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/fawf.torrent",
+    "description": "",
     "screenshots": [],
     "video_url": ""
   }
