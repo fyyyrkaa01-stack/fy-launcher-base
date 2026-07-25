@@ -4,7 +4,9 @@
     "title": "TEST",
     "full_title": "TEST",
     "arch": "VST",
-    "tags": [],
+    "tags": [
+      "Trap"
+    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test_cover.png",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/test.torrent",
     "description": "GDAA",
