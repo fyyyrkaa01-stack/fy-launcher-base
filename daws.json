@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "ableton",
+    "title": "Ableton",
+    "full_title": "Ableton - Live 12 Suite v12.4.3",
+    "arch": "",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5ea7a6f5c5d72bf0e56ebc69240f649a299295b0&dn=Ableton%20Live%2012%20Suite%20v12.4.3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе. Live синхронизирует все и работает в режиме реального времени, поэтому вы можете воспроизводить и изменять свои музыкальные идеи, не прерывая творческий процесс. Но Live также имеет революционный Session View: уникальный блокнот для импровизации, игры и исполнения с музыкальными идеями, без ограничений по времени. Свободно и независимо запускайте и останавливайте любое количество аудио или MIDI-петель - все остается синхронизированным. Почти все в Live работает в режиме реального времени - добавляйте, изменяйте порядок или удаляйте устройства, играйте с гибкой маршрутизацией треков Live и многим другим - и все это без прерывания творческого процесса. Создавайте более смелые звуки с новыми устройствами Live. Оставайтесь в потоке с множеством улучшений рабочего процесса. Еще больше отдаляйтесь от компьютера с помощью Push. Создайте свой звук с помощью кураторской библиотеки. И получите неограниченный потенциал Max for Live, встроенный без проблем",
+    "install_instructions": "1. У вас должна быть установлена последняя версия TEAM R2R System \n2. Установить Ableton Live 12 Suite Installer.exe\n3. Поместить файл vcruntime140_1.dll в папку с установленной программой(По умолчанию C:\\ProgramData\\Ableton\\Live 12 Suite\\Program)\nВАЖНО!\nНИКОГДА не пытайтесь поместить файл vcruntime140_1.dll в папку system32 !!!\n\nNEVER try overwriting the \"vcruntime140_1.dll\" in the system32 dir!\n\n4. Запустить Ableton и в окне авторизации нажать \"No internet on this computer\". Из появившегося окна скопировать \"Your hardware code\".Примечание: при нажатии на \"Save\", можно получить текстовый файл с кодом.\n5. Запустить WM_Ableton.r2rwm, вставить скопированный код, нажать \nGENERATE \nи сохранить полученный файл Authorize.auz.\n6. Перетащите полученный файл в окно регистрации \"Authorizing your software offline\"Примечание: Если не получается перетащить файл лицензии в окно программы, то закройте Ableton Live Suite и запустите полученный файл лицензии при помощи(\"Открыть с помощью\") Ableton Live Suite.\nМожно обновляться(после обновления, если это требуется, повторно поместить файл vcruntime140_1.dllв папку с установленной программой)\nПримечание:\n\nЕсли у вас слетела регистрация, проверьте, не удалил ли ваш антивирус файл vcruntime140_1.dll из папки с программой. Если это так, добавьте папку с установленной программой в исключение антивируса и верните удалённый файл.\n\nТак же регистрация может слететь ввиду того, что ваша установленная и вылеченная версия обновилась самостоятельно. Если вы не хотите автоматического обновления, отключите его.\n(Options > Preferences > Licenses Maintenance > Get Automatic Updates > Never)",
+    "install_instructions_visible": true,
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_1.jpg",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_2.jpg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops",
+    "is_hidden": false
+  }
+]
