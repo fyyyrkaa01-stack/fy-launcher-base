@@ -68,18 +68,34 @@
     "video_url": ""
   },
   {
-    "id": "melodyne_5",
-    "title": "Melodyne 5",
-    "full_title": "Celemony - Melodyne Studio 5 v5.4.2.006",
     "arch": "STANDALONE, VST3, AAX, AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/melodyne_5_cover.png",
+    "description": "Melodyne предоставляет вам непревзойденный доступ ко всем музыкальным деталям в ваших записях и сэмплах - нота за нотой. Это стало возможным благодаря сложному анализу, который глубоко проникает в ваши записи и образцы, распознает и понимает музыкальные взаимосвязи в них: отдельные ноты и их характеристики, гаммы, ключи и аккорды, время, темп, цвет тона. И с помощью Melodyne вы можете интуитивно редактировать все эти вещи. Не только вокал, но и все виды инструментов, включая полифонические, такие как фортепиано и гитара.",
+    "full_title": "Celemony - Melodyne Studio 5 v5.4.2.006",
+    "id": "melodyne_5",
+    "magnet": "magnet:?xt=urn:btih:aa5d001bcca9e2eb084f8ff1d892500b527c1a30&dn=Celemony%20-%20Melodyne%205%20Studio%20v5.4.2.006&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "Vocal"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/melodyne_5_cover.png",
+    "title": "Melodyne 5",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:aa5d001bcca9e2eb084f8ff1d892500b527c1a30&dn=Celemony%20-%20Melodyne%205%20Studio%20v5.4.2.006&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Melodyne предоставляет вам непревзойденный доступ ко всем музыкальным деталям в ваших записях и сэмплах - нота за нотой. Это стало возможным благодаря сложному анализу, который глубоко проникает в ваши записи и образцы, распознает и понимает музыкальные взаимосвязи в них: отдельные ноты и их характеристики, гаммы, ключи и аккорды, время, темп, цвет тона. И с помощью Melodyne вы можете интуитивно редактировать все эти вещи. Не только вокал, но и все виды инструментов, включая полифонические, такие как фортепиано и гитара.",
+    "video_url": ""
+  },
+  {
+    "id": "auto_tune_pro_11",
+    "title": "Auto-Tune Pro 11",
+    "full_title": "Antares - Auto-Tune Pro v11.0.0",
+    "arch": "VST3|AAX",
+    "tags": [
+      "Effect",
+      "Vocal"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_pro_11_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:6dccfd2412f64bfeda710a5ed7d187ec2d6f3bf9&dn=Antares%20-%20Auto-Tune%20Pro%20v11.0.0%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Профессиональный стандарт коррекции высоты тона. Auto-Tune Pro 11 - это самая продвинутая версия Auto-Tune из когда-либо существовавших. Включает автоматический режим для коррекции в реальном времени, проигрыватель гармоний из 4 частей и режим Graph для детального редактирования высоты тона и времени.",
     "screenshots": [],
     "video_url": ""
   }
