@@ -1,20 +1,38 @@
 [
   {
-    "id": "serum_2",
-    "title": "Serum 2",
-    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
     "arch": "VSTi3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
+    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
+    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
+    "id": "serum_2",
+    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_screenshot_1.png"
+    ],
     "tags": [
       "VST",
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
+    "title": "Serum 2",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_screenshot_1.png"
-    ],
     "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf"
+  },
+  {
+    "id": "omnisphere_3",
+    "title": "Omnisphere 3",
+    "full_title": "Spectrasonics - Omnisphere v3.0.2c",
+    "arch": "VST|VST3|AAX|SAL",
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:04a1279511c30dd1d624399855c0e49c2f97f15e&dn=Spectrasonics%20-%20Omnisphere%20v3.0.2c%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "БИБЛИОТЕКА НАХОДИТСЯ В КАТЕГОРИИ \"БИБЛИОТЕКА\"\n\nOmnisphere® - флагманский синтезатор компании Spectrasonics, инструмент исключительной мощности и универсальности. Ведущие музыкантOmnisphere®уют Omnisphere как важнейший источник звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в один потрясающий инструмент, который вдохновит вас на творчество на всю жизнь.",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_screenshot_1.png"
+    ],
+    "video_url": ""
   }
 ]
