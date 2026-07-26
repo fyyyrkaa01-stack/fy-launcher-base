@@ -18,24 +18,6 @@
     "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf"
   },
   {
-    "arch": "VST|VST3|AAX|SAL",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_cover.png",
-    "description": "БИБЛИОТЕКА НАХОДИТСЯ В КАТЕГОРИИ \"БИБЛИОТЕКА\"\n\nOmnisphere® - флагманский синтезатор компании Spectrasonics, инструмент исключительной мощности и универсальности. Ведущие музыкантOmnisphere®уют Omnisphere как важнейший источник звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в один потрясающий инструмент, который вдохновит вас на творчество на всю жизнь.",
-    "full_title": "Spectrasonics - Omnisphere v3.0.2c",
-    "id": "omnisphere_3",
-    "magnet": "magnet:?xt=urn:btih:04a1279511c30dd1d624399855c0e49c2f97f15e&dn=Spectrasonics%20-%20Omnisphere%20v3.0.2c%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_screenshot_1.png"
-    ],
-    "tags": [
-      "VST",
-      "VST3"
-    ],
-    "title": "Omnisphere 3",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
     "arch": "STANDALONE, VST3i, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
     "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
@@ -49,6 +31,26 @@
     ],
     "title": "Kontakt 8",
     "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "omnisphere_3",
+    "title": "Omnisphere 3",
+    "full_title": "Spectrasonics - Omnisphere v3.0.2c",
+    "arch": "VST|VST3|AAX|SAL",
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:04a1279511c30dd1d624399855c0e49c2f97f15e&dn=Spectrasonics%20-%20Omnisphere%20v3.0.2c%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "БИБЛИОТЕКА НАХОДИТСЯ В КАТЕГОРИИ \"БИБЛИОТЕКА\"\n\nOmnisphere® - флагманский синтезатор компании Spectrasonics, инструмент исключительной мощности и универсальности. Ведущие музыкантOmnisphere®уют Omnisphere как важнейший источник звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в один потрясающий инструмент, который вдохновит вас на творчество на всю жизнь.",
+    "install_instructions": "Удаление и очистка\n1. Удалите предыдущие версии.\n2. Очистите, удалив следующие файлы.\n• VST dir\n• VST3 dir\n• AAX dir\n• %PROGRAMDATA%\\Spectrasonics\\*.exe\n• %PROGRAMDATA%\\Spectrasonics\\plug-ins\\*.dll, *.vst3\nЕсли вы хотите удалить предыдущую лицензию, удалите\n• %PROGRAMDATA%\\Spectrasonics\\AUDIO*.DAT\n-------------------------------\nRuntime\nУбедитесь, что установлена последняя версия R2R System - Скачать.\nПроверьте файл Runtime.txt, чтобы узнать требования к версии.\n-------------------------------\nУстановка\n1. Просто запустите установку.\n-------------------------------\nАвторизация\n*** Мы рекомендуем авторизовываться в автономной версии ***\n1. Переведите компьютер в автономный режим.\nВ противном случае вы не увидите ChallengeCode из-за перенаправления URL-адреса.\n2. Запустите программу. Начнется авторизация.\n3. Нажмите «REQUEST AUTHORIZATION». Откроется браузер.\n4. Проверьте URL-адрес в открывшемся браузере. Он выглядит примерно так:\n\"https://www.spectrasonics.net/authorization\n?prod=Omnisphere\n&vers=3.0.0d\n&ch=SmMY%256QnT%3dXyx38KlPUBqkTBx%3fB8\"\nСовет: URL-адрес также доступен в файле \"%LOCALAPPDATA%\\Spectrasonics\\rhurltemp.html\".\n5. Запустите наш генератор ключей - WM_Spectrasonics.r2rwm.\n6. Выберите продукт, который хотите активировать.\n7. Скопируйте ChallengeCode из URL-адреса (значение параметра «ch») в генератор ключей.\n(В приведенном выше примере «SmMY%256QnT%3dXyx38KlPUBqkTBx%3fB8» — это ChallengeCode.)\n8. Нажмите «Generate» в генераторе ключей. Лицензия будет сгенерирована и скопирована в буфер обмена.\n9.Нажмите «PASTE» в программе.\n10. Нажмите «CONTINUE» в программе.\nГотово, перезапустите приложение.\n---------------------\nПримечание\nЕсли возникла ошибка \"Signature verification failed\",\nто перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "install_instructions_visible": true,
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_screenshot_1.png"
+    ],
     "video_url": ""
   }
 ]
