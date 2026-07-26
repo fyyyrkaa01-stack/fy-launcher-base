@@ -31,22 +31,6 @@
     "video_url": ""
   },
   {
-    "arch": "STANDALONE, VST, VST3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
-    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
-    "full_title": "Waves - Ultimate 17 26.06.23",
-    "id": "waves",
-    "magnet": "magnet:?xt=urn:btih:b68dd79f5cfcbc3a0e7fcc69ce3c25d14a16249d&dn=Waves%20-%20Ultimate%2017%2026.06.23%20V.R.rar&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "Effect",
-      "Mastering"
-    ],
-    "title": "Waves",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
     "arch": "STANDALONE, VST3, AAX, AU",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/melodyne_5_cover.png",
     "description": "Melodyne предоставляет вам непревзойденный доступ ко всем музыкальным деталям в ваших записях и сэмплах - нота за нотой. Это стало возможным благодаря сложному анализу, который глубоко проникает в ваши записи и образцы, распознает и понимает музыкальные взаимосвязи в них: отдельные ноты и их характеристики, гаммы, ключи и аккорды, время, темп, цвет тона. И с помощью Melodyne вы можете интуитивно редактировать все эти вещи. Не только вокал, но и все виды инструментов, включая полифонические, такие как фортепиано и гитара.",
@@ -79,19 +63,14 @@
     "video_url": ""
   },
   {
-    "id": "fabfilter",
-    "title": "FabFilter",
-    "full_title": "FabFilter - Total Bundle v2026.06.25",
     "arch": "VST|VST3|AAX|CLAP",
-    "tags": [
-      "Effect"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "description": "Total Bundle - это набор всех плагинов FabFilter",
+    "full_title": "FabFilter - Total Bundle v2026.06.25",
+    "id": "fabfilter",
     "install_instructions": "1. Установите нужные плагины \n2. Установите последнюю версию TEAM R2R - R2R System  \n3. Активируйте плагины при помощи WM_FabFilter.r2rwm\nПримечание\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
     "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_1.png",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_2.png",
@@ -99,6 +78,29 @@
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_4.png",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_5.png"
     ],
+    "tags": [
+      "Effect"
+    ],
+    "title": "FabFilter",
+    "torrent": "",
     "video_url": ""
+  },
+  {
+    "id": "waves",
+    "title": "Waves",
+    "full_title": "Waves - Ultimate 17 26.06.23",
+    "arch": "STANDALONE, VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:b68dd79f5cfcbc3a0e7fcc69ce3c25d14a16249d&dn=Waves%20-%20Ultimate%2017%2026.06.23%20V.R.rar&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
+    "install_instructions": "1. Устанавливаем Waves Central (в 1-Installer) 2. Запускаем, выбираем Offline Installer, находим папку Waves (в 1-Installer), выбираем частично или полный Waves Ultimate 3. Применяем патч Waves Ultimate 2025.3 patch.exe\nВидео по установке от minusmaker ( кнопка \"видео\")\nУдаление предыдущей версии\n1. Останавливаем: Диспетчер задач - Фоновые процессы - WavesLocalServer, WavesPluginServer\n2. Удаляем Waves Central (предпочтительней программами типа Revo Uninstaller или Uninstall Tool)\n3. Очистите пути: C:\\Program Files\\Waves Central C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins\\WaveShell C:\\Program Files\\Common Files\\VST3\\WaveShell C:\\Program Files\\VSTPlugins\\Waves StudioRack for OBS.dll C:\\Program Files (x86)\\Waves C:\\ProgramData\\Waves Audio C:\\Users\\Public\\Waves Audio C:\\Users\\User Name\\AppData\\Local\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Central\n4. Очистите реестр: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Waves\n5. Перезагружаемся!",
+    "install_instructions_visible": true,
+    "screenshots": [],
+    "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA"
   }
 ]
