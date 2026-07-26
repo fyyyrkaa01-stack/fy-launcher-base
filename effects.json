@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fabfilter",
+    "title": "FabFilter",
+    "full_title": "FabFilter - Total Bundle v2026.06.25",
+    "arch": "VST|VST3|AAX|CLAP",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Total Bundle - это набор всех плагинов FabFilter",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_1.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_2.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_3.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_4.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_5.png"
+    ],
+    "video_url": ""
+  }
+]
