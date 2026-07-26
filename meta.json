@@ -1,5 +1,21 @@
 {
   "featured": [],
   "news": [],
-  "premium_cards": []
+  "premium_cards": [
+    {
+      "title": "кек",
+      "description": "",
+      "cover": ""
+    },
+    {
+      "title": "",
+      "description": "",
+      "cover": ""
+    },
+    {
+      "title": "",
+      "description": "",
+      "cover": ""
+    }
+  ]
 }
