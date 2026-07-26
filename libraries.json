@@ -15,20 +15,39 @@
     "video_url": ""
   },
   {
-    "id": "noire",
-    "title": "Noire",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/noire_cover.png",
+    "description": "Размер: 14.91 GB\nВыразительный концертный рояль. • Концертный рояль Нильса Фрама, тщательно сэмплированный в легендарном месте • Чистые, с войлочным демпфированием и версии со звуковым дизайном с широкими возможностями настройки • Инновационный движок частиц вдохновляет на идеи для сольных композиций, партитур и многого другого",
     "full_title": "Noire 1.2.1 Full + Update (KONTAKT)",
+    "id": "noire",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:50c09f2371c0d2f70f4891a16c8f245de86f27ed&dn=Noire%201.2.1%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "screenshots": [],
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "title": "Noire",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "analog_dreams",
+    "title": "Analog Dreams",
+    "full_title": "Analog Dreams v.2.1.1 (KONTAKT)",
     "arch": "",
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/noire_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/analog_dreams_cover.jpg",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:50c09f2371c0d2f70f4891a16c8f245de86f27ed&dn=Noire%201.2.1%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "description": "Размер: 14.91 GB\nВыразительный концертный рояль. • Концертный рояль Нильса Фрама, тщательно сэмплированный в легендарном месте • Чистые, с войлочным демпфированием и версии со звуковым дизайном с широкими возможностями настройки • Инновационный движок частиц вдохновляет на идеи для сольных композиций, партитур и многого другого",
+    "magnet": "magnet:?xt=urn:btih:94f5d33a209b1b059ebe496cfdac9ff86a90d2a0&dn=Analog%20Dreams%202.1.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "Классические синтезаторы в современном колорите!",
     "install_instructions": "",
-    "install_instructions_visible": false,
+    "install_instructions_visible": true,
     "screenshots": [],
     "video_url": "",
     "is_hidden": false
