@@ -1,23 +1,44 @@
 [
   {
-    "id": "ableton",
-    "title": "Ableton",
-    "full_title": "Ableton - Live 12 Suite v12.4.3",
     "arch": "",
-    "tags": [
-      "DAW"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5ea7a6f5c5d72bf0e56ebc69240f649a299295b0&dn=Ableton%20Live%2012%20Suite%20v12.4.3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе. Live синхронизирует все и работает в режиме реального времени, поэтому вы можете воспроизводить и изменять свои музыкальные идеи, не прерывая творческий процесс. Но Live также имеет революционный Session View: уникальный блокнот для импровизации, игры и исполнения с музыкальными идеями, без ограничений по времени. Свободно и независимо запускайте и останавливайте любое количество аудио или MIDI-петель - все остается синхронизированным. Почти все в Live работает в режиме реального времени - добавляйте, изменяйте порядок или удаляйте устройства, играйте с гибкой маршрутизацией треков Live и многим другим - и все это без прерывания творческого процесса. Создавайте более смелые звуки с новыми устройствами Live. Оставайтесь в потоке с множеством улучшений рабочего процесса. Еще больше отдаляйтесь от компьютера с помощью Push. Создайте свой звук с помощью кураторской библиотеки. И получите неограниченный потенциал Max for Live, встроенный без проблем",
+    "full_title": "Ableton - Live 12 Suite v12.4.3",
+    "id": "ableton",
     "install_instructions": "1. У вас должна быть установлена последняя версия TEAM R2R System \n2. Установить Ableton Live 12 Suite Installer.exe\n3. Поместить файл vcruntime140_1.dll в папку с установленной программой(По умолчанию C:\\ProgramData\\Ableton\\Live 12 Suite\\Program)\nВАЖНО!\nНИКОГДА не пытайтесь поместить файл vcruntime140_1.dll в папку system32 !!!\n\nNEVER try overwriting the \"vcruntime140_1.dll\" in the system32 dir!\n\n4. Запустить Ableton и в окне авторизации нажать \"No internet on this computer\". Из появившегося окна скопировать \"Your hardware code\".Примечание: при нажатии на \"Save\", можно получить текстовый файл с кодом.\n5. Запустить WM_Ableton.r2rwm, вставить скопированный код, нажать \nGENERATE \nи сохранить полученный файл Authorize.auz.\n6. Перетащите полученный файл в окно регистрации \"Authorizing your software offline\"Примечание: Если не получается перетащить файл лицензии в окно программы, то закройте Ableton Live Suite и запустите полученный файл лицензии при помощи(\"Открыть с помощью\") Ableton Live Suite.\nМожно обновляться(после обновления, если это требуется, повторно поместить файл vcruntime140_1.dllв папку с установленной программой)\nПримечание:\n\nЕсли у вас слетела регистрация, проверьте, не удалил ли ваш антивирус файл vcruntime140_1.dll из папки с программой. Если это так, добавьте папку с установленной программой в исключение антивируса и верните удалённый файл.\n\nТак же регистрация может слететь ввиду того, что ваша установленная и вылеченная версия обновилась самостоятельно. Если вы не хотите автоматического обновления, отключите его.\n(Options > Preferences > Licenses Maintenance > Get Automatic Updates > Never)",
     "install_instructions_visible": true,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:5ea7a6f5c5d72bf0e56ebc69240f649a299295b0&dn=Ableton%20Live%2012%20Suite%20v12.4.3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_1.jpg",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_2.jpg"
     ],
-    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops",
+    "tags": [
+      "DAW"
+    ],
+    "title": "Ableton",
+    "torrent": "",
+    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops"
+  },
+  {
+    "id": "fl_studio",
+    "title": "FL Studio",
+    "full_title": "Image-Line - FL Studio Producer Edition 26.1.1 Build 5547 (All Plugins Edition) + Addons [13.07.2026] RePack KpoJIuK",
+    "arch": "",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:3225cd2579f27a897681da85de4d9fea309b199a&dn=FL.Studio.v26.1.1.5547.KpoJIuK&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_screenshot_1.jpg",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_screenshot_2.png"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s",
     "is_hidden": false
   }
 ]
