@@ -18,21 +18,37 @@
     "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf"
   },
   {
-    "id": "omnisphere_3",
-    "title": "Omnisphere 3",
-    "full_title": "Spectrasonics - Omnisphere v3.0.2c",
     "arch": "VST|VST3|AAX|SAL",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_cover.png",
+    "description": "БИБЛИОТЕКА НАХОДИТСЯ В КАТЕГОРИИ \"БИБЛИОТЕКА\"\n\nOmnisphere® - флагманский синтезатор компании Spectrasonics, инструмент исключительной мощности и универсальности. Ведущие музыкантOmnisphere®уют Omnisphere как важнейший источник звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в один потрясающий инструмент, который вдохновит вас на творчество на всю жизнь.",
+    "full_title": "Spectrasonics - Omnisphere v3.0.2c",
+    "id": "omnisphere_3",
+    "magnet": "magnet:?xt=urn:btih:04a1279511c30dd1d624399855c0e49c2f97f15e&dn=Spectrasonics%20-%20Omnisphere%20v3.0.2c%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_screenshot_1.png"
+    ],
     "tags": [
       "VST",
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_cover.png",
+    "title": "Omnisphere 3",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:04a1279511c30dd1d624399855c0e49c2f97f15e&dn=Spectrasonics%20-%20Omnisphere%20v3.0.2c%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "description": "БИБЛИОТЕКА НАХОДИТСЯ В КАТЕГОРИИ \"БИБЛИОТЕКА\"\n\nOmnisphere® - флагманский синтезатор компании Spectrasonics, инструмент исключительной мощности и универсальности. Ведущие музыкантOmnisphere®уют Omnisphere как важнейший источник звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в один потрясающий инструмент, который вдохновит вас на творчество на всю жизнь.",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/omnisphere_3_screenshot_1.png"
+    "video_url": ""
+  },
+  {
+    "id": "kontakt_8",
+    "title": "Kontakt 8",
+    "full_title": "Native Instruments - Kontakt 8 v8.11.1",
+    "arch": "STANDALONE, VST3i, AAX",
+    "tags": [
+      "VST",
+      "VST3"
     ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:8c8daab5aa31323cb2e4ad2c82f473cff6557ac2&dn=Native%20Instruments%20-%20Kontakt%208%20v8.11.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "screenshots": [],
     "video_url": ""
   }
 ]
