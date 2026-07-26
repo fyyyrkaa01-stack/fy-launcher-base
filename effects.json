@@ -104,19 +104,37 @@
     "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA"
   },
   {
-    "id": "kilohearts",
-    "title": "Kilohearts",
-    "full_title": "Kilohearts Ultimate & Slate Digital bundle",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/kilohearts_cover.jpg",
+    "description": "Создавайте собственные модульные синтезаторы и эффекты Открытая модульная архитектура экосистемы Kilohearts даёт вам свободу в создании любого инструмента или эффекта, который вы только можете себе представить, с помощью Phase Plant, Multipass и Snap Heap. Если вам нужно что-то простое и функциональное или сложное и экспериментальное, теперь у вас есть все необходимые инструменты. Просто представьте себе все возможности. ⚡ Все необходимые элементы ⚡ Kilohearts Ultimate включает в себя огромный набор эффектов, которые можно использовать как обычные плагины в вашей DAW или как Snapin-плагины, которые можно комбинировать и модулировать по своему усмотрению в любом Snapin-хосте. Премиум-эффекты можно приобрести отдельно, чтобы расширить возможности звукового дизайна. После сохранения пресета любой, с кем вы им поделитесь, сможет его использовать, независимо от того, какими Snapin-плагинами он владеет.",
+    "full_title": "Kilohearts Ultimate & Slate Digital bundle",
+    "id": "kilohearts",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:af70b466f46801427974184ab35eb41edef649b3&dn=kiloHearts.Ultimate.v2.4.6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth",
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/kilohearts_cover.jpg",
+    "title": "Kilohearts",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:af70b466f46801427974184ab35eb41edef649b3&dn=kiloHearts.Ultimate.v2.4.6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Создавайте собственные модульные синтезаторы и эффекты Открытая модульная архитектура экосистемы Kilohearts даёт вам свободу в создании любого инструмента или эффекта, который вы только можете себе представить, с помощью Phase Plant, Multipass и Snap Heap. Если вам нужно что-то простое и функциональное или сложное и экспериментальное, теперь у вас есть все необходимые инструменты. Просто представьте себе все возможности. ⚡ Все необходимые элементы ⚡ Kilohearts Ultimate включает в себя огромный набор эффектов, которые можно использовать как обычные плагины в вашей DAW или как Snapin-плагины, которые можно комбинировать и модулировать по своему усмотрению в любом Snapin-хосте. Премиум-эффекты можно приобрести отдельно, чтобы расширить возможности звукового дизайна. После сохранения пресета любой, с кем вы им поделитесь, сможет его использовать, независимо от того, какими Snapin-плагинами он владеет.",
+    "video_url": ""
+  },
+  {
+    "id": "soundtoys",
+    "title": "Soundtoys",
+    "full_title": "Soundtoys (NO INSTALL) 5.0.1",
+    "arch": "VST",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/soundtoys_cover.jpg",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:820dbf0a9f06e2dca496591ad2b96fb6edb0d786&dn=Soundtoys&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Soundtoys 5 объединяет весь наш ассортимент звуковых эффектов в одну мощную коллекцию. Включает в себя все 18 Soundtoys плагинов.",
     "install_instructions": "",
     "install_instructions_visible": false,
     "screenshots": [],
