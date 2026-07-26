@@ -10,12 +10,12 @@
     {
       "title": "Рулетка с мини-играми",
       "description": "Крути рулетку и получай плагин, с которого напишешь свой новый бит! Пиши биты и развивай свой скилл в мини играх!",
-      "cover": ""
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_2_cover.png"
     },
     {
       "title": "Кейсы с рекомендациями",
       "description": "Получай случайные плагины в кейсах по рекомендациям системы. Без азарта -- только польза!",
-      "cover": ""
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_3_cover.png"
     }
   ]
 }
