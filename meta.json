@@ -1,7 +1,8 @@
 {
   "featured": [
     "synths:omnisphere_3",
-    "libraries:analog_dreams"
+    "libraries:analog_dreams",
+    "effects:waves"
   ],
   "news": [],
   "premium_cards": [
