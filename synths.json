@@ -38,27 +38,6 @@
     "video_url": ""
   },
   {
-    "arch": "VSTi3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
-    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
-    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
-    "id": "serum_2",
-    "install_instructions": "Почистите старые следы включая C:\\Users\\User\\AppData\\Roaming,Документы и установите от админа \"Install_Xfer_Serum2_2.1.5\".затем\"Xfer Records Serum v2.1.5.update\"",
-    "install_instructions_visible": true,
-    "is_hidden": true,
-    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_screenshot_1.png"
-    ],
-    "tags": [
-      "VST",
-      "VST3"
-    ],
-    "title": "Serum 2",
-    "torrent": "",
-    "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf"
-  },
-  {
     "arch": "STANDALONE, VSTi, VSTi3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
     "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
@@ -171,22 +150,43 @@
     "video_url": ""
   },
   {
-    "id": "massive_x",
-    "title": "Massive X",
-    "full_title": "Native Instruments - Massive X v1.7.1",
     "arch": "VSTi, VSTi3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/massive_x_cover.png",
+    "description": "ФЛАГМАНСКИЙ СИНТЕЗАТОР НОВОГО ПОКОЛЕНИЯ ⚡\nБезупречный звук и полная свобода для продвинутого звукового дизайна Создавайте динамичный, меняющийся звук нового уровня с по-настоящему гибкой маршрутизацией и широкими возможностями модуляции Разработано на основе ДНК MASSIVE, создано для нового десятилетия и будет развиваться (ВОЗ)РОЖДЕНИЕ ЛЕГЕНДЫ",
+    "full_title": "Native Instruments - Massive X v1.7.1",
+    "id": "massive_x",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:6c1967bee707443c01f4f266017575b50fa7f23a&dn=Native-Instruments.Massive.X.v1.7.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/massive_x_cover.png",
+    "title": "Massive X",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:6c1967bee707443c01f4f266017575b50fa7f23a&dn=Native-Instruments.Massive.X.v1.7.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "ФЛАГМАНСКИЙ СИНТЕЗАТОР НОВОГО ПОКОЛЕНИЯ ⚡\nБезупречный звук и полная свобода для продвинутого звукового дизайна Создавайте динамичный, меняющийся звук нового уровня с по-настоящему гибкой маршрутизацией и широкими возможностями модуляции Разработано на основе ДНК MASSIVE, создано для нового десятилетия и будет развиваться (ВОЗ)РОЖДЕНИЕ ЛЕГЕНДЫ",
-    "install_instructions": "",
-    "install_instructions_visible": false,
-    "screenshots": [],
-    "video_url": "",
+    "video_url": ""
+  },
+  {
+    "id": "serum_2",
+    "title": "Serum 2",
+    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
+    "arch": "VSTi3, AAX",
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
+    "install_instructions": "Почистите старые следы включая C:\\Users\\User\\AppData\\Roaming,Документы и установите от админа \"Install_Xfer_Serum2_2.1.5\".затем\"Xfer Records Serum v2.1.5.update\"",
+    "install_instructions_visible": true,
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_screenshot_1.png"
+    ],
+    "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf",
     "is_hidden": false
   }
 ]
