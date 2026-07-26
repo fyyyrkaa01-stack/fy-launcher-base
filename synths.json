@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "test",
+    "title": "ТЕСТ",
+    "full_title": "ПОСЛЕДНИЙ НАВЕРНОЕ",
+    "arch": "А",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5ea7a6f5c5d72bf0e56ebc69240f649a299295b0&dn=Ableton%20Live%2012%20Suite%20v12.4.3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "АФАЫФАФЫАФЫА",
+    "screenshots": [],
+    "video_url": ""
+  }
+]
