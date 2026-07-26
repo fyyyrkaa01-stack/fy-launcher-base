@@ -20,41 +20,42 @@
     "video_url": ""
   },
   {
-    "arch": "VSTi3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
-    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
-    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
+    "arch": "STANDALONE, VST3i, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "full_title": "Native Instruments - Kontakt 8 v8.11.1",
+    "id": "kontakt_8",
+    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:8c8daab5aa31323cb2e4ad2c82f473cff6557ac2&dn=Native%20Instruments%20-%20Kontakt%208%20v8.11.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "title": "Kontakt 8",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
     "id": "serum_2",
+    "title": "Serum 2",
+    "full_title": "Xfer Records - Serum v2.1.5 ( full version. Zetas)",
+    "arch": "VSTi3, AAX",
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Описание: Изначально при создании Serum мы стремились к тому, чтобы у нас был синтезатор мечты, которого не существовало: волновой синтезатор с по-настоящему качественным звуком, визуальным и творческим интерфейсом, ориентированным на рабочий процесс, чтобы создание и изменение звуков было увлекательным, а не утомительным занятием, а также с возможностью «углубиться» в процесс при желании — создавать, импортировать, редактировать и преобразовывать волновые таблицы, а также манипулировать ими при воспроизведении в реальном времени.\nSerum версии 2 открывает широкие возможности для работы со звуком, предлагая пользователю невероятную мощь, контроль и выразительность — множество типов осцилляторов, гибкую маршрутизацию эффектов, арпеджиатор и секвенсор для клипов. Цель Serum 2 — дать пользователям Serum возможность полностью воплотить свои звуковые и музыкальные идеи. Мы уже упоминали, что Serum 2 — это бесплатное обновление для владельцев Serum 1? Пожизненные бесплатные обновления — это действительно пожизненные бесплатные обновления.",
     "install_instructions": "Почистите старые следы включая C:\\Users\\User\\AppData\\Roaming,Документы и установите от админа \"Install_Xfer_Serum2_2.1.5\".затем\"Xfer Records Serum v2.1.5.update\"",
     "install_instructions_visible": true,
-    "magnet": "magnet:?xt=urn:btih:c39dbd92106ba1919d24df4c6e13e4447508e6e1&dn=Xfer.Records.Serum.v2.1.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/serum_2_screenshot_1.png"
     ],
-    "tags": [
-      "VST",
-      "VST3"
-    ],
-    "title": "Serum 2",
-    "torrent": "",
-    "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf"
-  },
-  {
-    "id": "kontakt_8",
-    "title": "Kontakt 8",
-    "full_title": "Native Instruments - Kontakt 8 v8.11.1",
-    "arch": "STANDALONE, VST3i, AAX",
-    "tags": [
-      "VST",
-      "VST3"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:8c8daab5aa31323cb2e4ad2c82f473cff6557ac2&dn=Native%20Instruments%20-%20Kontakt%208%20v8.11.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
-    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
-    "install_instructions_visible": true,
-    "screenshots": [],
-    "video_url": ""
+    "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf",
+    "is_hidden": true
   }
 ]
