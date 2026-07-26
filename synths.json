@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "testik",
+    "title": "тестик",
+    "full_title": "тестик",
+    "arch": "тестик",
+    "tags": [],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/testik_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e0e977019e09b9b058e170a447475fdc766968a2&dn=Valhalla.DSP.Valhalla.VintageVerb.v4.0.5-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "тестиктестиктестиктестик",
+    "screenshots": [],
+    "video_url": ""
+  }
+]
