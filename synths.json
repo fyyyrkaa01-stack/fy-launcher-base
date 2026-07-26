@@ -77,18 +77,37 @@
     "video_url": ""
   },
   {
-    "id": "analog_lab_v",
-    "title": "Analog Lab V",
-    "full_title": "Arturia - Analog Lab V Pro v5.12.4",
     "arch": "STANDALONE, VSTi, VSTi3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/analog_lab_v_cover.png",
+    "description": "Антология клавишных инструментов\nСоздавайте, продюсируйте, выступайте. Analog Lab Pro — это плагин, объединяющий тысячи пресетов мирового класса, охватывающих десятки нестареющих инструментов, мгновенное управление и безупречную интеграцию — в одном месте. Полноценное редактирование пресетов, доступно только для владельцев полных версий наших синтезаторов (Mini V, Modular V, CS-80V, Wurlitzer V и т. д.).",
+    "full_title": "Arturia - Analog Lab V Pro v5.12.4",
+    "id": "analog_lab_v",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:b8ae58053a07eceb60d1e89e706f78356feaeaf2&dn=Arturia.Analog.Lab.V.v5.12.4.VR&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/analog_lab_v_cover.png",
+    "title": "Analog Lab V",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:b8ae58053a07eceb60d1e89e706f78356feaeaf2&dn=Arturia.Analog.Lab.V.v5.12.4.VR&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "description": "Антология клавишных инструментов\nСоздавайте, продюсируйте, выступайте. Analog Lab Pro — это плагин, объединяющий тысячи пресетов мирового класса, охватывающих десятки нестареющих инструментов, мгновенное управление и безупречную интеграцию — в одном месте. Полноценное редактирование пресетов, доступно только для владельцев полных версий наших синтезаторов (Mini V, Modular V, CS-80V, Wurlitzer V и т. д.).",
-    "install_instructions": "",
+    "video_url": ""
+  },
+  {
+    "id": "sylenth1",
+    "title": "Sylenth1",
+    "full_title": "LennarDigital - Sylenth1 v3.072",
+    "arch": "VST/VST3/AAX(MOD)",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/sylenth1_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a28ea22c1df3fa76d855786b525fae12e27dceed&dn=LennarDigital.Sylenth1.v3.0.72.Incl.Patched.and.Keygen.READ.NFO-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Sylenth1 - это виртуальный аналоговый синтезатор VSTi, который выводит определения качества и производительности на более высокий уровень. До настоящего времени лишь очень немногие программные синтезаторы были в состоянии соответствовать стандартам качества звука аппаратных синтезаторов. Sylenth1 это тот, который делает. Sylenth1 - это не просто еще один синтезатор. Он был построен с точки зрения производителя. Он был построен, чтобы производить превосходное качество звука и музыки. Он был построен для выполнения. Много исследований было вложено, чтобы достичь неслыханного тепла и ясности. Графический интерфейс обеспечивает высочайший уровень удобства использования, поэтому вы можете полностью раскрыть свой творческий потенциал.",
+    "install_instructions": "0. Удалите предыдущие версии.\n\nОпциональная очистка: %PROGRAMDATA%\\AppData\\\nПуть выглядит необычно, но он верный.\n\n1. Установите Sylenth1.\n\nЕсли вы не хотите обновлять Windows\nили используете устаревшую ОС, установите сертификаты (*.crt) из папки «Cert Update\\».\nНаш файл «Batch_Install.cmd» установит все 3 сертификата.\n\n*** R2R не меняет системные настройки скрытно ***\n\n2. Заблокируйте доступ к следующим хостам:\n\nwww.lennardigital.com\nrhea.exsilia.net\n\nПрограмма обращается к серверам разработчика при попытке активации или проверке обновлений.\n\n3. Запустите наш кейген.\nСкопируйте серийный номер (Serial Code).\n\n4. Запустите Sylenth1.\nПрограмма предложит выполнить активацию.\n\nВведите серийный номер. Нажмите «OK».\nПоявится ошибка подключения к интернету.\nВыберите «Offline» для запуска автономной активации.\nНажмите «Save Activation File», чтобы сохранить файл «Activate.dat».\nНажмите «Close» после сохранения файла *.dat.\n\n4. Введите свое имя и нажмите «Generate» в нашем кейгене.\nОткройте ранее сохраненный файл «Activate.dat».\nПосле этого будет сгенерирован файл лицензии «License.dat».\nСохраните его на жесткий диск.\n\n5. Перетащите файл лицензии в интерфейс Sylenth1.\nSylenth1 активируется после перезапуска.\n\n6. Пользуйтесь с удовольствием!",
     "install_instructions_visible": true,
     "screenshots": [],
     "video_url": "",
