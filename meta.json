@@ -1,5 +1,7 @@
 {
-  "featured": [],
+  "featured": [
+    "synths:test"
+  ],
   "news": [],
   "premium_cards": []
 }
