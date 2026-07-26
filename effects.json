@@ -124,17 +124,35 @@
     "video_url": ""
   },
   {
-    "id": "soundtoys",
-    "title": "Soundtoys",
-    "full_title": "Soundtoys (NO INSTALL) 5.0.1",
     "arch": "VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/soundtoys_cover.jpg",
+    "description": "Soundtoys 5 объединяет весь наш ассортимент звуковых эффектов в одну мощную коллекцию. Включает в себя все 18 Soundtoys плагинов.",
+    "full_title": "Soundtoys (NO INSTALL) 5.0.1",
+    "id": "soundtoys",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:820dbf0a9f06e2dca496591ad2b96fb6edb0d786&dn=Soundtoys&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/soundtoys_cover.jpg",
+    "title": "Soundtoys",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:820dbf0a9f06e2dca496591ad2b96fb6edb0d786&dn=Soundtoys&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Soundtoys 5 объединяет весь наш ассортимент звуковых эффектов в одну мощную коллекцию. Включает в себя все 18 Soundtoys плагинов.",
+    "video_url": ""
+  },
+  {
+    "id": "valhalladsp_bundle",
+    "title": "ValhallaDSP bundle",
+    "full_title": "ValhallaDSP bundle 2025",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/valhalladsp_bundle_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:288f3c8f024e0064263f2e50838b59d22d7e226b&dn=ValhallaDSP.bundle.2025.5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "Мы создаём цифровые плагины реверберации и задержки в аналоговом стиле для музыкантов, инженеров и других специалистов в области аудио. Мы одержимы идеей создания мощных инструментов с простыми интерфейсами. Наша цель — вдохновлять вас и помогать вашей работе.\n\nВключено:\n\n★ FreqEcho v1.2.0 — бесплатная задержка с частотным сдвигом \n★ Delay v3.0.5 — задержка с лентой/BBD/цифровая/тональная \n★ Plate v1.6.3 - классическая пластинчатая реверберация \n★ Room v2.0.5 - настоящая стереоалгоритмическая реверберация \n★ Shimmer v1.2.2 - реверберация со сдвигом высоты тона \n★ SpaceModulator v1.1.6 - free flanger \n★ Supermassive v4.0.0 - free space FX (задержка / реверберация / модуляция) \n★ ÜberMod v1.1.6 - mutlitap delay & modulation \n★ VintageVerb v4.0.5 - классические аппаратные цифровые реверберации 1970-х и 1980-х годов.",
     "install_instructions": "",
     "install_instructions_visible": false,
     "screenshots": [],
