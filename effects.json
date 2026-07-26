@@ -1,16 +1,11 @@
 [
   {
-    "id": "fabfilter",
-    "title": "FabFilter",
-    "full_title": "FabFilter - Total Bundle v2026.06.25",
     "arch": "VST|VST3|AAX|CLAP",
-    "tags": [
-      "Effect"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "description": "Total Bundle - это набор всех плагинов FabFilter",
+    "full_title": "FabFilter - Total Bundle v2026.06.25",
+    "id": "fabfilter",
+    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_1.png",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_2.png",
@@ -18,6 +13,27 @@
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_4.png",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_5.png"
     ],
+    "tags": [
+      "Effect"
+    ],
+    "title": "FabFilter",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "ozone_12",
+    "title": "Ozone 12",
+    "full_title": "iZotope - Ozone 12 Advanced v12.1.0",
+    "arch": "VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/ozone_12_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a8c31b4aca47b8949a0004b362bfde568df53de1&dn=iZotope%20-%20Ozone%2012%20Advanced%20v12.1.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Ваш полный набор инструментов для мастеринга~ Ozone — это универсальный набор из 20 профессиональных плагинов, разработанных для современного мастеринга и ускоренных благодаря экономичному помощнику на базе искусственного интеллекта. Опираясь на более чем двадцатилетний опыт передовых инноваций, отмеченных множеством наград, Ozone 12 обеспечивает полный контроль и предлагает ранее недоступные рабочие процессы мастеринга. Будь то ваш первый трек или последний из длинной череды хитов, здесь есть все, что нужно для воплощения вашего творческого замысла в жизнь.",
+    "screenshots": [],
     "video_url": ""
   }
 ]
