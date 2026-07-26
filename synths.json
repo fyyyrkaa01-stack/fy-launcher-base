@@ -50,21 +50,5 @@
     "title": "Kontakt 8",
     "torrent": "",
     "video_url": ""
-  },
-  {
-    "id": "melodyne_5",
-    "title": "Melodyne 5",
-    "full_title": "Celemony - Melodyne Studio 5 v5.4.2.006",
-    "arch": "STANDALONE, VST3, AAX, AU",
-    "tags": [
-      "Effect",
-      "Vocal"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/melodyne_5_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:aa5d001bcca9e2eb084f8ff1d892500b527c1a30&dn=Celemony%20-%20Melodyne%205%20Studio%20v5.4.2.006&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Melodyne предоставляет вам непревзойденный доступ ко всем музыкальным деталям в ваших записях и сэмплах - нота за нотой. Это стало возможным благодаря сложному анализу, который глубоко проникает в ваши записи и образцы, распознает и понимает музыкальные взаимосвязи в них: отдельные ноты и их характеристики, гаммы, ключи и аккорды, время, темп, цвет тона. И с помощью Melodyne вы можете интуитивно редактировать все эти вещи. Не только вокал, но и все виды инструментов, включая полифонические, такие как фортепиано и гитара.",
-    "screenshots": [],
-    "video_url": ""
   }
 ]
