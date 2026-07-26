@@ -37,17 +37,33 @@
     "video_url": ""
   },
   {
-    "id": "shaperbox_3",
-    "title": "ShaperBox 3",
-    "full_title": "Cableguys - ShaperBox 3 v3.6.3",
     "arch": "VST|VST3|AAX|AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/shaperbox_3_cover.png",
+    "description": "Многополосная обработка: Любой из 11 эффектов можно разделить на 3 частотные полосы (низкие, средние, высокие). Настраивайте сатурацию только на верхах или сайдчейн только на саб-басе. Привязка к ритму и транзиентам: Эффекты могут работать синхронно с темпом вашего проекта (от 1/4 ноты до сложных паттернов) или реагировать на удары (транзиенты) в самом аудио. Умный сайдчейн и внешние триггеры: Запускайте эффекты от любой другой дорожки. Внешний вход сайдчейна позволяет синхронизировать бас с любым ритмом ударных (даже если это ломаный бит, а не прямая бочка 4x4).",
+    "full_title": "Cableguys - ShaperBox 3 v3.6.3",
+    "id": "shaperbox_3",
+    "magnet": "magnet:?xt=urn:btih:33a92992bec22c62ce019834b0cd64044d0fef09&dn=Cableguys%20-%20ShaperBox%20v3.6.3%20%5BV.R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/shaperbox_3_cover.png",
+    "title": "ShaperBox 3",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:33a92992bec22c62ce019834b0cd64044d0fef09&dn=Cableguys%20-%20ShaperBox%20v3.6.3%20%5BV.R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "description": "Многополосная обработка: Любой из 11 эффектов можно разделить на 3 частотные полосы (низкие, средние, высокие). Настраивайте сатурацию только на верхах или сайдчейн только на саб-басе. Привязка к ритму и транзиентам: Эффекты могут работать синхронно с темпом вашего проекта (от 1/4 ноты до сложных паттернов) или реагировать на удары (транзиенты) в самом аудио. Умный сайдчейн и внешние триггеры: Запускайте эффекты от любой другой дорожки. Внешний вход сайдчейна позволяет синхронизировать бас с любым ритмом ударных (даже если это ломаный бит, а не прямая бочка 4x4).",
+    "video_url": ""
+  },
+  {
+    "id": "waves",
+    "title": "Waves",
+    "full_title": "Waves - Ultimate 17 26.06.23",
+    "arch": "STANDALONE, VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:b68dd79f5cfcbc3a0e7fcc69ce3c25d14a16249d&dn=Waves%20-%20Ultimate%2017%2026.06.23%20V.R.rar&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
     "screenshots": [],
     "video_url": ""
   }
