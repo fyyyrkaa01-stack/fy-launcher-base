@@ -36,18 +36,34 @@
     "video_url": ""
   },
   {
-    "id": "kontakt_8",
-    "title": "Kontakt 8",
-    "full_title": "Native Instruments - Kontakt 8 v8.11.1",
     "arch": "STANDALONE, VST3i, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "full_title": "Native Instruments - Kontakt 8 v8.11.1",
+    "id": "kontakt_8",
+    "magnet": "magnet:?xt=urn:btih:8c8daab5aa31323cb2e4ad2c82f473cff6557ac2&dn=Native%20Instruments%20-%20Kontakt%208%20v8.11.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST",
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "title": "Kontakt 8",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:8c8daab5aa31323cb2e4ad2c82f473cff6557ac2&dn=Native%20Instruments%20-%20Kontakt%208%20v8.11.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "video_url": ""
+  },
+  {
+    "id": "melodyne_5",
+    "title": "Melodyne 5",
+    "full_title": "Celemony - Melodyne Studio 5 v5.4.2.006",
+    "arch": "STANDALONE, VST3, AAX, AU",
+    "tags": [
+      "Effect",
+      "Vocal"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/melodyne_5_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:aa5d001bcca9e2eb084f8ff1d892500b527c1a30&dn=Celemony%20-%20Melodyne%205%20Studio%20v5.4.2.006&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Melodyne предоставляет вам непревзойденный доступ ко всем музыкальным деталям в ваших записях и сэмплах - нота за нотой. Это стало возможным благодаря сложному анализу, который глубоко проникает в ваши записи и образцы, распознает и понимает музыкальные взаимосвязи в них: отдельные ноты и их характеристики, гаммы, ключи и аккорды, время, темп, цвет тона. И с помощью Melodyne вы можете интуитивно редактировать все эти вещи. Не только вокал, но и все виды инструментов, включая полифонические, такие как фортепиано и гитара.",
     "screenshots": [],
     "video_url": ""
   }
