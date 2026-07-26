@@ -114,20 +114,39 @@
     "video_url": ""
   },
   {
-    "id": "reveal_sound_spire",
-    "title": "Reveal Sound Spire",
-    "full_title": "Reveal Sound - Spire v1.5.19.5343",
     "arch": "VST, VST3, AAX (MOD)",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
+    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
+    "full_title": "Reveal Sound - Spire v1.5.19.5343",
+    "id": "reveal_sound_spire",
+    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
+    "install_instructions_visible": true,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:4d6c6a7ae1a26c2163e4a7045586e0bc4127f421&dn=Reveal.Sound.Spire.v1.5.19.5343.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
+    "title": "Reveal Sound Spire",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:4d6c6a7ae1a26c2163e4a7045586e0bc4127f421&dn=Reveal.Sound.Spire.v1.5.19.5343.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
-    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
-    "install_instructions_visible": true,
+    "video_url": ""
+  },
+  {
+    "id": "dune_3",
+    "title": "DUNE 3",
+    "full_title": "Synapse Audio - DUNE 3 v3.4.0.4",
+    "arch": "VSTi/AAX",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/dune_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f8a529fc57d16c389a269f1c3d4796f64cb1bdf0&dn=Synapse.Audio.DUNE.3.v3.4.0.4.Incl.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "DUNE 3 построен на базе удостоенного наград синтезаторе DUNE 2, добавляя новые функции и инновационные идеи, чтобы создать лучший опыт работы с DUNE! DUNE 3 поставляется с множеством новых патчей, созданных опытными звукорежиссерами. Так как DUNE 3 полностью совместим с DUNE 2, он также включает в себя его звуковые предустановки - удвоение размера фабричной библиотеки до более чем 1000 патчей. Пересмотренный раздел фильтров в Dune 3 теперь содержит двойной многорежимный фильтр и эффект вставки. Различные режимы маршрутизации, такие как последовательное / параллельное и бесшовное смешивание с помощью регулятора баланса, обеспечивают неограниченный творческий потенциал! Также были добавлены новые типы фильтров, включающие фильтры в цепи обратной связи с нулевой задержкой, основанные на нашей новейшей технологии аналогового моделирования. Для творческого креатива есть новые эффекты вставки, такие как formant/vowel фильтр или фазер, которые значительно расширяют спектр возможностей звукового дизайна.",
+    "install_instructions": "",
+    "install_instructions_visible": false,
     "screenshots": [],
     "video_url": "",
     "is_hidden": false
