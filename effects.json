@@ -1,26 +1,5 @@
 [
   {
-    "arch": "VST|VST3|AAX|CLAP",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_cover.png",
-    "description": "Total Bundle - это набор всех плагинов FabFilter",
-    "full_title": "FabFilter - Total Bundle v2026.06.25",
-    "id": "fabfilter",
-    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_1.png",
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_2.png",
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_3.png",
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_4.png",
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_5.png"
-    ],
-    "tags": [
-      "Effect"
-    ],
-    "title": "FabFilter",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
     "arch": "VST3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/ozone_12_cover.png",
     "description": "Ваш полный набор инструментов для мастеринга~ Ozone — это универсальный набор из 20 профессиональных плагинов, разработанных для современного мастеринга и ускоренных благодаря экономичному помощнику на базе искусственного интеллекта. Опираясь на более чем двадцатилетний опыт передовых инноваций, отмеченных множеством наград, Ozone 12 обеспечивает полный контроль и предлагает ранее недоступные рабочие процессы мастеринга. Будь то ваш первый трек или последний из длинной череды хитов, здесь есть все, что нужно для воплощения вашего творческого замысла в жизнь.",
@@ -84,19 +63,42 @@
     "video_url": ""
   },
   {
-    "id": "auto_tune_pro_11",
-    "title": "Auto-Tune Pro 11",
-    "full_title": "Antares - Auto-Tune Pro v11.0.0",
     "arch": "VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_pro_11_cover.png",
+    "description": "Профессиональный стандарт коррекции высоты тона. Auto-Tune Pro 11 - это самая продвинутая версия Auto-Tune из когда-либо существовавших. Включает автоматический режим для коррекции в реальном времени, проигрыватель гармоний из 4 частей и режим Graph для детального редактирования высоты тона и времени.",
+    "full_title": "Antares - Auto-Tune Pro v11.0.0",
+    "id": "auto_tune_pro_11",
+    "magnet": "magnet:?xt=urn:btih:6dccfd2412f64bfeda710a5ed7d187ec2d6f3bf9&dn=Antares%20-%20Auto-Tune%20Pro%20v11.0.0%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "Vocal"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_pro_11_cover.png",
+    "title": "Auto-Tune Pro 11",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:6dccfd2412f64bfeda710a5ed7d187ec2d6f3bf9&dn=Antares%20-%20Auto-Tune%20Pro%20v11.0.0%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Профессиональный стандарт коррекции высоты тона. Auto-Tune Pro 11 - это самая продвинутая версия Auto-Tune из когда-либо существовавших. Включает автоматический режим для коррекции в реальном времени, проигрыватель гармоний из 4 частей и режим Graph для детального редактирования высоты тона и времени.",
-    "screenshots": [],
+    "video_url": ""
+  },
+  {
+    "id": "fabfilter",
+    "title": "FabFilter",
+    "full_title": "FabFilter - Total Bundle v2026.06.25",
+    "arch": "VST|VST3|AAX|CLAP",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:26bbf10cfbae9b9bef910e99b1d16371d517e2d4&dn=FabFilter%20-%20Total%20Bundle%20v2026.06.25%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Total Bundle - это набор всех плагинов FabFilter",
+    "install_instructions": "1. Установите нужные плагины \n2. Установите последнюю версию TEAM R2R - R2R System  \n3. Активируйте плагины при помощи WM_FabFilter.r2rwm\nПримечание\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "install_instructions_visible": true,
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_1.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_2.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_3.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_4.png",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fabfilter_screenshot_5.png"
+    ],
     "video_url": ""
   }
 ]
