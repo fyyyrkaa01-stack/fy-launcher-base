@@ -3,19 +3,19 @@
   "news": [],
   "premium_cards": [
     {
-      "title": "Безграничная скорось загрузки",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
       "description": "Скачивай плагины, паки и библиотеки на максимальной скорости без ограничений и ожиданий",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png"
+      "title": "Безграничная скорось загрузки"
     },
     {
-      "title": "Рулетка с мини-играми",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_2_cover.png",
       "description": "Крути рулетку и получай плагин, с которого напишешь свой новый бит! Пиши биты и развивай свой скилл в мини играх!",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_2_cover.png"
+      "title": "Рулетка с мини-играми"
     },
     {
-      "title": "Кейсы с рекомендациями",
+      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_3_cover.png",
       "description": "Получай случайные плагины в кейсах по рекомендациям системы. Без азарта -- только польза!",
-      "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_3_cover.png"
+      "title": "Кейсы с рекомендациями"
     }
   ]
 }
