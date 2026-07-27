@@ -6,13 +6,13 @@
   ],
   "news": [
     {
-      "id": "testirovanie",
-      "title": "ТЕСТИРОВАНИЕ!",
-      "date": "2026-07-27",
-      "category": "updates",
-      "description": "НАПОЛНЯЕМ ЛАУНЧЕР КОНТЕНТОМ!",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testirovanie_banner.jpg",
-      "text": "\n                <style>\n                    body { color: #FFFFFF; font-family: sans-serif; line-height: 1.5; }\n                    p { margin-bottom: 8px; }\n                    h1, h2, h3 { color: #3B6BFF; font-weight: bold; }\n                    img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; }\n                    a { color: #3B6BFF; }\n                </style>\n                <p>Fasfaff f</p><p>Asfsafaf</p><p>Af</p><p>Saf</p><p>A</p><p>F</p><p>F</p><p>Af</p><p>As</p><p>Fsa</p><p>Ff</p><p>Af</p><p>Saf</p><p>afs</p>\n                "
+      "category": "updates",
+      "date": "2026-07-27",
+      "description": "НАПОЛНЯЕМ ЛАУНЧЕР КОНТЕНТОМ!",
+      "id": "testirovanie",
+      "text": "\n                <style>\n                    body { color: #FFFFFF; font-family: sans-serif; line-height: 1.5; }\n                    p { margin-bottom: 8px; }\n                    h1, h2, h3 { color: #3B6BFF; font-weight: bold; }\n                    img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; }\n                    a { color: #3B6BFF; }\n                </style>\n                <p>Fasfaff f</p><p>Asfsafaf</p><p>Af</p><p>Saf</p><p>A</p><p>F</p><p>F</p><p>Af</p><p>As</p><p>Fsa</p><p>Ff</p><p>Af</p><p>Saf</p><p>afs</p>\n                ",
+      "title": "ТЕСТИРОВАНИЕ!"
     }
   ],
   "premium_cards": [
