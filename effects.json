@@ -124,6 +124,25 @@
     "video_url": ""
   },
   {
+    "arch": "VST, VST3, AAX, AU.",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/crystalline_cover.png",
+    "description": "Crystalline стоит на плечах 60-летней погони за \"святым Граалем DSP\". Мы спросили себя, что бы сделали пионеры легендарных цифровых ревербераторов, если бы у них были ресурсы, которыми мы располагаем сегодня - и затем мы сделали именно такой плагин. Со всеми \"колокольчиками\" и \"свистками\", которые могли бы понадобиться современному инженеру.",
+    "full_title": "BABY Audio - Crystalline",
+    "id": "crystalline",
+    "install_instructions": "Установите и запустите Keygen.",
+    "install_instructions_visible": true,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:b21ba8ddb4e3a162a6bf816f9548524dcdd20a79&dn=BABY%20Audio%20-%20Crystalline%20v1.8.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "screenshots": [],
+    "tags": [
+      "VST3",
+      "Effect"
+    ],
+    "title": "Crystalline",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
     "arch": "SAL, VST3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/guitar_rig_7_cover.png",
     "description": "Компания Native Instruments выпускает седьмую версию известного плагина для моделирования гитарного усиления. Заявлено, что новинка обзавелась четырьмя виртуальными усилителями (Super Fast 100, Super Fast 100, AC Box XV, Bass Rage) и пятью педалями, основанными на технологии машинного обучения Intelligent Circuit Modeling (ICM). Кроме этого, в плагин теперь добавлено более 100 пресетов и четыре новых лоу-фай эффекта (Tape Wobble, Noise Machine, Vintage Vibrato, Kolor)",
@@ -196,40 +215,20 @@
     "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA"
   },
   {
-    "arch": "VST, VST3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/valhalladsp_bundle_cover.png",
-    "description": "Мы создаём цифровые плагины реверберации и задержки в аналоговом стиле для музыкантов, инженеров и других специалистов в области аудио. Мы одержимы идеей создания мощных инструментов с простыми интерфейсами. Наша цель — вдохновлять вас и помогать вашей работе.\n\nВключено:\n\n★ FreqEcho v1.2.0 — бесплатная задержка с частотным сдвигом \n★ Delay v3.0.5 — задержка с лентой/BBD/цифровая/тональная \n★ Plate v1.6.3 - классическая пластинчатая реверберация \n★ Room v2.0.5 - настоящая стереоалгоритмическая реверберация \n★ Shimmer v1.2.2 - реверберация со сдвигом высоты тона \n★ SpaceModulator v1.1.6 - free flanger \n★ Supermassive v4.0.0 - free space FX (задержка / реверберация / модуляция) \n★ ÜberMod v1.1.6 - mutlitap delay & modulation \n★ VintageVerb v4.0.5 - классические аппаратные цифровые реверберации 1970-х и 1980-х годов.",
-    "full_title": "ValhallaDSP bundle 2025",
     "id": "valhalladsp_bundle",
+    "title": "ValhallaDSP bundle",
+    "full_title": "ValhallaDSP bundle 2025",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Reverb"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/valhalladsp_bundle_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:288f3c8f024e0064263f2e50838b59d22d7e226b&dn=ValhallaDSP.bundle.2025.5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "Мы создаём цифровые плагины реверберации и задержки в аналоговом стиле для музыкантов, инженеров и других специалистов в области аудио. Мы одержимы идеей создания мощных инструментов с простыми интерфейсами. Наша цель — вдохновлять вас и помогать вашей работе.\n\nВключено:\n\n★ FreqEcho v1.2.0 — бесплатная задержка с частотным сдвигом \n★ Delay v3.0.5 — задержка с лентой/BBD/цифровая/тональная \n★ Plate v1.6.3 - классическая пластинчатая реверберация \n★ Room v2.0.5 - настоящая стереоалгоритмическая реверберация \n★ Shimmer v1.2.2 - реверберация со сдвигом высоты тона \n★ SpaceModulator v1.1.6 - free flanger \n★ Supermassive v4.0.0 - free space FX (задержка / реверберация / модуляция) \n★ ÜberMod v1.1.6 - mutlitap delay & modulation \n★ VintageVerb v4.0.5 - классические аппаратные цифровые реверберации 1970-х и 1980-х годов.",
     "install_instructions": "",
     "install_instructions_visible": false,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:288f3c8f024e0064263f2e50838b59d22d7e226b&dn=ValhallaDSP.bundle.2025.5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "screenshots": [],
-    "tags": [
-      "Effect",
-      "Reverb"
-    ],
-    "title": "ValhallaDSP bundle",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "id": "crystalline",
-    "title": "Crystalline",
-    "full_title": "BABY Audio - Crystalline",
-    "arch": "VST, VST3, AAX, AU.",
-    "tags": [
-      "VST3",
-      "Effect",
-      "Reverb"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/crystalline_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:b21ba8ddb4e3a162a6bf816f9548524dcdd20a79&dn=BABY%20Audio%20-%20Crystalline%20v1.8.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "Crystalline стоит на плечах 60-летней погони за \"святым Граалем DSP\". Мы спросили себя, что бы сделали пионеры легендарных цифровых ревербераторов, если бы у них были ресурсы, которыми мы располагаем сегодня - и затем мы сделали именно такой плагин. Со всеми \"колокольчиками\" и \"свистками\", которые могли бы понадобиться современному инженеру.",
-    "install_instructions": "Установите и запустите Keygen.",
-    "install_instructions_visible": true,
     "screenshots": [],
     "video_url": "",
     "is_hidden": false
