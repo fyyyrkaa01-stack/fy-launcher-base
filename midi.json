@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "cymatics_lonely_midi_d_min",
+    "title": "Cymatics   Lonely MIDI   D Min",
+    "full_title": "Cymatics   Lonely MIDI   D Min",
+    "arch": "",
+    "tags": [],
+    "cover": "",
+    "torrent": "",
+    "magnet": "",
+    "description": "",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "screenshots": [],
+    "video_url": "",
+    "is_hidden": false,
+    "bpm": 0,
+    "key": "",
+    "instrument": "Electric Piano",
+    "midi_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/cymatics_lonely_midi_d_min.mid",
+    "duration_seconds": 16
+  }
+]
