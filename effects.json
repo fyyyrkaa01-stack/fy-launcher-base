@@ -298,17 +298,33 @@
     "video_url": ""
   },
   {
-    "id": "t_racks_6_max",
-    "title": "T-RackS 6 MAX",
-    "full_title": "IK Multimedia - T-RackS 6 MAX v6.3.0 [NO INSTALL, ONLY VST3]",
     "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/t_racks_6_max_cover.png",
+    "description": "1. Поместить папку в удобное для Вас место \n2. От имени Администратора запустить SymLink DeInstaller \n3. От имени Администратора запустить SymLink Installer \n4. Активировать с помощью Кейгена",
+    "full_title": "IK Multimedia - T-RackS 6 MAX v6.3.0 [NO INSTALL, ONLY VST3]",
+    "id": "t_racks_6_max",
+    "magnet": "magnet:?xt=urn:btih:1ad0eec8c68f9e2adf7f791233713b786e0461c9&dn=IK%20Multimedia%20T-RackS%206&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/t_racks_6_max_cover.png",
+    "title": "T-RackS 6 MAX",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:1ad0eec8c68f9e2adf7f791233713b786e0461c9&dn=IK%20Multimedia%20T-RackS%206&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "1. Поместить папку в удобное для Вас место \n2. От имени Администратора запустить SymLink DeInstaller \n3. От имени Администратора запустить SymLink Installer \n4. Активировать с помощью Кейгена",
+    "video_url": ""
+  },
+  {
+    "id": "portal",
+    "title": "Portal",
+    "full_title": "Output - Portal v1.2.1",
+    "arch": "VST/VST3/AAX",
+    "tags": [
+      "Effect",
+      "Reverb"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/portal_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e27ede234014906498c08e075512c8fdeeb7a8a4&dn=Output.Portal.v1.2.1.Incl.Keygen-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "С PORTAL гранулярный синтез переносит ваши звуки в другое измерение. Легко измените любой аудиовход - VST, барабаны, вокал, живая гитара, как вы это называете - новым и музыкальным способом.",
     "screenshots": [],
     "video_url": ""
   }
