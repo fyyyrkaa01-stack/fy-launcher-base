@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "synth",
-    "midis": [
-      "synth_cymatics_abyss_77_bpm_f_min",
-      "synth_cymatics_bionics_136_bpm_d_min",
-      "synth_cymatics_calibrate_118_bpm_f_min",
-      "synth_cymatics_daredevil_152_bpm_e_min",
-      "synth_cymatics_encryption_132_bpm_d_min",
-      "synth_cymatics_firewall_150_bpm_f_min",
-      "synth_cymatics_ghostrider_150_bpm_d_min",
-      "synth_cymatics_hologram_130_bpm_c_min",
-      "synth_cymatics_impala_118_bpm_a_min",
-      "synth_cymatics_juxtaposition_140_bpm_e_min",
-      "synth_cymatics_keycode_141_bpm_f_min",
-      "synth_cymatics_ledger_110_bpm_d_min",
-      "synth_cymatics_masquerade_160_bpm_a_min",
-      "synth_cymatics_no_security_147_bpm_e_min",
-      "synth_cymatics_orange_moon_140_bpm_c_min"
-    ],
-    "title": "Synth"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "trap",
     "midis": [
       "trap_cymatics_accords_163_bpm_c_min",
