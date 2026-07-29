@@ -80,19 +80,36 @@
     "video_url": ""
   },
   {
-    "id": "bitwig_studio",
-    "title": "Bitwig Studio",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
+    "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
     "full_title": "Bitwig Studio 6.0",
+    "id": "bitwig_studio",
+    "magnet": "magnet:?xt=urn:btih:0df73ce205ec1905427a29ec9998ee8b8b61640c&dn=Bitwig%20Studio%20v6.0%20Windows-Team%20BATs&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_screenshot_1.png"
+    ],
+    "tags": [
+      "DAW"
+    ],
+    "title": "Bitwig Studio",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "reaper",
+    "title": "REAPER",
+    "full_title": "Cockos REAPER 7.78 + Portable",
     "arch": "",
     "tags": [
       "DAW"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:0df73ce205ec1905427a29ec9998ee8b8b61640c&dn=Bitwig%20Studio%20v6.0%20Windows-Team%20BATs&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
+    "magnet": "magnet:?xt=urn:btih:88411af190955ddf0ff0d2523609a0281f742215&dn=Reaper%207.78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Cockos Reaper является одной из самых продвинутых программ для создания музыки, как в студии, так и в домашних условиях. Главная «фишка» программы заключается в том, что она имеет паттерновое, клавиатурное и аудио редактирование. Вы можете задавать неограниченное количество аудио или миди треков, не считая того, сколько можно добавить виртуальных инструментов формата VST. Reaper занимает не такое большое место на жестком диске и не загружает процессор, как программы из серии FL Studio, Cubase, Reason или Sonar. С данной программой вы сможете работать даже на маломощных компьютерах с звуковыми картами, которые не поддерживают режимы работы Full duplex. Хотя, если саундкарта поддерживает этот режим, вы получите неограниченные возможности по созданию своих композиций с профессиональным звучанием даже в таких форматах, как 5+1, а при наличии дополнительных плагинов, и 7+1.\n\n1. После установки программы запустить REAPER_KeyGen.exe, вписать любой Email, нажать \nPATCH \nи указать на файл reaper.exe_в папке с установленной программой.\n2. Нажать GENERATE и сохранить файл лицензии в папке с программой.\nРусификация\nПри запущенном REAPER запустить файл Russian.ReaperLangPack и указать на reaper.exe в установленной папке. Перезапустить REAPER\nПримечание:\nВы можете самостоятельно создать портативную версию, в инсталляторе для этого есть соответствующий чекбокс. Лечение и русификация аналогична установочной версии\n￼",
     "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_screenshot_1.png"
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_screenshot_1.png"
     ],
     "video_url": ""
   }
