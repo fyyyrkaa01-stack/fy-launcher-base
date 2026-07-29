@@ -81,5 +81,21 @@
     "title": "Nexus 4 Complete",
     "torrent": "",
     "video_url": ""
+  },
+  {
+    "id": "arturia_sound_banks",
+    "title": "Arturia - Sound Banks",
+    "full_title": "Arturia - Sound Banks 2026.7 Updates Only (SOUNDBANK)(VR)",
+    "arch": "849.8 MB",
+    "tags": [
+      "библиотека",
+      "ARTURIA"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:057ea7f6d13a10a66ba4d7ea38040d42996ae86b&dn=Arturia.Sound.Banks.Update.Only.2026.7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "screenshots": [],
+    "video_url": ""
   }
 ]
