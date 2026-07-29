@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "festival",
-    "midis": [
-      "festival_cymatics_all_for_you_breakdown_126_bpm_a_min",
-      "festival_cymatics_all_for_you_126_bpm_a_min",
-      "festival_cymatics_celebrate_106_bpm_g_min",
-      "festival_cymatics_deep_dive_104_bpm_c_min",
-      "festival_cymatics_hometown_124_bpm_f_min",
-      "festival_cymatics_ironclad_breakdown_128_bpm_e_min",
-      "festival_cymatics_ironclad_128_bpm_e_min",
-      "festival_cymatics_make_it_through_breakdown_123_bpm_e_min",
-      "festival_cymatics_make_it_through_123_bpm_e_min",
-      "festival_cymatics_never_alone_breakdown_126_bpm_f_min",
-      "festival_cymatics_never_alone_126_bpm_f_min",
-      "festival_cymatics_pictures_breakdown_124_bpm_g_min",
-      "festival_cymatics_pictures_124_bpm_g_min",
-      "festival_cymatics_purpose_108_bpm_e_min",
-      "festival_cymatics_stardust_128_bpm_d_min"
-    ],
-    "title": "Festival"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "fusion",
     "midis": [
       "fusion_cymatics_all_of_me_123_bpm_d_min",
