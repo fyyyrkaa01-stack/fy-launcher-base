@@ -221,5 +221,21 @@
     "title": "Hive 2",
     "torrent": "",
     "video_url": ""
+  },
+  {
+    "id": "nexus_5",
+    "title": "Nexus 5",
+    "full_title": "reFX - Nexus 5 v5.4.14",
+    "arch": "VST|VST3|AAX|AU",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)\nПримечание для MAC\nРасположение содержимого по умолчанию -\n/Library/Audio/Presets/reFX/NEXUS library\n- поместите содержимое в этот каталог или разместите там символическую ссылку на текущее местоположение библиотеки или отредактируйте путь в файле\n/users/shared/reFX/nexus/settings.json",
+    "screenshots": [],
+    "video_url": ""
   }
 ]
