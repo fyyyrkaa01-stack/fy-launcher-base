@@ -286,18 +286,33 @@
     "video_url": ""
   },
   {
-    "id": "avenger",
-    "title": "Avenger",
-    "full_title": "Vengeance Producer Suite - Avenger v1.4.10",
     "arch": "VSTi/VSTi3/AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/avenger_cover.png",
+    "description": "Познакомьтесь с нашей новой альфой и омегой синтеза: Vengeance Producer Suite Avenger уже здесь! Самый универсальный и лучший по звучанию синтезатор, который вы когда-либо встречали. VPS Avenger предлагает вам множество функций и гигантскую растущую библиотеку от некоторых из лучших звуковых дизайнеров на этой планете.",
+    "full_title": "Vengeance Producer Suite - Avenger v1.4.10",
+    "id": "avenger",
+    "magnet": "magnet:?xt=urn:btih:7bd7c9552a1af465f9b58962404cd498c09bccef&dn=Avenger_1_4_10&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/avenger_cover.png",
+    "title": "Avenger",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:7bd7c9552a1af465f9b58962404cd498c09bccef&dn=Avenger_1_4_10&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "description": "Познакомьтесь с нашей новой альфой и омегой синтеза: Vengeance Producer Suite Avenger уже здесь! Самый универсальный и лучший по звучанию синтезатор, который вы когда-либо встречали. VPS Avenger предлагает вам множество функций и гигантскую растущую библиотеку от некоторых из лучших звуковых дизайнеров на этой планете.",
+    "video_url": ""
+  },
+  {
+    "id": "ana_2",
+    "title": "ANA 2",
+    "full_title": "Sonic Academy - ANA 2.0.3 r2",
+    "arch": "VST, AAX",
+    "tags": [
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/ana_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:b82ea243c27a9864b415b832a08015285f8ce9ca&dn=Sonic%20Academy%20ANA%202.0.3%20r2%20NO%20INSTALL%2027.12.2017&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "{КАК \"УСТАНОВИТЬ\" ДАННЫЙ ПАКЕТ С ИСПОЛЬЗОВАНИЕМ .CMD ФАЙЛОВ SymLink Installer?}\nХотя ниже идет длинное описание, суть проста:\nA) СОХРАНИВ НАРАБОТКИ, удалить некоторые папки, возможно оставшиеся от предыдущих инсталляций;\nB) запустить командный файл создания симлинков (Windows Junction Points) - SymLink Installer.cmd;\nC) указать в DAW путь сканирования VST2 плагинов (C:\\Program Files (x86)\\VstPlugins),\nD) запустить DAW, просканировать наличие новых плагинов, запустив их и (если это требуется) зарегистрировать.",
     "screenshots": [],
     "video_url": ""
   }
