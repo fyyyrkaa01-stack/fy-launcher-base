@@ -436,15 +436,31 @@
     "video_url": ""
   },
   {
-    "id": "kickstart_2",
-    "title": "Kickstart 2",
-    "full_title": "Cableguys - Nicky Romero Kickstart 2 v2.0.6",
     "arch": "VST, VST3, AAX.",
-    "tags": [],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/kickstart_2_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a7fd945453462cea508c0ff5c6f78844509120c1&dn=Cableguys%20-%20Nicky%20Romero%20Kickstart%20v2.0.6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "description": "1. Установите плагин. \n2. Используйте файл «license.lic» для активации. Вы можете изменить колонку email в лицензии на любой другой email/имя пользователя, либо до регистрации, либо после.\n\nps. Иногда полезно менять лицензию, по крайней мере, после того, как разработчик запрещает поддельное имя/электронную почту, и вы не можете обновить пресеты. Вы можете использовать наш файл лицензии для изменения reginfo других групп. И он работает на всех предыдущих релизах Cableguys.\n\n\n\n~Мгновенно решает проблему несовместимых, грязных киков и басов~ Забудьте о компрессорах - Ники Ромеро и Cableguys собрали все, что нужно для профессионального сайдчейнинга, в одном быстром и простом плагине. Просто включите Kickstart в любой трек, чтобы мгновенно уменьшить громкость каждого кик-барабана, освободив место для баса. Теперь ваши кики и басы будут пробиваться через динамики с профессиональным ударом, четкостью и грувом. Используйте его для EDM, trap, house, hip-hop, techno, DnB - для чего угодно.",
+    "full_title": "Cableguys - Nicky Romero Kickstart 2 v2.0.6",
+    "id": "kickstart_2",
+    "magnet": "magnet:?xt=urn:btih:a7fd945453462cea508c0ff5c6f78844509120c1&dn=Cableguys%20-%20Nicky%20Romero%20Kickstart%20v2.0.6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
+    "tags": [],
+    "title": "Kickstart 2",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "cramit",
+    "title": "Cramit",
+    "full_title": "Sixth Sample Cramit",
+    "arch": "VST3",
+    "tags": [
+      "Effect",
+      "Free"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/cramit_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/cramit.torrent",
+    "magnet": "",
+    "description": "Многополосный OTT компрессор",
     "screenshots": [],
     "video_url": ""
   }
