@@ -239,18 +239,34 @@
     "video_url": ""
   },
   {
-    "id": "nexus_5",
-    "title": "Nexus 5",
-    "full_title": "reFX - Nexus 5 v5.4.14",
     "arch": "VST|VST3|AAX|AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)",
+    "full_title": "reFX - Nexus 5 v5.4.14",
+    "id": "nexus_5",
+    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "title": "Nexus 5",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)",
+    "video_url": ""
+  },
+  {
+    "id": "zebra_3",
+    "title": "Zebra 3",
+    "full_title": "u-he — Zebra 3 (v3.0.0.21799)",
+    "arch": "VSTi3, AAX, CLAP",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zebra_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a8d10e63583b7eea70cedab1bcce1f93fa32973f&dn=u-he%20Zebra3%20v3.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "description": "Zebra 3 — это долгожданное продолжение легендарного синтезатора, полностью перестроенное с нуля. Инструмент сочетает в себе передовые технологии аналогового, физического и цифрового моделирования. Это мощная среда для глубокого звукового дизайна, предлагающая как интуитивно понятный интерфейс для быстрой работы, так и безграничные возможности для создания сложных текстур.",
     "screenshots": [],
     "video_url": ""
   }
