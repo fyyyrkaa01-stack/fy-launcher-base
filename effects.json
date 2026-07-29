@@ -345,17 +345,32 @@
     "video_url": ""
   },
   {
-    "id": "halftime",
-    "title": "HalfTime",
-    "full_title": "CableGuys - HalfTime 1.0.1",
     "arch": "VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/halftime_cover.png",
+    "description": "Добро пожаловать в мир растянутого, замедленного звука с HalfTime, единственным плагином, на 100% предназначенным для создания эффектов с замедлением скорости, какие используют Armin van Buuren, David Guetta, members of 808 Mafia, The Chemical Brothers и другими.",
+    "full_title": "CableGuys - HalfTime 1.0.1",
+    "id": "halftime",
+    "magnet": "magnet:?xt=urn:btih:a377e670dae77d36cddd5157aac0ca8039f5afb6&dn=CableGuys.HalfTime.v1.0.1.CE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/halftime_cover.png",
+    "title": "HalfTime",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a377e670dae77d36cddd5157aac0ca8039f5afb6&dn=CableGuys.HalfTime.v1.0.1.CE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Добро пожаловать в мир растянутого, замедленного звука с HalfTime, единственным плагином, на 100% предназначенным для создания эффектов с замедлением скорости, какие используют Armin van Buuren, David Guetta, members of 808 Mafia, The Chemical Brothers и другими.",
+    "video_url": ""
+  },
+  {
+    "id": "effectrix",
+    "title": "Effectrix",
+    "full_title": "Sugar Bytes - Effectrix 1.4.8",
+    "arch": "STANDALONE, VST, VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/effectrix_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:aec02694448471f3aed76be9845a48c8feb561a5&dn=effectrix&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "Effectrix - это профессиональный мультиэффектный секвенсор, который меняет стиль современной музыки. Рисуя цветные блоки на секвенсоре, вы легко превращаете ваши треки в фейерверки. Зацикливание, скрэтчинг, реверс и растяжение - в режиме реального времени и на лету. Sigur Ros, Armin van Buuren, Diplo и многие другие ценят его вдохновляющие аспекты.",
     "screenshots": [],
     "video_url": ""
   }
