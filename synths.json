@@ -317,18 +317,34 @@
     "video_url": ""
   },
   {
-    "id": "xo_complete",
-    "title": "XO Complete",
-    "full_title": "XLN Audio - XO Complete v1.8.4.1",
     "arch": "VST|VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/xo_complete_cover.png",
+    "description": "XO - это не обычная драм-машина. XO визуально упорядочивает ваши сэмплы, а интуитивно понятный рабочий процесс позволяет сосредоточиться на прослушивании, а не на поиске в папках. Прослушивайте сэмплы и ритмы, чтобы найти то, что вам нравится, а затем доводите до совершенства.\n\nПримечание Удалите предыдущую версию. Удалите предыдущее содержимое. Если требуется дополнительная очистка,\n• %APPDATA%\\(Product Name)\\ • %PROGRAMDATA%\\XLN Audio\\ • %USERPROFILE%\\Documents\\(Product Name)\\ • %USERPROFILE%\\Documents\\(Product Name) Logs\\ • %USERPROFILE%\\Documents\\XLN Online Installer\\ ------------------------------ \n1. Установите плагин \n2. Установите последнюю версию TEAM R2R - R2R System \n3. Активируйте при помощи WM_XLNAudio.r2rwm\nУстановка библиотеки \n1. Скопируйте библиотеку XO на свой компьютер. \n2. Запустите \"*_Library_Placer.exe\", чтобы разместить библиотеку. * Вы не должны удалять файлы из этой папки после установки, активации.\n\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "full_title": "XLN Audio - XO Complete v1.8.4.1",
+    "id": "xo_complete",
+    "magnet": "magnet:?xt=urn:btih:f0d25bd9671bd6987d6569b70a9ca823be660b7e&dn=XLN%20Audio%20-%20XO%20Complete%20v1.8.4.1%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/xo_complete_cover.png",
+    "title": "XO Complete",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f0d25bd9671bd6987d6569b70a9ca823be660b7e&dn=XLN%20Audio%20-%20XO%20Complete%20v1.8.4.1%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "XO - это не обычная драм-машина. XO визуально упорядочивает ваши сэмплы, а интуитивно понятный рабочий процесс позволяет сосредоточиться на прослушивании, а не на поиске в папках. Прослушивайте сэмплы и ритмы, чтобы найти то, что вам нравится, а затем доводите до совершенства.\n\nПримечание Удалите предыдущую версию. Удалите предыдущее содержимое. Если требуется дополнительная очистка,\n• %APPDATA%\\(Product Name)\\ • %PROGRAMDATA%\\XLN Audio\\ • %USERPROFILE%\\Documents\\(Product Name)\\ • %USERPROFILE%\\Documents\\(Product Name) Logs\\ • %USERPROFILE%\\Documents\\XLN Online Installer\\ ------------------------------ \n1. Установите плагин \n2. Установите последнюю версию TEAM R2R - R2R System \n3. Активируйте при помощи WM_XLNAudio.r2rwm\nУстановка библиотеки \n1. Скопируйте библиотеку XO на свой компьютер. \n2. Запустите \"*_Library_Placer.exe\", чтобы разместить библиотеку. * Вы не должны удалять файлы из этой папки после установки, активации.\n\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "video_url": ""
+  },
+  {
+    "id": "atlas_2",
+    "title": "Atlas 2",
+    "full_title": "Algonaut - Atlas 2 v2.6.2",
+    "arch": "STANDALONE, VSTi, VST3i",
+    "tags": [
+      "VST3",
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/atlas_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:34cbfd371a8d3c2211e3377914dd7891519c5c3a&dn=Algonaut%20-%20Atlas%20v2.6.2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Превратите образцы в музыку! Самые креативные сочетания звука и ритма. Создавайте свои лучшие биты. Драм-машина и менеджер сэмплов Atlas 2 предлагают новые функции, такие как быстрый и мощный барабанный секвенсор, механизм вариации/очеловечивания сэмплов и новый браузер контента, который упрощает управление и рекомбинацию наборов ударных и секвенсоров. Кроме того, в каждом аспекте оригинального Атласа есть сотни небольших улучшений.",
     "screenshots": [],
     "video_url": ""
   }
