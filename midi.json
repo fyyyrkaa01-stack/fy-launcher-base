@@ -21,1368 +21,1263 @@
     "video_url": ""
   },
   {
-    "id": "ambient_cymatics_allure_77_bpm_d_min",
-    "title": "Cymatics - Allure - 77 BPM D# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Allure - 77 BPM D# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_bloom_105_bpm_a_min",
-    "title": "Cymatics - Bloom - 105 BPM A Min",
-    "bpm": 105,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Bloom - 105 BPM A Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_currents_105_bpm_f_min",
-    "title": "Cymatics - Currents - 105 BPM F Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Currents - 105 BPM F Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_drifting_85_bpm_a_min",
-    "title": "Cymatics - Drifting - 85 BPM A Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Drifting - 85 BPM A Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_essence_65_bpm_c_min",
-    "title": "Cymatics - Essence - 65 BPM C# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Essence - 65 BPM C# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_feel_your_love_116_bpm_e_min",
-    "title": "Cymatics - Feel Your Love - 116 BPM E Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Feel Your Love - 116 BPM E Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_galaxy_85_bpm_a_min",
-    "title": "Cymatics - Galaxy - 85 BPM A Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Galaxy - 85 BPM A Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_hard_times_90_bpm_g_min",
-    "title": "Cymatics - Hard Times - 90 BPM G# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Hard Times - 90 BPM G# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_inertia_111_bpm_d_min",
-    "title": "Cymatics - Inertia - 111 BPM D# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Inertia - 111 BPM D# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_kinesis_90_bpm_b_min",
-    "title": "Cymatics - Kinesis - 90 BPM B Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Kinesis - 90 BPM B Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_luminescence_122_bpm_f_min",
-    "title": "Cymatics - Luminescence - 122 BPM F# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Luminescence - 122 BPM F# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_movements_110_bpm_f_min",
-    "title": "Cymatics - Movements - 110 BPM F Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Movements - 110 BPM F Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_nebula_140_bpm_a_min",
-    "title": "Cymatics - Nebula - 140 BPM A# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Nebula - 140 BPM A# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_origin_115_bpm_g_min",
-    "title": "Cymatics - Origin - 115 BPM G# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Origin - 115 BPM G# Min.mid"
-  },
-  {
-    "id": "ambient_cymatics_process_100_bpm_d_min",
-    "title": "Cymatics - Process - 100 BPM D# Min",
-    "bpm": 120,
-    "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/ambient/Cymatics - Process - 100 BPM D# Min.mid"
-  },
-  {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Another Vision - 140 BPM G# Min.mid",
     "id": "drill_cymatics_another_vision_140_bpm_g_min",
-    "title": "Cymatics - Another Vision - 140 BPM G# Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Another Vision - 140 BPM G# Min.mid"
+    "title": "Cymatics - Another Vision - 140 BPM G# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Bando - 140 BPM E Min.mid",
     "id": "drill_cymatics_bando_140_bpm_e_min",
-    "title": "Cymatics - Bando - 140 BPM E Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Bando - 140 BPM E Min.mid"
+    "title": "Cymatics - Bando - 140 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Cigars - 142 BPM C# Min.mid",
     "id": "drill_cymatics_cigars_142_bpm_c_min",
-    "title": "Cymatics - Cigars - 142 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Cigars - 142 BPM C# Min.mid"
+    "title": "Cymatics - Cigars - 142 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Descent - 142 BPM G Min.mid",
     "id": "drill_cymatics_descent_142_bpm_g_min",
-    "title": "Cymatics - Descent - 142 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Descent - 142 BPM G Min.mid"
+    "title": "Cymatics - Descent - 142 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Eleven - 140 BPM E Min.mid",
     "id": "drill_cymatics_eleven_140_bpm_e_min",
-    "title": "Cymatics - Eleven - 140 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Eleven - 140 BPM E Min.mid"
+    "title": "Cymatics - Eleven - 140 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - First Strike - 144 BPM F Min.mid",
     "id": "drill_cymatics_first_strike_144_bpm_f_min",
-    "title": "Cymatics - First Strike - 144 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - First Strike - 144 BPM F Min.mid"
+    "title": "Cymatics - First Strike - 144 BPM F Min"
   },
   {
+    "bpm": 143,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - General - 143 BPM G# Min.mid",
     "id": "drill_cymatics_general_143_bpm_g_min",
-    "title": "Cymatics - General - 143 BPM G# Min",
-    "bpm": 143,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - General - 143 BPM G# Min.mid"
+    "title": "Cymatics - General - 143 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Helvetia - 145 BPM C Min.mid",
     "id": "drill_cymatics_helvetia_145_bpm_c_min",
-    "title": "Cymatics - Helvetia - 145 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Helvetia - 145 BPM C Min.mid"
+    "title": "Cymatics - Helvetia - 145 BPM C Min"
   },
   {
+    "bpm": 139,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Imagery - 139 BPM G# Min.mid",
     "id": "drill_cymatics_imagery_139_bpm_g_min",
-    "title": "Cymatics - Imagery - 139 BPM G# Min",
-    "bpm": 139,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Imagery - 139 BPM G# Min.mid"
+    "title": "Cymatics - Imagery - 139 BPM G# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Jurisdiction - 140 BPM C# Min.mid",
     "id": "drill_cymatics_jurisdiction_140_bpm_c_min",
-    "title": "Cymatics - Jurisdiction - 140 BPM C# Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Jurisdiction - 140 BPM C# Min.mid"
+    "title": "Cymatics - Jurisdiction - 140 BPM C# Min"
   },
   {
-    "id": "drill_cymatics_kings_light_143_bpm_f_min",
-    "title": "Cymatics - Kings Light - 143 BPM F# Min",
     "bpm": 143,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Kings Light - 143 BPM F# Min.mid",
+    "id": "drill_cymatics_kings_light_143_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Kings Light - 143 BPM F# Min.mid"
+    "title": "Cymatics - Kings Light - 143 BPM F# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Limestone - 140 BPM B Min.mid",
     "id": "drill_cymatics_limestone_140_bpm_b_min",
-    "title": "Cymatics - Limestone - 140 BPM B Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Limestone - 140 BPM B Min.mid"
+    "title": "Cymatics - Limestone - 140 BPM B Min"
   },
   {
-    "id": "drill_cymatics_midnight_144_bpm_c_min",
-    "title": "Cymatics - Midnight - 144 BPM C# Min",
     "bpm": 144,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Midnight - 144 BPM C# Min.mid",
+    "id": "drill_cymatics_midnight_144_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Midnight - 144 BPM C# Min.mid"
+    "title": "Cymatics - Midnight - 144 BPM C# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Napolitan - 140 BPM E Min.mid",
     "id": "drill_cymatics_napolitan_140_bpm_e_min",
-    "title": "Cymatics - Napolitan - 140 BPM E Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Napolitan - 140 BPM E Min.mid"
+    "title": "Cymatics - Napolitan - 140 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Overcooked - 144 BPM D Min.mid",
     "id": "drill_cymatics_overcooked_144_bpm_d_min",
-    "title": "Cymatics - Overcooked - 144 BPM D Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/drill/Cymatics - Overcooked - 144 BPM D Min.mid"
+    "title": "Cymatics - Overcooked - 144 BPM D Min"
   },
   {
+    "bpm": 148,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Ammonia - 148 BPM A# Min.mid",
     "id": "electronic_cymatics_ammonia_148_bpm_a_min",
-    "title": "Cymatics - Ammonia - 148 BPM A# Min",
-    "bpm": 148,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Ammonia - 148 BPM A# Min.mid"
+    "title": "Cymatics - Ammonia - 148 BPM A# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Baby Blue - 140 BPM F Maj.mid",
     "id": "electronic_cymatics_baby_blue_140_bpm_f_maj",
-    "title": "Cymatics - Baby Blue - 140 BPM F Maj",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Baby Blue - 140 BPM F Maj.mid"
+    "title": "Cymatics - Baby Blue - 140 BPM F Maj"
   },
   {
-    "id": "electronic_cymatics_chrome_hearts_142_bpm_c_min",
-    "title": "Cymatics - Chrome Hearts - 142 BPM C Min",
     "bpm": 142,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Chrome Hearts - 142 BPM C Min.mid",
+    "id": "electronic_cymatics_chrome_hearts_142_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Chrome Hearts - 142 BPM C Min.mid"
+    "title": "Cymatics - Chrome Hearts - 142 BPM C Min"
   },
   {
-    "id": "electronic_cymatics_dance_cold_134_bpm_d_min",
-    "title": "Cymatics - Dance Cold - 134 BPM D Min",
     "bpm": 134,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Dance Cold - 134 BPM D Min.mid",
+    "id": "electronic_cymatics_dance_cold_134_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Dance Cold - 134 BPM D Min.mid"
+    "title": "Cymatics - Dance Cold - 134 BPM D Min"
   },
   {
+    "bpm": 148,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Eternal - 154 BPM E Min.mid",
     "id": "electronic_cymatics_eternal_154_bpm_e_min",
-    "title": "Cymatics - Eternal - 154 BPM E Min",
-    "bpm": 148,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Eternal - 154 BPM E Min.mid"
+    "title": "Cymatics - Eternal - 154 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Ethanol - 148 BPM F Min.mid",
     "id": "electronic_cymatics_ethanol_148_bpm_f_min",
-    "title": "Cymatics - Ethanol - 148 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Ethanol - 148 BPM F Min.mid"
+    "title": "Cymatics - Ethanol - 148 BPM F Min"
   },
   {
+    "bpm": 130,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Germanium - 130 BPM D# Min.mid",
     "id": "electronic_cymatics_germanium_130_bpm_d_min",
-    "title": "Cymatics - Germanium - 130 BPM D# Min",
-    "bpm": 130,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Germanium - 130 BPM D# Min.mid"
+    "title": "Cymatics - Germanium - 130 BPM D# Min"
   },
   {
+    "bpm": 150,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Hypnosis - 150 BPM E Min.mid",
     "id": "electronic_cymatics_hypnosis_150_bpm_e_min",
-    "title": "Cymatics - Hypnosis - 150 BPM E Min",
-    "bpm": 150,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Hypnosis - 150 BPM E Min.mid"
+    "title": "Cymatics - Hypnosis - 150 BPM E Min"
   },
   {
-    "id": "electronic_cymatics_international_135_bpm_g_min",
-    "title": "Cymatics - International - 135 BPM G Min",
     "bpm": 135,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - International - 135 BPM G Min.mid",
+    "id": "electronic_cymatics_international_135_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - International - 135 BPM G Min.mid"
+    "title": "Cymatics - International - 135 BPM G Min"
   },
   {
+    "bpm": 148,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Journal - 148 BPM D# Min.mid",
     "id": "electronic_cymatics_journal_148_bpm_d_min",
-    "title": "Cymatics - Journal - 148 BPM D# Min",
-    "bpm": 148,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Journal - 148 BPM D# Min.mid"
+    "title": "Cymatics - Journal - 148 BPM D# Min"
   },
   {
-    "id": "electronic_cymatics_know_better_133_bpm_f_min",
-    "title": "Cymatics - Know Better - 133 BPM F Min",
     "bpm": 133,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Know Better - 133 BPM F Min.mid",
+    "id": "electronic_cymatics_know_better_133_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Know Better - 133 BPM F Min.mid"
+    "title": "Cymatics - Know Better - 133 BPM F Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Last Divide - 140 BPM C Min.mid",
     "id": "electronic_cymatics_last_divide_140_bpm_c_min",
-    "title": "Cymatics - Last Divide - 140 BPM C Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Last Divide - 140 BPM C Min.mid"
+    "title": "Cymatics - Last Divide - 140 BPM C Min"
   },
   {
+    "bpm": 131,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Minutes Away - 131 BPM A Min.mid",
     "id": "electronic_cymatics_minutes_away_131_bpm_a_min",
-    "title": "Cymatics - Minutes Away - 131 BPM A Min",
-    "bpm": 131,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Minutes Away - 131 BPM A Min.mid"
+    "title": "Cymatics - Minutes Away - 131 BPM A Min"
   },
   {
+    "bpm": 138,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Narrow - 138 BPM F# Min.mid",
     "id": "electronic_cymatics_narrow_138_bpm_f_min",
-    "title": "Cymatics - Narrow - 138 BPM F# Min",
-    "bpm": 138,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Narrow - 138 BPM F# Min.mid"
+    "title": "Cymatics - Narrow - 138 BPM F# Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Pink Diamonds - 140 BPM G# Min.mid",
     "id": "electronic_cymatics_pink_diamonds_140_bpm_g_min",
-    "title": "Cymatics - Pink Diamonds - 140 BPM G# Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/electronic/Cymatics - Pink Diamonds - 140 BPM G# Min.mid"
+    "title": "Cymatics - Pink Diamonds - 140 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Arrival - 140 BPM F Min.mid",
     "id": "epic_cymatics_arrival_140_bpm_f_min",
-    "title": "Cymatics - Arrival - 140 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Arrival - 140 BPM F Min.mid"
+    "title": "Cymatics - Arrival - 140 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Ascent - 132 BPM B Min.mid",
     "id": "epic_cymatics_ascent_132_bpm_b_min",
-    "title": "Cymatics - Ascent - 132 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Ascent - 132 BPM B Min.mid"
+    "title": "Cymatics - Ascent - 132 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Barrage - 132 BPM C Min.mid",
     "id": "epic_cymatics_barrage_132_bpm_c_min",
-    "title": "Cymatics - Barrage - 132 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Barrage - 132 BPM C Min.mid"
+    "title": "Cymatics - Barrage - 132 BPM C Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Believe - 142 BPM B Min.mid",
     "id": "epic_cymatics_believe_142_bpm_b_min",
-    "title": "Cymatics - Believe - 142 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Believe - 142 BPM B Min.mid"
+    "title": "Cymatics - Believe - 142 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Charged Up - 117 BPM B Min.mid",
     "id": "epic_cymatics_charged_up_117_bpm_b_min",
-    "title": "Cymatics - Charged Up - 117 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Charged Up - 117 BPM B Min.mid"
+    "title": "Cymatics - Charged Up - 117 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Conqueror - 134 BPM F# Min.mid",
     "id": "epic_cymatics_conqueror_134_bpm_f_min",
-    "title": "Cymatics - Conqueror - 134 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Conqueror - 134 BPM F# Min.mid"
+    "title": "Cymatics - Conqueror - 134 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Director - 124 BPM G Min.mid",
     "id": "epic_cymatics_director_124_bpm_g_min",
-    "title": "Cymatics - Director - 124 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Director - 124 BPM G Min.mid"
+    "title": "Cymatics - Director - 124 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Drama - 136 BPM C Min.mid",
     "id": "epic_cymatics_drama_136_bpm_c_min",
-    "title": "Cymatics - Drama - 136 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Drama - 136 BPM C Min.mid"
+    "title": "Cymatics - Drama - 136 BPM C Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Encounter - 116 BPM B Min.mid",
     "id": "epic_cymatics_encounter_116_bpm_b_min",
-    "title": "Cymatics - Encounter - 116 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Encounter - 116 BPM B Min.mid"
+    "title": "Cymatics - Encounter - 116 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Escalation - 108 BPM F Min.mid",
     "id": "epic_cymatics_escalation_108_bpm_f_min",
-    "title": "Cymatics - Escalation - 108 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Escalation - 108 BPM F Min.mid"
+    "title": "Cymatics - Escalation - 108 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Fanfare - 108 BPM A Min.mid",
     "id": "epic_cymatics_fanfare_108_bpm_a_min",
-    "title": "Cymatics - Fanfare - 108 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Fanfare - 108 BPM A Min.mid"
+    "title": "Cymatics - Fanfare - 108 BPM A Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Finale - 142 BPM E Min.mid",
     "id": "epic_cymatics_finale_142_bpm_e_min",
-    "title": "Cymatics - Finale - 142 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Finale - 142 BPM E Min.mid"
+    "title": "Cymatics - Finale - 142 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Helipad - 121 BPM B Min.mid",
     "id": "epic_cymatics_helipad_121_bpm_b_min",
-    "title": "Cymatics - Helipad - 121 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Helipad - 121 BPM B Min.mid"
+    "title": "Cymatics - Helipad - 121 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Hollow - 140 BPM C# Min.mid",
     "id": "epic_cymatics_hollow_140_bpm_c_min",
-    "title": "Cymatics - Hollow - 140 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Hollow - 140 BPM C# Min.mid"
+    "title": "Cymatics - Hollow - 140 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Jester - 133 BPM D Min.mid",
     "id": "epic_cymatics_jester_133_bpm_d_min",
-    "title": "Cymatics - Jester - 133 BPM D Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/epic/Cymatics - Jester - 133 BPM D Min.mid"
+    "title": "Cymatics - Jester - 133 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - All For You (Breakdown) - 126 BPM A# Min.mid",
     "id": "festival_cymatics_all_for_you_breakdown_126_bpm_a_min",
-    "title": "Cymatics - All For You (Breakdown) - 126 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - All For You (Breakdown) - 126 BPM A# Min.mid"
+    "title": "Cymatics - All For You (Breakdown) - 126 BPM A# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - All For You - 126 BPM A# Min.mid",
     "id": "festival_cymatics_all_for_you_126_bpm_a_min",
-    "title": "Cymatics - All For You - 126 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - All For You - 126 BPM A# Min.mid"
+    "title": "Cymatics - All For You - 126 BPM A# Min"
   },
   {
+    "bpm": 108,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Celebrate -  106 BPM G Min.mid",
     "id": "festival_cymatics_celebrate_106_bpm_g_min",
-    "title": "Cymatics - Celebrate -  106 BPM G Min",
-    "bpm": 108,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Celebrate -  106 BPM G Min.mid"
+    "title": "Cymatics - Celebrate -  106 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Deep Dive - 104 BPM C Min.mid",
     "id": "festival_cymatics_deep_dive_104_bpm_c_min",
-    "title": "Cymatics - Deep Dive - 104 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Deep Dive - 104 BPM C Min.mid"
+    "title": "Cymatics - Deep Dive - 104 BPM C Min"
   },
   {
+    "bpm": 124,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Hometown -124 BPM F# Min.mid",
     "id": "festival_cymatics_hometown_124_bpm_f_min",
-    "title": "Cymatics - Hometown -124 BPM F# Min",
-    "bpm": 124,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Hometown -124 BPM F# Min.mid"
+    "title": "Cymatics - Hometown -124 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Ironclad (Breakdown) - 128 BPM E Min.mid",
     "id": "festival_cymatics_ironclad_breakdown_128_bpm_e_min",
-    "title": "Cymatics - Ironclad (Breakdown) - 128 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Ironclad (Breakdown) - 128 BPM E Min.mid"
+    "title": "Cymatics - Ironclad (Breakdown) - 128 BPM E Min"
   },
   {
+    "bpm": 128,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Ironclad - 128 BPM E Min.mid",
     "id": "festival_cymatics_ironclad_128_bpm_e_min",
-    "title": "Cymatics - Ironclad - 128 BPM E Min",
-    "bpm": 128,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Ironclad - 128 BPM E Min.mid"
+    "title": "Cymatics - Ironclad - 128 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Make It Through (Breakdown) - 123 BPM E Min.mid",
     "id": "festival_cymatics_make_it_through_breakdown_123_bpm_e_min",
-    "title": "Cymatics - Make It Through (Breakdown) - 123 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Make It Through (Breakdown) - 123 BPM E Min.mid"
+    "title": "Cymatics - Make It Through (Breakdown) - 123 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Make It Through - 123 BPM E Min.mid",
     "id": "festival_cymatics_make_it_through_123_bpm_e_min",
-    "title": "Cymatics - Make It Through - 123 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Make It Through - 123 BPM E Min.mid"
+    "title": "Cymatics - Make It Through - 123 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Never Alone (Breakdown) - 126 BPM F Min.mid",
     "id": "festival_cymatics_never_alone_breakdown_126_bpm_f_min",
-    "title": "Cymatics - Never Alone (Breakdown) - 126 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Never Alone (Breakdown) - 126 BPM F Min.mid"
+    "title": "Cymatics - Never Alone (Breakdown) - 126 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Never Alone - 126 BPM F Min.mid",
     "id": "festival_cymatics_never_alone_126_bpm_f_min",
-    "title": "Cymatics - Never Alone - 126 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Never Alone - 126 BPM F Min.mid"
+    "title": "Cymatics - Never Alone - 126 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Pictures (Breakdown) - 124 BPM G# Min.mid",
     "id": "festival_cymatics_pictures_breakdown_124_bpm_g_min",
-    "title": "Cymatics - Pictures (Breakdown) - 124 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Pictures (Breakdown) - 124 BPM G# Min.mid"
+    "title": "Cymatics - Pictures (Breakdown) - 124 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Pictures - 124 BPM G# Min.mid",
     "id": "festival_cymatics_pictures_124_bpm_g_min",
-    "title": "Cymatics - Pictures - 124 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Pictures - 124 BPM G# Min.mid"
+    "title": "Cymatics - Pictures - 124 BPM G# Min"
   },
   {
-    "id": "festival_cymatics_purpose_108_bpm_e_min",
-    "title": "Cymatics - Purpose - 108 BPM E Min",
     "bpm": 108,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Purpose - 108 BPM E Min.mid",
+    "id": "festival_cymatics_purpose_108_bpm_e_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Purpose - 108 BPM E Min.mid"
+    "title": "Cymatics - Purpose - 108 BPM E Min"
   },
   {
+    "bpm": 128,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Stardust - 128 BPM D Min.mid",
     "id": "festival_cymatics_stardust_128_bpm_d_min",
-    "title": "Cymatics - Stardust - 128 BPM D Min",
-    "bpm": 128,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/festival/Cymatics - Stardust - 128 BPM D Min.mid"
+    "title": "Cymatics - Stardust - 128 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - All Of Me - 123 BPM D# Min.mid",
     "id": "fusion_cymatics_all_of_me_123_bpm_d_min",
-    "title": "Cymatics - All Of Me - 123 BPM D# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - All Of Me - 123 BPM D# Min.mid"
+    "title": "Cymatics - All Of Me - 123 BPM D# Min"
   },
   {
+    "bpm": 101,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Butterflies - 101 BPM C Maj.mid",
     "id": "fusion_cymatics_butterflies_101_bpm_c_maj",
-    "title": "Cymatics - Butterflies - 101 BPM C Maj",
-    "bpm": 101,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Butterflies - 101 BPM C Maj.mid"
+    "title": "Cymatics - Butterflies - 101 BPM C Maj"
   },
   {
-    "id": "fusion_cymatics_crimson_fire_174_bpm_f_maj",
-    "title": "Cymatics - Crimson Fire - 174 BPM F# Maj",
     "bpm": 148,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Crimson Fire - 174 BPM F# Maj.mid",
+    "id": "fusion_cymatics_crimson_fire_174_bpm_f_maj",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Crimson Fire - 174 BPM F# Maj.mid"
+    "title": "Cymatics - Crimson Fire - 174 BPM F# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Damascus - 120 BPM A# Min.mid",
     "id": "fusion_cymatics_damascus_120_bpm_a_min",
-    "title": "Cymatics - Damascus - 120 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Damascus - 120 BPM A# Min.mid"
+    "title": "Cymatics - Damascus - 120 BPM A# Min"
   },
   {
+    "bpm": 110,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Elemental - 100 BPM A Maj.mid",
     "id": "fusion_cymatics_elemental_100_bpm_a_maj",
-    "title": "Cymatics - Elemental - 100 BPM A Maj",
-    "bpm": 110,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Elemental - 100 BPM A Maj.mid"
+    "title": "Cymatics - Elemental - 100 BPM A Maj"
   },
   {
-    "id": "fusion_cymatics_first_loss_123_bpm_f_min",
-    "title": "Cymatics - First Loss - 123 BPM F# Min",
     "bpm": 128,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - First Loss - 123 BPM F# Min.mid",
+    "id": "fusion_cymatics_first_loss_123_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - First Loss - 123 BPM F# Min.mid"
+    "title": "Cymatics - First Loss - 123 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Galactic - 126 BPM G Min.mid",
     "id": "fusion_cymatics_galactic_126_bpm_g_min",
-    "title": "Cymatics - Galactic - 126 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Galactic - 126 BPM G Min.mid"
+    "title": "Cymatics - Galactic - 126 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Hurting - 134 BPM A Min.mid",
     "id": "fusion_cymatics_hurting_134_bpm_a_min",
-    "title": "Cymatics - Hurting - 134 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Hurting - 134 BPM A Min.mid"
+    "title": "Cymatics - Hurting - 134 BPM A Min"
   },
   {
+    "bpm": 110,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - In California - 110 BPM G# Min.mid",
     "id": "fusion_cymatics_in_california_110_bpm_g_min",
-    "title": "Cymatics - In California - 110 BPM G# Min",
-    "bpm": 110,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - In California - 110 BPM G# Min.mid"
+    "title": "Cymatics - In California - 110 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Jackpot - 127 BPM G Min.mid",
     "id": "fusion_cymatics_jackpot_127_bpm_g_min",
-    "title": "Cymatics - Jackpot - 127 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Jackpot - 127 BPM G Min.mid"
+    "title": "Cymatics - Jackpot - 127 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Kaleidoscope - 126 BPM F Min.mid",
     "id": "fusion_cymatics_kaleidoscope_126_bpm_f_min",
-    "title": "Cymatics - Kaleidoscope - 126 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Kaleidoscope - 126 BPM F Min.mid"
+    "title": "Cymatics - Kaleidoscope - 126 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Leaving Home - 114 BPM F# Min.mid",
     "id": "fusion_cymatics_leaving_home_114_bpm_f_min",
-    "title": "Cymatics - Leaving Home - 114 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Leaving Home - 114 BPM F# Min.mid"
+    "title": "Cymatics - Leaving Home - 114 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Missions - 120 BPM A# Min.mid",
     "id": "fusion_cymatics_missions_120_bpm_a_min",
-    "title": "Cymatics - Missions - 120 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Missions - 120 BPM A# Min.mid"
+    "title": "Cymatics - Missions - 120 BPM A# Min"
   },
   {
-    "id": "fusion_cymatics_nightfall_108_bpm_g_maj",
-    "title": "Cymatics - Nightfall - 108 BPM G# Maj",
     "bpm": 101,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Nightfall - 108 BPM G# Maj.mid",
+    "id": "fusion_cymatics_nightfall_108_bpm_g_maj",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Nightfall - 108 BPM G# Maj.mid"
+    "title": "Cymatics - Nightfall - 108 BPM G# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Treasures - 120 BPM G# Min.mid",
     "id": "fusion_cymatics_treasures_120_bpm_g_min",
-    "title": "Cymatics - Treasures - 120 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/fusion/Cymatics - Treasures - 120 BPM G# Min.mid"
+    "title": "Cymatics - Treasures - 120 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Awake Again - 76 BPM G# Min.mid",
     "id": "lofi_cymatics_awake_again_76_bpm_g_min",
-    "title": "Cymatics - Awake Again - 76 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Awake Again - 76 BPM G# Min.mid"
+    "title": "Cymatics - Awake Again - 76 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Be Your Warmth - 76 BPM F# Maj.mid",
     "id": "lofi_cymatics_be_your_warmth_76_bpm_f_maj",
-    "title": "Cymatics - Be Your Warmth - 76 BPM F# Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Be Your Warmth - 76 BPM F# Maj.mid"
+    "title": "Cymatics - Be Your Warmth - 76 BPM F# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Blossom - 66 BPM B Min.mid",
     "id": "lofi_cymatics_blossom_66_bpm_b_min",
-    "title": "Cymatics - Blossom - 66 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Blossom - 66 BPM B Min.mid"
+    "title": "Cymatics - Blossom - 66 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Clear Skies - 80 BPM F Min.mid",
     "id": "lofi_cymatics_clear_skies_80_bpm_f_min",
-    "title": "Cymatics - Clear Skies - 80 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Clear Skies - 80 BPM F Min.mid"
+    "title": "Cymatics - Clear Skies - 80 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Don't Let Me Go - 73 BPM A Maj.mid",
     "id": "lofi_cymatics_don_t_let_me_go_73_bpm_a_maj",
-    "title": "Cymatics - Don't Let Me Go - 73 BPM A Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Don't Let Me Go - 73 BPM A Maj.mid"
+    "title": "Cymatics - Don't Let Me Go - 73 BPM A Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Everywhere - 80 BPM C# Min.mid",
     "id": "lofi_cymatics_everywhere_80_bpm_c_min",
-    "title": "Cymatics - Everywhere - 80 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Everywhere - 80 BPM C# Min.mid"
+    "title": "Cymatics - Everywhere - 80 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Fireplace - 75 BPM F# Min.mid",
     "id": "lofi_cymatics_fireplace_75_bpm_f_min",
-    "title": "Cymatics - Fireplace - 75 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Fireplace - 75 BPM F# Min.mid"
+    "title": "Cymatics - Fireplace - 75 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Goes Without Saying - 75 BPM A Min.mid",
     "id": "lofi_cymatics_goes_without_saying_75_bpm_a_min",
-    "title": "Cymatics - Goes Without Saying - 75 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Goes Without Saying - 75 BPM A Min.mid"
+    "title": "Cymatics - Goes Without Saying - 75 BPM A Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Hyrule - 70 BPM C Maj.mid",
     "id": "lofi_cymatics_hyrule_70_bpm_c_maj",
-    "title": "Cymatics - Hyrule - 70 BPM C Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Hyrule - 70 BPM C Maj.mid"
+    "title": "Cymatics - Hyrule - 70 BPM C Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - In The End - 95 BPM F# Maj.mid",
     "id": "lofi_cymatics_in_the_end_95_bpm_f_maj",
-    "title": "Cymatics - In The End - 95 BPM F# Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - In The End - 95 BPM F# Maj.mid"
+    "title": "Cymatics - In The End - 95 BPM F# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Just How It Should Be - 82 BPM A# Maj.mid",
     "id": "lofi_cymatics_just_how_it_should_be_82_bpm_a_maj",
-    "title": "Cymatics - Just How It Should Be - 82 BPM A# Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Just How It Should Be - 82 BPM A# Maj.mid"
+    "title": "Cymatics - Just How It Should Be - 82 BPM A# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Kadavu - 60 BPM A Min.mid",
     "id": "lofi_cymatics_kadavu_60_bpm_a_min",
-    "title": "Cymatics - Kadavu - 60 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Kadavu - 60 BPM A Min.mid"
+    "title": "Cymatics - Kadavu - 60 BPM A Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Lifetime - 82 BPM B Min.mid",
     "id": "lofi_cymatics_lifetime_82_bpm_b_min",
-    "title": "Cymatics - Lifetime - 82 BPM B Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Lifetime - 82 BPM B Min.mid"
+    "title": "Cymatics - Lifetime - 82 BPM B Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Moon Dust - 73 BPM C# Maj.mid",
     "id": "lofi_cymatics_moon_dust_73_bpm_c_maj",
-    "title": "Cymatics - Moon Dust - 73 BPM C# Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Moon Dust - 73 BPM C# Maj.mid"
+    "title": "Cymatics - Moon Dust - 73 BPM C# Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Morning Market - 89 BPM A Min.mid",
     "id": "lofi_cymatics_morning_market_89_bpm_a_min",
-    "title": "Cymatics - Morning Market - 89 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/lofi/Cymatics - Morning Market - 89 BPM A Min.mid"
+    "title": "Cymatics - Morning Market - 89 BPM A Min"
   },
   {
+    "bpm": 169,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Affection - 169 BPM A Min.mid",
     "id": "rnb_cymatics_affection_169_bpm_a_min",
-    "title": "Cymatics - Affection - 169 BPM A Min",
-    "bpm": 169,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Affection - 169 BPM A Min.mid"
+    "title": "Cymatics - Affection - 169 BPM A Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Been Away - 140 BPM G# Min.mid",
     "id": "rnb_cymatics_been_away_140_bpm_g_min",
-    "title": "Cymatics - Been Away - 140 BPM G# Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Been Away - 140 BPM G# Min.mid"
+    "title": "Cymatics - Been Away - 140 BPM G# Min"
   },
   {
-    "id": "rnb_cymatics_connection_170_bpm_a_min",
-    "title": "Cymatics - Connection - 170 BPM A Min",
     "bpm": 170,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Connection - 170 BPM A Min.mid",
+    "id": "rnb_cymatics_connection_170_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Connection - 170 BPM A Min.mid"
+    "title": "Cymatics - Connection - 170 BPM A Min"
   },
   {
-    "id": "rnb_cymatics_desires_109_bpm_a_min",
-    "title": "Cymatics - Desires - 109 BPM A Min",
     "bpm": 109,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Desires - 109 BPM A Min.mid",
+    "id": "rnb_cymatics_desires_109_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Desires - 109 BPM A Min.mid"
+    "title": "Cymatics - Desires - 109 BPM A Min"
   },
   {
-    "id": "rnb_cymatics_emotions_66_bpm_c_min",
-    "title": "Cymatics - Emotions - 66 BPM C# Min",
     "bpm": 66,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Emotions - 66 BPM C# Min.mid",
+    "id": "rnb_cymatics_emotions_66_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Emotions - 66 BPM C# Min.mid"
+    "title": "Cymatics - Emotions - 66 BPM C# Min"
   },
   {
+    "bpm": 150,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Feelings - 150 BPM C Min.mid",
     "id": "rnb_cymatics_feelings_150_bpm_c_min",
-    "title": "Cymatics - Feelings - 150 BPM C Min",
-    "bpm": 150,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Feelings - 150 BPM C Min.mid"
+    "title": "Cymatics - Feelings - 150 BPM C Min"
   },
   {
-    "id": "rnb_cymatics_glimmer_132_bpm_g_min",
-    "title": "Cymatics - Glimmer - 132 BPM G# Min",
     "bpm": 132,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Glimmer - 132 BPM G# Min.mid",
+    "id": "rnb_cymatics_glimmer_132_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Glimmer - 132 BPM G# Min.mid"
+    "title": "Cymatics - Glimmer - 132 BPM G# Min"
   },
   {
-    "id": "rnb_cymatics_harmonies_152_bpm_g_min",
-    "title": "Cymatics - Harmonies - 152 BPM G Min",
     "bpm": 152,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Harmonies - 152 BPM G Min.mid",
+    "id": "rnb_cymatics_harmonies_152_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Harmonies - 152 BPM G Min.mid"
+    "title": "Cymatics - Harmonies - 152 BPM G Min"
   },
   {
+    "bpm": 95,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Illusion - 95 BPM C Min.mid",
     "id": "rnb_cymatics_illusion_95_bpm_c_min",
-    "title": "Cymatics - Illusion - 95 BPM C Min",
-    "bpm": 95,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Illusion - 95 BPM C Min.mid"
+    "title": "Cymatics - Illusion - 95 BPM C Min"
   },
   {
+    "bpm": 125,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Jealous Mind - 125 BPM A Min.mid",
     "id": "rnb_cymatics_jealous_mind_125_bpm_a_min",
-    "title": "Cymatics - Jealous Mind - 125 BPM A Min",
-    "bpm": 125,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Jealous Mind - 125 BPM A Min.mid"
+    "title": "Cymatics - Jealous Mind - 125 BPM A Min"
   },
   {
-    "id": "rnb_cymatics_kisses_91_bpm_g_min",
-    "title": "Cymatics - Kisses - 91 BPM G# Min",
     "bpm": 91,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Kisses - 91 BPM G# Min.mid",
+    "id": "rnb_cymatics_kisses_91_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Kisses - 91 BPM G# Min.mid"
+    "title": "Cymatics - Kisses - 91 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Lovesick - 95 BPM C# Min.mid",
     "id": "rnb_cymatics_lovesick_95_bpm_c_min",
-    "title": "Cymatics - Lovesick - 95 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Lovesick - 95 BPM C# Min.mid"
+    "title": "Cymatics - Lovesick - 95 BPM C# Min"
   },
   {
-    "id": "rnb_cymatics_midnight_130_bpm_d_min",
-    "title": "Cymatics - Midnight - 130 BPM D Min",
     "bpm": 130,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Midnight - 130 BPM D Min.mid",
+    "id": "rnb_cymatics_midnight_130_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Midnight - 130 BPM D Min.mid"
+    "title": "Cymatics - Midnight - 130 BPM D Min"
   },
   {
-    "id": "rnb_cymatics_nevada_139_bpm_d_min",
-    "title": "Cymatics - Nevada - 139 BPM D Min",
     "bpm": 139,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Nevada - 139 BPM D Min.mid",
+    "id": "rnb_cymatics_nevada_139_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Nevada - 139 BPM D Min.mid"
+    "title": "Cymatics - Nevada - 139 BPM D Min"
   },
   {
+    "bpm": 114,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Ocean Avenue - 114 BPM D Min.mid",
     "id": "rnb_cymatics_ocean_avenue_114_bpm_d_min",
-    "title": "Cymatics - Ocean Avenue - 114 BPM D Min",
-    "bpm": 114,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/rnb/Cymatics - Ocean Avenue - 114 BPM D Min.mid"
+    "title": "Cymatics - Ocean Avenue - 114 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - All Becomes One - 124 BPM A# Min.mid",
     "id": "sunrise_cymatics_all_becomes_one_124_bpm_a_min",
-    "title": "Cymatics - All Becomes One - 124 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - All Becomes One - 124 BPM A# Min.mid"
+    "title": "Cymatics - All Becomes One - 124 BPM A# Min"
   },
   {
-    "id": "sunrise_cymatics_bliss_121_bpm_g_min",
-    "title": "Cymatics - Bliss - 121 BPM G# Min",
     "bpm": 124,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Bliss - 121 BPM G# Min.mid",
+    "id": "sunrise_cymatics_bliss_121_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Bliss - 121 BPM G# Min.mid"
+    "title": "Cymatics - Bliss - 121 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Blossom - 120 BPM F Min.mid",
     "id": "sunrise_cymatics_blossom_120_bpm_f_min",
-    "title": "Cymatics - Blossom - 120 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Blossom - 120 BPM F Min.mid"
+    "title": "Cymatics - Blossom - 120 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Careless - 125 BPM G Min.mid",
     "id": "sunrise_cymatics_careless_125_bpm_g_min",
-    "title": "Cymatics - Careless - 125 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Careless - 125 BPM G Min.mid"
+    "title": "Cymatics - Careless - 125 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Clover - 120 BPM C# Min.mid",
     "id": "sunrise_cymatics_clover_120_bpm_c_min",
-    "title": "Cymatics - Clover - 120 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Clover - 120 BPM C# Min.mid"
+    "title": "Cymatics - Clover - 120 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Distance - 124 BPM A# Min.mid",
     "id": "sunrise_cymatics_distance_124_bpm_a_min",
-    "title": "Cymatics - Distance - 124 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Distance - 124 BPM A# Min.mid"
+    "title": "Cymatics - Distance - 124 BPM A# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Eruption - 118 BPM F# Min.mid",
     "id": "sunrise_cymatics_eruption_118_bpm_f_min",
-    "title": "Cymatics - Eruption - 118 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Eruption - 118 BPM F# Min.mid"
+    "title": "Cymatics - Eruption - 118 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Glow - 120 BPM F Min.mid",
     "id": "sunrise_cymatics_glow_120_bpm_f_min",
-    "title": "Cymatics - Glow - 120 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Glow - 120 BPM F Min.mid"
+    "title": "Cymatics - Glow - 120 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Highways - 119 BPM A# Min.mid",
     "id": "sunrise_cymatics_highways_119_bpm_a_min",
-    "title": "Cymatics - Highways - 119 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Highways - 119 BPM A# Min.mid"
+    "title": "Cymatics - Highways - 119 BPM A# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Illuminate - 120 BPM G# Min.mid",
     "id": "sunrise_cymatics_illuminate_120_bpm_g_min",
-    "title": "Cymatics - Illuminate - 120 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Illuminate - 120 BPM G# Min.mid"
+    "title": "Cymatics - Illuminate - 120 BPM G# Min"
   },
   {
-    "id": "sunrise_cymatics_infinity_pool_125_bpm_d_min",
-    "title": "Cymatics - Infinity Pool - 125 BPM D Min",
     "bpm": 125,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Infinity Pool - 125 BPM D Min.mid",
+    "id": "sunrise_cymatics_infinity_pool_125_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Infinity Pool - 125 BPM D Min.mid"
+    "title": "Cymatics - Infinity Pool - 125 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Journey Ahead - 123 BPM F Min.mid",
     "id": "sunrise_cymatics_journey_ahead_123_bpm_f_min",
-    "title": "Cymatics - Journey Ahead - 123 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Journey Ahead - 123 BPM F Min.mid"
+    "title": "Cymatics - Journey Ahead - 123 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Melt Away - 123 BPM A Min.mid",
     "id": "sunrise_cymatics_melt_away_123_bpm_a_min",
-    "title": "Cymatics - Melt Away - 123 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Melt Away - 123 BPM A Min.mid"
+    "title": "Cymatics - Melt Away - 123 BPM A Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - No Way Back - 122 BPM C# Min.mid",
     "id": "sunrise_cymatics_no_way_back_122_bpm_c_min",
-    "title": "Cymatics - No Way Back - 122 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - No Way Back - 122 BPM C# Min.mid"
+    "title": "Cymatics - No Way Back - 122 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Sector Nine - 124 BPM F Min.mid",
     "id": "sunrise_cymatics_sector_nine_124_bpm_f_min",
-    "title": "Cymatics - Sector Nine - 124 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/sunrise/Cymatics - Sector Nine - 124 BPM F Min.mid"
+    "title": "Cymatics - Sector Nine - 124 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Abyss - 77 BPM F Min.mid",
     "id": "synth_cymatics_abyss_77_bpm_f_min",
-    "title": "Cymatics - Abyss - 77 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Abyss - 77 BPM F Min.mid"
+    "title": "Cymatics - Abyss - 77 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Bionics - 136 BPM D Min.mid",
     "id": "synth_cymatics_bionics_136_bpm_d_min",
-    "title": "Cymatics - Bionics - 136 BPM D Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Bionics - 136 BPM D Min.mid"
+    "title": "Cymatics - Bionics - 136 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Calibrate - 118 BPM F# Min.mid",
     "id": "synth_cymatics_calibrate_118_bpm_f_min",
-    "title": "Cymatics - Calibrate - 118 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Calibrate - 118 BPM F# Min.mid"
+    "title": "Cymatics - Calibrate - 118 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Daredevil - 152 BPM E Min.mid",
     "id": "synth_cymatics_daredevil_152_bpm_e_min",
-    "title": "Cymatics - Daredevil - 152 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Daredevil - 152 BPM E Min.mid"
+    "title": "Cymatics - Daredevil - 152 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Encryption - 132 BPM D Min.mid",
     "id": "synth_cymatics_encryption_132_bpm_d_min",
-    "title": "Cymatics - Encryption - 132 BPM D Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Encryption - 132 BPM D Min.mid"
+    "title": "Cymatics - Encryption - 132 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Firewall - 150 BPM F# Min.mid",
     "id": "synth_cymatics_firewall_150_bpm_f_min",
-    "title": "Cymatics - Firewall - 150 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Firewall - 150 BPM F# Min.mid"
+    "title": "Cymatics - Firewall - 150 BPM F# Min"
   },
   {
-    "id": "synth_cymatics_ghostrider_150_bpm_d_min",
-    "title": "Cymatics - Ghostrider - 150 BPM D Min",
     "bpm": 150,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Ghostrider - 150 BPM D Min.mid",
+    "id": "synth_cymatics_ghostrider_150_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Ghostrider - 150 BPM D Min.mid"
+    "title": "Cymatics - Ghostrider - 150 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Hologram - 130 BPM C Min.mid",
     "id": "synth_cymatics_hologram_130_bpm_c_min",
-    "title": "Cymatics - Hologram - 130 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Hologram - 130 BPM C Min.mid"
+    "title": "Cymatics - Hologram - 130 BPM C Min"
   },
   {
+    "bpm": 118,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Impala - 118 BPM A Min.mid",
     "id": "synth_cymatics_impala_118_bpm_a_min",
-    "title": "Cymatics - Impala - 118 BPM A Min",
-    "bpm": 118,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Impala - 118 BPM A Min.mid"
+    "title": "Cymatics - Impala - 118 BPM A Min"
   },
   {
+    "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Juxtaposition - 140 BPM E Min.mid",
     "id": "synth_cymatics_juxtaposition_140_bpm_e_min",
-    "title": "Cymatics - Juxtaposition - 140 BPM E Min",
-    "bpm": 140,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Juxtaposition - 140 BPM E Min.mid"
+    "title": "Cymatics - Juxtaposition - 140 BPM E Min"
   },
   {
-    "id": "synth_cymatics_keycode_141_bpm_f_min",
-    "title": "Cymatics - Keycode - 141 BPM F# Min",
     "bpm": 141,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Keycode - 141 BPM F# Min.mid",
+    "id": "synth_cymatics_keycode_141_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Keycode - 141 BPM F# Min.mid"
+    "title": "Cymatics - Keycode - 141 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Ledger - 110 BPM D# Min.mid",
     "id": "synth_cymatics_ledger_110_bpm_d_min",
-    "title": "Cymatics - Ledger - 110 BPM D# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Ledger - 110 BPM D# Min.mid"
+    "title": "Cymatics - Ledger - 110 BPM D# Min"
   },
   {
+    "bpm": 160,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Masquerade - 160 BPM A Min.mid",
     "id": "synth_cymatics_masquerade_160_bpm_a_min",
-    "title": "Cymatics - Masquerade - 160 BPM A Min",
-    "bpm": 160,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Masquerade - 160 BPM A Min.mid"
+    "title": "Cymatics - Masquerade - 160 BPM A Min"
   },
   {
-    "id": "synth_cymatics_no_security_147_bpm_e_min",
-    "title": "Cymatics - No Security - 147 BPM E Min",
     "bpm": 147,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - No Security - 147 BPM E Min.mid",
+    "id": "synth_cymatics_no_security_147_bpm_e_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - No Security - 147 BPM E Min.mid"
+    "title": "Cymatics - No Security - 147 BPM E Min"
   },
   {
-    "id": "synth_cymatics_orange_moon_140_bpm_c_min",
-    "title": "Cymatics - Orange Moon - 140 BPM C# Min",
     "bpm": 140,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Orange Moon - 140 BPM C# Min.mid",
+    "id": "synth_cymatics_orange_moon_140_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/synth/Cymatics - Orange Moon - 140 BPM C# Min.mid"
+    "title": "Cymatics - Orange Moon - 140 BPM C# Min"
   },
   {
-    "id": "trap_cymatics_accords_163_bpm_c_min",
-    "title": "Cymatics - Accords - 163 BPM C# Min",
     "bpm": 163,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Accords - 163 BPM C# Min.mid",
+    "id": "trap_cymatics_accords_163_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Accords - 163 BPM C# Min.mid"
+    "title": "Cymatics - Accords - 163 BPM C# Min"
   },
   {
-    "id": "trap_cymatics_business_131_bpm_d_min",
-    "title": "Cymatics - Business - 131 BPM D# Min",
     "bpm": 131,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Business - 131 BPM D# Min.mid",
+    "id": "trap_cymatics_business_131_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Business - 131 BPM D# Min.mid"
+    "title": "Cymatics - Business - 131 BPM D# Min"
   },
   {
-    "id": "trap_cymatics_commodore_126_bpm_g_min",
-    "title": "Cymatics - Commodore - 126 BPM G# Min",
     "bpm": 126,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Commodore - 126 BPM G# Min.mid",
+    "id": "trap_cymatics_commodore_126_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Commodore - 126 BPM G# Min.mid"
+    "title": "Cymatics - Commodore - 126 BPM G# Min"
   },
   {
-    "id": "trap_cymatics_cyprus_138_bpm_a_min",
-    "title": "Cymatics - Cyprus - 138 BPM A Min",
     "bpm": 138,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Cyprus - 138 BPM A Min.mid",
+    "id": "trap_cymatics_cyprus_138_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Cyprus - 138 BPM A Min.mid"
+    "title": "Cymatics - Cyprus - 138 BPM A Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Dancer - 140 BPM D# Min.mid",
     "id": "trap_cymatics_dancer_140_bpm_d_min",
-    "title": "Cymatics - Dancer - 140 BPM D# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Dancer - 140 BPM D# Min.mid"
+    "title": "Cymatics - Dancer - 140 BPM D# Min"
   },
   {
-    "id": "trap_cymatics_drunk_night_118_bpm_f_min",
-    "title": "Cymatics - Drunk Night - 118 BPM F Min",
     "bpm": 118,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Drunk Night - 118 BPM F Min.mid",
+    "id": "trap_cymatics_drunk_night_118_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Drunk Night - 118 BPM F Min.mid"
+    "title": "Cymatics - Drunk Night - 118 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Estranged - 120 BPM D Min.mid",
     "id": "trap_cymatics_estranged_120_bpm_d_min",
-    "title": "Cymatics - Estranged - 120 BPM D Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Estranged - 120 BPM D Min.mid"
+    "title": "Cymatics - Estranged - 120 BPM D Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Falcon - 134 BPM F Min.mid",
     "id": "trap_cymatics_falcon_134_bpm_f_min",
-    "title": "Cymatics - Falcon - 134 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Falcon - 134 BPM F Min.mid"
+    "title": "Cymatics - Falcon - 134 BPM F Min"
   },
   {
-    "id": "trap_cymatics_genesis_160_bpm_a_min",
-    "title": "Cymatics - Genesis - 160 BPM A Min",
     "bpm": 160,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Genesis - 160 BPM A Min.mid",
+    "id": "trap_cymatics_genesis_160_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Genesis - 160 BPM A Min.mid"
+    "title": "Cymatics - Genesis - 160 BPM A Min"
   },
   {
-    "id": "trap_cymatics_honeycomb_154_bpm_c_min",
-    "title": "Cymatics - Honeycomb - 154 BPM C# Min",
     "bpm": 154,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Honeycomb - 154 BPM C# Min.mid",
+    "id": "trap_cymatics_honeycomb_154_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Honeycomb - 154 BPM C# Min.mid"
+    "title": "Cymatics - Honeycomb - 154 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Humility - 140 BPM A Min.mid",
     "id": "trap_cymatics_humility_140_bpm_a_min",
-    "title": "Cymatics - Humility - 140 BPM A Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Humility - 140 BPM A Min.mid"
+    "title": "Cymatics - Humility - 140 BPM A Min"
   },
   {
-    "id": "trap_cymatics_iceberg_114_bpm_d_min",
-    "title": "Cymatics - Iceberg - 114 BPM D# Min",
     "bpm": 114,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Iceberg - 114 BPM D# Min.mid",
+    "id": "trap_cymatics_iceberg_114_bpm_d_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Iceberg - 114 BPM D# Min.mid"
+    "title": "Cymatics - Iceberg - 114 BPM D# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Jade Stones - 152 BPM G Min.mid",
     "id": "trap_cymatics_jade_stones_152_bpm_g_min",
-    "title": "Cymatics - Jade Stones - 152 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Jade Stones - 152 BPM G Min.mid"
+    "title": "Cymatics - Jade Stones - 152 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Koalas - 150 BPM D# Min.mid",
     "id": "trap_cymatics_koalas_150_bpm_d_min",
-    "title": "Cymatics - Koalas - 150 BPM D# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Koalas - 150 BPM D# Min.mid"
+    "title": "Cymatics - Koalas - 150 BPM D# Min"
   },
   {
-    "id": "trap_cymatics_lifetime_169_bpm_c_min",
-    "title": "Cymatics - Lifetime - 169 BPM C Min",
     "bpm": 169,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Lifetime - 169 BPM C Min.mid",
+    "id": "trap_cymatics_lifetime_169_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/trap/Cymatics - Lifetime - 169 BPM C Min.mid"
+    "title": "Cymatics - Lifetime - 169 BPM C Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - All Faith - 72 BPM G Maj.mid",
     "id": "vintage_cymatics_all_faith_72_bpm_g_maj",
-    "title": "Cymatics - All Faith - 72 BPM G Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - All Faith - 72 BPM G Maj.mid"
+    "title": "Cymatics - All Faith - 72 BPM G Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Burned Bridges - 78 BPM C# Min.mid",
     "id": "vintage_cymatics_burned_bridges_78_bpm_c_min",
-    "title": "Cymatics - Burned Bridges - 78 BPM C# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Burned Bridges - 78 BPM C# Min.mid"
+    "title": "Cymatics - Burned Bridges - 78 BPM C# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Cashmere - 78 BPM A Maj.mid",
     "id": "vintage_cymatics_cashmere_78_bpm_a_maj",
-    "title": "Cymatics - Cashmere - 78 BPM A Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Cashmere - 78 BPM A Maj.mid"
+    "title": "Cymatics - Cashmere - 78 BPM A Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Dreaming Big - 74 BPM C Min.mid",
     "id": "vintage_cymatics_dreaming_big_74_bpm_c_min",
-    "title": "Cymatics - Dreaming Big - 74 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Dreaming Big - 74 BPM C Min.mid"
+    "title": "Cymatics - Dreaming Big - 74 BPM C Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Equations - 81 BPM E Min.mid",
     "id": "vintage_cymatics_equations_81_bpm_e_min",
-    "title": "Cymatics - Equations - 81 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Equations - 81 BPM E Min.mid"
+    "title": "Cymatics - Equations - 81 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Foreign Affairs - 115 BPM G Min.mid",
     "id": "vintage_cymatics_foreign_affairs_115_bpm_g_min",
-    "title": "Cymatics - Foreign Affairs - 115 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Foreign Affairs - 115 BPM G Min.mid"
+    "title": "Cymatics - Foreign Affairs - 115 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Fusion - 82 BPM A# Min.mid",
     "id": "vintage_cymatics_fusion_82_bpm_a_min",
-    "title": "Cymatics - Fusion - 82 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Fusion - 82 BPM A# Min.mid"
+    "title": "Cymatics - Fusion - 82 BPM A# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Just Supreme - 70 BPM D# Min.mid",
     "id": "vintage_cymatics_just_supreme_70_bpm_d_min",
-    "title": "Cymatics - Just Supreme - 70 BPM D# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Just Supreme - 70 BPM D# Min.mid"
+    "title": "Cymatics - Just Supreme - 70 BPM D# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Kill Switch - 73 BPM G# Min.mid",
     "id": "vintage_cymatics_kill_switch_73_bpm_g_min",
-    "title": "Cymatics - Kill Switch - 73 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Kill Switch - 73 BPM G# Min.mid"
+    "title": "Cymatics - Kill Switch - 73 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Lotus Blossom - 75 BPM A# Min.mid",
     "id": "vintage_cymatics_lotus_blossom_75_bpm_a_min",
-    "title": "Cymatics - Lotus Blossom - 75 BPM A# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Lotus Blossom - 75 BPM A# Min.mid"
+    "title": "Cymatics - Lotus Blossom - 75 BPM A# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Morning Tea - 114 BPM G# Min.mid",
     "id": "vintage_cymatics_morning_tea_114_bpm_g_min",
-    "title": "Cymatics - Morning Tea - 114 BPM G# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Morning Tea - 114 BPM G# Min.mid"
+    "title": "Cymatics - Morning Tea - 114 BPM G# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Nightingale - 83 BPM B Maj.mid",
     "id": "vintage_cymatics_nightingale_83_bpm_b_maj",
-    "title": "Cymatics - Nightingale - 83 BPM B Maj",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Nightingale - 83 BPM B Maj.mid"
+    "title": "Cymatics - Nightingale - 83 BPM B Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Oceanside - 86 BPM G Min.mid",
     "id": "vintage_cymatics_oceanside_86_bpm_g_min",
-    "title": "Cymatics - Oceanside - 86 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Oceanside - 86 BPM G Min.mid"
+    "title": "Cymatics - Oceanside - 86 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Phases - 66 BPM F Min.mid",
     "id": "vintage_cymatics_phases_66_bpm_f_min",
-    "title": "Cymatics - Phases - 66 BPM F Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Phases - 66 BPM F Min.mid"
+    "title": "Cymatics - Phases - 66 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Queens Riddle - 64 BPM G Min.mid",
     "id": "vintage_cymatics_queens_riddle_64_bpm_g_min",
-    "title": "Cymatics - Queens Riddle - 64 BPM G Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/vintage/Cymatics - Queens Riddle - 64 BPM G Min.mid"
+    "title": "Cymatics - Queens Riddle - 64 BPM G Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Access - 98 BPM E Min.mid",
     "id": "world_cymatics_access_98_bpm_e_min",
-    "title": "Cymatics - Access - 98 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Access - 98 BPM E Min.mid"
+    "title": "Cymatics - Access - 98 BPM E Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Adventures - 102 BPM E Min.mid",
     "id": "world_cymatics_adventures_102_bpm_e_min",
-    "title": "Cymatics - Adventures - 102 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Adventures - 102 BPM E Min.mid"
+    "title": "Cymatics - Adventures - 102 BPM E Min"
   },
   {
-    "id": "world_cymatics_bachata_93_bpm_f_min",
-    "title": "Cymatics - Bachata - 93 BPM F Min",
     "bpm": 93,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Bachata - 93 BPM F Min.mid",
+    "id": "world_cymatics_bachata_93_bpm_f_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Bachata - 93 BPM F Min.mid"
+    "title": "Cymatics - Bachata - 93 BPM F Min"
   },
   {
+    "bpm": 97,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Calypso - 97 BPM F Maj.mid",
     "id": "world_cymatics_calypso_97_bpm_f_maj",
-    "title": "Cymatics - Calypso - 97 BPM F Maj",
-    "bpm": 97,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Calypso - 97 BPM F Maj.mid"
+    "title": "Cymatics - Calypso - 97 BPM F Maj"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Connect - 110 BPM E Min.mid",
     "id": "world_cymatics_connect_110_bpm_e_min",
-    "title": "Cymatics - Connect - 110 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Connect - 110 BPM E Min.mid"
+    "title": "Cymatics - Connect - 110 BPM E Min"
   },
   {
+    "bpm": 95,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Dominos - 95 BPM G Min.mid",
     "id": "world_cymatics_dominos_95_bpm_g_min",
-    "title": "Cymatics - Dominos - 95 BPM G Min",
-    "bpm": 95,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Dominos - 95 BPM G Min.mid"
+    "title": "Cymatics - Dominos - 95 BPM G Min"
   },
   {
-    "id": "world_cymatics_energies_112_bpm_c_min",
-    "title": "Cymatics - Energies - 112 BPM C# Min",
     "bpm": 112,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Energies - 112 BPM C# Min.mid",
+    "id": "world_cymatics_energies_112_bpm_c_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Energies - 112 BPM C# Min.mid"
+    "title": "Cymatics - Energies - 112 BPM C# Min"
   },
   {
-    "id": "world_cymatics_flamenco_95_bpm_a_min",
-    "title": "Cymatics - Flamenco - 95 BPM A Min",
     "bpm": 95,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Flamenco - 95 BPM A Min.mid",
+    "id": "world_cymatics_flamenco_95_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Flamenco - 95 BPM A Min.mid"
+    "title": "Cymatics - Flamenco - 95 BPM A Min"
   },
   {
+    "bpm": 97,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Getafe - 97 BPM F Min.mid",
     "id": "world_cymatics_getafe_97_bpm_f_min",
-    "title": "Cymatics - Getafe - 97 BPM F Min",
-    "bpm": 97,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Getafe - 97 BPM F Min.mid"
+    "title": "Cymatics - Getafe - 97 BPM F Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Highlife - 105 BPM E Min.mid",
     "id": "world_cymatics_highlife_105_bpm_e_min",
-    "title": "Cymatics - Highlife - 105 BPM E Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Highlife - 105 BPM E Min.mid"
+    "title": "Cymatics - Highlife - 105 BPM E Min"
   },
   {
+    "bpm": 97,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Ice Box - 97 BPM D# Min.mid",
     "id": "world_cymatics_ice_box_97_bpm_d_min",
-    "title": "Cymatics - Ice Box - 97 BPM D# Min",
-    "bpm": 97,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Ice Box - 97 BPM D# Min.mid"
+    "title": "Cymatics - Ice Box - 97 BPM D# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Jubilee - 102 BPM F# Min.mid",
     "id": "world_cymatics_jubilee_102_bpm_f_min",
-    "title": "Cymatics - Jubilee - 102 BPM F# Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Jubilee - 102 BPM F# Min.mid"
+    "title": "Cymatics - Jubilee - 102 BPM F# Min"
   },
   {
+    "bpm": 120,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Lamento - 104 BPM C Min.mid",
     "id": "world_cymatics_lamento_104_bpm_c_min",
-    "title": "Cymatics - Lamento - 104 BPM C Min",
-    "bpm": 120,
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Lamento - 104 BPM C Min.mid"
+    "title": "Cymatics - Lamento - 104 BPM C Min"
   },
   {
-    "id": "world_cymatics_mile_high_110_bpm_g_min",
-    "title": "Cymatics - Mile High - 110 BPM G# Min",
     "bpm": 110,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Mile High - 110 BPM G# Min.mid",
+    "id": "world_cymatics_mile_high_110_bpm_g_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Mile High - 110 BPM G# Min.mid"
+    "title": "Cymatics - Mile High - 110 BPM G# Min"
   },
   {
-    "id": "world_cymatics_nueva_97_bpm_a_min",
-    "title": "Cymatics - Nueva - 97 BPM A# Min",
     "bpm": 97,
+    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Nueva - 97 BPM A# Min.mid",
+    "id": "world_cymatics_nueva_97_bpm_a_min",
     "key": "",
-    "file": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/midi/world/Cymatics - Nueva - 97 BPM A# Min.mid"
+    "title": "Cymatics - Nueva - 97 BPM A# Min"
   }
 ]
