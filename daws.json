@@ -42,24 +42,41 @@
     "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s"
   },
   {
-    "id": "cubase_pro",
-    "title": "Cubase Pro",
-    "full_title": "Steinberg - Cubase Pro 15 v15.0.30",
     "arch": "",
-    "tags": [
-      "DAW"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/cubase_pro_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:02bcd769b81466dfc04c126cd5876f419b6a3715&dn=Steinberg.Cubase.15.v15.0.30-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "description": "Вы хотите начать создавать свою собственную музыку, вывести свое производство на профессиональный уровень или оптимизировать рабочий процесс в сжатые сроки? Что бы вам ни понадобилось, Cubase поможет вам полностью раскрыть свой творческий потенциал. От композиторов голливудских блокбастеров и продюсеров Billboard Hot 100 до увлеченных новичков, мир музыкального производства доверяет всеобъемлющему набору функций, простым инструментам и непревзойденному звуку нашего известного программного обеспечения для создания музыки.",
+    "full_title": "Steinberg - Cubase Pro 15 v15.0.30",
+    "id": "cubase_pro",
     "install_instructions": "Если ранее устанавливали TEAM R2R Network Block Runtime - удалите его!_Для удаления запустите unins000.exe_в папке C:\\Program Files\\TEAM R2R\\Network Block Runtime\n\nПримечание:\nЕсли уже установлены Silk Emulator v1.5.0 и TEAM R2R System v1.5.0, пропустить пункт №1-3\n\n1._Установить последнюю версию TEAM R2R System ► СКАЧАТЬ\n2._Установить Setup Steinberg Silk Emulator v1.5.0.exe\n3._Перезагрузить ОС\n\n\nУдалить предыдущую версию (рекомендация от R2R, так что а ваше усмотрение)\n4._Установить Steinberg Mediabay_(Это необходимо для работы браузера контента. Без Mediabay контент может быть пустым.)\n5._Установить Cubase15.msi\n6._Папку Content_поместить в\nКод:\nC:\\ProgramData\\Steinberg\\\nПримечание:\nR2R в инструкции не упоминает об установке сертификата R2RCA.cer, но на всякий случай он добавлен в раздачу.",
     "install_instructions_visible": true,
+    "is_hidden": false,
+    "magnet": "magnet:?xt=urn:btih:02bcd769b81466dfc04c126cd5876f419b6a3715&dn=Steinberg.Cubase.15.v15.0.30-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/cubase_pro_screenshot_1.png",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/cubase_pro_screenshot_2.png"
     ],
-    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8",
-    "is_hidden": false
+    "tags": [
+      "DAW"
+    ],
+    "title": "Cubase Pro",
+    "torrent": "",
+    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8"
+  },
+  {
+    "id": "studio_one_pro_7",
+    "title": "Studio One Pro 7",
+    "full_title": "PreSonus - Studio One Pro 7 v7.2.3",
+    "arch": "",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:85c1fd81fad4fb12b3fc7300bdde3e2154566f0f&dn=PreSonus%20-%20Studio%20One%20Pro%207%20v7.2.3%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Studio One Pro 7 - одна DAW для всех Ваш универсальный продакшн - центр со всем необходимым для записи, продюсирования, микширования, мастеринга и исполнения.\n\n* Удалить старую версию Studio One ** Удалить папки в директории\n%PROGRAMDATA%\\PreSonus\\ %APPDATA%\\PreSonus\\ \n1. Установить PreSonus Studio One Pro 7 \n2. Установить и запустить PreSonus Sphere Manager v2.0.0 \n3. Нажать Install Magic - Studio One 7.cmd \n4. Нажать Subscription - Renew.cmd \n5. Запустите PreSonus Studio One Pro 7\nПримечание Данный релиз можно устанавливать поверх предыдущих версий, начиная с v7.0.2 и выполнить шаги 3,4,5 из пункта \"Установка|Активация\"",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_screenshot_1.png"
+    ],
+    "video_url": ""
   }
 ]
