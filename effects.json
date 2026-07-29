@@ -406,17 +406,32 @@
     "video_url": ""
   },
   {
-    "id": "infiltrator_2",
-    "title": "Infiltrator 2",
-    "full_title": "Devious Machines - Infiltrator 2 v2.4.7 VST, VST3",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/infiltrator_2_cover.png",
+    "description": "Infiltrator 2 - это мультиэффект монстр, который может складывать, упорядочивать и модулировать до десяти различных эффектов одновременно. Будь то аналоговая фильтрация или изменяющее реальность звуковое преобразование, Infiltrator 2 предоставит вам все это. Infiltrator 2 удваивает количество эффектов, пресетов и вариантов модуляции по сравнению со своим предшественником.",
+    "full_title": "Devious Machines - Infiltrator 2 v2.4.7 VST, VST3",
+    "id": "infiltrator_2",
+    "magnet": "magnet:?xt=urn:btih:881c3c749d5a1f52b54d03e7f8f57d6f09578b15&dn=Devious.Machines.Infiltrator.v2.4.7-TCD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/infiltrator_2_cover.png",
+    "title": "Infiltrator 2",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:881c3c749d5a1f52b54d03e7f8f57d6f09578b15&dn=Devious.Machines.Infiltrator.v2.4.7-TCD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Infiltrator 2 - это мультиэффект монстр, который может складывать, упорядочивать и модулировать до десяти различных эффектов одновременно. Будь то аналоговая фильтрация или изменяющее реальность звуковое преобразование, Infiltrator 2 предоставит вам все это. Infiltrator 2 удваивает количество эффектов, пресетов и вариантов модуляции по сравнению со своим предшественником.",
+    "video_url": ""
+  },
+  {
+    "id": "nectar_4",
+    "title": "Nectar 4",
+    "full_title": "iZotope - Nectar 4 Advanced v4.0.1",
+    "arch": "VST3",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/nectar_4_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:66a8e3ec0354adf0c10025df9518d25c903cc3fe&dn=iZotope%20Nectar%204&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Nectar 4 обладает полным набором инструментов для микширования, продюсирования и оформления вокала. Откройте для себя такие новые модули, как Auto-Level для согласованности, Voices для наложения вокальных слоев, Backer для фоновых певцов и Vocal Assistant для простой и мощной обработки. Откройте для себя набор мощных плагинов для полного контроля над звучанием вокала.",
     "screenshots": [],
     "video_url": ""
   }
