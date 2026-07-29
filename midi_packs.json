@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "epic",
-    "midis": [
-      "epic_cymatics_arrival_140_bpm_f_min",
-      "epic_cymatics_ascent_132_bpm_b_min",
-      "epic_cymatics_barrage_132_bpm_c_min",
-      "epic_cymatics_believe_142_bpm_b_min",
-      "epic_cymatics_charged_up_117_bpm_b_min",
-      "epic_cymatics_conqueror_134_bpm_f_min",
-      "epic_cymatics_director_124_bpm_g_min",
-      "epic_cymatics_drama_136_bpm_c_min",
-      "epic_cymatics_encounter_116_bpm_b_min",
-      "epic_cymatics_escalation_108_bpm_f_min",
-      "epic_cymatics_fanfare_108_bpm_a_min",
-      "epic_cymatics_finale_142_bpm_e_min",
-      "epic_cymatics_helipad_121_bpm_b_min",
-      "epic_cymatics_hollow_140_bpm_c_min",
-      "epic_cymatics_jester_133_bpm_d_min"
-    ],
-    "title": "Epic"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "festival",
     "midis": [
       "festival_cymatics_all_for_you_breakdown_126_bpm_a_min",
