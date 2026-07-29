@@ -97,20 +97,36 @@
     "video_url": ""
   },
   {
-    "id": "reaper",
-    "title": "REAPER",
-    "full_title": "Cockos REAPER 7.78 + Portable",
     "arch": "",
-    "tags": [
-      "DAW"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:88411af190955ddf0ff0d2523609a0281f742215&dn=Reaper%207.78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "description": "Cockos Reaper является одной из самых продвинутых программ для создания музыки, как в студии, так и в домашних условиях. Главная «фишка» программы заключается в том, что она имеет паттерновое, клавиатурное и аудио редактирование. Вы можете задавать неограниченное количество аудио или миди треков, не считая того, сколько можно добавить виртуальных инструментов формата VST. Reaper занимает не такое большое место на жестком диске и не загружает процессор, как программы из серии FL Studio, Cubase, Reason или Sonar. С данной программой вы сможете работать даже на маломощных компьютерах с звуковыми картами, которые не поддерживают режимы работы Full duplex. Хотя, если саундкарта поддерживает этот режим, вы получите неограниченные возможности по созданию своих композиций с профессиональным звучанием даже в таких форматах, как 5+1, а при наличии дополнительных плагинов, и 7+1.\n\n1. После установки программы запустить REAPER_KeyGen.exe, вписать любой Email, нажать \nPATCH \nи указать на файл reaper.exe_в папке с установленной программой.\n2. Нажать GENERATE и сохранить файл лицензии в папке с программой.\nРусификация\nПри запущенном REAPER запустить файл Russian.ReaperLangPack и указать на reaper.exe в установленной папке. Перезапустить REAPER\nПримечание:\nВы можете самостоятельно создать портативную версию, в инсталляторе для этого есть соответствующий чекбокс. Лечение и русификация аналогична установочной версии\n￼",
+    "full_title": "Cockos REAPER 7.78 + Portable",
+    "id": "reaper",
+    "magnet": "magnet:?xt=urn:btih:88411af190955ddf0ff0d2523609a0281f742215&dn=Reaper%207.78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_screenshot_1.png"
     ],
+    "tags": [
+      "DAW"
+    ],
+    "title": "REAPER",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "galaxias",
+    "title": "Galaxias",
+    "full_title": "Roland - Galaxias|Cloud Ultimate|ZENOLOGY Content v2026.04",
+    "arch": "VST3|AAX|SAL",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/galaxias_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:97e5bf54862f6690009bd3d9beb15494b6bebebb&dn=Roland&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "description": "Добро пожаловать на материнский корабль. GALAXIAS объединяет 50-летний опыт создания легендарных синтезаторов и драм-машин Roland в одном мощном супер-инструменте. Получите доступ к тысячам культовых звуков и свободно комбинируйте аутентичные инструменты Roland — от винтажных до современных.\n\nУстановка Galaxias\n1. Установите последнюю версию TEAM R2R - R2R System \n2. Если у вас была предыдущая установка:\n• Экспортируйте свои собственные пресеты.\n• Удалите предыдущие версии.\n• Удалите \"%USERPROFILE%\\Galaxias User\".\n• Удалите \"%PUBLIC%\\Documents\\Galaxias Library\"\n3. Подтвердите установку\n• Roland - Cloud Ultimate v2026.04 (для Galaxias требуется версия VST3)\n• Roland - ZENOLOGY Content v2026.04\nПримечание\n• Запустите все плагины Roland Cloud Ultimate хотя бы один раз для инициализации. В противном случае заводские настройки плагинов не будут отображаться в Galaxias.\n• Запустите Galaxias Standalone для инициализации.\n-------------------------------------------------------------------\nУстановка Cloud Ultimate\n1. Установите последнюю версию TEAM R2R - R2R System - поиск\n2. Удалите предыдущие версии.\n• Удалите \"%PROGRAMDATA%\\Roland Cloud\\\", если вам необходимо выполнить очистку.\n3. Запустите пакетный установщик *.cmd или отдельные установщики.\nПримечание\n• Предоставьте специальное разрешение \"%PROGRAMDATA%\\Roland Cloud\" на запись файлов. Плагины Roland Cloud сохраняют или копируют пресеты в эту папку.\n\"%PROGRAMDATA%\" не всегда доступен для записи для всех пользователей Windows.\n-------------------------------------------------------------------\nУстановка ZENOLOGY Content\n1. Запустите \"install.cmd\" или вручную скопируйте папку \"ZENOLOGY\" в \"%LOCALAPPDATA%\\Roland Cloud\".\nНаслаждайтесь!",
+    "screenshots": [],
     "video_url": ""
   }
 ]
