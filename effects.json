@@ -375,18 +375,33 @@
     "video_url": ""
   },
   {
-    "id": "arturia_fx_collection",
-    "title": "Arturia FX Collection",
-    "full_title": "Arturia FX Collection 6 PRO (NO INSTALL, ONLY VST3)",
     "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/arturia_fx_collection_cover.png",
+    "description": "1. Извлечь папку Arturia FX Collection в удобное для вас место \n2. Запустить от имени Администратора SymLink DeInstaller \n3. Запустить от имени Администратора SymLink Installer\n\nНабор эффектов от компании Arturia:\n• Efx REFRACT • Efx MOTIONS • Efx FRAGMENTS • Efx AMBIENT • Dist COLDFIRE • Dist OPAMP-21 • Dist TUBE-CULTURE • Tape MELLO-FI • Tape J-37 • Mix DRUMS • Pre 1973 • Pre TRIDA • Pre V76 • Rotary CLS-222 • Rev LX-24 • Rev PLATE-140 • Rev INTENSITY • Rev SPRING-636 • Delay TAPE-201 • Delay BRIGADE • Delay ETERNITY • Bus TRANSIENT • Bus PEAK • Bus EXCITER-104 • Bus FORCE • Comp DIODE-609 • Eq SITRAL-295 • Chorus DIMENSION-D • Phaser BI-TRON • Flanger BL-20 • Chorus JUN-6 • Comp VCA-65 • Comp TUBE-STA • Comp FET-76 • Filter MS-20 • Filter MINI • Filter SEM • Filter M12 • Pitch SHIFTER-910",
+    "full_title": "Arturia FX Collection 6 PRO (NO INSTALL, ONLY VST3)",
+    "id": "arturia_fx_collection",
+    "magnet": "magnet:?xt=urn:btih:f6e9ccf56733f968f91d19ac2b9ad5a5847b1f0d&dn=Arturia%20FX%20Collection.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "ARTURIA"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/arturia_fx_collection_cover.png",
+    "title": "Arturia FX Collection",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f6e9ccf56733f968f91d19ac2b9ad5a5847b1f0d&dn=Arturia%20FX%20Collection.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "1. Извлечь папку Arturia FX Collection в удобное для вас место \n2. Запустить от имени Администратора SymLink DeInstaller \n3. Запустить от имени Администратора SymLink Installer\n\nНабор эффектов от компании Arturia:\n• Efx REFRACT • Efx MOTIONS • Efx FRAGMENTS • Efx AMBIENT • Dist COLDFIRE • Dist OPAMP-21 • Dist TUBE-CULTURE • Tape MELLO-FI • Tape J-37 • Mix DRUMS • Pre 1973 • Pre TRIDA • Pre V76 • Rotary CLS-222 • Rev LX-24 • Rev PLATE-140 • Rev INTENSITY • Rev SPRING-636 • Delay TAPE-201 • Delay BRIGADE • Delay ETERNITY • Bus TRANSIENT • Bus PEAK • Bus EXCITER-104 • Bus FORCE • Comp DIODE-609 • Eq SITRAL-295 • Chorus DIMENSION-D • Phaser BI-TRON • Flanger BL-20 • Chorus JUN-6 • Comp VCA-65 • Comp TUBE-STA • Comp FET-76 • Filter MS-20 • Filter MINI • Filter SEM • Filter M12 • Pitch SHIFTER-910",
+    "video_url": ""
+  },
+  {
+    "id": "fresh_air",
+    "title": "Fresh Air",
+    "full_title": "Slate Digital - Fresh Air",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fresh_air_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:96c85689aa9d0e3c08f892ac1cb0df61d1b92cba&dn=Slate%20Digital%20-%20Fresh%20Air%20v1.0.9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Добавьте самый гладкий хай-энд, который вы когда-либо слышали, без намека на резкость.\nFresh Air - это динамичный высокочастотный процессор, который вдохнет новую жизнь в ваш микс с помощью всего двух регуляторов",
     "screenshots": [],
     "video_url": ""
   }
