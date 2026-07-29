@@ -1,32 +1,8 @@
 [
   {
-    "id": "ambient",
-    "title": "Ambient",
     "cover": "",
     "description": "",
-    "midis": [
-      "ambient_cymatics_allure_77_bpm_d_min",
-      "ambient_cymatics_bloom_105_bpm_a_min",
-      "ambient_cymatics_currents_105_bpm_f_min",
-      "ambient_cymatics_drifting_85_bpm_a_min",
-      "ambient_cymatics_essence_65_bpm_c_min",
-      "ambient_cymatics_feel_your_love_116_bpm_e_min",
-      "ambient_cymatics_galaxy_85_bpm_a_min",
-      "ambient_cymatics_hard_times_90_bpm_g_min",
-      "ambient_cymatics_inertia_111_bpm_d_min",
-      "ambient_cymatics_kinesis_90_bpm_b_min",
-      "ambient_cymatics_luminescence_122_bpm_f_min",
-      "ambient_cymatics_movements_110_bpm_f_min",
-      "ambient_cymatics_nebula_140_bpm_a_min",
-      "ambient_cymatics_origin_115_bpm_g_min",
-      "ambient_cymatics_process_100_bpm_d_min"
-    ]
-  },
-  {
     "id": "drill",
-    "title": "Drill",
-    "cover": "",
-    "description": "",
     "midis": [
       "drill_cymatics_another_vision_140_bpm_g_min",
       "drill_cymatics_bando_140_bpm_e_min",
@@ -43,13 +19,13 @@
       "drill_cymatics_midnight_144_bpm_c_min",
       "drill_cymatics_napolitan_140_bpm_e_min",
       "drill_cymatics_overcooked_144_bpm_d_min"
-    ]
+    ],
+    "title": "Drill"
   },
   {
-    "id": "electronic",
-    "title": "Electronic",
     "cover": "",
     "description": "",
+    "id": "electronic",
     "midis": [
       "electronic_cymatics_ammonia_148_bpm_a_min",
       "electronic_cymatics_baby_blue_140_bpm_f_maj",
@@ -66,13 +42,13 @@
       "electronic_cymatics_minutes_away_131_bpm_a_min",
       "electronic_cymatics_narrow_138_bpm_f_min",
       "electronic_cymatics_pink_diamonds_140_bpm_g_min"
-    ]
+    ],
+    "title": "Electronic"
   },
   {
-    "id": "epic",
-    "title": "Epic",
     "cover": "",
     "description": "",
+    "id": "epic",
     "midis": [
       "epic_cymatics_arrival_140_bpm_f_min",
       "epic_cymatics_ascent_132_bpm_b_min",
@@ -89,13 +65,13 @@
       "epic_cymatics_helipad_121_bpm_b_min",
       "epic_cymatics_hollow_140_bpm_c_min",
       "epic_cymatics_jester_133_bpm_d_min"
-    ]
+    ],
+    "title": "Epic"
   },
   {
-    "id": "festival",
-    "title": "Festival",
     "cover": "",
     "description": "",
+    "id": "festival",
     "midis": [
       "festival_cymatics_all_for_you_breakdown_126_bpm_a_min",
       "festival_cymatics_all_for_you_126_bpm_a_min",
@@ -112,13 +88,13 @@
       "festival_cymatics_pictures_124_bpm_g_min",
       "festival_cymatics_purpose_108_bpm_e_min",
       "festival_cymatics_stardust_128_bpm_d_min"
-    ]
+    ],
+    "title": "Festival"
   },
   {
-    "id": "fusion",
-    "title": "Fusion",
     "cover": "",
     "description": "",
+    "id": "fusion",
     "midis": [
       "fusion_cymatics_all_of_me_123_bpm_d_min",
       "fusion_cymatics_butterflies_101_bpm_c_maj",
@@ -135,13 +111,13 @@
       "fusion_cymatics_missions_120_bpm_a_min",
       "fusion_cymatics_nightfall_108_bpm_g_maj",
       "fusion_cymatics_treasures_120_bpm_g_min"
-    ]
+    ],
+    "title": "Fusion"
   },
   {
-    "id": "lofi",
-    "title": "Lofi",
     "cover": "",
     "description": "",
+    "id": "lofi",
     "midis": [
       "lofi_cymatics_awake_again_76_bpm_g_min",
       "lofi_cymatics_be_your_warmth_76_bpm_f_maj",
@@ -158,13 +134,13 @@
       "lofi_cymatics_lifetime_82_bpm_b_min",
       "lofi_cymatics_moon_dust_73_bpm_c_maj",
       "lofi_cymatics_morning_market_89_bpm_a_min"
-    ]
+    ],
+    "title": "Lofi"
   },
   {
-    "id": "rnb",
-    "title": "RnB",
     "cover": "",
     "description": "",
+    "id": "rnb",
     "midis": [
       "rnb_cymatics_affection_169_bpm_a_min",
       "rnb_cymatics_been_away_140_bpm_g_min",
@@ -181,13 +157,13 @@
       "rnb_cymatics_midnight_130_bpm_d_min",
       "rnb_cymatics_nevada_139_bpm_d_min",
       "rnb_cymatics_ocean_avenue_114_bpm_d_min"
-    ]
+    ],
+    "title": "RnB"
   },
   {
-    "id": "sunrise",
-    "title": "Sunrise",
     "cover": "",
     "description": "",
+    "id": "sunrise",
     "midis": [
       "sunrise_cymatics_all_becomes_one_124_bpm_a_min",
       "sunrise_cymatics_bliss_121_bpm_g_min",
@@ -204,13 +180,13 @@
       "sunrise_cymatics_melt_away_123_bpm_a_min",
       "sunrise_cymatics_no_way_back_122_bpm_c_min",
       "sunrise_cymatics_sector_nine_124_bpm_f_min"
-    ]
+    ],
+    "title": "Sunrise"
   },
   {
-    "id": "synth",
-    "title": "Synth",
     "cover": "",
     "description": "",
+    "id": "synth",
     "midis": [
       "synth_cymatics_abyss_77_bpm_f_min",
       "synth_cymatics_bionics_136_bpm_d_min",
@@ -227,13 +203,13 @@
       "synth_cymatics_masquerade_160_bpm_a_min",
       "synth_cymatics_no_security_147_bpm_e_min",
       "synth_cymatics_orange_moon_140_bpm_c_min"
-    ]
+    ],
+    "title": "Synth"
   },
   {
-    "id": "trap",
-    "title": "Trap",
     "cover": "",
     "description": "",
+    "id": "trap",
     "midis": [
       "trap_cymatics_accords_163_bpm_c_min",
       "trap_cymatics_business_131_bpm_d_min",
@@ -250,13 +226,13 @@
       "trap_cymatics_jade_stones_152_bpm_g_min",
       "trap_cymatics_koalas_150_bpm_d_min",
       "trap_cymatics_lifetime_169_bpm_c_min"
-    ]
+    ],
+    "title": "Trap"
   },
   {
-    "id": "vintage",
-    "title": "Vintage",
     "cover": "",
     "description": "",
+    "id": "vintage",
     "midis": [
       "vintage_cymatics_all_faith_72_bpm_g_maj",
       "vintage_cymatics_burned_bridges_78_bpm_c_min",
@@ -273,13 +249,13 @@
       "vintage_cymatics_oceanside_86_bpm_g_min",
       "vintage_cymatics_phases_66_bpm_f_min",
       "vintage_cymatics_queens_riddle_64_bpm_g_min"
-    ]
+    ],
+    "title": "Vintage"
   },
   {
-    "id": "world",
-    "title": "World",
     "cover": "",
     "description": "",
+    "id": "world",
     "midis": [
       "world_cymatics_access_98_bpm_e_min",
       "world_cymatics_adventures_102_bpm_e_min",
@@ -296,6 +272,7 @@
       "world_cymatics_lamento_104_bpm_c_min",
       "world_cymatics_mile_high_110_bpm_g_min",
       "world_cymatics_nueva_97_bpm_a_min"
-    ]
+    ],
+    "title": "World"
   }
 ]
