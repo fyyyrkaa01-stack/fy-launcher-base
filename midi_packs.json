@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "lofi",
-    "midis": [
-      "lofi_cymatics_awake_again_76_bpm_g_min",
-      "lofi_cymatics_be_your_warmth_76_bpm_f_maj",
-      "lofi_cymatics_blossom_66_bpm_b_min",
-      "lofi_cymatics_clear_skies_80_bpm_f_min",
-      "lofi_cymatics_don_t_let_me_go_73_bpm_a_maj",
-      "lofi_cymatics_everywhere_80_bpm_c_min",
-      "lofi_cymatics_fireplace_75_bpm_f_min",
-      "lofi_cymatics_goes_without_saying_75_bpm_a_min",
-      "lofi_cymatics_hyrule_70_bpm_c_maj",
-      "lofi_cymatics_in_the_end_95_bpm_f_maj",
-      "lofi_cymatics_just_how_it_should_be_82_bpm_a_maj",
-      "lofi_cymatics_kadavu_60_bpm_a_min",
-      "lofi_cymatics_lifetime_82_bpm_b_min",
-      "lofi_cymatics_moon_dust_73_bpm_c_maj",
-      "lofi_cymatics_morning_market_89_bpm_a_min"
-    ],
-    "title": "Lofi"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "rnb",
     "midis": [
       "rnb_cymatics_affection_169_bpm_a_min",
