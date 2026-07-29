@@ -302,17 +302,33 @@
     "video_url": ""
   },
   {
-    "id": "ana_2",
-    "title": "ANA 2",
-    "full_title": "Sonic Academy - ANA 2.0.3 r2",
     "arch": "VST, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/ana_2_cover.png",
+    "description": "{КАК \"УСТАНОВИТЬ\" ДАННЫЙ ПАКЕТ С ИСПОЛЬЗОВАНИЕМ .CMD ФАЙЛОВ SymLink Installer?}\nХотя ниже идет длинное описание, суть проста:\nA) СОХРАНИВ НАРАБОТКИ, удалить некоторые папки, возможно оставшиеся от предыдущих инсталляций;\nB) запустить командный файл создания симлинков (Windows Junction Points) - SymLink Installer.cmd;\nC) указать в DAW путь сканирования VST2 плагинов (C:\\Program Files (x86)\\VstPlugins),\nD) запустить DAW, просканировать наличие новых плагинов, запустив их и (если это требуется) зарегистрировать.",
+    "full_title": "Sonic Academy - ANA 2.0.3 r2",
+    "id": "ana_2",
+    "magnet": "magnet:?xt=urn:btih:b82ea243c27a9864b415b832a08015285f8ce9ca&dn=Sonic%20Academy%20ANA%202.0.3%20r2%20NO%20INSTALL%2027.12.2017&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/ana_2_cover.png",
+    "title": "ANA 2",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:b82ea243c27a9864b415b832a08015285f8ce9ca&dn=Sonic%20Academy%20ANA%202.0.3%20r2%20NO%20INSTALL%2027.12.2017&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "{КАК \"УСТАНОВИТЬ\" ДАННЫЙ ПАКЕТ С ИСПОЛЬЗОВАНИЕМ .CMD ФАЙЛОВ SymLink Installer?}\nХотя ниже идет длинное описание, суть проста:\nA) СОХРАНИВ НАРАБОТКИ, удалить некоторые папки, возможно оставшиеся от предыдущих инсталляций;\nB) запустить командный файл создания симлинков (Windows Junction Points) - SymLink Installer.cmd;\nC) указать в DAW путь сканирования VST2 плагинов (C:\\Program Files (x86)\\VstPlugins),\nD) запустить DAW, просканировать наличие новых плагинов, запустив их и (если это требуется) зарегистрировать.",
+    "video_url": ""
+  },
+  {
+    "id": "xo_complete",
+    "title": "XO Complete",
+    "full_title": "XLN Audio - XO Complete v1.8.4.1",
+    "arch": "VST|VST3|AAX",
+    "tags": [
+      "VST3",
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/xo_complete_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f0d25bd9671bd6987d6569b70a9ca823be660b7e&dn=XLN%20Audio%20-%20XO%20Complete%20v1.8.4.1%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "XO - это не обычная драм-машина. XO визуально упорядочивает ваши сэмплы, а интуитивно понятный рабочий процесс позволяет сосредоточиться на прослушивании, а не на поиске в папках. Прослушивайте сэмплы и ритмы, чтобы найти то, что вам нравится, а затем доводите до совершенства.\n\nПримечание Удалите предыдущую версию. Удалите предыдущее содержимое. Если требуется дополнительная очистка,\n• %APPDATA%\\(Product Name)\\ • %PROGRAMDATA%\\XLN Audio\\ • %USERPROFILE%\\Documents\\(Product Name)\\ • %USERPROFILE%\\Documents\\(Product Name) Logs\\ • %USERPROFILE%\\Documents\\XLN Online Installer\\ ------------------------------ \n1. Установите плагин \n2. Установите последнюю версию TEAM R2R - R2R System \n3. Активируйте при помощи WM_XLNAudio.r2rwm\nУстановка библиотеки \n1. Скопируйте библиотеку XO на свой компьютер. \n2. Запустите \"*_Library_Placer.exe\", чтобы разместить библиотеку. * Вы не должны удалять файлы из этой папки после установки, активации.\n\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
     "screenshots": [],
     "video_url": ""
   }
