@@ -282,18 +282,33 @@
     "video_url": ""
   },
   {
-    "id": "bx_masterdesk_pro",
-    "title": "bx masterdesk PRO",
-    "full_title": "Plugin Alliance - Brainworx bx masterdesk PRO",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/bx_masterdesk_pro_cover.png",
+    "description": "Превосходное решение для мастеринга \"все в одном\" с новыми функциями, добавленными по многочисленным просьбам пользователей Вы спрашивали, мы прислушались: Brainworx bx_masterdesk PRO расширяет возможности своих предшественников, добавляя новые функции и более широкий контроль к этой невероятно популярной и простой в использовании системе мастеринга.",
+    "full_title": "Plugin Alliance - Brainworx bx masterdesk PRO",
+    "id": "bx_masterdesk_pro",
+    "magnet": "magnet:?xt=urn:btih:f9e56f0211fe24cf772fad2ced237a1392d4b8d1&dn=Plugin%20Alliance%20-%20bx_masterdesk%20Pro%20v1.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/bx_masterdesk_pro_cover.png",
+    "title": "bx masterdesk PRO",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f9e56f0211fe24cf772fad2ced237a1392d4b8d1&dn=Plugin%20Alliance%20-%20bx_masterdesk%20Pro%20v1.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Превосходное решение для мастеринга \"все в одном\" с новыми функциями, добавленными по многочисленным просьбам пользователей Вы спрашивали, мы прислушались: Brainworx bx_masterdesk PRO расширяет возможности своих предшественников, добавляя новые функции и более широкий контроль к этой невероятно популярной и простой в использовании системе мастеринга.",
+    "video_url": ""
+  },
+  {
+    "id": "t_racks_6_max",
+    "title": "T-RackS 6 MAX",
+    "full_title": "IK Multimedia - T-RackS 6 MAX v6.3.0 [NO INSTALL, ONLY VST3]",
+    "arch": "VST3",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/t_racks_6_max_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:1ad0eec8c68f9e2adf7f791233713b786e0461c9&dn=IK%20Multimedia%20T-RackS%206&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "1. Поместить папку в удобное для Вас место \n2. От имени Администратора запустить SymLink DeInstaller \n3. От имени Администратора запустить SymLink Installer \n4. Активировать с помощью Кейгена",
     "screenshots": [],
     "video_url": ""
   }
