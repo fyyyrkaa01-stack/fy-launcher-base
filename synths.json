@@ -223,18 +223,34 @@
     "video_url": ""
   },
   {
-    "id": "nexus_5",
-    "title": "Nexus 5",
-    "full_title": "reFX - Nexus 5 v5.4.14",
     "arch": "VST|VST3|AAX|AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)\nПримечание для MAC\nРасположение содержимого по умолчанию -\n/Library/Audio/Presets/reFX/NEXUS library\n- поместите содержимое в этот каталог или разместите там символическую ссылку на текущее местоположение библиотеки или отредактируйте путь в файле\n/users/shared/reFX/nexus/settings.json",
+    "full_title": "reFX - Nexus 5 v5.4.14",
+    "id": "nexus_5",
+    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "title": "Nexus 5",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)\nПримечание для MAC\nРасположение содержимого по умолчанию -\n/Library/Audio/Presets/reFX/NEXUS library\n- поместите содержимое в этот каталог или разместите там символическую ссылку на текущее местоположение библиотеки или отредактируйте путь в файле\n/users/shared/reFX/nexus/settings.json",
+    "video_url": ""
+  },
+  {
+    "id": "galaxias",
+    "title": "Galaxias",
+    "full_title": "Roland - Galaxias|Cloud Ultimate|ZENOLOGY Content v2026.04",
+    "arch": "VST3|AAX|SAL",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/galaxias_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:97e5bf54862f6690009bd3d9beb15494b6bebebb&dn=Roland&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "description": "Добро пожаловать на материнский корабль. GALAXIAS объединяет 50-летний опыт создания легендарных синтезаторов и драм-машин Roland в одном мощном супер-инструменте. Получите доступ к тысячам культовых звуков и свободно комбинируйте аутентичные инструменты Roland — от винтажных до современных.\n\nУстановка Galaxias\n1. Установите последнюю версию TEAM R2R - R2R System \n2. Если у вас была предыдущая установка:\n• Экспортируйте свои собственные пресеты.\n• Удалите предыдущие версии.\n• Удалите \"%USERPROFILE%\\Galaxias User\".\n• Удалите \"%PUBLIC%\\Documents\\Galaxias Library\"\n3. Подтвердите установку\n• Roland - Cloud Ultimate v2026.04 (для Galaxias требуется версия VST3)\n• Roland - ZENOLOGY Content v2026.04\nПримечание\n• Запустите все плагины Roland Cloud Ultimate хотя бы один раз для инициализации. В противном случае заводские настройки плагинов не будут отображаться в Galaxias.\n• Запустите Galaxias Standalone для инициализации.\n-------------------------------------------------------------------\nУстановка Cloud Ultimate\n1. Установите последнюю версию TEAM R2R - R2R System - поиск\n2. Удалите предыдущие версии.\n• Удалите \"%PROGRAMDATA%\\Roland Cloud\\\", если вам необходимо выполнить очистку.\n3. Запустите пакетный установщик *.cmd или отдельные установщики.\nПримечание\n• Предоставьте специальное разрешение \"%PROGRAMDATA%\\Roland Cloud\" на запись файлов. Плагины Roland Cloud сохраняют или копируют пресеты в эту папку.\n\"%PROGRAMDATA%\" не всегда доступен для записи для всех пользователей Windows.\n-------------------------------------------------------------------\nУстановка ZENOLOGY Content\n1. Запустите \"install.cmd\" или вручную скопируйте папку \"ZENOLOGY\" в \"%LOCALAPPDATA%\\Roland Cloud\".\nНаслаждайтесь!",
     "screenshots": [],
     "video_url": ""
   }
