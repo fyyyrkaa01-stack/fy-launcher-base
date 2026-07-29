@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "vintage",
-    "midis": [
-      "vintage_cymatics_all_faith_72_bpm_g_maj",
-      "vintage_cymatics_burned_bridges_78_bpm_c_min",
-      "vintage_cymatics_cashmere_78_bpm_a_maj",
-      "vintage_cymatics_dreaming_big_74_bpm_c_min",
-      "vintage_cymatics_equations_81_bpm_e_min",
-      "vintage_cymatics_foreign_affairs_115_bpm_g_min",
-      "vintage_cymatics_fusion_82_bpm_a_min",
-      "vintage_cymatics_just_supreme_70_bpm_d_min",
-      "vintage_cymatics_kill_switch_73_bpm_g_min",
-      "vintage_cymatics_lotus_blossom_75_bpm_a_min",
-      "vintage_cymatics_morning_tea_114_bpm_g_min",
-      "vintage_cymatics_nightingale_83_bpm_b_maj",
-      "vintage_cymatics_oceanside_86_bpm_g_min",
-      "vintage_cymatics_phases_66_bpm_f_min",
-      "vintage_cymatics_queens_riddle_64_bpm_g_min"
-    ],
-    "title": "Vintage"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "world",
     "midis": [
       "world_cymatics_access_98_bpm_e_min",
