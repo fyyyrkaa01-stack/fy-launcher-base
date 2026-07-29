@@ -2,7 +2,7 @@
   {
     "id": "midi_collection",
     "title": "MIDI Collection",
-    "cover": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/midi_collection_cover.png",
     "description": "",
     "midis": [
       "midi_collection_ambient_cymatics_allure_midi_d_min",
