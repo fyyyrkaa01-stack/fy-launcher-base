@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "rnb",
-    "midis": [
-      "rnb_cymatics_affection_169_bpm_a_min",
-      "rnb_cymatics_been_away_140_bpm_g_min",
-      "rnb_cymatics_connection_170_bpm_a_min",
-      "rnb_cymatics_desires_109_bpm_a_min",
-      "rnb_cymatics_emotions_66_bpm_c_min",
-      "rnb_cymatics_feelings_150_bpm_c_min",
-      "rnb_cymatics_glimmer_132_bpm_g_min",
-      "rnb_cymatics_harmonies_152_bpm_g_min",
-      "rnb_cymatics_illusion_95_bpm_c_min",
-      "rnb_cymatics_jealous_mind_125_bpm_a_min",
-      "rnb_cymatics_kisses_91_bpm_g_min",
-      "rnb_cymatics_lovesick_95_bpm_c_min",
-      "rnb_cymatics_midnight_130_bpm_d_min",
-      "rnb_cymatics_nevada_139_bpm_d_min",
-      "rnb_cymatics_ocean_avenue_114_bpm_d_min"
-    ],
-    "title": "RnB"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "sunrise",
     "midis": [
       "sunrise_cymatics_all_becomes_one_124_bpm_a_min",
