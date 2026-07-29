@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "sunrise",
-    "midis": [
-      "sunrise_cymatics_all_becomes_one_124_bpm_a_min",
-      "sunrise_cymatics_bliss_121_bpm_g_min",
-      "sunrise_cymatics_blossom_120_bpm_f_min",
-      "sunrise_cymatics_careless_125_bpm_g_min",
-      "sunrise_cymatics_clover_120_bpm_c_min",
-      "sunrise_cymatics_distance_124_bpm_a_min",
-      "sunrise_cymatics_eruption_118_bpm_f_min",
-      "sunrise_cymatics_glow_120_bpm_f_min",
-      "sunrise_cymatics_highways_119_bpm_a_min",
-      "sunrise_cymatics_illuminate_120_bpm_g_min",
-      "sunrise_cymatics_infinity_pool_125_bpm_d_min",
-      "sunrise_cymatics_journey_ahead_123_bpm_f_min",
-      "sunrise_cymatics_melt_away_123_bpm_a_min",
-      "sunrise_cymatics_no_way_back_122_bpm_c_min",
-      "sunrise_cymatics_sector_nine_124_bpm_f_min"
-    ],
-    "title": "Sunrise"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "synth",
     "midis": [
       "synth_cymatics_abyss_77_bpm_f_min",
