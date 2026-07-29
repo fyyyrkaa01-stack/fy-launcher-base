@@ -255,18 +255,33 @@
     "video_url": ""
   },
   {
-    "id": "zebra_3",
-    "title": "Zebra 3",
-    "full_title": "u-he — Zebra 3 (v3.0.0.21799)",
     "arch": "VSTi3, AAX, CLAP",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zebra_3_cover.png",
+    "description": "Zebra 3 — это долгожданное продолжение легендарного синтезатора, полностью перестроенное с нуля. Инструмент сочетает в себе передовые технологии аналогового, физического и цифрового моделирования. Это мощная среда для глубокого звукового дизайна, предлагающая как интуитивно понятный интерфейс для быстрой работы, так и безграничные возможности для создания сложных текстур.",
+    "full_title": "u-he — Zebra 3 (v3.0.0.21799)",
+    "id": "zebra_3",
+    "magnet": "magnet:?xt=urn:btih:a8d10e63583b7eea70cedab1bcce1f93fa32973f&dn=u-he%20Zebra3%20v3.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zebra_3_cover.png",
+    "title": "Zebra 3",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a8d10e63583b7eea70cedab1bcce1f93fa32973f&dn=u-he%20Zebra3%20v3.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "description": "Zebra 3 — это долгожданное продолжение легендарного синтезатора, полностью перестроенное с нуля. Инструмент сочетает в себе передовые технологии аналогового, физического и цифрового моделирования. Это мощная среда для глубокого звукового дизайна, предлагающая как интуитивно понятный интерфейс для быстрой работы, так и безграничные возможности для создания сложных текстур.",
+    "video_url": ""
+  },
+  {
+    "id": "repro_1_repro_5",
+    "title": "Repro 1+ Repro 5",
+    "full_title": "u-he - Repro-1 1.1.6794 + Repro-5",
+    "arch": "VSTi, VSTi3, AAX",
+    "tags": [
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/repro_1_repro_5_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:129305e31b9075785e4a23e4ca44441cf3ce736a&dn=u-he.Repro-1.v1.1.6794.CE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "Repro-1 погружается в прошлое для аналогового вдохновения, благоговейно моделируя классический синтезатор. Каждая деталь оригинала была захвачена с помощью технологии моделирования на уровне компонентов, чтобы создать самую настоящую модель какую только возможно. Все тончайшие характеристики, найденные в оригинале присутствуют в Repro-1.",
     "screenshots": [],
     "video_url": ""
   }
