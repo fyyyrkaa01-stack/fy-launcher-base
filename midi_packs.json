@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "fusion",
-    "midis": [
-      "fusion_cymatics_all_of_me_123_bpm_d_min",
-      "fusion_cymatics_butterflies_101_bpm_c_maj",
-      "fusion_cymatics_crimson_fire_174_bpm_f_maj",
-      "fusion_cymatics_damascus_120_bpm_a_min",
-      "fusion_cymatics_elemental_100_bpm_a_maj",
-      "fusion_cymatics_first_loss_123_bpm_f_min",
-      "fusion_cymatics_galactic_126_bpm_g_min",
-      "fusion_cymatics_hurting_134_bpm_a_min",
-      "fusion_cymatics_in_california_110_bpm_g_min",
-      "fusion_cymatics_jackpot_127_bpm_g_min",
-      "fusion_cymatics_kaleidoscope_126_bpm_f_min",
-      "fusion_cymatics_leaving_home_114_bpm_f_min",
-      "fusion_cymatics_missions_120_bpm_a_min",
-      "fusion_cymatics_nightfall_108_bpm_g_maj",
-      "fusion_cymatics_treasures_120_bpm_g_min"
-    ],
-    "title": "Fusion"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "lofi",
     "midis": [
       "lofi_cymatics_awake_again_76_bpm_g_min",
