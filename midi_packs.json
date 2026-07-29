@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "drill",
-    "midis": [
-      "drill_cymatics_another_vision_140_bpm_g_min",
-      "drill_cymatics_bando_140_bpm_e_min",
-      "drill_cymatics_cigars_142_bpm_c_min",
-      "drill_cymatics_descent_142_bpm_g_min",
-      "drill_cymatics_eleven_140_bpm_e_min",
-      "drill_cymatics_first_strike_144_bpm_f_min",
-      "drill_cymatics_general_143_bpm_g_min",
-      "drill_cymatics_helvetia_145_bpm_c_min",
-      "drill_cymatics_imagery_139_bpm_g_min",
-      "drill_cymatics_jurisdiction_140_bpm_c_min",
-      "drill_cymatics_kings_light_143_bpm_f_min",
-      "drill_cymatics_limestone_140_bpm_b_min",
-      "drill_cymatics_midnight_144_bpm_c_min",
-      "drill_cymatics_napolitan_140_bpm_e_min",
-      "drill_cymatics_overcooked_144_bpm_d_min"
-    ],
-    "title": "Drill"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "electronic",
     "midis": [
       "electronic_cymatics_ammonia_148_bpm_a_min",
