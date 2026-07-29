@@ -329,18 +329,33 @@
     "video_url": ""
   },
   {
-    "id": "thermal",
-    "title": "Thermal",
-    "full_title": "Output - Thermal v1.2.1",
     "arch": "VST/VST3/AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/thermal_cover.png",
+    "description": "Output Thermal представляет собой многоступенчатый интерактивный дисторшн с 19 алгоритмами искажения сигнала Одно из самых гибких решений для искажения и сатурации звукового сигнала.",
+    "full_title": "Output - Thermal v1.2.1",
+    "id": "thermal",
+    "magnet": "magnet:?xt=urn:btih:36d1dc5bb16df1a6046fc8c64d35825d31495472&dn=Output.Thermal.v1.2.1.Incl.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "САТУРАЦИЯ"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/thermal_cover.png",
+    "title": "Thermal",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:36d1dc5bb16df1a6046fc8c64d35825d31495472&dn=Output.Thermal.v1.2.1.Incl.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "Output Thermal представляет собой многоступенчатый интерактивный дисторшн с 19 алгоритмами искажения сигнала Одно из самых гибких решений для искажения и сатурации звукового сигнала.",
+    "video_url": ""
+  },
+  {
+    "id": "halftime",
+    "title": "HalfTime",
+    "full_title": "CableGuys - HalfTime 1.0.1",
+    "arch": "VST",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/halftime_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a377e670dae77d36cddd5157aac0ca8039f5afb6&dn=CableGuys.HalfTime.v1.0.1.CE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Добро пожаловать в мир растянутого, замедленного звука с HalfTime, единственным плагином, на 100% предназначенным для создания эффектов с замедлением скорости, какие используют Armin van Buuren, David Guetta, members of 808 Mafia, The Chemical Brothers и другими.",
     "screenshots": [],
     "video_url": ""
   }
