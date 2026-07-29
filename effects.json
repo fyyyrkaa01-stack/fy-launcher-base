@@ -391,17 +391,32 @@
     "video_url": ""
   },
   {
-    "id": "fresh_air",
-    "title": "Fresh Air",
+    "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fresh_air_cover.png",
+    "description": "Добавьте самый гладкий хай-энд, который вы когда-либо слышали, без намека на резкость.\nFresh Air - это динамичный высокочастотный процессор, который вдохнет новую жизнь в ваш микс с помощью всего двух регуляторов",
     "full_title": "Slate Digital - Fresh Air",
+    "id": "fresh_air",
+    "magnet": "magnet:?xt=urn:btih:96c85689aa9d0e3c08f892ac1cb0df61d1b92cba&dn=Slate%20Digital%20-%20Fresh%20Air%20v1.0.9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [],
+    "tags": [
+      "Effect"
+    ],
+    "title": "Fresh Air",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "infiltrator_2",
+    "title": "Infiltrator 2",
+    "full_title": "Devious Machines - Infiltrator 2 v2.4.7 VST, VST3",
     "arch": "VST, VST3, AAX",
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fresh_air_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/infiltrator_2_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:96c85689aa9d0e3c08f892ac1cb0df61d1b92cba&dn=Slate%20Digital%20-%20Fresh%20Air%20v1.0.9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Добавьте самый гладкий хай-энд, который вы когда-либо слышали, без намека на резкость.\nFresh Air - это динамичный высокочастотный процессор, который вдохнет новую жизнь в ваш микс с помощью всего двух регуляторов",
+    "magnet": "magnet:?xt=urn:btih:881c3c749d5a1f52b54d03e7f8f57d6f09578b15&dn=Devious.Machines.Infiltrator.v2.4.7-TCD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "description": "Infiltrator 2 - это мультиэффект монстр, который может складывать, упорядочивать и модулировать до десяти различных эффектов одновременно. Будь то аналоговая фильтрация или изменяющее реальность звуковое преобразование, Infiltrator 2 предоставит вам все это. Infiltrator 2 удваивает количество эффектов, пресетов и вариантов модуляции по сравнению со своим предшественником.",
     "screenshots": [],
     "video_url": ""
   }
