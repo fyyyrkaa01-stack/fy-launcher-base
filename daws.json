@@ -112,21 +112,5 @@
     "title": "REAPER",
     "torrent": "",
     "video_url": ""
-  },
-  {
-    "id": "galaxias",
-    "title": "Galaxias",
-    "full_title": "Roland - Galaxias|Cloud Ultimate|ZENOLOGY Content v2026.04",
-    "arch": "VST3|AAX|SAL",
-    "tags": [
-      "VST3",
-      "Synth"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/galaxias_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:97e5bf54862f6690009bd3d9beb15494b6bebebb&dn=Roland&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "Добро пожаловать на материнский корабль. GALAXIAS объединяет 50-летний опыт создания легендарных синтезаторов и драм-машин Roland в одном мощном супер-инструменте. Получите доступ к тысячам культовых звуков и свободно комбинируйте аутентичные инструменты Roland — от винтажных до современных.\n\nУстановка Galaxias\n1. Установите последнюю версию TEAM R2R - R2R System \n2. Если у вас была предыдущая установка:\n• Экспортируйте свои собственные пресеты.\n• Удалите предыдущие версии.\n• Удалите \"%USERPROFILE%\\Galaxias User\".\n• Удалите \"%PUBLIC%\\Documents\\Galaxias Library\"\n3. Подтвердите установку\n• Roland - Cloud Ultimate v2026.04 (для Galaxias требуется версия VST3)\n• Roland - ZENOLOGY Content v2026.04\nПримечание\n• Запустите все плагины Roland Cloud Ultimate хотя бы один раз для инициализации. В противном случае заводские настройки плагинов не будут отображаться в Galaxias.\n• Запустите Galaxias Standalone для инициализации.\n-------------------------------------------------------------------\nУстановка Cloud Ultimate\n1. Установите последнюю версию TEAM R2R - R2R System - поиск\n2. Удалите предыдущие версии.\n• Удалите \"%PROGRAMDATA%\\Roland Cloud\\\", если вам необходимо выполнить очистку.\n3. Запустите пакетный установщик *.cmd или отдельные установщики.\nПримечание\n• Предоставьте специальное разрешение \"%PROGRAMDATA%\\Roland Cloud\" на запись файлов. Плагины Roland Cloud сохраняют или копируют пресеты в эту папку.\n\"%PROGRAMDATA%\" не всегда доступен для записи для всех пользователей Windows.\n-------------------------------------------------------------------\nУстановка ZENOLOGY Content\n1. Запустите \"install.cmd\" или вручную скопируйте папку \"ZENOLOGY\" в \"%LOCALAPPDATA%\\Roland Cloud\".\nНаслаждайтесь!",
-    "screenshots": [],
-    "video_url": ""
   }
 ]
