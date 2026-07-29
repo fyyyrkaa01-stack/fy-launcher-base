@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "electronic",
-    "midis": [
-      "electronic_cymatics_ammonia_148_bpm_a_min",
-      "electronic_cymatics_baby_blue_140_bpm_f_maj",
-      "electronic_cymatics_chrome_hearts_142_bpm_c_min",
-      "electronic_cymatics_dance_cold_134_bpm_d_min",
-      "electronic_cymatics_eternal_154_bpm_e_min",
-      "electronic_cymatics_ethanol_148_bpm_f_min",
-      "electronic_cymatics_germanium_130_bpm_d_min",
-      "electronic_cymatics_hypnosis_150_bpm_e_min",
-      "electronic_cymatics_international_135_bpm_g_min",
-      "electronic_cymatics_journal_148_bpm_d_min",
-      "electronic_cymatics_know_better_133_bpm_f_min",
-      "electronic_cymatics_last_divide_140_bpm_c_min",
-      "electronic_cymatics_minutes_away_131_bpm_a_min",
-      "electronic_cymatics_narrow_138_bpm_f_min",
-      "electronic_cymatics_pink_diamonds_140_bpm_g_min"
-    ],
-    "title": "Electronic"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "epic",
     "midis": [
       "epic_cymatics_arrival_140_bpm_f_min",
