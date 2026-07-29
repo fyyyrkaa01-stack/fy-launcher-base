@@ -235,18 +235,33 @@
     "video_url": ""
   },
   {
-    "id": "gullfoss",
-    "title": "Gullfoss",
-    "full_title": "Soundtheory - Gullfoss v1.11.9",
     "arch": "VST|VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/gullfoss_cover.png",
+    "description": "Gullfoss - это простой в использовании инструмент для всех, от музыканта-любителя до профессионального инженера по мастерингу. Его понятный пользовательский интерфейс предлагает набор базовых параметров, которые можно настроить для улучшения четкости, детализации, пространственности и баланса микширования или записи за считанные секунды.",
+    "full_title": "Soundtheory - Gullfoss v1.11.9",
+    "id": "gullfoss",
+    "magnet": "magnet:?xt=urn:btih:4071a6d35f9f9177f20ee521158b656154990c38&dn=Soundtheory%20-%20Gullfoss%20v1.11.9%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/gullfoss_cover.png",
+    "title": "Gullfoss",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:4071a6d35f9f9177f20ee521158b656154990c38&dn=Soundtheory%20-%20Gullfoss%20v1.11.9%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Gullfoss - это простой в использовании инструмент для всех, от музыканта-любителя до профессионального инженера по мастерингу. Его понятный пользовательский интерфейс предлагает набор базовых параметров, которые можно настроить для улучшения четкости, детализации, пространственности и баланса микширования или записи за считанные секунды.",
+    "video_url": ""
+  },
+  {
+    "id": "standardclip",
+    "title": "StandardCLIP",
+    "full_title": "SIR Audio Tools - StandardCLIP 1.5.058",
+    "arch": "VST, VST3, AAX, AU",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/standardclip_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:712fe03878b9bbe0d151d35843dc72f7b875b759&dn=SIR.Audio.Tools.Standard.CLIP.v1.5.058.Incl.Keygen.READ.NFO-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "description": "StandardCLIP - это новый расширенный плагин для отсечения. Вы можете использовать StandardCLIP как динамический инструмент для увеличения громкости или как эффект для добавления нечетных гармоник к вашему сигналу. StandardCLIP предлагает высококачественную передискретизацию с коэффициентом 256 и большое количество опций.",
     "screenshots": [],
     "video_url": ""
   }
