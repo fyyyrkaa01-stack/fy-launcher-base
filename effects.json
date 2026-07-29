@@ -251,17 +251,33 @@
     "video_url": ""
   },
   {
-    "id": "standardclip",
-    "title": "StandardCLIP",
-    "full_title": "SIR Audio Tools - StandardCLIP 1.5.058",
     "arch": "VST, VST3, AAX, AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/standardclip_cover.png",
+    "description": "StandardCLIP - это новый расширенный плагин для отсечения. Вы можете использовать StandardCLIP как динамический инструмент для увеличения громкости или как эффект для добавления нечетных гармоник к вашему сигналу. StandardCLIP предлагает высококачественную передискретизацию с коэффициентом 256 и большое количество опций.",
+    "full_title": "SIR Audio Tools - StandardCLIP 1.5.058",
+    "id": "standardclip",
+    "magnet": "magnet:?xt=urn:btih:712fe03878b9bbe0d151d35843dc72f7b875b759&dn=SIR.Audio.Tools.Standard.CLIP.v1.5.058.Incl.Keygen.READ.NFO-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/standardclip_cover.png",
+    "title": "StandardCLIP",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:712fe03878b9bbe0d151d35843dc72f7b875b759&dn=SIR.Audio.Tools.Standard.CLIP.v1.5.058.Incl.Keygen.READ.NFO-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "StandardCLIP - это новый расширенный плагин для отсечения. Вы можете использовать StandardCLIP как динамический инструмент для увеличения громкости или как эффект для добавления нечетных гармоник к вашему сигналу. StandardCLIP предлагает высококачественную передискретизацию с коэффициентом 256 и большое количество опций.",
+    "video_url": ""
+  },
+  {
+    "id": "shadow_hills_mastering_compressor",
+    "title": "Shadow Hills Mastering Compressor",
+    "full_title": "Plugin Alliance - Shadow Hills Mastering Compressor Bundle 202509",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/shadow_hills_mastering_compressor_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:9e411af6b12a4761f3067db9bb93ed88603dddc1&dn=Plugin.Alliance.Shadow.Hills.Mastering.Compressor.Bundle.202509-TCD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "description": "Лучший компрессор мастер-шины",
     "screenshots": [],
     "video_url": ""
   }
