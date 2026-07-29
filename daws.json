@@ -63,19 +63,36 @@
     "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8"
   },
   {
-    "id": "studio_one_pro_7",
-    "title": "Studio One Pro 7",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_cover.png",
+    "description": "Studio One Pro 7 - одна DAW для всех Ваш универсальный продакшн - центр со всем необходимым для записи, продюсирования, микширования, мастеринга и исполнения.\n\n* Удалить старую версию Studio One ** Удалить папки в директории\n%PROGRAMDATA%\\PreSonus\\ %APPDATA%\\PreSonus\\ \n1. Установить PreSonus Studio One Pro 7 \n2. Установить и запустить PreSonus Sphere Manager v2.0.0 \n3. Нажать Install Magic - Studio One 7.cmd \n4. Нажать Subscription - Renew.cmd \n5. Запустите PreSonus Studio One Pro 7\nПримечание Данный релиз можно устанавливать поверх предыдущих версий, начиная с v7.0.2 и выполнить шаги 3,4,5 из пункта \"Установка|Активация\"",
     "full_title": "PreSonus - Studio One Pro 7 v7.2.3",
+    "id": "studio_one_pro_7",
+    "magnet": "magnet:?xt=urn:btih:85c1fd81fad4fb12b3fc7300bdde3e2154566f0f&dn=PreSonus%20-%20Studio%20One%20Pro%207%20v7.2.3%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_screenshot_1.png"
+    ],
+    "tags": [
+      "DAW"
+    ],
+    "title": "Studio One Pro 7",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "bitwig_studio",
+    "title": "Bitwig Studio",
+    "full_title": "Bitwig Studio 6.0",
     "arch": "",
     "tags": [
       "DAW"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:85c1fd81fad4fb12b3fc7300bdde3e2154566f0f&dn=PreSonus%20-%20Studio%20One%20Pro%207%20v7.2.3%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "description": "Studio One Pro 7 - одна DAW для всех Ваш универсальный продакшн - центр со всем необходимым для записи, продюсирования, микширования, мастеринга и исполнения.\n\n* Удалить старую версию Studio One ** Удалить папки в директории\n%PROGRAMDATA%\\PreSonus\\ %APPDATA%\\PreSonus\\ \n1. Установить PreSonus Studio One Pro 7 \n2. Установить и запустить PreSonus Sphere Manager v2.0.0 \n3. Нажать Install Magic - Studio One 7.cmd \n4. Нажать Subscription - Renew.cmd \n5. Запустите PreSonus Studio One Pro 7\nПримечание Данный релиз можно устанавливать поверх предыдущих версий, начиная с v7.0.2 и выполнить шаги 3,4,5 из пункта \"Установка|Активация\"",
+    "magnet": "magnet:?xt=urn:btih:0df73ce205ec1905427a29ec9998ee8b8b61640c&dn=Bitwig%20Studio%20v6.0%20Windows-Team%20BATs&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
     "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_screenshot_1.png"
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_screenshot_1.png"
     ],
     "video_url": ""
   }
