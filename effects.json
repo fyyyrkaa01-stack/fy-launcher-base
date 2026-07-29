@@ -266,18 +266,34 @@
     "video_url": ""
   },
   {
-    "id": "shadow_hills_mastering_compressor",
-    "title": "Shadow Hills Mastering Compressor",
+    "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/shadow_hills_mastering_compressor_cover.png",
+    "description": "Лучший компрессор мастер-шины",
     "full_title": "Plugin Alliance - Shadow Hills Mastering Compressor Bundle 202509",
+    "id": "shadow_hills_mastering_compressor",
+    "magnet": "magnet:?xt=urn:btih:9e411af6b12a4761f3067db9bb93ed88603dddc1&dn=Plugin.Alliance.Shadow.Hills.Mastering.Compressor.Bundle.202509-TCD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "screenshots": [],
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "title": "Shadow Hills Mastering Compressor",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "bx_masterdesk_pro",
+    "title": "bx masterdesk PRO",
+    "full_title": "Plugin Alliance - Brainworx bx masterdesk PRO",
     "arch": "VST, VST3, AAX",
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/shadow_hills_mastering_compressor_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/bx_masterdesk_pro_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:9e411af6b12a4761f3067db9bb93ed88603dddc1&dn=Plugin.Alliance.Shadow.Hills.Mastering.Compressor.Bundle.202509-TCD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "description": "Лучший компрессор мастер-шины",
+    "magnet": "magnet:?xt=urn:btih:f9e56f0211fe24cf772fad2ced237a1392d4b8d1&dn=Plugin%20Alliance%20-%20bx_masterdesk%20Pro%20v1.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "description": "Превосходное решение для мастеринга \"все в одном\" с новыми функциями, добавленными по многочисленным просьбам пользователей Вы спрашивали, мы прислушались: Brainworx bx_masterdesk PRO расширяет возможности своих предшественников, добавляя новые функции и более широкий контроль к этой невероятно популярной и простой в использовании системе мастеринга.",
     "screenshots": [],
     "video_url": ""
   }
