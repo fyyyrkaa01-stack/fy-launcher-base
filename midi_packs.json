@@ -2,29 +2,6 @@
   {
     "cover": "",
     "description": "",
-    "id": "trap",
-    "midis": [
-      "trap_cymatics_accords_163_bpm_c_min",
-      "trap_cymatics_business_131_bpm_d_min",
-      "trap_cymatics_commodore_126_bpm_g_min",
-      "trap_cymatics_cyprus_138_bpm_a_min",
-      "trap_cymatics_dancer_140_bpm_d_min",
-      "trap_cymatics_drunk_night_118_bpm_f_min",
-      "trap_cymatics_estranged_120_bpm_d_min",
-      "trap_cymatics_falcon_134_bpm_f_min",
-      "trap_cymatics_genesis_160_bpm_a_min",
-      "trap_cymatics_honeycomb_154_bpm_c_min",
-      "trap_cymatics_humility_140_bpm_a_min",
-      "trap_cymatics_iceberg_114_bpm_d_min",
-      "trap_cymatics_jade_stones_152_bpm_g_min",
-      "trap_cymatics_koalas_150_bpm_d_min",
-      "trap_cymatics_lifetime_169_bpm_c_min"
-    ],
-    "title": "Trap"
-  },
-  {
-    "cover": "",
-    "description": "",
     "id": "vintage",
     "midis": [
       "vintage_cymatics_all_faith_72_bpm_g_maj",
