@@ -1,14 +1,27 @@
 [
   {
-    "id": "testovaa_kartocka",
-    "title": "тестовая карточка",
-    "full_title": "тестовая карточка",
     "arch": "тестовая карточка",
-    "tags": [],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/testovaa_kartocka_cover.png",
+    "description": "тестовая карточка тестовая карточка тестовая карточка тестовая карточка",
+    "full_title": "тестовая карточка",
+    "id": "testovaa_kartocka",
+    "magnet": "",
+    "screenshots": [],
+    "tags": [],
+    "title": "тестовая карточка",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "test_2",
+    "title": "тест 2",
+    "full_title": "тест 2",
+    "arch": "тест 2",
+    "tags": [],
+    "cover": "",
     "torrent": "",
     "magnet": "",
-    "description": "тестовая карточка тестовая карточка тестовая карточка тестовая карточка",
+    "description": "тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2 тест 2",
     "screenshots": [],
     "video_url": ""
   }
