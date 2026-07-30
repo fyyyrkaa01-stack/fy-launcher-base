@@ -26,15 +26,28 @@
     "video_url": ""
   },
   {
-    "id": "tesik_2",
-    "title": "тесик 2",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tesik_2_cover.png",
+    "description": "тесик 2",
     "full_title": "тесик 2",
+    "id": "tesik_2",
+    "magnet": "",
+    "screenshots": [],
+    "tags": [],
+    "title": "тесик 2",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "tcuj",
+    "title": "тцуй",
+    "full_title": "тцуй",
     "arch": "",
     "tags": [],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tesik_2_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tcuj_cover.png",
     "torrent": "",
     "magnet": "",
-    "description": "тесик 2",
+    "description": "тцуйтцуйтцуйтцуй",
     "screenshots": [],
     "video_url": ""
   }
