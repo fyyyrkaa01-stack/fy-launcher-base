@@ -13,15 +13,28 @@
     "video_url": ""
   },
   {
-    "id": "tesik",
-    "title": "тесик",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tesik_cover.png",
+    "description": "тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик",
     "full_title": "тесик",
+    "id": "tesik",
+    "magnet": "",
+    "screenshots": [],
+    "tags": [],
+    "title": "тесик",
+    "torrent": "",
+    "video_url": ""
+  },
+  {
+    "id": "tesik_2",
+    "title": "тесик 2",
+    "full_title": "тесик 2",
     "arch": "",
     "tags": [],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tesik_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/tesik_2_cover.png",
     "torrent": "",
     "magnet": "",
-    "description": "тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик тесик",
+    "description": "тесик 2",
     "screenshots": [],
     "video_url": ""
   }
