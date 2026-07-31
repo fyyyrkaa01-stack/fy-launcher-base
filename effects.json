@@ -177,25 +177,6 @@
     "video_url": ""
   },
   {
-    "arch": "STANDALONE, VST, VST3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
-    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
-    "full_title": "Waves - Ultimate 17 26.06.23",
-    "id": "waves",
-    "install_instructions": "1. Устанавливаем Waves Central (в 1-Installer) 2. Запускаем, выбираем Offline Installer, находим папку Waves (в 1-Installer), выбираем частично или полный Waves Ultimate 3. Применяем патч Waves Ultimate 2025.3 patch.exe\nВидео по установке от minusmaker ( кнопка \"видео\")\nУдаление предыдущей версии\n1. Останавливаем: Диспетчер задач - Фоновые процессы - WavesLocalServer, WavesPluginServer\n2. Удаляем Waves Central (предпочтительней программами типа Revo Uninstaller или Uninstall Tool)\n3. Очистите пути: C:\\Program Files\\Waves Central C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins\\WaveShell C:\\Program Files\\Common Files\\VST3\\WaveShell C:\\Program Files\\VSTPlugins\\Waves StudioRack for OBS.dll C:\\Program Files (x86)\\Waves C:\\ProgramData\\Waves Audio C:\\Users\\Public\\Waves Audio C:\\Users\\User Name\\AppData\\Local\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Central\n4. Очистите реестр: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Waves\n5. Перезагружаемся!",
-    "install_instructions_visible": true,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:b68dd79f5cfcbc3a0e7fcc69ce3c25d14a16249d&dn=Waves%20-%20Ultimate%2017%2026.06.23%20V.R.rar&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "Effect",
-      "Mastering"
-    ],
-    "title": "Waves",
-    "torrent": "",
-    "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA"
-  },
-  {
     "arch": "VST, VST3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/valhalladsp_bundle_cover.png",
     "description": "Мы создаём цифровые плагины реверберации и задержки в аналоговом стиле для музыкантов, инженеров и других специалистов в области аудио. Мы одержимы идеей создания мощных инструментов с простыми интерфейсами. Наша цель — вдохновлять вас и помогать вашей работе.\n\nВключено:\n\n★ FreqEcho v1.2.0 — бесплатная задержка с частотным сдвигом \n★ Delay v3.0.5 — задержка с лентой/BBD/цифровая/тональная \n★ Plate v1.6.3 - классическая пластинчатая реверберация \n★ Room v2.0.5 - настоящая стереоалгоритмическая реверберация \n★ Shimmer v1.2.2 - реверберация со сдвигом высоты тона \n★ SpaceModulator v1.1.6 - free flanger \n★ Supermassive v4.0.0 - free space FX (задержка / реверберация / модуляция) \n★ ÜberMod v1.1.6 - mutlitap delay & modulation \n★ VintageVerb v4.0.5 - классические аппаратные цифровые реверберации 1970-х и 1980-х годов.",
@@ -578,21 +559,40 @@
     "zip": ""
   },
   {
-    "id": "spiff",
-    "title": "spiff",
-    "full_title": "Oeksound - Spiff 1.3.0",
+    "added_at": "2026-07-31",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spiff_cover.png",
+    "description": "Spiff позволяет вам сократить или увеличить транзиенты (они же переходные процессы) с «экстремальной» детализацией. Он анализирует входящий сигнал и применяет обработку только к тем участкам, которые содержат информацию о транзиентах. Остальная часть сигнала остается такой, какая есть изначально.",
+    "full_title": "Oeksound - Spiff 1.3.0",
+    "id": "spiff",
+    "magnet": "magnet:?xt=urn:btih:7335d755e48712ebbb066ae64bc988e35bb47dfe&dn=Oeksound.Spiff.v1.3.0-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spiff_cover.png",
+    "title": "spiff",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:7335d755e48712ebbb066ae64bc988e35bb47dfe&dn=Oeksound.Spiff.v1.3.0-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "zip": "",
-    "description": "Spiff позволяет вам сократить или увеличить транзиенты (они же переходные процессы) с «экстремальной» детализацией. Он анализирует входящий сигнал и применяет обработку только к тем участкам, которые содержат информацию о транзиентах. Остальная часть сигнала остается такой, какая есть изначально.",
-    "screenshots": [],
     "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "waves",
+    "title": "Waves",
+    "full_title": "Waves - Ultimate 17 26.07.27",
+    "arch": "STANDALONE, VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:2835cf936af330e14e25b849ee3532a7ec86f826&dn=Waves%20-%20Ultimate%2017%2026.07.27%20V.R.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
+    "screenshots": [],
+    "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA",
     "added_at": "2026-07-31",
     "sample_count": 0
   }
