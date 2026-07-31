@@ -387,19 +387,37 @@
     "zip": ""
   },
   {
-    "id": "electra_3",
-    "title": "Electra 3",
-    "full_title": "Tone2 - Electra 3 v3.2.1",
+    "added_at": "2026-07-31",
     "arch": "STANDALONE, VSTi, VST3i",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/electra_3_cover.png",
+    "description": "Единственный синтезатор, который вам нужен для создания хита!",
+    "full_title": "Tone2 - Electra 3 v3.2.1",
+    "id": "electra_3",
+    "magnet": "magnet:?xt=urn:btih:abc625d20199fee91079365fe6aca4dd7771114f&dn=Tone2%20-%20Electra3%20v3.2.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/electra_3_cover.png",
+    "title": "Electra 3",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:abc625d20199fee91079365fe6aca4dd7771114f&dn=Tone2%20-%20Electra3%20v3.2.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "ad055_quanta_2",
+    "title": "AD055 Quanta 2",
+    "full_title": "Audio Damage - AD055 Quanta 2 v2.1.2",
+    "arch": "VST3|AU|AAX|CLAP",
+    "tags": [
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/ad055_quanta_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:0084fbd2b89d9b732e1f4a8906f174604ed14625&dn=Audio%20Damage%20-%20AD055%20Quanta%202%20v2.1.2%20%5Bohsie%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Единственный синтезатор, который вам нужен для создания хита!",
+    "description": "УСТАНОВКА ПРЕСЕТОВ:\nДля Win Перенесите скаченную папку Quanta2 в C:\\ProgramData\\Audio Damage\n\n\nQuanta 2 - это полнофункциональный и простой в использовании гранулярный синтезатор.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
