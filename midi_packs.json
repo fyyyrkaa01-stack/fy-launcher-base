@@ -1,9 +1,9 @@
 [
   {
     "id": "midi_collection",
-    "title": "MIDI Collection",
-    "cover": "",
-    "description": "",
+    "title": "Cymatics - PROJECT ONE Production Suite",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/midi_collection_cover.png",
+    "description": "только миди с этого пака",
     "midis": [
       "midi_collection_ambient_cymatics_allure_midi_d_min",
       "midi_collection_ambient_cymatics_another_midi_g_min",
