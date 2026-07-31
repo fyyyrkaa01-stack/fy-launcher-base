@@ -99,19 +99,37 @@
     "video_url": ""
   },
   {
-    "id": "guitars_in_space_vol4",
-    "title": "GUITARS IN SPACE VOL4",
-    "full_title": "KONTAKT GUITARS IN SPACE VOL4",
+    "added_at": "2026-07-31",
     "arch": "595 MB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/guitars_in_space_vol4_cover.png",
+    "description": "Guitars In Space VOL 4 превращает гитару в живые текстуры, атмосферные слои и выразительные звуковые пейзажи, выходящие за пределы привычного звучания",
+    "full_title": "KONTAKT GUITARS IN SPACE VOL4",
+    "id": "guitars_in_space_vol4",
+    "magnet": "magnet:?xt=urn:btih:ba95b01f313a396fe9d4e2894e85b1f9d7e7d92e&dn=Guitars%20in%20Space%20Vol.%204%20%5BDark%20Intervals%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "ГИТАРА"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/guitars_in_space_vol4_cover.png",
+    "title": "GUITARS IN SPACE VOL4",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:ba95b01f313a396fe9d4e2894e85b1f9d7e7d92e&dn=Guitars%20in%20Space%20Vol.%204%20%5BDark%20Intervals%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "tronic",
+    "title": "TRONIC",
+    "full_title": "Hollywood Audio Design - TRONIC",
+    "arch": "2.30GB",
+    "tags": [
+      "библиотека"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/tronic_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:2833aa57387d3c1b58cf19126fdc547b488361b8&dn=Tronic%20%5BHollywood%20Audio%20Design%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "Guitars In Space VOL 4 превращает гитару в живые текстуры, атмосферные слои и выразительные звуковые пейзажи, выходящие за пределы привычного звучания",
+    "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
