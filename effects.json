@@ -597,21 +597,40 @@
     "zip": ""
   },
   {
-    "id": "waves",
-    "title": "Waves",
-    "full_title": "Waves - Ultimate 17 26.07.27",
+    "added_at": "2026-07-31",
     "arch": "STANDALONE, VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
+    "description": "ИНСТРУКЦИЯ В \"СМОТРЕТЬ ВИДЕО\" ( да да релиз с рутрекера ыыыы) \n\n\n1. Устанавливаем Waves Central (в 1-Installer)\n 2. Запускаем, выбираем Offline Installer, находим папку Waves (в 1-Installer), выбираем частично или полный Waves Ultimate \n3. Применяем патч Waves Ultimate 2025.3 patch.exe\n\nУдаление предыдущей версии\n1. Останавливаем: Диспетчер задач - Фоновые процессы - WavesLocalServer, WavesPluginServer\n2. Удаляем Waves Central (предпочтительней программами типа Revo Uninstaller или Uninstall Tool)\n3. Очистите пути: C:\\Program Files\\Waves Central C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins\\WaveShell C:\\Program Files\\Common Files\\VST3\\WaveShell C:\\Program Files\\VSTPlugins\\Waves StudioRack for OBS.dll C:\\Program Files (x86)\\Waves C:\\ProgramData\\Waves Audio C:\\Users\\Public\\Waves Audio C:\\Users\\User Name\\AppData\\Local\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Central\n4. Очистите реестр: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Waves\n5. Перезагружаемся!\n\nWaves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
+    "full_title": "Waves - Ultimate 17 26.07.27",
+    "id": "waves",
+    "magnet": "magnet:?xt=urn:btih:2835cf936af330e14e25b849ee3532a7ec86f826&dn=Waves%20-%20Ultimate%2017%2026.07.27%20V.R.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
+    "title": "Waves",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:2835cf936af330e14e25b849ee3532a7ec86f826&dn=Waves%20-%20Ultimate%2017%2026.07.27%20V.R.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
-    "description": "ИНСТРУКЦИЯ В \"СМОТРЕТЬ ВИДЕО\" ( да да релиз с рутрекера ыыыы) \n\n\n1. Устанавливаем Waves Central (в 1-Installer)\n 2. Запускаем, выбираем Offline Installer, находим папку Waves (в 1-Installer), выбираем частично или полный Waves Ultimate \n3. Применяем патч Waves Ultimate 2025.3 patch.exe\n\nУдаление предыдущей версии\n1. Останавливаем: Диспетчер задач - Фоновые процессы - WavesLocalServer, WavesPluginServer\n2. Удаляем Waves Central (предпочтительней программами типа Revo Uninstaller или Uninstall Tool)\n3. Очистите пути: C:\\Program Files\\Waves Central C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins\\WaveShell C:\\Program Files\\Common Files\\VST3\\WaveShell C:\\Program Files\\VSTPlugins\\Waves StudioRack for OBS.dll C:\\Program Files (x86)\\Waves C:\\ProgramData\\Waves Audio C:\\Users\\Public\\Waves Audio C:\\Users\\User Name\\AppData\\Local\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Audio C:\\Users\\User Name\\AppData\\Roaming\\Waves Central\n4. Очистите реестр: HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Waves\n5. Перезагружаемся!\n\nWaves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
-    "screenshots": [],
     "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA",
+    "zip": ""
+  },
+  {
+    "id": "toska",
+    "title": "Toska",
+    "full_title": "Noon Instruments - Toska v1.3.1",
+    "arch": "6.46 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/toska_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:16a60829e95ae51fb8c722cf1a7d6edfad76fbb7&dn=Noon%20Instruments%20Toska%20v1.3.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Toska - это палитра развивающихся, атмосферных текстур, созданных на основе многослойных, несовершенных представлений. Уникальное сочетание аналоговых синтезаторов, духовых, струнных, духовых, вокала и полевых записей было подвергнуто тщательной обработке, чтобы создать коллекцию непосредственных, современных звуков. Исходный материал тщательно подобран, чтобы придать глубину, движение и цвет современным композициям. Это инструмент, сердцем которого является Toska.",
+    "screenshots": [],
+    "video_url": "",
     "added_at": "2026-07-31",
     "sample_count": 0
   }
