@@ -522,18 +522,37 @@
     "zip": ""
   },
   {
-    "id": "filtershaper_xl",
-    "title": "FilterShaper XL",
-    "full_title": "CableGuys FilterShaper XL",
+    "added_at": "2026-07-31",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/filtershaper_xl_cover.png",
+    "description": "Массивно модулируемый двойной фильтр ⚡ Что такое FilterShaper XL? FilterShaper XL делает гигантский скачок в нетрадиционном звуковом дизайне с двумя мощными фильтрами, многоступенчатым приводом и чрезвычайно гибкой структурой модуляции. Превратите синтезаторы в извращенные мутации, которые вырываются из динамиков. Преобразуйте басовые партии в бурлящие, пульсирующие паттерны. Превращайте барабаны в захватывающие отфильтрованные ритмы и причудливые эффекты в модульном стиле. Переходите от тонких нюансов и точных настроек к мощным свипам, ступенчатым резонансам и гигантским колебаниям.",
+    "full_title": "CableGuys FilterShaper XL",
+    "id": "filtershaper_xl",
+    "magnet": "magnet:?xt=urn:btih:f8ab722c6d0efbd0a048440a7486f64bad05456f&dn=Cableguys.FilterShaper.XL.v1.0.5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/filtershaper_xl_cover.png",
+    "title": "FilterShaper XL",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f8ab722c6d0efbd0a048440a7486f64bad05456f&dn=Cableguys.FilterShaper.XL.v1.0.5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "titan_tube_compressor",
+    "title": "Titan Tube Compressor",
+    "full_title": "Luxora Audio - Titan Tube Compressor v 2.0.0",
+    "arch": "VST3, AAX",
+    "tags": [
+      "VST3",
+      "КОМПРЕССОР"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/titan_tube_compressor_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:ed0a69041c26bcfdc1ccefef69b77a8b319ebdf0&dn=Luxora%20Audio%20Titan%20Tube%20Compressor%20v2.0.0%20WiN&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Массивно модулируемый двойной фильтр ⚡ Что такое FilterShaper XL? FilterShaper XL делает гигантский скачок в нетрадиционном звуковом дизайне с двумя мощными фильтрами, многоступенчатым приводом и чрезвычайно гибкой структурой модуляции. Превратите синтезаторы в извращенные мутации, которые вырываются из динамиков. Преобразуйте басовые партии в бурлящие, пульсирующие паттерны. Превращайте барабаны в захватывающие отфильтрованные ритмы и причудливые эффекты в модульном стиле. Переходите от тонких нюансов и точных настроек к мощным свипам, ступенчатым резонансам и гигантским колебаниям.",
+    "description": "Titan Tube Compressor — это тщательно проработанная модель аппаратного компрессора класса vari-mu стоимостью 7000 долларов. Он не просто эмулирует, но и обеспечивает аутентичное поведение клапана, магнитное насыщение и музыкальную динамику в высоком разрешении.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
