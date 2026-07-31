@@ -323,19 +323,38 @@
     "zip": ""
   },
   {
-    "id": "straylight",
-    "title": "Straylight",
-    "full_title": "Native Instruments - Straylight 1.5.1",
+    "added_at": "2026-07-31",
     "arch": "2.4 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/straylight_cover.png",
+    "description": "Создавайте уникальные кинематографические звуковые ландшафты, переходы и окружающие тона в реальном времени. Созданный для звукорежиссёров и композиторов фильмов, телевидения и игр, Straylight идеально подходит для всего: от постапокалиптической научной фантастики до суровых триллеров. Он сочетает в себе специализированные модули детализации и воспроизведения сэмплов с тщательно подобранными источниками звуков, эффектами и мощной матрицей модуляции X-Y, обеспечивающей вдохновляющее динамичное исполнение и звуковой дизайн непосредственно на изображении.",
+    "full_title": "Native Instruments - Straylight 1.5.1",
+    "id": "straylight",
+    "magnet": "magnet:?xt=urn:btih:b088ca2e15dea415e88be31682e6e52669d8eef4&dn=Straylight%201.5.1%20%5BNative%20Instruments%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/straylight_cover.png",
+    "title": "Straylight",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:b088ca2e15dea415e88be31682e6e52669d8eef4&dn=Straylight%201.5.1%20%5BNative%20Instruments%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "thrill",
+    "title": "Thrill",
+    "full_title": "Native Instruments - Thrill (KONTAKT)",
+    "arch": "28.62 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/thrill_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:17617abe91aa58146afb06cd966700ca088e682b&dn=Thrill%20Library&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Создавайте уникальные кинематографические звуковые ландшафты, переходы и окружающие тона в реальном времени. Созданный для звукорежиссёров и композиторов фильмов, телевидения и игр, Straylight идеально подходит для всего: от постапокалиптической научной фантастики до суровых триллеров. Он сочетает в себе специализированные модули детализации и воспроизведения сэмплов с тщательно подобранными источниками звуков, эффектами и мощной матрицей модуляции X-Y, обеспечивающей вдохновляющее динамичное исполнение и звуковой дизайн непосредственно на изображении.",
+    "description": "Native Instruments выпустила Thrill, новый инструмент, который позволяет вводить ужасающие живые оценки в кино, игры, звуковые инсталляции или театральные постановки. Thrill сочетает в себе эпическую силу оркестра с глухой глубиной экспертного звукового дизайна, размещает их в простом интерфейсе, управляемом производительностью, и помещает их в руки одного игрока.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
