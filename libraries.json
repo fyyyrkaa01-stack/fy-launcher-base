@@ -342,19 +342,39 @@
     "zip": ""
   },
   {
-    "id": "thrill",
-    "title": "Thrill",
-    "full_title": "Native Instruments - Thrill (KONTAKT)",
+    "added_at": "2026-07-31",
     "arch": "28.62 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/thrill_cover.png",
+    "description": "Native Instruments выпустила Thrill, новый инструмент, который позволяет вводить ужасающие живые оценки в кино, игры, звуковые инсталляции или театральные постановки. Thrill сочетает в себе эпическую силу оркестра с глухой глубиной экспертного звукового дизайна, размещает их в простом интерфейсе, управляемом производительностью, и помещает их в руки одного игрока.",
+    "full_title": "Native Instruments - Thrill (KONTAKT)",
+    "id": "thrill",
+    "magnet": "magnet:?xt=urn:btih:17617abe91aa58146afb06cd966700ca088e682b&dn=Thrill%20Library&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/thrill_cover.png",
+    "title": "Thrill",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:17617abe91aa58146afb06cd966700ca088e682b&dn=Thrill%20Library&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "session_guitarist_electric_mint",
+    "title": "Session Guitarist - Electric Mint",
+    "full_title": "Native Instruments - Session Guitarist - Electric Mint (1.1.0)",
+    "arch": "14.68 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT",
+      "ГИТАРА"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_guitarist_electric_mint_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:edb441af999bb6e4f4016be10924bb2291bf956e&dn=Native%20Instruments%20Session%20Guitarist%20Electric%20Mint%201.1.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "Native Instruments выпустила Thrill, новый инструмент, который позволяет вводить ужасающие живые оценки в кино, игры, звуковые инсталляции или театральные постановки. Thrill сочетает в себе эпическую силу оркестра с глухой глубиной экспертного звукового дизайна, размещает их в простом интерфейсе, управляемом производительностью, и помещает их в руки одного игрока.",
+    "description": "Фирменный звук цельнокорпусной электрогитары с тремя комбинируемыми сингловыми звукоснимателями. 222 сыгранных и выбранных паттерна, охватывающих различные жанры. Выбирайте из множества последовательностей аккордов или играйте свои собственные мелодии.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
