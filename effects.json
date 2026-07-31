@@ -559,19 +559,38 @@
     "zip": ""
   },
   {
-    "id": "rc_20",
-    "title": "RC-20",
-    "full_title": "XLN Audio - RC-20 Retro Color v1.5.2.1",
+    "added_at": "2026-07-31",
     "arch": "VST|VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/rc_20_cover.png",
+    "description": "Примечание Удалите предыдущую версию. Удалите предыдущее содержимое.\nЕсли требуется дополнительная очистка,\n• %APPDATA%\\(Product Name)\\ • %PROGRAMDATA%\\XLN Audio\\ • %USERPROFILE%\\Documents\\(Product Name)\\ • %USERPROFILE%\\Documents\\(Product Name) Logs\\ • %USERPROFILE%\\Documents\\XLN Online Installer\\ ------------------------------ \n1. Установите плагин \n2. Установите последнюю версию TEAM R2R - R2R System  \n3. Активируйте при помощи WM_XLNAudio.r2rwm --------------------- Примечание \nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.\n\n\nПридайте характер и аналоговой теплоты любому треку или миксу.",
+    "full_title": "XLN Audio - RC-20 Retro Color v1.5.2.1",
+    "id": "rc_20",
+    "magnet": "magnet:?xt=urn:btih:a94a4e04b0473a1cd0f382d3473928e89fe811da&dn=XLN%20Audio%20-%20RC-20%20Retro%20Color%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/rc_20_cover.png",
+    "title": "RC-20",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a94a4e04b0473a1cd0f382d3473928e89fe811da&dn=XLN%20Audio%20-%20RC-20%20Retro%20Color%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "spiff",
+    "title": "spiff",
+    "full_title": "Oeksound - Spiff 1.3.0",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "VST3",
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spiff_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:7335d755e48712ebbb066ae64bc988e35bb47dfe&dn=Oeksound.Spiff.v1.3.0-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Примечание Удалите предыдущую версию. Удалите предыдущее содержимое.\nЕсли требуется дополнительная очистка,\n• %APPDATA%\\(Product Name)\\ • %PROGRAMDATA%\\XLN Audio\\ • %USERPROFILE%\\Documents\\(Product Name)\\ • %USERPROFILE%\\Documents\\(Product Name) Logs\\ • %USERPROFILE%\\Documents\\XLN Online Installer\\ ------------------------------ \n1. Установите плагин \n2. Установите последнюю версию TEAM R2R - R2R System  \n3. Активируйте при помощи WM_XLNAudio.r2rwm --------------------- Примечание \nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.\n\n\nПридайте характер и аналоговой теплоты любому треку или миксу.",
+    "description": "Spiff позволяет вам сократить или увеличить транзиенты (они же переходные процессы) с «экстремальной» детализацией. Он анализирует входящий сигнал и применяет обработку только к тем участкам, которые содержат информацию о транзиентах. Остальная часть сигнала остается такой, какая есть изначально.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
