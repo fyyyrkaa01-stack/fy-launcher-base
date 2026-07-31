@@ -18,21 +18,39 @@
     "zip": ""
   },
   {
-    "id": "infinity_production_suite",
-    "title": "Infinity Production Suite",
-    "full_title": "Cymatics - Infinity Production Suite",
+    "added_at": "2026-07-31",
     "arch": "19.66 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/infinity_production_suite_cover.png",
+    "description": "Наша самая разнообразная библиотека сэмплов из когда-либо выпущенных Infinity — это обширная коллекция сэмплов премиум-класса, разработанных экспертами из каждой области нашей команды. У нас были лучшие дизайнеры барабанов, MIDI-композиторы, профессиональные гитаристы, создатели мелодий и лучшие вокалисты, которые собрались вместе, чтобы работать над каждым разделом этого проекта. И в итоге мы получили самую уникальную коллекцию семплов, которую мы когда-либо собирали. На этот раз мы уделяем большое внимание нашей команде профессиональных вокалистов, чтобы действительно собрать все воедино. Infinity включает в себя все, что вам нужно для создания хитовой записи, включая высококачественные сэмплы ударных, профессионально записанные гитары, готовые к размещению мелодии, MIDI-файлы ручной работы и самую большую коллекцию вокала в истории Cymatics. Это похоже на то, как если бы у вас под рукой была бесконечная библиотека вдохновения, готовая к работе практически над любым треком, над которым вы работаете.",
+    "full_title": "Cymatics - Infinity Production Suite",
+    "id": "infinity_production_suite",
+    "magnet": "magnet:?xt=urn:btih:583875931e784e84da02a87cbaf1752a3c5d5ca4&dn=Cymatics%20Infinity%20Production%20Suite&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/infinity_production_suite_cover.png",
+    "title": "Infinity Production Suite",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:583875931e784e84da02a87cbaf1752a3c5d5ca4&dn=Cymatics%20Infinity%20Production%20Suite&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "titan",
+    "title": "Titan",
+    "full_title": "Titan (FULL SAMPLE PACK + BONUSES)",
+    "arch": "",
+    "tags": [
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/titan_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a2e8e95754cc82c5629eda27514a04dec4c96973&dn=Cymatics%20Titan&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Наша самая разнообразная библиотека сэмплов из когда-либо выпущенных Infinity — это обширная коллекция сэмплов премиум-класса, разработанных экспертами из каждой области нашей команды. У нас были лучшие дизайнеры барабанов, MIDI-композиторы, профессиональные гитаристы, создатели мелодий и лучшие вокалисты, которые собрались вместе, чтобы работать над каждым разделом этого проекта. И в итоге мы получили самую уникальную коллекцию семплов, которую мы когда-либо собирали. На этот раз мы уделяем большое внимание нашей команде профессиональных вокалистов, чтобы действительно собрать все воедино. Infinity включает в себя все, что вам нужно для создания хитовой записи, включая высококачественные сэмплы ударных, профессионально записанные гитары, готовые к размещению мелодии, MIDI-файлы ручной работы и самую большую коллекцию вокала в истории Cymatics. Это похоже на то, как если бы у вас под рукой была бесконечная библиотека вдохновения, готовая к работе практически над любым треком, над которым вы работаете.",
+    "description": "Есть всё, что нужно для создания трэпа или фьюче бэйс!",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-07-31",
-    "sample_count": 0
+    "added_at": "2026-08-01",
+    "sample_count": 1
   }
 ]
