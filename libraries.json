@@ -136,19 +136,38 @@
     "zip": ""
   },
   {
-    "id": "ambient_soundware_evolved",
-    "title": "Ambient Soundware Evolved",
-    "full_title": "Zero-G - Ambient Soundware Evolved",
+    "added_at": "2026-07-31",
     "arch": "2.99 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ambient_soundware_evolved_cover.png",
+    "description": "Ambient Soundware Evolved — это новое поколение популярной библиотеки Ambient Soundware для Kontakt. Она переосмыслена как мощный инструмент, созданный на основе коллекции эмбиентных атмосфер, пэдов, текстур и гармонических слоев. Этот богатый звуковой материал превращается в динамичный инструмент, ориентированный на живое исполнение.",
+    "full_title": "Zero-G - Ambient Soundware Evolved",
+    "id": "ambient_soundware_evolved",
+    "magnet": "magnet:?xt=urn:btih:7379c1d03fcfac5c437e834febff795d137e9b63&dn=Ambient%20Soundware%20Evolved%20%5BZero-G%5D%20rutracker.org&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ambient_soundware_evolved_cover.png",
+    "title": "Ambient Soundware Evolved",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:7379c1d03fcfac5c437e834febff795d137e9b63&dn=Ambient%20Soundware%20Evolved%20%5BZero-G%5D%20rutracker.org&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "the_grandeur",
+    "title": "The Grandeur",
+    "full_title": "Native Instruments - The Grandeur (KONTAKT)",
+    "arch": "4.91 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/the_grandeur_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:4e51c2ed6ec06519a790e048543a8702cc75ea58&dn=The%20Grandeur%20v%201.2.0&tr=http%3A%2F%2Fbt4.rutracker.org%2Fann%3Fuk%3D0G5ZNZuoaP&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Ambient Soundware Evolved — это новое поколение популярной библиотеки Ambient Soundware для Kontakt. Она переосмыслена как мощный инструмент, созданный на основе коллекции эмбиентных атмосфер, пэдов, текстур и гармонических слоев. Этот богатый звуковой материал превращается в динамичный инструмент, ориентированный на живое исполнение.",
+    "description": "Яркий, современный новый Grand-рояль от Native Instruments.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
