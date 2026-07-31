@@ -213,7 +213,10 @@
     "title": "Alicia`s Keys",
     "full_title": "Native Instruments - Alicia`s Keys",
     "arch": "6.96 GB",
-    "tags": [],
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/alicia_s_keys_cover.png",
     "torrent": "",
     "magnet": "magnet:?xt=urn:btih:1be596cac4ed3cf0e4fd681f226c2ffe3f05868b&dn=Alicias%20Keys&tr=http%3A%2F%2Fbt4.rutracker.org%2Fann%3Fuk%3D0G5ZNZuoaP&tr=http%3A%2F%2Fretracker.local%2Fannounce",
