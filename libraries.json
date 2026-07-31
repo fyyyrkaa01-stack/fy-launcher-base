@@ -531,24 +531,5 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
-  },
-  {
-    "id": "toska",
-    "title": "Toska",
-    "full_title": "Noon Instruments - Toska v1.3.1",
-    "arch": "6.46 GB",
-    "tags": [
-      "библиотека",
-      "KONTAKT"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/toska_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:16a60829e95ae51fb8c722cf1a7d6edfad76fbb7&dn=Noon%20Instruments%20Toska%20v1.3.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "zip": "",
-    "description": "Toska - это палитра развивающихся, атмосферных текстур, созданных на основе многослойных, несовершенных представлений. Уникальное сочетание аналоговых синтезаторов, духовых, струнных, духовых, вокала и полевых записей было подвергнуто тщательной обработке, чтобы создать коллекцию непосредственных, современных звуков. Исходный материал тщательно подобран, чтобы придать глубину, движение и цвет современным композициям. Это инструмент, сердцем которого является Toska.",
-    "screenshots": [],
-    "video_url": "",
-    "added_at": "2026-07-31",
-    "sample_count": 0
   }
 ]
