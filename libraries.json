@@ -285,19 +285,38 @@
     "zip": ""
   },
   {
-    "id": "ashlight",
-    "title": "ASHLIGHT",
-    "full_title": "Native Instruments - ASHLIGHT 1.6.0",
+    "added_at": "2026-07-31",
     "arch": "2.65 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ashlight_cover.png",
+    "description": "",
+    "full_title": "Native Instruments - ASHLIGHT 1.6.0",
+    "id": "ashlight",
+    "magnet": "magnet:?xt=urn:btih:263c29f9a7ad5d24598260a8cc16e24a94b8b999&dn=Ashlight%201.6.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ashlight_cover.png",
+    "title": "ASHLIGHT",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:263c29f9a7ad5d24598260a8cc16e24a94b8b999&dn=Ashlight%201.6.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "pharlight",
+    "title": "Pharlight",
+    "full_title": "Native Instruments - Pharlight",
+    "arch": "1.19 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/pharlight_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e66508457119c9d18b6283b45edd0475f818f110&dn=Pharlight%20Library&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "",
+    "description": "PHARLIGHT - это гранулированный вокальный инструмент для артистов, композиторов, музыкантов и звукорежиссеров, разработанный командой STRAYLIGHT. Его уникальная библиотека сэмплов содержит нетрадиционные звуки, разработанные и записанные специально для двух уникальных модулей воспроизведения. PHARLIGHT от кинематографических звуковых сцен и пульсирующей атмосферы до крючков для сенажа - это все, что нужно для придания вашей музыке невероятного звука, творческой модуляции и органических мелодичных тембров.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
