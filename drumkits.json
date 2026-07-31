@@ -36,21 +36,39 @@
     "zip": ""
   },
   {
-    "id": "titan",
-    "title": "Titan",
+    "added_at": "2026-08-01",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/titan_cover.png",
+    "description": "Есть всё, что нужно для создания трэпа или фьюче бэйс!",
     "full_title": "Titan (FULL SAMPLE PACK + BONUSES)",
+    "id": "titan",
+    "magnet": "magnet:?xt=urn:btih:a2e8e95754cc82c5629eda27514a04dec4c96973&dn=Cymatics%20Titan&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 1,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "Titan",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "genesis",
+    "title": "GENESIS",
+    "full_title": "Cymatics - GENESIS [Platinum Expansion]",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/titan_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/genesis_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a2e8e95754cc82c5629eda27514a04dec4c96973&dn=Cymatics%20Titan&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:5452a878e6c0477796e2f03db25a3133d2b8e055&dn=Cymatics%20-%20GENESIS%20-%20Platinum%20Expansion&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Есть всё, что нужно для создания трэпа или фьюче бэйс!",
+    "description": "После завершения работы над GENESIS наша команда вернулась к созданию дополнительных мелодических лупов, вдохновлённых разнообразием основного пакета. Дополнение Platinum предоставляет вам эксклюзивный доступ к дополнительной библиотеке неизданных мелодий, идеально сочетающихся с остальными элементами пакета. Это включает в себя множество стилей и жанров, аналогично общей концепции основной коллекции мелодий. Не говоря уже о том, что дополнения Platinum для наших крупных релизов всегда становятся одними из самых редких пакетов… Так что, если вы решите приобрести это дополнение, вы станете одним из немногих избранных, кто получит эксклюзивный доступ к этим звукам. Воспользуйтесь возможностью и приобретите дополнение GENESIS Platinum, пока оно ещё доступно.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-01",
-    "sample_count": 1
+    "sample_count": 0
   }
 ]
