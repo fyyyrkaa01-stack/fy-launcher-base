@@ -502,20 +502,38 @@
     "zip": ""
   },
   {
-    "id": "taip",
-    "title": "TAIP",
-    "full_title": "Baby Audio - TAIP 1.0.1",
+    "added_at": "2026-07-31",
     "arch": "VST, VST3, AAX, AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/taip_cover.png",
+    "description": "Разогрейте свой звук! Продвинутый эмулятор плёнки Baby Audio TAIP придаст сигналу «аутентичное аналоговое тепло»",
+    "full_title": "Baby Audio - TAIP 1.0.1",
+    "id": "taip",
+    "magnet": "magnet:?xt=urn:btih:9c1abec12e701fdd55d2f5a30713b8b28b4dc5f5&dn=Baby.Audio.TAIP.v1.0.1.Regged-FLARE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Effect",
       "САТУРАЦИЯ"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/taip_cover.png",
+    "title": "TAIP",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:9c1abec12e701fdd55d2f5a30713b8b28b4dc5f5&dn=Baby.Audio.TAIP.v1.0.1.Regged-FLARE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "filtershaper_xl",
+    "title": "FilterShaper XL",
+    "full_title": "CableGuys FilterShaper XL",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/filtershaper_xl_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f8ab722c6d0efbd0a048440a7486f64bad05456f&dn=Cableguys.FilterShaper.XL.v1.0.5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Разогрейте свой звук! Продвинутый эмулятор плёнки Baby Audio TAIP придаст сигналу «аутентичное аналоговое тепло»",
+    "description": "Массивно модулируемый двойной фильтр ⚡ Что такое FilterShaper XL? FilterShaper XL делает гигантский скачок в нетрадиционном звуковом дизайне с двумя мощными фильтрами, многоступенчатым приводом и чрезвычайно гибкой структурой модуляции. Превратите синтезаторы в извращенные мутации, которые вырываются из динамиков. Преобразуйте басовые партии в бурлящие, пульсирующие паттерны. Превращайте барабаны в захватывающие отфильтрованные ритмы и причудливые эффекты в модульном стиле. Переходите от тонких нюансов и точных настроек к мощным свипам, ступенчатым резонансам и гигантским колебаниям.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
