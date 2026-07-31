@@ -304,19 +304,38 @@
     "zip": ""
   },
   {
-    "id": "pharlight",
-    "title": "Pharlight",
-    "full_title": "Native Instruments - Pharlight",
+    "added_at": "2026-07-31",
     "arch": "1.19 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/pharlight_cover.png",
+    "description": "PHARLIGHT - это гранулированный вокальный инструмент для артистов, композиторов, музыкантов и звукорежиссеров, разработанный командой STRAYLIGHT. Его уникальная библиотека сэмплов содержит нетрадиционные звуки, разработанные и записанные специально для двух уникальных модулей воспроизведения. PHARLIGHT от кинематографических звуковых сцен и пульсирующей атмосферы до крючков для сенажа - это все, что нужно для придания вашей музыке невероятного звука, творческой модуляции и органических мелодичных тембров.",
+    "full_title": "Native Instruments - Pharlight",
+    "id": "pharlight",
+    "magnet": "magnet:?xt=urn:btih:e66508457119c9d18b6283b45edd0475f818f110&dn=Pharlight%20Library&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/pharlight_cover.png",
+    "title": "Pharlight",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:e66508457119c9d18b6283b45edd0475f818f110&dn=Pharlight%20Library&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "straylight",
+    "title": "Straylight",
+    "full_title": "Native Instruments - Straylight 1.5.1",
+    "arch": "2.4 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/straylight_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:b088ca2e15dea415e88be31682e6e52669d8eef4&dn=Straylight%201.5.1%20%5BNative%20Instruments%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "PHARLIGHT - это гранулированный вокальный инструмент для артистов, композиторов, музыкантов и звукорежиссеров, разработанный командой STRAYLIGHT. Его уникальная библиотека сэмплов содержит нетрадиционные звуки, разработанные и записанные специально для двух уникальных модулей воспроизведения. PHARLIGHT от кинематографических звуковых сцен и пульсирующей атмосферы до крючков для сенажа - это все, что нужно для придания вашей музыке невероятного звука, творческой модуляции и органических мелодичных тембров.",
+    "description": "Создавайте уникальные кинематографические звуковые ландшафты, переходы и окружающие тона в реальном времени. Созданный для звукорежиссёров и композиторов фильмов, телевидения и игр, Straylight идеально подходит для всего: от постапокалиптической научной фантастики до суровых триллеров. Он сочетает в себе специализированные модули детализации и воспроизведения сэмплов с тщательно подобранными источниками звуков, эффектами и мощной матрицей модуляции X-Y, обеспечивающей вдохновляющее динамичное исполнение и звуковой дизайн непосредственно на изображении.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
