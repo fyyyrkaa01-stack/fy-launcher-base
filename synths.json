@@ -442,18 +442,38 @@
     "zip": ""
   },
   {
-    "id": "superstarsaw",
-    "title": "SuperStarSaw",
-    "full_title": "Native Instruments - SuperStarSaw v1.0.0",
+    "added_at": "2026-07-31",
     "arch": "VST3i, AAX.",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/superstarsaw_cover.png",
+    "description": "1. Установить SuperStarSaw_1.0.0_Installer.exe. \n2. Запустите SuperStarSaw patcher.exe и нажмите «Patch» Вам будет предложено указать путь к установленному плагину. Перейдите по следующему пути:\nC:\\Program Files\\Common Files\\VST3\\\n[Дважды щелкните, чтобы открыть] >SuperStarSaw.vst3\\Contents\\x86_64-winи выберите файл SuperStarSaw.vst3\nчтобы применить патч к плагину.\n\n\n~Начните с пилы. Придайте форму тому, что будет дальше~ SuperStarSaw, представленный A. G. Cook, исследует крайние возможности наложенных друг на друга пилообразных волн, выводя один из самых узнаваемых синтезаторных звуков электронной музыки за пределы того, для чего он был создан. Создавайте огромные суперпилы, плавные гармонии, блаженные аккорды и контролируемый хаос с помощью одного-единственного инструмента. Переходите от одного звука к другому и следуйте неожиданным идеям без необходимости сложного наложения слоев и автоматизации.",
+    "full_title": "Native Instruments - SuperStarSaw v1.0.0",
+    "id": "superstarsaw",
+    "magnet": "magnet:?xt=urn:btih:97059ee531f85409a17d4525309ef59fed323727&dn=Native%20Instrument%20-%20.SuperStarSaw%20v1.0.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/superstarsaw_cover.png",
+    "title": "SuperStarSaw",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:97059ee531f85409a17d4525309ef59fed323727&dn=Native%20Instrument%20-%20.SuperStarSaw%20v1.0.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "addictive_drums_2_complete",
+    "title": "Addictive Drums 2 Complete",
+    "full_title": "XLN Audio - Addictive Drums 2 Complete v2.9.0.4",
+    "arch": "STANDALONE, VSTi, VST3i, AAX",
+    "tags": [
+      "VST3",
+      "Synth",
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/addictive_drums_2_complete_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:36de9ef6e930f2256dc54033980de8ce14904049&dn=XLN%20Audio%20-%20Addictive%20Drums%202%20Complete%20v2.9.0.4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "1. Установить SuperStarSaw_1.0.0_Installer.exe. \n2. Запустите SuperStarSaw patcher.exe и нажмите «Patch» Вам будет предложено указать путь к установленному плагину. Перейдите по следующему пути:\nC:\\Program Files\\Common Files\\VST3\\\n[Дважды щелкните, чтобы открыть] >SuperStarSaw.vst3\\Contents\\x86_64-winи выберите файл SuperStarSaw.vst3\nчтобы применить патч к плагину.\n\n\n~Начните с пилы. Придайте форму тому, что будет дальше~ SuperStarSaw, представленный A. G. Cook, исследует крайние возможности наложенных друг на друга пилообразных волн, выводя один из самых узнаваемых синтезаторных звуков электронной музыки за пределы того, для чего он был создан. Создавайте огромные суперпилы, плавные гармонии, блаженные аккорды и контролируемый хаос с помощью одного-единственного инструмента. Переходите от одного звука к другому и следуйте неожиданным идеям без необходимости сложного наложения слоев и автоматизации.",
+    "description": "0. Удалите предыдущую версию R2R System.\n1. Установите R2R System версии 1.3.1.\n2. Скачайте Addictive Drums 2 папкуи поместите её в удобное место. Запустить из этой папки файл AD2_Library_Placer.exe.\n3. Удалите предыдущую версию и Установить Addictive Drums 2 Complete (Fixed Only).\n4. Запустить WM_XLNAudio.r2rwm > \"GET\" > \"Register (WIN)\"",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
