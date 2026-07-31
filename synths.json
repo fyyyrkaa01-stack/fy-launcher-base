@@ -333,19 +333,38 @@
     "video_url": ""
   },
   {
-    "id": "atlas_2",
-    "title": "Atlas 2",
-    "full_title": "Algonaut - Atlas 2 v2.6.2",
     "arch": "STANDALONE, VSTi, VST3i",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/atlas_2_cover.png",
+    "description": "Превратите образцы в музыку! Самые креативные сочетания звука и ритма. Создавайте свои лучшие биты. Драм-машина и менеджер сэмплов Atlas 2 предлагают новые функции, такие как быстрый и мощный барабанный секвенсор, механизм вариации/очеловечивания сэмплов и новый браузер контента, который упрощает управление и рекомбинацию наборов ударных и секвенсоров. Кроме того, в каждом аспекте оригинального Атласа есть сотни небольших улучшений.",
+    "full_title": "Algonaut - Atlas 2 v2.6.2",
+    "id": "atlas_2",
+    "magnet": "magnet:?xt=urn:btih:34cbfd371a8d3c2211e3377914dd7891519c5c3a&dn=Algonaut%20-%20Atlas%20v2.6.2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "VST3",
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/atlas_2_cover.png",
+    "title": "Atlas 2",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:34cbfd371a8d3c2211e3377914dd7891519c5c3a&dn=Algonaut%20-%20Atlas%20v2.6.2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "description": "Превратите образцы в музыку! Самые креативные сочетания звука и ритма. Создавайте свои лучшие биты. Драм-машина и менеджер сэмплов Atlas 2 предлагают новые функции, такие как быстрый и мощный барабанный секвенсор, механизм вариации/очеловечивания сэмплов и новый браузер контента, который упрощает управление и рекомбинацию наборов ударных и секвенсоров. Кроме того, в каждом аспекте оригинального Атласа есть сотни небольших улучшений.",
-    "screenshots": [],
     "video_url": ""
+  },
+  {
+    "id": "gx_80",
+    "title": "GX-80",
+    "full_title": "Cherry Audio - GX-80 v1.0.9.123",
+    "arch": "STANDALONE, VST, VST3, AAX",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/gx_80_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a1c88a0fbbfc5d1d5457604d1da13602a5ae0523&dn=Cherry%20Audio%20-%20GX-80%20v1.0.9.123&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Странные новые миры\nGX-80 - это преобразующий виртуальный синтезатор, который сочетает в себе непревзойденное звучание и возможности легендарной \"машины мечты\" GX-1 и ее знаменитого потомка CS-80, создавая мощный гибрид. Благодаря тщательно продуманной и смоделированной схеме DSP, созданной удостоенным наград разработчиком Марком Бартоном, Cherry Audio воспроизвела все тонкости классики, создав самую аутентичную эмуляцию в своем роде.",
+    "screenshots": [],
+    "video_url": "",
+    "added_at": "2026-07-31",
+    "sample_count": 0
   }
 ]
