@@ -266,19 +266,38 @@
     "zip": ""
   },
   {
-    "id": "symphony_essentials",
-    "title": "Symphony Essentials",
-    "full_title": "Native Instruments - Symphony Essentials",
+    "added_at": "2026-07-31",
     "arch": "13.75 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/symphony_essentials_cover.png",
+    "description": "SYMPHONY ESSENTIALS включает в себя: \nEssentials Brass Ensemble \nEssentials Brass Solo \nEssentials Strings \nEnsemble Essentials Woodwinds \nEnsemble Essentials Woodwinds Solo",
+    "full_title": "Native Instruments - Symphony Essentials",
+    "id": "symphony_essentials",
+    "magnet": "magnet:?xt=urn:btih:007be70dba5810db2a711989635b720193408a73&dn=Native%20Instruments%20Symphony%20Essentials&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/symphony_essentials_cover.png",
+    "title": "Symphony Essentials",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:007be70dba5810db2a711989635b720193408a73&dn=Native%20Instruments%20Symphony%20Essentials&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "ashlight",
+    "title": "ASHLIGHT",
+    "full_title": "Native Instruments - ASHLIGHT 1.6.0",
+    "arch": "2.65 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ashlight_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:263c29f9a7ad5d24598260a8cc16e24a94b8b999&dn=Ashlight%201.6.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "SYMPHONY ESSENTIALS включает в себя: \nEssentials Brass Ensemble \nEssentials Brass Solo \nEssentials Strings \nEnsemble Essentials Woodwinds \nEnsemble Essentials Woodwinds Solo",
+    "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
