@@ -614,5 +614,24 @@
     "torrent": "",
     "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA",
     "zip": ""
+  },
+  {
+    "id": "diablo",
+    "title": "Diablo",
+    "full_title": "Cymatics - Diablo v1.0.1",
+    "arch": "VST/VST3/AU/AAX",
+    "tags": [
+      "Effect",
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/diablo_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5964ced0531d594ecffb79ab25f9ecaa36e1edeb&dn=Cymatics.Diablo.v1.0.1.Patched.FiXED.READ.NFO-FLARE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "Независимая студия Cymatics выпустила энхансер Cymatics Diablo. Новинка создана специально для использования на дорожках ударных и обещает сделать бочку «в десять раз мощнее». Cymatics Diablo представляет собой энхансер, помогающий ударным пробиться через микс. По словам разработчиков, плагин повышает общую громкость барабанов, но не изменяет уровень сигнала. А благодаря 7 уникальным модулям обработки, вы можете использовать DIABLO в множестве различных ситуаций микширования.",
+    "screenshots": [],
+    "video_url": "",
+    "added_at": "2026-08-01",
+    "sample_count": 0
   }
 ]
