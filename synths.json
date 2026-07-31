@@ -349,19 +349,38 @@
     "video_url": ""
   },
   {
-    "id": "gx_80",
-    "title": "GX-80",
-    "full_title": "Cherry Audio - GX-80 v1.0.9.123",
+    "added_at": "2026-07-31",
     "arch": "STANDALONE, VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/gx_80_cover.png",
+    "description": "Странные новые миры\nGX-80 - это преобразующий виртуальный синтезатор, который сочетает в себе непревзойденное звучание и возможности легендарной \"машины мечты\" GX-1 и ее знаменитого потомка CS-80, создавая мощный гибрид. Благодаря тщательно продуманной и смоделированной схеме DSP, созданной удостоенным наград разработчиком Марком Бартоном, Cherry Audio воспроизвела все тонкости классики, создав самую аутентичную эмуляцию в своем роде.",
+    "full_title": "Cherry Audio - GX-80 v1.0.9.123",
+    "id": "gx_80",
+    "magnet": "magnet:?xt=urn:btih:a1c88a0fbbfc5d1d5457604d1da13602a5ae0523&dn=Cherry%20Audio%20-%20GX-80%20v1.0.9.123&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/gx_80_cover.png",
+    "title": "GX-80",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a1c88a0fbbfc5d1d5457604d1da13602a5ae0523&dn=Cherry%20Audio%20-%20GX-80%20v1.0.9.123&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "predator_3",
+    "title": "Predator 3",
+    "full_title": "Rob Papen - Predator-3 v1.0.0a",
+    "arch": "VSTi, VSTi3, AAX",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/predator_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f7df03eeef48db009991a3bc2b52360af3c53d03&dn=Rob.Papen.Predator3.v1.0.0a.Incl.Cracked.and.Keygen-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Странные новые миры\nGX-80 - это преобразующий виртуальный синтезатор, который сочетает в себе непревзойденное звучание и возможности легендарной \"машины мечты\" GX-1 и ее знаменитого потомка CS-80, создавая мощный гибрид. Благодаря тщательно продуманной и смоделированной схеме DSP, созданной удостоенным наград разработчиком Марком Бартоном, Cherry Audio воспроизвела все тонкости классики, создав самую аутентичную эмуляцию в своем роде.",
+    "description": "Predator-3 - наследник легендарного синтезатора. Обе версии 1 и 2 на протяжении многих лет вдохновляли многих артистов и композиторов, и они появились на бесчисленных музыкальных треках! Как и прежде, он сочетает в себе большую библиотеку из более чем 6400 качественных пресетов и передовые функции, что делает его идеальным синтезатором для создания современной музыки любого рода.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
