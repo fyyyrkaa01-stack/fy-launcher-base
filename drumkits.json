@@ -54,18 +54,36 @@
     "zip": ""
   },
   {
-    "id": "genesis",
-    "title": "GENESIS",
-    "full_title": "Cymatics - GENESIS [Platinum Expansion]",
+    "added_at": "2026-08-01",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/genesis_cover.png",
+    "description": "После завершения работы над GENESIS наша команда вернулась к созданию дополнительных мелодических лупов, вдохновлённых разнообразием основного пакета. Дополнение Platinum предоставляет вам эксклюзивный доступ к дополнительной библиотеке неизданных мелодий, идеально сочетающихся с остальными элементами пакета. Это включает в себя множество стилей и жанров, аналогично общей концепции основной коллекции мелодий. Не говоря уже о том, что дополнения Platinum для наших крупных релизов всегда становятся одними из самых редких пакетов… Так что, если вы решите приобрести это дополнение, вы станете одним из немногих избранных, кто получит эксклюзивный доступ к этим звукам. Воспользуйтесь возможностью и приобретите дополнение GENESIS Platinum, пока оно ещё доступно.",
+    "full_title": "Cymatics - GENESIS [Platinum Expansion]",
+    "id": "genesis",
+    "magnet": "magnet:?xt=urn:btih:5452a878e6c0477796e2f03db25a3133d2b8e055&dn=Cymatics%20-%20GENESIS%20-%20Platinum%20Expansion&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/genesis_cover.png",
+    "title": "GENESIS",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5452a878e6c0477796e2f03db25a3133d2b8e055&dn=Cymatics%20-%20GENESIS%20-%20Platinum%20Expansion&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "eternal",
+    "title": "ETERNAL",
+    "full_title": "Cymatics - ETERNAL 2026 - LAUNCH EDITION (MIDI, WAV)",
+    "arch": "21.17 GB",
+    "tags": [
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/eternal_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:72dbcf103a289342718bce2164351e0f8d21b390&dn=ETERNAL%202026%20-%20Launch%20Edition&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "После завершения работы над GENESIS наша команда вернулась к созданию дополнительных мелодических лупов, вдохновлённых разнообразием основного пакета. Дополнение Platinum предоставляет вам эксклюзивный доступ к дополнительной библиотеке неизданных мелодий, идеально сочетающихся с остальными элементами пакета. Это включает в себя множество стилей и жанров, аналогично общей концепции основной коллекции мелодий. Не говоря уже о том, что дополнения Platinum для наших крупных релизов всегда становятся одними из самых редких пакетов… Так что, если вы решите приобрести это дополнение, вы станете одним из немногих избранных, кто получит эксклюзивный доступ к этим звукам. Воспользуйтесь возможностью и приобретите дополнение GENESIS Platinum, пока оно ещё доступно.",
+    "description": "Музыкальный опыт на стыке жанров, вдохновленный современным EDM и хип-хопом.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-01",
