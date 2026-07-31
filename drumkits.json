@@ -72,18 +72,36 @@
     "zip": ""
   },
   {
-    "id": "eternal",
-    "title": "ETERNAL",
-    "full_title": "Cymatics - ETERNAL 2026 - LAUNCH EDITION (MIDI, WAV)",
+    "added_at": "2026-08-01",
     "arch": "21.17 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/eternal_cover.png",
+    "description": "Музыкальный опыт на стыке жанров, вдохновленный современным EDM и хип-хопом.",
+    "full_title": "Cymatics - ETERNAL 2026 - LAUNCH EDITION (MIDI, WAV)",
+    "id": "eternal",
+    "magnet": "magnet:?xt=urn:btih:72dbcf103a289342718bce2164351e0f8d21b390&dn=ETERNAL%202026%20-%20Launch%20Edition&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/eternal_cover.png",
+    "title": "ETERNAL",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:72dbcf103a289342718bce2164351e0f8d21b390&dn=ETERNAL%202026%20-%20Launch%20Edition&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "project_one",
+    "title": "PROJECT ONE",
+    "full_title": "Cymatics - PROJECT ONE (MIDI, WAV)",
+    "arch": "",
+    "tags": [
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/project_one_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:ce1b8b2380e1c9c736f874455c02b7d65fe6bf85&dn=Cymatics%20-%20PROJECT%20ONE%20Production%20Suite&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Музыкальный опыт на стыке жанров, вдохновленный современным EDM и хип-хопом.",
+    "description": "VIRUS содержит широкий спектр универсальных синтезаторных мелодий, охватывающих различные жанры - от поп-музыки и электроники до хип-хопа и RnB. Каждая петля тщательно проработана, чтобы предложить уникальные текстуры и тона, вдохновленные вечным звучанием классических синтезаторов, таких как Prophet 5, Jupiter и многих других. Эти мелодии идеально подходят для придания динамики и уникальности вашим трекам, что делает их идеальными для продюсеров, желающих экспериментировать с различными стилями и жанрами.\n\nМелодии, готовые к использованию, для создания хард-хитовых треп-бангеров",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-01",
