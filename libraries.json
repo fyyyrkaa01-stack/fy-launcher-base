@@ -118,18 +118,37 @@
     "zip": ""
   },
   {
-    "id": "tronic",
-    "title": "TRONIC",
-    "full_title": "Hollywood Audio Design - TRONIC",
+    "added_at": "2026-07-31",
     "arch": "2.30GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/tronic_cover.png",
+    "description": "TRONIC — мощный редактор электронной музыки для Kontakt. Он создан, чтобы помочь композиторам, продюсерам и контент-мейкерам создавать",
+    "full_title": "Hollywood Audio Design - TRONIC",
+    "id": "tronic",
+    "magnet": "magnet:?xt=urn:btih:2833aa57387d3c1b58cf19126fdc547b488361b8&dn=Tronic%20%5BHollywood%20Audio%20Design%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/tronic_cover.png",
+    "title": "TRONIC",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:2833aa57387d3c1b58cf19126fdc547b488361b8&dn=Tronic%20%5BHollywood%20Audio%20Design%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "ambient_soundware_evolved",
+    "title": "Ambient Soundware Evolved",
+    "full_title": "Zero-G - Ambient Soundware Evolved",
+    "arch": "2.99 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ambient_soundware_evolved_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:7379c1d03fcfac5c437e834febff795d137e9b63&dn=Ambient%20Soundware%20Evolved%20%5BZero-G%5D%20rutracker.org&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "TRONIC — мощный редактор электронной музыки для Kontakt. Он создан, чтобы помочь композиторам, продюсерам и контент-мейкерам создавать",
+    "description": "Ambient Soundware Evolved — это новое поколение популярной библиотеки Ambient Soundware для Kontakt. Она переосмыслена как мощный инструмент, созданный на основе коллекции эмбиентных атмосфер, пэдов, текстур и гармонических слоев. Этот богатый звуковой материал превращается в динамичный инструмент, ориентированный на живое исполнение.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
