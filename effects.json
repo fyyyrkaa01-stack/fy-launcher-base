@@ -484,18 +484,38 @@
     "zip": ""
   },
   {
-    "id": "wavesurfer",
-    "title": "Wavesurfer",
-    "full_title": "Karanyi Sounds Wavesurfer v1.0.0",
+    "added_at": "2026-07-31",
     "arch": "VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/wavesurfer_cover.png",
+    "description": "мультиэффект для тех случаев, когда обычной цепочки из delay, reverb, saturation и modulation уже мало, а хочется быстро собрать живую обработку с характером",
+    "full_title": "Karanyi Sounds Wavesurfer v1.0.0",
+    "id": "wavesurfer",
+    "magnet": "magnet:?xt=urn:btih:5d3a157edab43c7c4ee41298655a06648845334d&dn=Karanyi%20Sounds%20Wavesurfer%20v.1.0.0%20REGGED.WIN-BUBBiX&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/wavesurfer_cover.png",
+    "title": "Wavesurfer",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5d3a157edab43c7c4ee41298655a06648845334d&dn=Karanyi%20Sounds%20Wavesurfer%20v.1.0.0%20REGGED.WIN-BUBBiX&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "taip",
+    "title": "TAIP",
+    "full_title": "Baby Audio - TAIP 1.0.1",
+    "arch": "VST, VST3, AAX, AU",
+    "tags": [
+      "VST3",
+      "Effect",
+      "САТУРАЦИЯ"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/taip_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:9c1abec12e701fdd55d2f5a30713b8b28b4dc5f5&dn=Baby.Audio.TAIP.v1.0.1.Regged-FLARE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "мультиэффект для тех случаев, когда обычной цепочки из delay, reverb, saturation и modulation уже мало, а хочется быстро собрать живую обработку с характером",
+    "description": "Разогрейте свой звук! Продвинутый эмулятор плёнки Baby Audio TAIP придаст сигналу «аутентичное аналоговое тепло»",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
