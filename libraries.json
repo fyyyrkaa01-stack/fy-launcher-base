@@ -476,19 +476,38 @@
     "zip": ""
   },
   {
-    "id": "play_series_ethereal_earth",
-    "title": "Play Series: Ethereal Earth",
-    "full_title": "Native Instruments - Play Series: Ethereal Earth 2.1.2",
+    "added_at": "2026-07-31",
     "arch": "1.33 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_ethereal_earth_cover.png",
+    "description": "тоже не нашел описание (((((((((((((",
+    "full_title": "Native Instruments - Play Series: Ethereal Earth 2.1.2",
+    "id": "play_series_ethereal_earth",
+    "magnet": "magnet:?xt=urn:btih:29ae6da4b8abc7779ae47f87999ace44d04e46a9&dn=Play%20Series%20-%20Ethereal%20Earth%202.1.2%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_ethereal_earth_cover.png",
+    "title": "Play Series: Ethereal Earth",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:29ae6da4b8abc7779ae47f87999ace44d04e46a9&dn=Play%20Series%20-%20Ethereal%20Earth%202.1.2%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "play_series_lo_fi_glow",
+    "title": "Play Series: LO-FI GLOW",
+    "full_title": "Native Instruments - Play Series: LO-FI GLOW 2.0.0",
+    "arch": "585.2 MB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_lo_fi_glow_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e7bb838d2173a6cc4df8b3b2d2f5bbca4af09acb&dn=Lo-Fi%20Glow%202.0.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "тоже не нашел описание (((((((((((((",
+    "description": "ТУМАННЫЕ МЕЛОДИЧНЫЕ ТЕКСТУРЫ Клавишные, синтезаторы, гитары и бас записаны и обработаны для создания теплоты в стиле lo-fi. Идеально подходит для хип-хопа, хауса, электроники и не только.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
