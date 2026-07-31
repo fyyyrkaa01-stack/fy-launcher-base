@@ -579,39 +579,39 @@
   },
   {
     "added_at": "2026-07-31",
-    "arch": "STANDALONE, VST, VST3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
-    "description": "Waves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
-    "full_title": "Waves - Ultimate 17 26.07.27",
-    "id": "waves",
-    "magnet": "magnet:?xt=urn:btih:2835cf936af330e14e25b849ee3532a7ec86f826&dn=Waves%20-%20Ultimate%2017%2026.07.27%20V.R.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/psp_bbdelay_cover.png",
+    "description": "PSP BBDelay особенно хорошо раскрывается там, где обычный delay звучит слишком ровно: на синтах, гитарах, вокальных хвостах, атмосферных партиях, dub-эффектах и саунд-дизайне с живым аналоговым движением",
+    "full_title": "PSPaudioware PSP BBDelay v1.0.0",
+    "id": "psp_bbdelay",
+    "magnet": "magnet:?xt=urn:btih:48787032e7e668413bc2ba22b974fa1866c12ee7&dn=PSPaudioware.PSP.BBDelay.v1.0.0-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "sample_count": 0,
     "screenshots": [],
     "tags": [
       "Effect",
-      "Mastering"
+      "delay"
     ],
-    "title": "Waves",
+    "title": "PSP BBDelay",
     "torrent": "",
-    "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA",
+    "video_url": "",
     "zip": ""
   },
   {
-    "id": "psp_bbdelay",
-    "title": "PSP BBDelay",
-    "full_title": "PSPaudioware PSP BBDelay v1.0.0",
-    "arch": "VST, VST3, AAX",
+    "id": "waves",
+    "title": "Waves",
+    "full_title": "Waves - Ultimate 17 26.07.27",
+    "arch": "STANDALONE, VST, VST3, AAX",
     "tags": [
       "Effect",
-      "delay"
+      "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/psp_bbdelay_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/waves_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:48787032e7e668413bc2ba22b974fa1866c12ee7&dn=PSPaudioware.PSP.BBDelay.v1.0.0-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "magnet": "magnet:?xt=urn:btih:2835cf936af330e14e25b849ee3532a7ec86f826&dn=Waves%20-%20Ultimate%2017%2026.07.27%20V.R.rar&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "PSP BBDelay особенно хорошо раскрывается там, где обычный delay звучит слишком ровно: на синтах, гитарах, вокальных хвостах, атмосферных партиях, dub-эффектах и саунд-дизайне с живым аналоговым движением",
+    "description": "ИНСТРУКЦИЯ В \"СМОТРЕТЬ ВИДЕО\" ( да да релиз с рутрекера ыыыы) \n\n\n1. Устанавливаем Waves Central (в 1-Installer)\n 2. Запускаем, выбираем Offline Installer, находим папку Waves (в 1-Installer), выбираем частично или полный Waves Ultimate \n3. Применяем патч Waves Ultimate 2025.3 patch.exe\n\n\n\nWaves Ultimate - полный набор профессиональных аудиоплагинов от компании Waves Audio, предназначенных для сведения, мастеринга и обработки звука в музыкальном продакшене.",
     "screenshots": [],
-    "video_url": "",
+    "video_url": "https://disk.yandex.ru/i/ZKS9JWM3TcbjOA",
     "added_at": "2026-07-31",
     "sample_count": 0
   }
