@@ -83,19 +83,38 @@
     "video_url": ""
   },
   {
-    "id": "arturia_sound_banks",
-    "title": "Arturia - Sound Banks",
-    "full_title": "Arturia - Sound Banks 2026.7 Updates Only (SOUNDBANK)(VR)",
     "arch": "849.8 MB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "full_title": "Arturia - Sound Banks 2026.7 Updates Only (SOUNDBANK)(VR)",
+    "id": "arturia_sound_banks",
+    "magnet": "magnet:?xt=urn:btih:057ea7f6d13a10a66ba4d7ea38040d42996ae86b&dn=Arturia.Sound.Banks.Update.Only.2026.7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "screenshots": [],
     "tags": [
       "библиотека",
       "ARTURIA"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "title": "Arturia - Sound Banks",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:057ea7f6d13a10a66ba4d7ea38040d42996ae86b&dn=Arturia.Sound.Banks.Update.Only.2026.7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
-    "screenshots": [],
     "video_url": ""
+  },
+  {
+    "id": "guitars_in_space_vol4",
+    "title": "GUITARS IN SPACE VOL4",
+    "full_title": "KONTAKT GUITARS IN SPACE VOL4",
+    "arch": "595 MB",
+    "tags": [
+      "библиотека",
+      "ГИТАРА"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/guitars_in_space_vol4_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:ba95b01f313a396fe9d4e2894e85b1f9d7e7d92e&dn=Guitars%20in%20Space%20Vol.%204%20%5BDark%20Intervals%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Guitars In Space VOL 4 превращает гитару в живые текстуры, атмосферные слои и выразительные звуковые пейзажи, выходящие за пределы привычного звучания",
+    "screenshots": [],
+    "video_url": "",
+    "added_at": "2026-07-31",
+    "sample_count": 0
   }
 ]
