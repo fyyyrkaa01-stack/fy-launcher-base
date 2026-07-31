@@ -437,20 +437,39 @@
     "zip": ""
   },
   {
-    "id": "session_bassist_icon_bass",
-    "title": "Session Bassist Icon Bass",
-    "full_title": "Native Instruments - Session Bassist Icon Bass",
+    "added_at": "2026-07-31",
     "arch": "4.74 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_bassist_icon_bass_cover.png",
+    "description": "ICON BASS сочетает в себе мощь и универсальность одной из величайших бас-гитар, которая выдержала испытание временем. Тщательно отобранный из популярной американской модели 1989 года выпуска, он содержит широкий спектр риффов, лупов и мелодий, сочиненных и исполненных лучшими сессионными басистами. С добавлением активной электроники ICON BASS идеально подходит, когда вам нужен дополнительный аккорд для грохочущих рок-риффов, яростных фанковых наполнений и поп-партий, которые создают эффектный звук.",
+    "full_title": "Native Instruments - Session Bassist Icon Bass",
+    "id": "session_bassist_icon_bass",
+    "magnet": "magnet:?xt=urn:btih:f832ae92c24c0386bfbe9983c2427ab1ee2cf62b&dn=Native.Instruments.Session.Bassist.Icon.Bass.KONTAKT&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT",
       "ГИТАРА"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_bassist_icon_bass_cover.png",
+    "title": "Session Bassist Icon Bass",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f832ae92c24c0386bfbe9983c2427ab1ee2cf62b&dn=Native.Instruments.Session.Bassist.Icon.Bass.KONTAKT&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "play_series_hybrid_keys",
+    "title": "Play Series: HYBRID KEYS",
+    "full_title": "Native Instruments - Play Series: HYBRID KEYS 2.1.0",
+    "arch": "3.7 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_hybrid_keys_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e54764fea9f9b4967d3467665f1457393d01595c&dn=Hybrid%20Keys%202.1.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "ICON BASS сочетает в себе мощь и универсальность одной из величайших бас-гитар, которая выдержала испытание временем. Тщательно отобранный из популярной американской модели 1989 года выпуска, он содержит широкий спектр риффов, лупов и мелодий, сочиненных и исполненных лучшими сессионными басистами. С добавлением активной электроники ICON BASS идеально подходит, когда вам нужен дополнительный аккорд для грохочущих рок-риффов, яростных фанковых наполнений и поп-партий, которые создают эффектный звук.",
+    "description": "не нашел описание сорри",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
