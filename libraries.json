@@ -417,20 +417,40 @@
     "zip": ""
   },
   {
-    "id": "session_bassist_prime_bass",
-    "title": "Session Bassist Prime Bass",
-    "full_title": "Native Instruments - Session Bassist Prime Bass",
+    "added_at": "2026-07-31",
     "arch": "8.73 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_bassist_prime_bass_cover.png",
+    "description": "PRIME BASS обеспечивает классическое звучание одного из самых культовых электрических басов в мире, запечатленное на оригинальной цельнокорпусной бас-гитаре 1981 года выпуска, изготовленной в США. Благодаря обилию риффов, петель и мелодий, сочиненных и исполненных профессиональными сессионными музыкантами, PRIME BASS предлагает все необходимое для создания проникновенных фингерстайл-грувов, поп-басов, сыгранных медиатором, отрывистых фанковых слэпов и всего, что между ними.",
+    "full_title": "Native Instruments - Session Bassist Prime Bass",
+    "id": "session_bassist_prime_bass",
+    "magnet": "magnet:?xt=urn:btih:fbac0cae8de77181466ef606502f248f43e46ee6&dn=Native%20Instruments%20-%20Session%20Bassist%20Prime%20Bass&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT",
       "ГИТАРА"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_bassist_prime_bass_cover.png",
+    "title": "Session Bassist Prime Bass",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:fbac0cae8de77181466ef606502f248f43e46ee6&dn=Native%20Instruments%20-%20Session%20Bassist%20Prime%20Bass&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "session_bassist_icon_bass",
+    "title": "Session Bassist Icon Bass",
+    "full_title": "Native Instruments - Session Bassist Icon Bass",
+    "arch": "4.74 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT",
+      "ГИТАРА"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_bassist_icon_bass_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f832ae92c24c0386bfbe9983c2427ab1ee2cf62b&dn=Native.Instruments.Session.Bassist.Icon.Bass.KONTAKT&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "PRIME BASS обеспечивает классическое звучание одного из самых культовых электрических басов в мире, запечатленное на оригинальной цельнокорпусной бас-гитаре 1981 года выпуска, изготовленной в США. Благодаря обилию риффов, петель и мелодий, сочиненных и исполненных профессиональными сессионными музыкантами, PRIME BASS предлагает все необходимое для создания проникновенных фингерстайл-грувов, поп-басов, сыгранных медиатором, отрывистых фанковых слэпов и всего, что между ними.",
+    "description": "ICON BASS сочетает в себе мощь и универсальность одной из величайших бас-гитар, которая выдержала испытание временем. Тщательно отобранный из популярной американской модели 1989 года выпуска, он содержит широкий спектр риффов, лупов и мелодий, сочиненных и исполненных лучшими сессионными басистами. С добавлением активной электроники ICON BASS идеально подходит, когда вам нужен дополнительный аккорд для грохочущих рок-риффов, яростных фанковых наполнений и поп-партий, которые создают эффектный звук.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
