@@ -465,22 +465,40 @@
     "video_url": ""
   },
   {
-    "id": "flexion",
-    "title": "Flexion",
-    "full_title": "Nuro Audio Flexion v1.0.2",
+    "added_at": "2026-07-31",
     "arch": "VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/flexion_cover.png",
+    "description": "1. Открыть плагин в DAW.\n2. Нажать No internet connection и скопировать цифровой код.\n3. Вставить код в WM_NuroAudio.r2rwm.\n4. Сгенерировать и сохранить ключ активации.\n5. Открыть ключ в плагине.\n\nподойдёт для задач, где нужно быстро довести материал до более законченного состояния: мастер-шина, вокал перед основной цепочкой, отдельные треки в плотном миксе, барабаны с акцентом на атаку и двухдорожечные инструменталы для работы с вокалом.",
+    "full_title": "Nuro Audio Flexion v1.0.2",
+    "id": "flexion",
+    "magnet": "magnet:?xt=urn:btih:266abb4cfc5d0c7287ad5e92134e94321254b21f&dn=Nuro.Audio.Flexion.v1.0.2.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 5,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/flexion_cover.png",
+    "title": "Flexion",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:266abb4cfc5d0c7287ad5e92134e94321254b21f&dn=Nuro.Audio.Flexion.v1.0.2.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "wavesurfer",
+    "title": "Wavesurfer",
+    "full_title": "Karanyi Sounds Wavesurfer v1.0.0",
+    "arch": "VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/wavesurfer_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5d3a157edab43c7c4ee41298655a06648845334d&dn=Karanyi%20Sounds%20Wavesurfer%20v.1.0.0%20REGGED.WIN-BUBBiX&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "1. Открыть плагин в DAW.\n2. Нажать No internet connection и скопировать цифровой код.\n3. Вставить код в WM_NuroAudio.r2rwm.\n4. Сгенерировать и сохранить ключ активации.\n5. Открыть ключ в плагине.\n\nподойдёт для задач, где нужно быстро довести материал до более законченного состояния: мастер-шина, вокал перед основной цепочкой, отдельные треки в плотном миксе, барабаны с акцентом на атаку и двухдорожечные инструменталы для работы с вокалом.",
+    "description": "мультиэффект для тех случаев, когда обычной цепочки из delay, reverb, saturation и modulation уже мало, а хочется быстро собрать живую обработку с характером",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
-    "sample_count": 5
+    "sample_count": 0
   }
 ]
