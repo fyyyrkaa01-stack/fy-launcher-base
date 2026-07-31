@@ -514,19 +514,38 @@
     "zip": ""
   },
   {
-    "id": "play_series_cloud_supply",
-    "title": "Play Series: CLOUD SUPPLY",
-    "full_title": "Native Instruments - Play Series: CLOUD SUPPLY 2.0.0",
+    "added_at": "2026-07-31",
     "arch": "2.47 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_cloud_supply_cover.png",
+    "description": "Облачные сопли или облако соплей? Ой, извините - \"облачные поставки, экспресс-доставки...\"\n\nТут самый первый инструмент (снепшот) Hazed, который загружается по дефолту, ну на столько Хорош, что даже из-за него одного держал бы эту библиотеку...\n+ в этой библе ещё много всего интересного можно найти.TRAP - это прям совсем не моё, но библиотека очень интересная.",
+    "full_title": "Native Instruments - Play Series: CLOUD SUPPLY 2.0.0",
+    "id": "play_series_cloud_supply",
+    "magnet": "magnet:?xt=urn:btih:3e99aedeef5f1e24860438c86a7770670fbbf8a2&dn=Cloud%20Supply%202.0.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_cloud_supply_cover.png",
+    "title": "Play Series: CLOUD SUPPLY",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:3e99aedeef5f1e24860438c86a7770670fbbf8a2&dn=Cloud%20Supply%202.0.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "toska",
+    "title": "Toska",
+    "full_title": "Noon Instruments - Toska v1.3.1",
+    "arch": "6.46 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/toska_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:16a60829e95ae51fb8c722cf1a7d6edfad76fbb7&dn=Noon%20Instruments%20Toska%20v1.3.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "Облачные сопли или облако соплей? Ой, извините - \"облачные поставки, экспресс-доставки...\"\n\nТут самый первый инструмент (снепшот) Hazed, который загружается по дефолту, ну на столько Хорош, что даже из-за него одного держал бы эту библиотеку...\n+ в этой библе ещё много всего интересного можно найти.TRAP - это прям совсем не моё, но библиотека очень интересная.",
+    "description": "Toska - это палитра развивающихся, атмосферных текстур, созданных на основе многослойных, несовершенных представлений. Уникальное сочетание аналоговых синтезаторов, духовых, струнных, духовых, вокала и полевых записей было подвергнуто тщательной обработке, чтобы создать коллекцию непосредственных, современных звуков. Исходный материал тщательно подобран, чтобы придать глубину, движение и цвет современным композициям. Это инструмент, сердцем которого является Toska.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
