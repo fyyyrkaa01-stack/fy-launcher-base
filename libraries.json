@@ -247,19 +247,38 @@
     "zip": ""
   },
   {
-    "id": "session_horns_pro",
-    "title": "SESSION HORNS PRO",
-    "full_title": "Native Instruments - SESSION HORNS PRO v1.5.0",
+    "added_at": "2026-07-31",
     "arch": "27.55 GB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_horns_pro_cover.png",
+    "description": "SESSION HORNS PRO дает вам три саксофона, два тромбона, три трубы, тубу и флюгельгорн: First trumpet, second trumpet, mute trumpet, flugelhorn, trombone, bass trombone, tuba, alto sax, tenor sax, baritone sax",
+    "full_title": "Native Instruments - SESSION HORNS PRO v1.5.0",
+    "id": "session_horns_pro",
+    "magnet": "magnet:?xt=urn:btih:48c9a005e0000061879b9ec40b34d8b832e706a3&dn=Session%20Horns%20Pro%20v1.5.0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_horns_pro_cover.png",
+    "title": "SESSION HORNS PRO",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:48c9a005e0000061879b9ec40b34d8b832e706a3&dn=Session%20Horns%20Pro%20v1.5.0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "symphony_essentials",
+    "title": "Symphony Essentials",
+    "full_title": "Native Instruments - Symphony Essentials",
+    "arch": "13.75 GB",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/symphony_essentials_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:007be70dba5810db2a711989635b720193408a73&dn=Native%20Instruments%20Symphony%20Essentials&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "SESSION HORNS PRO дает вам три саксофона, два тромбона, три трубы, тубу и флюгельгорн: First trumpet, second trumpet, mute trumpet, flugelhorn, trombone, bass trombone, tuba, alto sax, tenor sax, baritone sax",
+    "description": "SYMPHONY ESSENTIALS включает в себя: \nEssentials Brass Ensemble \nEssentials Brass Solo \nEssentials Strings \nEnsemble Essentials Woodwinds \nEnsemble Essentials Woodwinds Solo",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-07-31",
