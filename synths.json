@@ -460,23 +460,40 @@
     "zip": ""
   },
   {
-    "id": "addictive_drums_2_complete",
-    "title": "Addictive Drums 2 Complete",
-    "full_title": "XLN Audio - Addictive Drums 2 Complete v2.9.0.4",
+    "added_at": "2026-07-31",
     "arch": "STANDALONE, VSTi, VST3i, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/addictive_drums_2_complete_cover.png",
+    "description": "0. Удалите предыдущую версию R2R System.\n1. Установите R2R System версии 1.3.1.\n2. Скачайте Addictive Drums 2 папкуи поместите её в удобное место. Запустить из этой папки файл AD2_Library_Placer.exe.\n3. Удалите предыдущую версию и Установить Addictive Drums 2 Complete (Fixed Only).\n4. Запустить WM_XLNAudio.r2rwm > \"GET\" > \"Register (WIN)\"",
+    "full_title": "XLN Audio - Addictive Drums 2 Complete v2.9.0.4",
+    "id": "addictive_drums_2_complete",
+    "magnet": "magnet:?xt=urn:btih:36de9ef6e930f2256dc54033980de8ce14904049&dn=XLN%20Audio%20-%20Addictive%20Drums%202%20Complete%20v2.9.0.4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth",
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/addictive_drums_2_complete_cover.png",
+    "title": "Addictive Drums 2 Complete",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:36de9ef6e930f2256dc54033980de8ce14904049&dn=XLN%20Audio%20-%20Addictive%20Drums%202%20Complete%20v2.9.0.4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "test",
+    "title": "TEST",
+    "full_title": "",
+    "arch": "",
+    "tags": [],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5452a878e6c0477796e2f03db25a3133d2b8e055&dn=Cymatics%20-%20GENESIS%20-%20Platinum%20Expansion&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "0. Удалите предыдущую версию R2R System.\n1. Установите R2R System версии 1.3.1.\n2. Скачайте Addictive Drums 2 папкуи поместите её в удобное место. Запустить из этой папки файл AD2_Library_Placer.exe.\n3. Удалите предыдущую версию и Установить Addictive Drums 2 Complete (Fixed Only).\n4. Запустить WM_XLNAudio.r2rwm > \"GET\" > \"Register (WIN)\"",
+    "description": "",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-07-31",
-    "sample_count": 0
+    "added_at": "2026-08-01",
+    "sample_count": 0,
+    "file_size": ""
   }
 ]
