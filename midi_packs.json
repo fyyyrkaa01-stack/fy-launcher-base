@@ -1,9 +1,8 @@
 [
   {
-    "id": "midi_collection",
-    "title": "Cymatics - PROJECT ONE Production Suite",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/midi_collection_cover.png",
     "description": "только миди с этого пака",
+    "id": "midi_collection",
     "midis": [
       "midi_collection_ambient_cymatics_allure_midi_d_min",
       "midi_collection_ambient_cymatics_another_midi_g_min",
@@ -320,6 +319,36 @@
       "midi_collection_world_cymatics_lamento_midi_c_min",
       "midi_collection_world_cymatics_mile_high_midi_g_min",
       "midi_collection_world_cymatics_nueva_midi_a_min"
+    ],
+    "title": "Cymatics - PROJECT ONE Production Suite"
+  },
+  {
+    "id": "cymatics_horizon_house_sample_pack",
+    "title": "Cymatics - Horizon House Sample Pack",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/cymatics_horizon_house_sample_pack_cover.png",
+    "description": "набор от cymatics",
+    "midis": [
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_1_c_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_10_f_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_11_f_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_12_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_13_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_14_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_15_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_16_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_17_g_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_18_a_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_19_a_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_2_e_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_20_a_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_21_b_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_3_e_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_4_e_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_5_e_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_6_f_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_7_f_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_8_f_min",
+      "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_9_f_min"
     ]
   }
 ]
