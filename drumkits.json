@@ -431,22 +431,41 @@
     "zip": ""
   },
   {
-    "id": "bodega",
-    "title": "Bodega",
+    "added_at": "2026-08-03",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/bodega_cover.png",
+    "description": "",
+    "file_size": "88.5 MB",
     "full_title": "Palagin - Bodega (Drum Kit)",
+    "id": "bodega",
+    "magnet": "magnet:?xt=urn:btih:1370933967f5b120fb3e54b4d71882914e776590&dn=Palagin%20-%20Bodega%20%28Drum%20Kit%29&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "Bodega",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "agnostic",
+    "title": "AGNOSTIC",
+    "full_title": "Palagin - AGNOSTIC (Drum Kit)",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/bodega_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/agnostic_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:1370933967f5b120fb3e54b4d71882914e776590&dn=Palagin%20-%20Bodega%20%28Drum%20Kit%29&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:a1a2593946a3894949e76a66abefa79205734ac1&dn=Palagin%20-%20Agnostic%20%28Drum%20Kit%29&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "88.5 MB"
+    "file_size": "152.3 MB"
   }
 ]
