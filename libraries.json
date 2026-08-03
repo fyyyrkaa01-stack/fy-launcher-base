@@ -550,22 +550,5 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
-  },
-  {
-    "id": "test",
-    "title": "TEST",
-    "full_title": "TEST",
-    "arch": "TEST",
-    "tags": [],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/test_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5452a878e6c0477796e2f03db25a3133d2b8e055&dn=Cymatics%20-%20GENESIS%20-%20Platinum%20Expansion&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "zip": "",
-    "description": "",
-    "screenshots": [],
-    "video_url": "",
-    "added_at": "2026-08-01",
-    "sample_count": 0,
-    "file_size": "TEST"
   }
 ]
