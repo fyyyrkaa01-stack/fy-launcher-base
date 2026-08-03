@@ -110,37 +110,39 @@
   {
     "added_at": "2026-08-03",
     "arch": "",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v10_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v9_cover.png",
     "description": "",
-    "file_size": "908 MB",
-    "full_title": "Maxeyy - Stash V10 Drum Kit",
-    "id": "maxeyy_stash_v10",
-    "magnet": "magnet:?xt=urn:btih:977c87e5f93c65bdef29c15aed4d2bfce2ba52db&dn=Maxeyy%20-%20Stash%20V10%20Drum%20Kit&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "file_size": "472 MB",
+    "full_title": "Maxeyy - Stash V9 Drum Kit (WAV)",
+    "id": "maxeyy_stash_v9",
+    "magnet": "magnet:?xt=urn:btih:e02ac6d27cccfd79ec1da4c362289e3a2ea7054d&dn=Maxeyy%20-%20Stash%20V9%20Drum%20Kit&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "sample_count": 0,
     "screenshots": [],
-    "tags": [],
-    "title": "Maxeyy - Stash V10",
+    "tags": [
+      "DRUM"
+    ],
+    "title": "Maxeyy - Stash V9",
     "torrent": "",
     "video_url": "",
     "zip": ""
   },
   {
-    "id": "maxeyy_stash_v9",
-    "title": "Maxeyy - Stash V9",
-    "full_title": "Maxeyy - Stash V9 Drum Kit (WAV)",
+    "id": "maxeyy_stash_v10",
+    "title": "Maxeyy - Stash V10",
+    "full_title": "Maxeyy - Stash V10 Drum Kit",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v9_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v10_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:e02ac6d27cccfd79ec1da4c362289e3a2ea7054d&dn=Maxeyy%20-%20Stash%20V9%20Drum%20Kit&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:977c87e5f93c65bdef29c15aed4d2bfce2ba52db&dn=Maxeyy%20-%20Stash%20V10%20Drum%20Kit&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "472 MB"
+    "file_size": "908 MB"
   }
 ]
