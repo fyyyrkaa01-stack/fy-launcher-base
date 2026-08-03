@@ -775,23 +775,43 @@
     "zip": ""
   },
   {
-    "id": "pulsar_audio_vocal_studio",
-    "title": "Pulsar Audio Vocal Studio",
-    "full_title": "Pulsar Audio Vocal Studio v1.0.17",
+    "added_at": "2026-08-03",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/pulsar_audio_vocal_studio_cover.png",
+    "description": "Сотни цветов для микширования вокала всего в 2 клика.\nНравится вам это или нет, но профессиональный вокал — это сведённый вокал\nОтполированный, профессионально звучащий вокал — результат продуманного подхода к производству, основанного на многолетнем опыте. Как правило, для этого требуется несколько плагинов, сложная маршрутизация и тщательное сравнение — процесс, который может отнимать много времени и даже утомлять.\nЧто, если бы вы могли упростить этот процесс? Представьте, что вы можете без труда экспериментировать с вокальными партиями и стилями производства, сохраняя полный контроль над каждой деталью и быстро и уверенно принимая смелые творческие решения.\nPulsar Vocal Studio — это мощный универсальный плагин, который сочетает в себе инструменты для обработки вокала профессионального уровня и имеет интуитивно понятный интерфейс, позволяющий быстро и точно исследовать, дорабатывать и совершенствовать вокальный микс.",
+    "file_size": "139.5 MB",
+    "full_title": "Pulsar Audio Vocal Studio v1.0.17",
+    "id": "pulsar_audio_vocal_studio",
+    "magnet": "magnet:?xt=urn:btih:bbab3af25670daae36cfb72fa38e077e5db7ee6e&dn=Pulsar.Audio.Vocal.Studio.v1.0.17-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "VOCAL"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/pulsar_audio_vocal_studio_cover.png",
+    "title": "Pulsar Audio Vocal Studio",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:bbab3af25670daae36cfb72fa38e077e5db7ee6e&dn=Pulsar.Audio.Vocal.Studio.v1.0.17-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "auto_tune_unlimited",
+    "title": "Auto-Tune Unlimited",
+    "full_title": "Antares - Auto-Tune Unlimited",
+    "arch": "VST3/AAX x64",
+    "tags": [
+      "Effect",
+      "VOCAL"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_unlimited_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:daebc97e0126993a6bcf7dfeef77602d05dcd54b&dn=Antares%20-%20Auto-Tune%20Unlimited%20VST3%2CAAX%20x64%20%5B20.01.2024%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Сотни цветов для микширования вокала всего в 2 клика.\nНравится вам это или нет, но профессиональный вокал — это сведённый вокал\nОтполированный, профессионально звучащий вокал — результат продуманного подхода к производству, основанного на многолетнем опыте. Как правило, для этого требуется несколько плагинов, сложная маршрутизация и тщательное сравнение — процесс, который может отнимать много времени и даже утомлять.\nЧто, если бы вы могли упростить этот процесс? Представьте, что вы можете без труда экспериментировать с вокальными партиями и стилями производства, сохраняя полный контроль над каждой деталью и быстро и уверенно принимая смелые творческие решения.\nPulsar Vocal Studio — это мощный универсальный плагин, который сочетает в себе инструменты для обработки вокала профессионального уровня и имеет интуитивно понятный интерфейс, позволяющий быстро и точно исследовать, дорабатывать и совершенствовать вокальный микс.",
+    "description": "Auto-Tune Unlimited - это полный набор инструментов, необходимых для того, чтобы любое вокальное исполнение стало идеальным. Поднимите свою музыку на новый уровень и начните создавать вокал без ограничений.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "139.5 MB"
+    "file_size": "983.8 MB"
   }
 ]
