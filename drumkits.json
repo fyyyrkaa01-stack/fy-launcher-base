@@ -298,22 +298,41 @@
     "zip": ""
   },
   {
-    "id": "maxeyy_stash_v11_drum_kit",
-    "title": "Maxeyy - Stash V11 Drum Kit",
+    "added_at": "2026-08-03",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v11_drum_kit_cover.png",
+    "description": "",
+    "file_size": "388.4 MB",
     "full_title": "Maxeyy - Stash V11 Drum Kit",
+    "id": "maxeyy_stash_v11_drum_kit",
+    "magnet": "magnet:?xt=urn:btih:d30a03c01e30b96c00844807731c8a0b057f2995&dn=Maxeyy%20Stash%20V11&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "Maxeyy - Stash V11 Drum Kit",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "kshmr_vol_5",
+    "title": "KSHMR Vol.5",
+    "full_title": "Dharma Studio - Sounds of KSHMR Vol.5 Complete Edition",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v11_drum_kit_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_5_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:d30a03c01e30b96c00844807731c8a0b057f2995&dn=Maxeyy%20Stash%20V11&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:a8ab1cd3e7d32e1b4dbf0e222e2d9599e478a222&dn=Dharma%20Studio%20-%20Sounds%20of%20KSHMR%20Vol.5%20Complete%20Edition&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "388.4 MB"
+    "file_size": "10.85 GB"
   }
 ]
