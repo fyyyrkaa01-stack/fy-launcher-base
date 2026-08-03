@@ -146,22 +146,41 @@
     "zip": ""
   },
   {
-    "id": "maxeyy_stash_v8",
-    "title": "Maxeyy - Stash V8",
+    "added_at": "2026-08-03",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v8_cover.png",
+    "description": "",
+    "file_size": "496.5 MB",
     "full_title": "Maxeyy - Stash V8 Drum Kit",
+    "id": "maxeyy_stash_v8",
+    "magnet": "magnet:?xt=urn:btih:1b68e9fe284afd77ebac4052a24e757a9e8e4e76&dn=Maxeyy%20-%20Stash%20V8%20Drum%20Kit&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "Maxeyy - Stash V8",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "maxeyy_stash_v7",
+    "title": "Maxeyy - Stash V7",
+    "full_title": "Maxeyy - Stash V7 Drum Kit",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v8_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v7_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:1b68e9fe284afd77ebac4052a24e757a9e8e4e76&dn=Maxeyy%20-%20Stash%20V8%20Drum%20Kit&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:96e87fd4242077da66f2c1752e5f895492176538&dn=Maxeyy%20-%20Stash%20V7%20Drum%20Kit&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "496.5 MB"
+    "file_size": "425 MB"
   }
 ]
