@@ -815,24 +815,45 @@
     "zip": ""
   },
   {
-    "id": "beam",
-    "title": "BEAM",
-    "full_title": "Lunacy Audio - BEAM v1.3.4",
+    "added_at": "2026-08-03",
     "arch": "VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/beam_cover.png",
+    "description": "Космический узел",
+    "file_size": "",
+    "full_title": "Lunacy Audio - BEAM v1.3.4",
+    "id": "beam",
+    "magnet": "magnet:?xt=urn:btih:a33a4a54e710db80765ddc56093ee4b792a6b4df&dn=Lunacy%20Audio%20-%20BEAM%20v1.3.4%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Reverb",
       "delay"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/beam_cover.png",
+    "title": "BEAM",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:a33a4a54e710db80765ddc56093ee4b792a6b4df&dn=Lunacy%20Audio%20-%20BEAM%20v1.3.4%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "archetype_cory_wong",
+    "title": "Archetype: Cory Wong",
+    "full_title": "Neural DSP - Archetype: Cory Wong",
+    "arch": "SAL,VST, VST3, AAX.",
+    "tags": [
+      "Effect",
+      "САТУРАЦИЯ",
+      "ГИТАРА"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/archetype_cory_wong_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:5aa0ef56eaf96f7a4459baf34b9e529572169833&dn=Neural%20DSP%20-%20Archetype%20Cory%20Wong%20X%20v1.0.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "Космический узел",
+    "description": "Невероятно универсальный плагин, разработанный для предоставления широкого спектра возможностей игрокам, которые ищут идеальные чистые и на грани перегруза звуки.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": ""
+    "file_size": "382.2 MB"
   }
 ]
