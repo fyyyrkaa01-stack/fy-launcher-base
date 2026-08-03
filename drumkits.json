@@ -393,22 +393,41 @@
     "zip": ""
   },
   {
-    "id": "kshmr_vol_4",
-    "title": "KSHMR vol. 4",
+    "added_at": "2026-08-03",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_4_cover.png",
+    "description": "",
+    "file_size": "",
     "full_title": "Sounds of KSHMR vol. 4",
+    "id": "kshmr_vol_4",
+    "magnet": "magnet:?xt=urn:btih:d2f706fcd0c34536930b402d820983384a3ac72b&dn=Sounds%20of%20KSHMR%20Vol%204%20Complete%20Edition&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "KSHMR vol. 4",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "nnf",
+    "title": "NNF",
+    "full_title": "Palagin - NNF (Drum Kit)",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_4_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/nnf_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:d2f706fcd0c34536930b402d820983384a3ac72b&dn=Sounds%20of%20KSHMR%20Vol%204%20Complete%20Edition&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "magnet": "magnet:?xt=urn:btih:cc4d6b0b1b4b09c544a888839490b1eb5865b145&dn=Palagin%20-%20NNF%20%28Drum%20Kit%29%20%E2%80%94%20torrent&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": ""
+    "file_size": "182.7 MB"
   }
 ]
