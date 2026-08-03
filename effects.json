@@ -734,23 +734,44 @@
     "zip": ""
   },
   {
-    "id": "mantra",
-    "title": "Mantra",
-    "full_title": "Neural DSP - Mantra v1.0.1",
+    "added_at": "2026-08-03",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/mantra_cover.png",
+    "description": "Будущее вокального производства. Вокальное производство редко бывает простым - множество плагинов, сложные цепочки обработки, задержка и т.д. Mantra меняет это. Коррекция высоты тона, шумоподавление, де-эссер, компрессоры, насыщение, гармонии и эффекты — всё в одном плагине. Никаких загроможденных сессий, никакой сложной маршрутизации. Просто более умный, быстрый и музыкальный рабочий процесс. Записывайте, микшируйте и обрабатывайте вокал от начала до конца, не прерывая свой рабочий процесс. Он прост в использовании и звучит невероятно. Мы с гордостью представляем вам Mantra.",
+    "file_size": "151.8 MB",
+    "full_title": "Neural DSP - Mantra v1.0.1",
+    "id": "mantra",
+    "magnet": "magnet:?xt=urn:btih:e42470684fc16a582f7595e008d8361d02529ffa&dn=Neural%20DSP%20-%20Mantra%20v1.0.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "VOCAL"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/mantra_cover.png",
+    "title": "Mantra",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:e42470684fc16a582f7595e008d8361d02529ffa&dn=Neural%20DSP%20-%20Mantra%20v1.0.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "cenozoix_compressor",
+    "title": "Cenozoix Compressor",
+    "full_title": "Plugin Alliance - TBTECH Cenozoix Compressor v1.1.1",
+    "arch": "VST, VST3, AAX.",
+    "tags": [
+      "Effect",
+      "КОМПРЕССОР",
+      "VOCAL"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/cenozoix_compressor_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:1b6952a61a97ee786c287e147d175f8160195bda&dn=Plugin%20Alliance%20-%20TBTECH%20Cenozoix%20Compressor%20v1.1.1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Будущее вокального производства. Вокальное производство редко бывает простым - множество плагинов, сложные цепочки обработки, задержка и т.д. Mantra меняет это. Коррекция высоты тона, шумоподавление, де-эссер, компрессоры, насыщение, гармонии и эффекты — всё в одном плагине. Никаких загроможденных сессий, никакой сложной маршрутизации. Просто более умный, быстрый и музыкальный рабочий процесс. Записывайте, микшируйте и обрабатывайте вокал от начала до конца, не прерывая свой рабочий процесс. Он прост в использовании и звучит невероятно. Мы с гордостью представляем вам Mantra.",
+    "description": "~Испытайте новую эру компрессорных плагинов~ Компрессор Cenozoix от Three Body Technology назван в честь кайнозойской эры времени, последовавшего за вымиранием динозавров. Насыщенный инновациями, этот плагин для микширования и мастеринга возглавляет новую эру компрессоров.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "151.8 MB"
+    "file_size": "62.9 MB"
   }
 ]
