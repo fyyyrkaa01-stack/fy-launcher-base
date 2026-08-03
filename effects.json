@@ -899,22 +899,42 @@
     "zip": ""
   },
   {
-    "id": "spl_machine_head",
-    "title": "SPL Machine Head",
-    "full_title": "Plugin Alliance - SPL Machine Head v1.0.0",
+    "added_at": "2026-08-03",
     "arch": "VST3|AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spl_machine_head_cover.png",
+    "description": "1. Установить плагин. \n2. Открыть плагин в DAW.\n 3. Нажать \"Click to activate\". \n4. Нажать \"I'm Offline\". \n5. Скопировать ID \"Copy to Clipboard\". \n6. Открыть KeyGen и вставить ID . \n7. Сгенерировать лицензию \"Generate\" (сохраняется на рабочий стол). 8. В плагине нажать \"Open License\" и импортировать лицензию. \n9. Нажать \"Activate\". \n10. Всё.\n\n\n\n\nMachine Head от SPL — лучший цифровой ленточный сатуратор из когда-либо созданных.\nПоскольку тон ленты становится настолько популярным в кругах профессиональных продюсеров,\nэто снятое с производства оборудование пользуется спросом. Многие разработчики плагинов пытались,\nно не смогли уловить магию его кода, до сих пор.",
+    "file_size": "47 MB",
+    "full_title": "Plugin Alliance - SPL Machine Head v1.0.0",
+    "id": "spl_machine_head",
+    "magnet": "magnet:?xt=urn:btih:f750a0a4be0ed7cdde3c97a059a1c3434e45f8d1&dn=Plugin%20Alliance%20-%20SPL%20Machine%20Head%20v1.0.0%20%5BR2R%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spl_machine_head_cover.png",
+    "title": "SPL Machine Head",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:f750a0a4be0ed7cdde3c97a059a1c3434e45f8d1&dn=Plugin%20Alliance%20-%20SPL%20Machine%20Head%20v1.0.0%20%5BR2R%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "valhalla_futureverb",
+    "title": "Valhalla FutureVerb",
+    "full_title": "Valhalla DSP - Valhalla FutureVerb v1.0.0.8",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Reverb"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/valhalla_futureverb_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:aeb977e80ddc5f6a6363c3fc06e456e5eeab212e&dn=Valhalla.DSP.Valhalla.FutureVerb.v1.0.0.8.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "1. Установить плагин. \n2. Открыть плагин в DAW.\n 3. Нажать \"Click to activate\". \n4. Нажать \"I'm Offline\". \n5. Скопировать ID \"Copy to Clipboard\". \n6. Открыть KeyGen и вставить ID . \n7. Сгенерировать лицензию \"Generate\" (сохраняется на рабочий стол). 8. В плагине нажать \"Open License\" и импортировать лицензию. \n9. Нажать \"Activate\". \n10. Всё.\n\n\n\n\nMachine Head от SPL — лучший цифровой ленточный сатуратор из когда-либо созданных.\nПоскольку тон ленты становится настолько популярным в кругах профессиональных продюсеров,\nэто снятое с производства оборудование пользуется спросом. Многие разработчики плагинов пытались,\nно не смогли уловить магию его кода, до сих пор.",
+    "description": "FutureVerb был разработан с нуля, чтобы обеспечить максимально прозрачную и реалистичную реверберацию из всех, что мы когда-либо создавали. На создание новых инновационных алгоритмических топологий реверберации ушло 8 лет исследований и разработок. Режимы реверберации FutureVerb настолько близки к идеалу, насколько мы вообще можем себе представить.\nА поскольку мы не верим в совершенство, мы добавили красочную и мощную секцию Echo, которая может добавить цвета и тепла или оставить всё таким чистым, каким вы хотите видеть пространство.\nБлагодаря 8 оригинальным режимам реверберации и 12 гибким режимам эха FutureVerb предоставляет вам звуковую мощь, необходимую для создания собственного будущего.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "47 MB"
+    "file_size": "19.8 MB"
   }
 ]
