@@ -90,21 +90,38 @@
     "zip": ""
   },
   {
-    "id": "project_one",
-    "title": "PROJECT ONE",
-    "full_title": "Cymatics - PROJECT ONE (MIDI, WAV)",
+    "added_at": "2026-08-01",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/project_one_cover.png",
+    "description": "VIRUS содержит широкий спектр универсальных синтезаторных мелодий, охватывающих различные жанры - от поп-музыки и электроники до хип-хопа и RnB. Каждая петля тщательно проработана, чтобы предложить уникальные текстуры и тона, вдохновленные вечным звучанием классических синтезаторов, таких как Prophet 5, Jupiter и многих других. Эти мелодии идеально подходят для придания динамики и уникальности вашим трекам, что делает их идеальными для продюсеров, желающих экспериментировать с различными стилями и жанрами.\n\nМелодии, готовые к использованию, для создания хард-хитовых треп-бангеров",
+    "full_title": "Cymatics - PROJECT ONE (MIDI, WAV)",
+    "id": "project_one",
+    "magnet": "magnet:?xt=urn:btih:ce1b8b2380e1c9c736f874455c02b7d65fe6bf85&dn=Cymatics%20-%20PROJECT%20ONE%20Production%20Suite&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/project_one_cover.png",
+    "title": "PROJECT ONE",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:ce1b8b2380e1c9c736f874455c02b7d65fe6bf85&dn=Cymatics%20-%20PROJECT%20ONE%20Production%20Suite&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "maxeyy_stash_v10",
+    "title": "Maxeyy - Stash V10",
+    "full_title": "Maxeyy - Stash V10 Drum Kit",
+    "arch": "",
+    "tags": [],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/maxeyy_stash_v10_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:977c87e5f93c65bdef29c15aed4d2bfce2ba52db&dn=Maxeyy%20-%20Stash%20V10%20Drum%20Kit&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "VIRUS содержит широкий спектр универсальных синтезаторных мелодий, охватывающих различные жанры - от поп-музыки и электроники до хип-хопа и RnB. Каждая петля тщательно проработана, чтобы предложить уникальные текстуры и тона, вдохновленные вечным звучанием классических синтезаторов, таких как Prophet 5, Jupiter и многих других. Эти мелодии идеально подходят для придания динамики и уникальности вашим трекам, что делает их идеальными для продюсеров, желающих экспериментировать с различными стилями и жанрами.\n\nМелодии, готовые к использованию, для создания хард-хитовых треп-бангеров",
+    "description": "",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-01",
-    "sample_count": 0
+    "added_at": "2026-08-03",
+    "sample_count": 0,
+    "file_size": "908 MB"
   }
 ]
