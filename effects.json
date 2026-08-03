@@ -715,22 +715,42 @@
     "zip": ""
   },
   {
-    "id": "final_mix_software_eq_73_vintage_iii",
-    "title": "Final Mix Software EQ-73 VINTAGE III",
-    "full_title": "Final Mix Software EQ-73 VINTAGE III v3.0.0",
+    "added_at": "2026-08-03",
     "arch": "VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/final_mix_software_eq_73_vintage_iii_cover.png",
+    "description": "Здесь сохранена философия винтажных аппаратных EQ: три музыкальные полосы эквализации, 11 фиксированных частот на выбор и плавный фильтр верхних частот с крутизной 12 дБ/октава. Такой набор позволяет быстро добавить записи глубину, воздушность и выразительность, не тратя время на сложную настройку.\nИнтерфейс остается лаконичным и интуитивным, поэтому все внимание сосредоточено на работе со звуком. Эквалайзер отлично подходит для создания более объемного и насыщенного микса, сохраняя характерное аналоговое окрашивание. Если же нужен максимально нейтральный и линейный результат, разработчик рекомендует обратить внимание на версию EQ-73 MODERN.\n⚙️ Форматы: VST, VST3, AU, AAX (64-bit)\n💻 Поддерживаемые системы: Windows 10 и macOS.\nХороший вариант для тех, кто ценит винтажную подачу и хочет быстро добиться музыкального звучания без перегруженного функционала.",
+    "file_size": "",
+    "full_title": "Final Mix Software EQ-73 VINTAGE III v3.0.0",
+    "id": "final_mix_software_eq_73_vintage_iii",
+    "magnet": "magnet:?xt=urn:btih:510e717aace6558928bf0b3ec50322ad006f0d2d&dn=Final%20Mix%20Software%20EQ-73%20VINTAGE%20III%20WiN%20macOS&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/final_mix_software_eq_73_vintage_iii_cover.png",
+    "title": "Final Mix Software EQ-73 VINTAGE III",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:510e717aace6558928bf0b3ec50322ad006f0d2d&dn=Final%20Mix%20Software%20EQ-73%20VINTAGE%20III%20WiN%20macOS&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "mantra",
+    "title": "Mantra",
+    "full_title": "Neural DSP - Mantra v1.0.1",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "VOCAL"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/mantra_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:e42470684fc16a582f7595e008d8361d02529ffa&dn=Neural%20DSP%20-%20Mantra%20v1.0.1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "Здесь сохранена философия винтажных аппаратных EQ: три музыкальные полосы эквализации, 11 фиксированных частот на выбор и плавный фильтр верхних частот с крутизной 12 дБ/октава. Такой набор позволяет быстро добавить записи глубину, воздушность и выразительность, не тратя время на сложную настройку.\nИнтерфейс остается лаконичным и интуитивным, поэтому все внимание сосредоточено на работе со звуком. Эквалайзер отлично подходит для создания более объемного и насыщенного микса, сохраняя характерное аналоговое окрашивание. Если же нужен максимально нейтральный и линейный результат, разработчик рекомендует обратить внимание на версию EQ-73 MODERN.\n⚙️ Форматы: VST, VST3, AU, AAX (64-bit)\n💻 Поддерживаемые системы: Windows 10 и macOS.\nХороший вариант для тех, кто ценит винтажную подачу и хочет быстро добиться музыкального звучания без перегруженного функционала.",
+    "description": "Будущее вокального производства. Вокальное производство редко бывает простым - множество плагинов, сложные цепочки обработки, задержка и т.д. Mantra меняет это. Коррекция высоты тона, шумоподавление, де-эссер, компрессоры, насыщение, гармонии и эффекты — всё в одном плагине. Никаких загроможденных сессий, никакой сложной маршрутизации. Просто более умный, быстрый и музыкальный рабочий процесс. Записывайте, микшируйте и обрабатывайте вокал от начала до конца, не прерывая свой рабочий процесс. Он прост в использовании и звучит невероятно. Мы с гордостью представляем вам Mantra.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": ""
+    "file_size": "151.8 MB"
   }
 ]
