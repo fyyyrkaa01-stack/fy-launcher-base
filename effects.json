@@ -616,22 +616,41 @@
     "zip": ""
   },
   {
-    "id": "diablo",
-    "title": "Diablo",
-    "full_title": "Cymatics - Diablo v1.0.1",
+    "added_at": "2026-08-01",
     "arch": "VST/VST3/AU/AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/diablo_cover.png",
+    "description": "Независимая студия Cymatics выпустила энхансер Cymatics Diablo. Новинка создана специально для использования на дорожках ударных и обещает сделать бочку «в десять раз мощнее». Cymatics Diablo представляет собой энхансер, помогающий ударным пробиться через микс. По словам разработчиков, плагин повышает общую громкость барабанов, но не изменяет уровень сигнала. А благодаря 7 уникальным модулям обработки, вы можете использовать DIABLO в множестве различных ситуаций микширования.",
+    "full_title": "Cymatics - Diablo v1.0.1",
+    "id": "diablo",
+    "magnet": "magnet:?xt=urn:btih:5964ced0531d594ecffb79ab25f9ecaa36e1edeb&dn=Cymatics.Diablo.v1.0.1.Patched.FiXED.READ.NFO-FLARE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/diablo_cover.png",
+    "title": "Diablo",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5964ced0531d594ecffb79ab25f9ecaa36e1edeb&dn=Cymatics.Diablo.v1.0.1.Patched.FiXED.READ.NFO-FLARE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D2baa85f5bf555e2b23f74a064cee398b&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "tone_empire_loc_ness_v3",
+    "title": "Tone Empire Loc-Ness V3",
+    "full_title": "Tone Empire Loc-Ness V3 v1.0",
+    "arch": "VST3, AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "assets\\covers\\tone-empire-loc-ness-v3.jpg",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:306b937f0c6c75cf6e3f1127105f41e4f0f3eb55&dn=te-lnv3-1.0-bubbix&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Независимая студия Cymatics выпустила энхансер Cymatics Diablo. Новинка создана специально для использования на дорожках ударных и обещает сделать бочку «в десять раз мощнее». Cymatics Diablo представляет собой энхансер, помогающий ударным пробиться через микс. По словам разработчиков, плагин повышает общую громкость барабанов, но не изменяет уровень сигнала. А благодаря 7 уникальным модулям обработки, вы можете использовать DIABLO в множестве различных ситуаций микширования.",
+    "description": "Плагин вдохновлён винтажным broadcast-лимитером, но сделан более гибким для современной работы. Его можно использовать как аккуратный сатурутор для лёгкой гармонической окраски или как агрессивный инструмент для «развала» ударных, гитар, брейкбитов, синтезаторов и других партий.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-01",
-    "sample_count": 0
+    "added_at": "2026-08-03",
+    "sample_count": 0,
+    "file_size": ""
   }
 ]
