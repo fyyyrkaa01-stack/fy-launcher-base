@@ -795,23 +795,44 @@
     "zip": ""
   },
   {
-    "id": "auto_tune_unlimited",
-    "title": "Auto-Tune Unlimited",
-    "full_title": "Antares - Auto-Tune Unlimited",
+    "added_at": "2026-08-03",
     "arch": "VST3/AAX x64",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_unlimited_cover.png",
+    "description": "Auto-Tune Unlimited - это полный набор инструментов, необходимых для того, чтобы любое вокальное исполнение стало идеальным. Поднимите свою музыку на новый уровень и начните создавать вокал без ограничений.",
+    "file_size": "983.8 MB",
+    "full_title": "Antares - Auto-Tune Unlimited",
+    "id": "auto_tune_unlimited",
+    "magnet": "magnet:?xt=urn:btih:daebc97e0126993a6bcf7dfeef77602d05dcd54b&dn=Antares%20-%20Auto-Tune%20Unlimited%20VST3%2CAAX%20x64%20%5B20.01.2024%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "VOCAL"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/auto_tune_unlimited_cover.png",
+    "title": "Auto-Tune Unlimited",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:daebc97e0126993a6bcf7dfeef77602d05dcd54b&dn=Antares%20-%20Auto-Tune%20Unlimited%20VST3%2CAAX%20x64%20%5B20.01.2024%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "beam",
+    "title": "BEAM",
+    "full_title": "Lunacy Audio - BEAM v1.3.4",
+    "arch": "VST3|AAX",
+    "tags": [
+      "Effect",
+      "Reverb",
+      "delay"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/beam_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a33a4a54e710db80765ddc56093ee4b792a6b4df&dn=Lunacy%20Audio%20-%20BEAM%20v1.3.4%20%5BR2R%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Auto-Tune Unlimited - это полный набор инструментов, необходимых для того, чтобы любое вокальное исполнение стало идеальным. Поднимите свою музыку на новый уровень и начните создавать вокал без ограничений.",
+    "description": "Космический узел",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "983.8 MB"
+    "file_size": ""
   }
 ]
