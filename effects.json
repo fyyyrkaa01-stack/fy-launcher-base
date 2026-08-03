@@ -658,37 +658,37 @@
   },
   {
     "added_at": "2026-08-03",
-    "arch": "VST3 AAX",
-    "cover": "assets\\covers\\mastering-the-mix-all-plugins-bundle.jpg",
-    "description": "Здесь собраны инструменты Mastering The Mix, рассчитанные на работу с балансом, частотами, динамикой и общим качеством материала. Плагины анализируют аудио и подсказывают, где могут быть слабые места: перегруженные частоты, недостаток читаемости, проблемы с громкостью или общей подачей трека.\nГлавная идея пакета — не просто обработать звук «на слух», а получить дополнительную визуальную и техническую опору во время работы. Это особенно полезно на этапах финальной доводки микса, проверки мастера и подготовки трека к публикации 🎧\nВ комплект входит 11 плагинов Mastering The Mix. Они помогают разбирать сложные студийные задачи и аккуратнее доводить материал до готового звучания без лишних догадок.\n⚙️ Форматы: STANDALONE, VST3, AAX\nРазрядность: 64-bit\nСистема: Windows 10+\n📌 Перед установкой стоит учитывать, что пакет рассчитан на Windows 10 и новее, а работа в DAW зависит от поддержки форматов VST3 или AAX.\nAll Plugins Bundle будет полезен там, где важно не просто добавить обработку, а понять, что именно происходит со звуком: при сведении, мастеринге, проверке баланса и финальной подготовке треков.\nУстановка\nВыпуск Mastering The Mix\n----------------------\nУстановите Turbo Activate\n----------------------\nСкопируйте \"TurboActivate.dll\" в \"%WINDIR%\\System32\".\nВ этом выпуске три файла \"TurboActivate.dll\".\nВыберите наиболее подходящий для вас.\nЕсли вы используете [настоящий] TurboActivate.dll, вам нужно заблокировать подключение к \"wyday.com\" и \"www.wyday.com\"\n[Эмулятор]\nПуть: /TurboActivate (эмулятор)/TurboActivate.dll\nПлюсы — разработан компанией R2R, максимальная эффективность использования ресурсов\nПлюсы — не требует активации\nМинусы — если у вас есть программа, использующая TurboActivate.dll из папки System32\nи эта программа использует расширенные функции, такие как TA_GetFeatureValue(),\nто она не будет работать с этим эмулятором.\n[Настоящий / с блокировкой сети]\nПуть: /TurboActivate (настоящий / с блокировкой сети)/TurboActivate.dll\nПлюсы — настоящий TurboActivate.dll.\nПлюсы — доступ к серверу заблокирован R2R System Network Block Runtime.\nМинусы: для действующей лицензии вам понадобится «TEAM R2R Turbo Activate Activator».\n[Легальная версия]\nПуть: /TurboActivate (Легальная версия)/TurboActivate.dll\nПлюсы: легальная версия TurboActivate.dll.\nМинусы: для действующей лицензии вам понадобится «TEAM R2R Turbo Activate Activator».\nМинусы: необходимо заблокировать исходящее соединение, чтобы избежать отзыва лицензии R2R.\n----------------------------------\nУстановка программы Mastering The Mix\n----------------------------------\nУдаление предыдущих версий.\nВ системе TEAM R2R есть WitchUnIns для пакетного удаления.\nПри удалении Mastering The Mix (легальной или взломанной версии) без R2R может быть удален файл TurboActivate.dll.\nУстанавливать.",
+    "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/cramit_cover.png",
+    "description": "Многополосный OTT компрессор",
     "file_size": "",
-    "full_title": "Mastering The Mix - All Plugins Bundle v.2026.07.21",
-    "id": "mastering_the_mix_all_plugins_bundle",
-    "magnet": "magnet:?xt=urn:btih:2580676a3939301cac41010717525af2e068ea73&dn=Mastering.The.Mix.All.Plugins.Bundle.v2026.07.21-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "full_title": "Sixth Sample Cramit",
+    "id": "cramit",
+    "magnet": "",
     "sample_count": 0,
     "screenshots": [],
-    "tags": [
-      "Effect"
-    ],
-    "title": "Mastering The Mix - All Plugins Bundle",
-    "torrent": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "id": "cramit",
-    "title": "Cramit",
-    "full_title": "Sixth Sample Cramit",
-    "arch": "VST3",
     "tags": [
       "Effect",
       "Free"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/cramit_cover.png",
+    "title": "Cramit",
     "torrent": "",
-    "magnet": "",
-    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-cramit.zip",
-    "description": "Многополосный OTT компрессор",
+    "video_url": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-cramit.zip"
+  },
+  {
+    "id": "mastering_the_mix_all_plugins_bundle",
+    "title": "Mastering The Mix",
+    "full_title": "Mastering The Mix - All Plugins Bundle v.2026.07.21",
+    "arch": "VST3 AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/mastering_the_mix_all_plugins_bundle_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:2580676a3939301cac41010717525af2e068ea73&dn=Mastering.The.Mix.All.Plugins.Bundle.v2026.07.21-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "Здесь собраны инструменты Mastering The Mix, рассчитанные на работу с балансом, частотами, динамикой и общим качеством материала. Плагины анализируют аудио и подсказывают, где могут быть слабые места: перегруженные частоты, недостаток читаемости, проблемы с громкостью или общей подачей трека.\nГлавная идея пакета — не просто обработать звук «на слух», а получить дополнительную визуальную и техническую опору во время работы. Это особенно полезно на этапах финальной доводки микса, проверки мастера и подготовки трека к публикации 🎧\nВ комплект входит 11 плагинов Mastering The Mix. Они помогают разбирать сложные студийные задачи и аккуратнее доводить материал до готового звучания без лишних догадок.\n⚙️ Форматы: STANDALONE, VST3, AAX\nРазрядность: 64-bit\nСистема: Windows 10+\n📌 Перед установкой стоит учитывать, что пакет рассчитан на Windows 10 и новее, а работа в DAW зависит от поддержки форматов VST3 или AAX.\nAll Plugins Bundle будет полезен там, где важно не просто добавить обработку, а понять, что именно происходит со звуком: при сведении, мастеринге, проверке баланса и финальной подготовке треков.\nУстановка\nВыпуск Mastering The Mix\n----------------------\nУстановите Turbo Activate\n----------------------\nСкопируйте \"TurboActivate.dll\" в \"%WINDIR%\\System32\".\nВ этом выпуске три файла \"TurboActivate.dll\".\nВыберите наиболее подходящий для вас.\nЕсли вы используете [настоящий] TurboActivate.dll, вам нужно заблокировать подключение к \"wyday.com\" и \"www.wyday.com\"\n[Эмулятор]\nПуть: /TurboActivate (эмулятор)/TurboActivate.dll\nПлюсы — разработан компанией R2R, максимальная эффективность использования ресурсов\nПлюсы — не требует активации\nМинусы — если у вас есть программа, использующая TurboActivate.dll из папки System32\nи эта программа использует расширенные функции, такие как TA_GetFeatureValue(),\nто она не будет работать с этим эмулятором.\n[Настоящий / с блокировкой сети]\nПуть: /TurboActivate (настоящий / с блокировкой сети)/TurboActivate.dll\nПлюсы — настоящий TurboActivate.dll.\nПлюсы — доступ к серверу заблокирован R2R System Network Block Runtime.\nМинусы: для действующей лицензии вам понадобится «TEAM R2R Turbo Activate Activator».\n[Легальная версия]\nПуть: /TurboActivate (Легальная версия)/TurboActivate.dll\nПлюсы: легальная версия TurboActivate.dll.\nМинусы: для действующей лицензии вам понадобится «TEAM R2R Turbo Activate Activator».\nМинусы: необходимо заблокировать исходящее соединение, чтобы избежать отзыва лицензии R2R.\n----------------------------------\nУстановка программы Mastering The Mix\n----------------------------------\nУдаление предыдущих версий.\nВ системе TEAM R2R есть WitchUnIns для пакетного удаления.\nПри удалении Mastering The Mix (легальной или взломанной версии) без R2R может быть удален файл TurboActivate.dll.\nУстанавливать.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
