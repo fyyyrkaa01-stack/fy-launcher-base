@@ -878,24 +878,43 @@
     "zip": ""
   },
   {
-    "id": "fortin_nameless_suite_x",
-    "title": "Fortin Nameless Suite X",
-    "full_title": "Neural DSP - Fortin Nameless Suite X v1.0.1",
+    "added_at": "2026-08-03",
     "arch": "STANDALONE, VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fortin_nameless_suite_x_cover.png",
+    "description": "В 2018 году мы представили Fortin Nameless Suite — загадочный шедевр, который разрушил устоявшиеся представления и переосмыслил саму суть гитарного звучания. Это стало началом новой эры. И вот, шесть лет спустя, грандиозное событие вернулось. Fortin Nameless Suite X — это кульминация шестилетней звуковой эволюции, слияние искусства и технологий, вдохновленное бескомпромиссным подходом Майка Фортина к созданию одних из самых агрессивных усилителей в мире. Его точно выверенная брутальность продолжает оставаться визитной карточкой некоторых из самых легендарных имен в индустрии. Выпустите на волю рев адского искажения и позвольте себе быть очарованными чудовищным усилителем, который выходит за рамки воображения, маня вас в неизведанные миры. Мы с гордостью представляем вам Fortin Nameless Suite X!",
+    "file_size": "328.7 MB",
+    "full_title": "Neural DSP - Fortin Nameless Suite X v1.0.1",
+    "id": "fortin_nameless_suite_x",
+    "magnet": "magnet:?xt=urn:btih:75172b4d99bf8c5298202f7df80ae18159c221c0&dn=Neural%20DSP%20-%20Fortin%20Nameless%20Suite%20X%20v1.0.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "САТУРАЦИЯ",
       "ГИТАРА"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/fortin_nameless_suite_x_cover.png",
+    "title": "Fortin Nameless Suite X",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:75172b4d99bf8c5298202f7df80ae18159c221c0&dn=Neural%20DSP%20-%20Fortin%20Nameless%20Suite%20X%20v1.0.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "spl_machine_head",
+    "title": "SPL Machine Head",
+    "full_title": "Plugin Alliance - SPL Machine Head v1.0.0",
+    "arch": "VST3|AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spl_machine_head_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f750a0a4be0ed7cdde3c97a059a1c3434e45f8d1&dn=Plugin%20Alliance%20-%20SPL%20Machine%20Head%20v1.0.0%20%5BR2R%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "В 2018 году мы представили Fortin Nameless Suite — загадочный шедевр, который разрушил устоявшиеся представления и переосмыслил саму суть гитарного звучания. Это стало началом новой эры. И вот, шесть лет спустя, грандиозное событие вернулось. Fortin Nameless Suite X — это кульминация шестилетней звуковой эволюции, слияние искусства и технологий, вдохновленное бескомпромиссным подходом Майка Фортина к созданию одних из самых агрессивных усилителей в мире. Его точно выверенная брутальность продолжает оставаться визитной карточкой некоторых из самых легендарных имен в индустрии. Выпустите на волю рев адского искажения и позвольте себе быть очарованными чудовищным усилителем, который выходит за рамки воображения, маня вас в неизведанные миры. Мы с гордостью представляем вам Fortin Nameless Suite X!",
+    "description": "1. Установить плагин. \n2. Открыть плагин в DAW.\n 3. Нажать \"Click to activate\". \n4. Нажать \"I'm Offline\". \n5. Скопировать ID \"Copy to Clipboard\". \n6. Открыть KeyGen и вставить ID . \n7. Сгенерировать лицензию \"Generate\" (сохраняется на рабочий стол). 8. В плагине нажать \"Open License\" и импортировать лицензию. \n9. Нажать \"Activate\". \n10. Всё.\n\n\n\n\nMachine Head от SPL — лучший цифровой ленточный сатуратор из когда-либо созданных.\nПоскольку тон ленты становится настолько популярным в кругах профессиональных продюсеров,\nэто снятое с производства оборудование пользуется спросом. Многие разработчики плагинов пытались,\nно не смогли уловить магию его кода, до сих пор.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "328.7 MB"
+    "file_size": "47 MB"
   }
 ]
