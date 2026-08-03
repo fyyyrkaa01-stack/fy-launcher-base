@@ -338,25 +338,6 @@
   {
     "added_at": "2026-08-03",
     "arch": "",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/splice_sounds_splice_sounds_of_kshmr_vol_1_cover.png",
-    "description": "",
-    "file_size": "274.1 MB",
-    "full_title": "Splice Sounds - Splice Sounds of KSHMR Vol.1",
-    "id": "splice_sounds_splice_sounds_of_kshmr_vol_1",
-    "magnet": "magnet:?xt=urn:btih:4e2e9f704dd64f2bb91f6c4d31cf1f598671b6b3&dn=Splice%20Sounds%20of%20KSHMR%20Vol.1%20FXB%20WAV&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "DRUM"
-    ],
-    "title": "Splice Sounds - Splice Sounds of KSHMR Vol.1",
-    "torrent": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "added_at": "2026-08-03",
-    "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/splice_sounds_sounds_of_kshmr_vol_2_cover.png",
     "description": "",
     "file_size": "1.29 GB",
@@ -374,22 +355,41 @@
     "zip": ""
   },
   {
-    "id": "kshmr_vol_3",
-    "title": "KSHMR Vol.3",
+    "added_at": "2026-08-03",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_3_cover.png",
+    "description": "",
+    "file_size": "5.09 GB",
     "full_title": "Splice Sounds - Sounds of KSHMR Vol.3",
+    "id": "kshmr_vol_3",
+    "magnet": "magnet:?xt=urn:btih:5fca719641619e858c609b5d9c75e60b9b09a94a&dn=Splice%20Sounds%20-%20Sounds%20of%20KSHMR%20Vol.3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "DRUM"
+    ],
+    "title": "KSHMR Vol.3",
+    "torrent": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "splice_sounds_splice_sounds_of_kshmr_vol_1",
+    "title": "KSHMR Vol.1",
+    "full_title": "Splice Sounds - Splice Sounds of KSHMR Vol.1",
     "arch": "",
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_3_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/splice_sounds_splice_sounds_of_kshmr_vol_1_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:5fca719641619e858c609b5d9c75e60b9b09a94a&dn=Splice%20Sounds%20-%20Sounds%20of%20KSHMR%20Vol.3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:4e2e9f704dd64f2bb91f6c4d31cf1f598671b6b3&dn=Splice%20Sounds%20of%20KSHMR%20Vol.1%20FXB%20WAV&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
     "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-03",
     "sample_count": 0,
-    "file_size": "5.09 GB"
+    "file_size": "274.1 MB"
   }
 ]
