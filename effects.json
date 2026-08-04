@@ -938,23 +938,42 @@
     "zip": ""
   },
   {
-    "id": "spl_vitalizer_mk3_t",
-    "title": "SPL Vitalizer MK3-T",
-    "full_title": "Plugin Alliance SPL Vitalizer MK3-T v1.0.0",
+    "added_at": "2026-08-03",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spl_vitalizer_mk3_t_cover.png",
+    "description": "SPL Vitalizer Mk3-T, разработанный компанией Brainworx, является окончательной версией плагина знаменитого аналогового программного эквалайзера SPL, мощного инструмента для улучшения звука для инженеров по микшированию и мастерингу, который предлагает уникальный подход к улучшению четкости звука, громкости и основы басов без введения резкости.",
+    "file_size": "20.3 MB",
+    "full_title": "Plugin Alliance SPL Vitalizer MK3-T v1.0.0",
+    "id": "spl_vitalizer_mk3_t",
+    "magnet": "magnet:?xt=urn:btih:cbffaef2eb38ac1a7e082a29a6c44b536cd0e0b5&dn=SPL.Vitalizer.MK3-T.v1.0.0-TCD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/spl_vitalizer_mk3_t_cover.png",
+    "title": "SPL Vitalizer MK3-T",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:cbffaef2eb38ac1a7e082a29a6c44b536cd0e0b5&dn=SPL.Vitalizer.MK3-T.v1.0.0-TCD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "punchbox_2",
+    "title": "PunchBox 2",
+    "full_title": "D16 Group – PunchBox 2 v2.1.0",
+    "arch": "VSTi, VST3 и AAX",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/punchbox_2_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:fdc14abcc6a36eef94eb5b38d81b503089a0a329&dn=D16.Group.PunchBox.2.v2.1.0.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "SPL Vitalizer Mk3-T, разработанный компанией Brainworx, является окончательной версией плагина знаменитого аналогового программного эквалайзера SPL, мощного инструмента для улучшения звука для инженеров по микшированию и мастерингу, который предлагает уникальный подход к улучшению четкости звука, громкости и основы басов без введения резкости.",
+    "description": "PunchBox 2 — это гибридный инструмент для создания мощных электронных киков, который объединяет классические драм-машины, сэмплирование и wavetable-синтез в одном движке. Такой подход позволяет собирать удар с нуля, комбинировать разные источники звука и точно настраивать каждый слой под нужный жанр.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-03",
+    "added_at": "2026-08-04",
     "sample_count": 0,
-    "file_size": "20.3 MB"
+    "file_size": ""
   }
 ]
