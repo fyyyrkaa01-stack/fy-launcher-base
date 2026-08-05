@@ -958,22 +958,43 @@
     "zip": ""
   },
   {
-    "id": "punchbox_2",
-    "title": "PunchBox 2",
-    "full_title": "D16 Group – PunchBox 2 v2.1.0",
+    "added_at": "2026-08-04",
     "arch": "VSTi, VST3 и AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/punchbox_2_cover.png",
+    "description": "PunchBox 2 — это гибридный инструмент для создания мощных электронных киков, который объединяет классические драм-машины, сэмплирование и wavetable-синтез в одном движке. Такой подход позволяет собирать удар с нуля, комбинировать разные источники звука и точно настраивать каждый слой под нужный жанр.",
+    "file_size": "",
+    "full_title": "D16 Group – PunchBox 2 v2.1.0",
+    "id": "punchbox_2",
+    "magnet": "magnet:?xt=urn:btih:fdc14abcc6a36eef94eb5b38d81b503089a0a329&dn=D16.Group.PunchBox.2.v2.1.0.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/punchbox_2_cover.png",
+    "title": "PunchBox 2",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:fdc14abcc6a36eef94eb5b38d81b503089a0a329&dn=D16.Group.PunchBox.2.v2.1.0.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "virtual_tape_machines",
+    "title": "Virtual Tape Machines",
+    "full_title": "Slate Digital - Virtual Tape Machines 1.1.11.1",
+    "arch": "VST, VST3, AAX",
+    "tags": [
+      "Effect",
+      "Mastering",
+      "САТУРАЦИЯ"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/virtual_tape_machines_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:53469190bbfe8abeed761c651eb07476eee293b5&dn=Slate.Digital.Virtual.Tape.Machines.v1.1.1.1.WIN-AudioUTOPiA&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "PunchBox 2 — это гибридный инструмент для создания мощных электронных киков, который объединяет классические драм-машины, сэмплирование и wavetable-синтез в одном движке. Такой подход позволяет собирать удар с нуля, комбинировать разные источники звука и точно настраивать каждый слой под нужный жанр.",
+    "description": "Разработчики из Slate Digital утверждают, что их VTM-плагин является «самой продвинутой и динамичной эмуляцией аналогового магнитофона». Это смелое заявление действительно трудно оспорить. Опробуйте этот плагин на своих миксах и насладитесь классической сатурацией магнитной ленты без неудобств, с которыми вы бы столкнулись при использовании настоящего магнитофона.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-04",
+    "added_at": "2026-08-05",
     "sample_count": 0,
-    "file_size": ""
+    "file_size": "110.1 MB"
   }
 ]
