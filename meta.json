@@ -1,8 +1,8 @@
 {
   "featured": [
-    "synths:omnisphere_3",
     "libraries:analog_dreams",
-    "effects:waves"
+    "effects:waves",
+    "effects:zebra_3"
   ],
   "news": [
     {
