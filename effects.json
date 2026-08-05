@@ -977,24 +977,44 @@
     "zip": ""
   },
   {
-    "id": "virtual_tape_machines",
-    "title": "Virtual Tape Machines",
-    "full_title": "Slate Digital - Virtual Tape Machines 1.1.11.1",
+    "added_at": "2026-08-05",
     "arch": "VST, VST3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/virtual_tape_machines_cover.png",
+    "description": "Разработчики из Slate Digital утверждают, что их VTM-плагин является «самой продвинутой и динамичной эмуляцией аналогового магнитофона». Это смелое заявление действительно трудно оспорить. Опробуйте этот плагин на своих миксах и насладитесь классической сатурацией магнитной ленты без неудобств, с которыми вы бы столкнулись при использовании настоящего магнитофона.",
+    "file_size": "110.1 MB",
+    "full_title": "Slate Digital - Virtual Tape Machines 1.1.11.1",
+    "id": "virtual_tape_machines",
+    "magnet": "magnet:?xt=urn:btih:53469190bbfe8abeed761c651eb07476eee293b5&dn=Slate.Digital.Virtual.Tape.Machines.v1.1.1.1.WIN-AudioUTOPiA&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering",
       "САТУРАЦИЯ"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/virtual_tape_machines_cover.png",
+    "title": "Virtual Tape Machines",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:53469190bbfe8abeed761c651eb07476eee293b5&dn=Slate.Digital.Virtual.Tape.Machines.v1.1.1.1.WIN-AudioUTOPiA&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "zebra_3",
+    "title": "Zebra 3",
+    "full_title": "u-he — Zebra 3 (v3.0.0.21799)",
+    "arch": "VSTi3, AAX, CLAP",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zebra_3_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:a8d10e63583b7eea70cedab1bcce1f93fa32973f&dn=u-he%20Zebra3%20v3.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Разработчики из Slate Digital утверждают, что их VTM-плагин является «самой продвинутой и динамичной эмуляцией аналогового магнитофона». Это смелое заявление действительно трудно оспорить. Опробуйте этот плагин на своих миксах и насладитесь классической сатурацией магнитной ленты без неудобств, с которыми вы бы столкнулись при использовании настоящего магнитофона.",
+    "description": "Zebra 3 — это долгожданное продолжение легендарного синтезатора, полностью перестроенное с нуля. Инструмент сочетает в себе передовые технологии аналогового, физического и цифрового моделирования. Это мощная среда для глубокого звукового дизайна, предлагающая как интуитивно понятный интерфейс для быстрой работы, так и безграничные возможности для создания сложных текстур.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-05",
     "sample_count": 0,
-    "file_size": "110.1 MB"
+    "file_size": ""
   }
 ]
