@@ -7,13 +7,13 @@
   "news": [
     {
       "id": "test",
-      "title": "тест",
+      "title": "тест!!!",
       "date": "2026-08-08",
       "category": "updates",
       "description": "афаыа",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_banner.png",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_content.png",
-      "is_banner": true
+      "is_banner": false
     },
     {
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/releases/news_novoe_obnovlenie_banner.png",
