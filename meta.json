@@ -6,16 +6,6 @@
   ],
   "news": [
     {
-      "banner_url": "",
-      "category": "updates",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_obnovdenie_content.png",
-      "date": "2026-08-08",
-      "description": "ЛОЛ",
-      "id": "novoe_obnovdenie",
-      "is_banner": false,
-      "title": "НОВОЕ ОБНОВДЕНИЕ"
-    },
-    {
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testirovanie_banner.jpg",
       "category": "updates",
       "date": "2026-07-27",
