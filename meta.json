@@ -4,18 +4,7 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [
-    {
-      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/releases/news_novoe_obnovlenie_banner.png",
-      "category": "releases",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/releases/news_novoe_obnovlenie_content.png",
-      "date": "2026-08-08",
-      "description": "ЛОЛ КЕК ЧЕБУРЕК",
-      "id": "novoe_obnovlenie",
-      "is_banner": false,
-      "title": "НОВОЕ ОБНОВЛЕНИЕ!!!!"
-    }
-  ],
+  "news": [],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
