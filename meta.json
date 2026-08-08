@@ -6,34 +6,24 @@
   ],
   "news": [
     {
-      "id": "test_2",
-      "title": "ТЕСТ 2",
-      "date": "2026-08-08",
-      "category": "updates",
-      "description": "АФЫА",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
+      "category": "updates",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
-      "is_banner": false
+      "date": "2026-08-08",
+      "description": "АФЫА",
+      "id": "test_2",
+      "is_banner": false,
+      "title": "ТЕСТ 2"
     },
     {
-      "id": "test_2",
-      "title": "ТЕСТ 2",
-      "date": "2026-08-08",
-      "category": "updates",
-      "description": "АФЫА",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
-      "is_banner": false
-    },
-    {
-      "id": "test_2",
-      "title": "ТЕСТ 2",
-      "date": "2026-08-08",
       "category": "updates",
-      "description": "АФЫА",
-      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
-      "is_banner": false
+      "date": "2026-08-08",
+      "description": "АФЫА",
+      "id": "test_2",
+      "is_banner": false,
+      "title": "ТЕСТ 2"
     },
     {
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_banner.png",
