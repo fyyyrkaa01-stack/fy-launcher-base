@@ -7,9 +7,9 @@
   "news": [
     {
       "id": "novyj_test",
-      "title": "НОВЫЙ ТЕСТ!",
+      "title": "НОВЫЙ ТЕСТ!!!",
       "date": "2026-08-08",
-      "category": "updates",
+      "category": "partners",
       "description": "краткое описание",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_banner.png",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_content.png",
