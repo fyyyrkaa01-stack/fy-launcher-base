@@ -6,16 +6,6 @@
   ],
   "news": [
     {
-      "id": "novoe_obnovdenie",
-      "title": "НОВОЕ ОБНОВДЕНИЕ",
-      "date": "2026-08-08",
-      "category": "partners",
-      "description": "ЛОЛ",
-      "banner_url": "",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_obnovdenie_content.png",
-      "is_banner": true
-    },
-    {
       "banner_url": "",
       "category": "updates",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_obnovdenie_content.png",
@@ -31,9 +21,9 @@
       "date": "2026-07-27",
       "description": "НАПОЛНЯЕМ ЛАУНЧЕР КОНТЕНТОМ!",
       "id": "testirovanie",
+      "is_banner": false,
       "text": "\n                <style>\n                    body { color: #FFFFFF; font-family: sans-serif; line-height: 1.5; }\n                    p { margin-bottom: 8px; }\n                    h1, h2, h3 { color: #3B6BFF; font-weight: bold; }\n                    img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; }\n                    a { color: #3B6BFF; }\n                </style>\n                <p>Fasfaff f</p><p>Asfsafaf</p><p>Af</p><p>Saf</p><p>A</p><p>F</p><p>F</p><p>Af</p><p>As</p><p>Fsa</p><p>Ff</p><p>Af</p><p>Saf</p><p>afs</p>\n                ",
-      "title": "ТЕСТИРОВАНИЕ!",
-      "is_banner": false
+      "title": "ТЕСТИРОВАНИЕ!"
     }
   ],
   "premium_cards": [
