@@ -6,14 +6,14 @@
   ],
   "news": [
     {
-      "id": "novyj_test",
-      "title": "НОВЫЙ ТЕСТ!!!!!!",
-      "date": "2026-08-08",
-      "category": "partners",
-      "description": "краткое описание",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_banner.png",
+      "category": "partners",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_content.png",
-      "is_banner": true
+      "date": "2026-08-08",
+      "description": "краткое описание",
+      "id": "novyj_test",
+      "is_banner": true,
+      "title": "НОВЫЙ ТЕСТ!!!!!!"
     }
   ],
   "premium_cards": [
@@ -31,6 +31,19 @@
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_3_cover.png",
       "description": "Получай случайные плагины в кейсах по рекомендациям системы. Без азарта -- только польза!",
       "title": "Кейсы с рекомендациями"
+    }
+  ],
+  "polls": [
+    {
+      "id": "testik",
+      "question": "тестик",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "date": "2026-08-08"
     }
   ]
 }
