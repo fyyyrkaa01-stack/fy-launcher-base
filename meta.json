@@ -35,8 +35,8 @@
   ],
   "polls": [
     {
-      "id": "testik",
-      "question": "тестик",
+      "id": "test1",
+      "question": "ТЕСТ1",
       "options": [
         "1",
         "2",
