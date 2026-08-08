@@ -13,7 +13,7 @@
       "description": "ЛОЛ КЕК ЧЕБУРЕК",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/releases/news_novoe_obnovlenie_banner.png",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/releases/news_novoe_obnovlenie_content.png",
-      "is_banner": true
+      "is_banner": false
     }
   ],
   "premium_cards": [
