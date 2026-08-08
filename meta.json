@@ -6,6 +6,36 @@
   ],
   "news": [
     {
+      "id": "test_2",
+      "title": "ТЕСТ 2",
+      "date": "2026-08-08",
+      "category": "updates",
+      "description": "АФЫА",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
+      "is_banner": false
+    },
+    {
+      "id": "test_2",
+      "title": "ТЕСТ 2",
+      "date": "2026-08-08",
+      "category": "updates",
+      "description": "АФЫА",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
+      "is_banner": false
+    },
+    {
+      "id": "test_2",
+      "title": "ТЕСТ 2",
+      "date": "2026-08-08",
+      "category": "updates",
+      "description": "АФЫА",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_test_2_content.png",
+      "is_banner": false
+    },
+    {
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_banner.png",
       "category": "partners",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novyj_test_content.png",
@@ -33,17 +63,5 @@
       "title": "Кейсы с рекомендациями"
     }
   ],
-  "polls": [
-    {
-      "id": "test1",
-      "question": "ТЕСТ1",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "date": "2026-08-08"
-    }
-  ]
+  "polls": []
 }
