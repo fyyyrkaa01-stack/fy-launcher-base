@@ -6,6 +6,26 @@
   ],
   "news": [
     {
+      "id": "novoe_obnovdenie",
+      "title": "НОВОЕ ОБНОВДЕНИЕ",
+      "date": "2026-08-08",
+      "category": "updates",
+      "description": "ЛОЛ",
+      "banner_url": "",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_obnovdenie_content.png",
+      "is_banner": false
+    },
+    {
+      "id": "novoe_obnovdenie",
+      "title": "НОВОЕ ОБНОВДЕНИЕ",
+      "date": "2026-08-08",
+      "category": "updates",
+      "description": "ЛОЛ",
+      "banner_url": "",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_obnovdenie_content.png",
+      "is_banner": false
+    },
+    {
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testirovanie_banner.jpg",
       "category": "updates",
       "date": "2026-07-27",
