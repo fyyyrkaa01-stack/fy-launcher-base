@@ -4,7 +4,28 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [],
+  "news": [
+    {
+      "id": "obnovlenie",
+      "title": "ОБНОВЛЕНИЕ",
+      "date": "2026-08-09",
+      "category": "partners",
+      "description": "ЕЕЕЕЕ",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_obnovlenie_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_obnovlenie_content.png",
+      "is_banner": false
+    },
+    {
+      "id": "obnovlenie",
+      "title": "ОБНОВЛЕНИЕ",
+      "date": "2026-08-09",
+      "category": "partners",
+      "description": "ЕЕЕЕЕ",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_obnovlenie_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_obnovlenie_content.png",
+      "is_banner": false
+    }
+  ],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
