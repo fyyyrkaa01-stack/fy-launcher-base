@@ -4,7 +4,19 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [],
+  "news": [
+    {
+      "id": "testik",
+      "title": "ТЕСТИК",
+      "date": "2026-08-09",
+      "category": "updates",
+      "description": "ТЕСТ ЕСЛИ ЧО",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testik_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testik_content.png",
+      "show_on_home": true,
+      "send_notification": true
+    }
+  ],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
