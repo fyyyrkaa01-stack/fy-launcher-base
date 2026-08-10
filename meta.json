@@ -4,7 +4,35 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [],
+  "news": [
+    {
+      "id": "novoe_gody",
+      "title": "новое годы",
+      "date": "2026-08-10",
+      "category": "updates",
+      "description": "афаыфафыаа фа фыафыа ыата  ыфадфжыщра щфдырадф р адфр ашдфрпа пфывщ радшфв ыра шдвфрдафывдларцуйшдлиалдфчв сашдщфырауыфш цшдлт ушдарцушдиыавмтлдыумшдуфыипашыункпаиф лшаойуцишагдфыпу ашмлиуфафу ауфшдапи уфшдатщу рзшйрйцщ рпшдцупалд иолаис шщывфгрсшуауцаисячлдмыгдшмл рцарыфушрнашдуы рколфи слшдгаоифц3шд кти цфшщд арфшдаицфйдщшрв ащшдфцградщфйцтавод лращгуиртаодтиф цагщд рлт валбфци вафьбтк а кделла уккас к ты еиткупва я л  ьтлм ло",
+      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_banner.png",
+      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_1.png",
+      "content_image_urls": [
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_1.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_2.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_3.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_4.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_5.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_6.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_7.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_8.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_9.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_10.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_11.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_12.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_13.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_14.png",
+        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_15.png"
+      ],
+      "is_banner": false
+    }
+  ],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
