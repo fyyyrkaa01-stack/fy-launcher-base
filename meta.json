@@ -4,38 +4,7 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [
-    {
-      "id": "testik",
-      "title": "ТЕСТИК",
-      "date": "2026-08-10",
-      "category": "partners",
-      "description": "АФЫАФЫАФЫАФЦКФАЦАФЦТААфАФАФПФПФАПФУРТШФРПШДАРЦУЫШДАПРВЫДШПГРЫКШДПРЫВШДПРШЫДВГРПЛШДВЫРПЛШДЫВРАПЛШДЫВРАПДЛЫВРПШДЫВРПШДЛЫВРЛАДПЫРВОЛДАРЫВЛШДАПВРЫ Р АЛЫВРП ЛДЫВР ПЛШБДЦУФРИА ЛШУД РАПШЛЫВРПАШЛДЫВРПШЫГВРШДыПШДЫВПРУШДРАПШЛ ЫВРШДЫВР ШДЫВРАШПДЫРАШРЫВШДАРФЫВШДАРИЫФУШЛДБАР",
-      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_banner.png",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_1.png",
-      "content_image_urls": [
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_1.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_2.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_3.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_4.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_5.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_6.png",
-        "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/partners/news_testik_content_7.png"
-      ],
-      "is_banner": false
-    },
-    {
-      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testik_banner.png",
-      "category": "updates",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_testik_content.png",
-      "date": "2026-08-09",
-      "description": "ТЕСТ ЕСЛИ ЧО",
-      "id": "testik",
-      "send_notification": true,
-      "show_on_home": true,
-      "title": "ТЕСТИК"
-    }
-  ],
+  "news": [],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
