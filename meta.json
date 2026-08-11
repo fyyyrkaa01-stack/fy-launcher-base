@@ -6,12 +6,8 @@
   ],
   "news": [
     {
-      "id": "novoe_gody",
-      "title": "новое годы",
-      "date": "2026-08-10",
-      "category": "updates",
-      "description": "афаыфафыаа фа фыафыа ыата  ыфадфжыщра щфдырадф р адфр ашдфрпа пфывщ радшфв ыра шдвфрдафывдларцуйшдлиалдфчв сашдщфырауыфш цшдлт ушдарцушдиыавмтлдыумшдуфыипашыункпаиф лшаойуцишагдфыпу ашмлиуфафу ауфшдапи уфшдатщу рзшйрйцщ рпшдцупалд иолаис шщывфгрсшуауцаисячлдмыгдшмл рцарыфушрнашдуы рколфи слшдгаоифц3шд кти цфшщд арфшдаицфйдщшрв ащшдфцградщфйцтавод лращгуиртаодтиф цагщд рлт валбфци вафьбтк а кделла уккас к ты еиткупва я л  ьтлм ло",
       "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_banner.png",
+      "category": "updates",
       "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_1.png",
       "content_image_urls": [
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_1.png",
@@ -30,7 +26,11 @@
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_14.png",
         "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/updates/news_novoe_gody_content_15.png"
       ],
-      "is_banner": true
+      "date": "2026-08-10",
+      "description": "афаыфафыаа фа фыафыа ыата  ыфадфжыщра щфдырадф р адфр ашдфрпа пфывщ радшфв ыра шдвфрдафывдларцуйшдлиалдфчв сашдщфырауыфш цшдлт ушдарцушдиыавмтлдыумшдуфыипашыункпаиф лшаойуцишагдфыпу ашмлиуфафу ауфшдапи уфшдатщу рзшйрйцщ рпшдцупалд иолаис шщывфгрсшуауцаисячлдмыгдшмл рцарыфушрнашдуы рколфи слшдгаоифц3шд кти цфшщд арфшдаицфйдщшрв ащшдфцградщфйцтавод лращгуиртаодтиф цагщд рлт валбфци вафьбтк а кделла уккас к ты еиткупва я л  ьтлм ло",
+      "id": "novoe_gody",
+      "is_banner": true,
+      "title": "новое годы"
     }
   ],
   "premium_cards": [
