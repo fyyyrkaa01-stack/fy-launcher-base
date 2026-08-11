@@ -1054,24 +1054,5 @@
     "torrent": "",
     "video_url": "",
     "zip": "https://t.me/plugins_new/548"
-  },
-  {
-    "id": "reverside",
-    "title": "REVERSIDE",
-    "full_title": "REVERSIDE v1.0.0",
-    "arch": "",
-    "tags": [
-      "effects"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/reverside.jpg",
-    "torrent": "",
-    "magnet": "",
-    "zip": "",
-    "description": "🎛. Здесь доступны 3D-позиционирование источника и слушателя, 14 моделей диффузоров, гибкая настройка пространства, тембра, стерео, предзадержки и плотности отражений. В комплекте — сотни пресетов, включая работы RumbaCodex и Nirto (NSONICS).\n🆕 Версия 1.0.0 пока находится на этапе доработки: DSP ещё оптимизируется, библиотека пресетов и руководство не завершены. Большинство параметров не рассчитано на непрерывную автоматизацию — без артефактов работают только элементы микширования.\n⚙️ Форматы: VST3, CLAP, 64-bit. 💻 Windows 10.\nРазмер: 63.1 MB",
-    "screenshots": [],
-    "video_url": "",
-    "added_at": "2026-08-12",
-    "sample_count": 0,
-    "file_size": ""
   }
 ]
