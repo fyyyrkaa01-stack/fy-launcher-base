@@ -1016,24 +1016,5 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
-  },
-  {
-    "added_at": "2026-08-12",
-    "arch": "X64",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/lemur-audio-simon.jpg",
-    "description": "В версии от 27.07.2026 добавили три режима L/R Matrix: EQUAL, MODERN и VINTAGE, каждый со своим характером гармоник.\nЗдесь доступны два независимых канала, три параметрические полосы, полочные фильтры, аналоговая сатурация с INPUT TRIM, режимы LINK и Mid/Side для точной стереообработки.\nФормат — VST3 x64, поддерживается Windows 10. 🆕💻\nРазмер: 47 MB",
-    "file_size": "",
-    "full_title": "Lemur Audio SIMON v1.4.32",
-    "id": "lemur_audio_simon",
-    "magnet": "",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "effects"
-    ],
-    "title": "Lemur Audio SIMON",
-    "torrent": "",
-    "video_url": "",
-    "zip": ""
   }
 ]
