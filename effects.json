@@ -1016,25 +1016,5 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
-  },
-  {
-    "id": "test421",
-    "title": "тест421",
-    "full_title": "тест421",
-    "arch": "тест421",
-    "tags": [
-      "x86",
-      "Trap"
-    ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/test421_cover.png",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:dc90eb0040ce899738f447544f86e460f8a0df93&dn=LegacyLauncher.exe&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fwepzone.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.myporn.club%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrust-demo.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.therarbg.to%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ololosh.space%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.gigantino.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dump.cl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce",
-    "zip": "",
-    "description": "тест421тест421тест421тест421",
-    "screenshots": [],
-    "video_url": "",
-    "added_at": "2026-08-11",
-    "sample_count": 0,
-    "file_size": "тест421тест421"
   }
 ]
