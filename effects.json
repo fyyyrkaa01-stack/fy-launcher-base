@@ -1069,5 +1069,22 @@
     "screenshots": [],
     "video_url": "",
     "version": "4.1.17"
+  },
+  {
+    "id": "final-mix-software-westlake-eq-iii",
+    "title": "Final Mix Software WESTLAKE EQ III",
+    "full_title": "Final Mix Software WESTLAKE EQ III v3.0.3",
+    "arch": "X64",
+    "tags": [
+      "effects"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/final-mix-software-westlake-eq-iii.jpg",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:ab7c770d1d214c8ca47cd6957a5bff89d84a2b62&dn=Final%20Mix%20Software%20WESTLAKE%20EQ%20III%20v3.0.3%20WiN%20macOS&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "В арсенале — 6 полос, 69 фиксированных частот, диапазон усиления и ослабления ±18 дБ, а также плавные HP/LP-фильтры и две Air-полосы для аккуратного добавления воздуха. 🆕 Версия от 05.08.2026. Форматы: VST, VST3, AU, AAX x64. Поддерживаются Windows 10 и macOS.",
+    "screenshots": [],
+    "video_url": "",
+    "version": "3.0.3"
   }
 ]
