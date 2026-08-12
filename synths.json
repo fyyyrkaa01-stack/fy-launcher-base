@@ -1,3 +1,4 @@
+
 [
   {
     "arch": "STANDALONE, VST3i, AAX",
@@ -234,22 +235,6 @@
     "video_url": ""
   },
   {
-    "arch": "VSTi3, AAX, CLAP",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zebra_3_cover.png",
-    "description": "Zebra 3 — это долгожданное продолжение легендарного синтезатора, полностью перестроенное с нуля. Инструмент сочетает в себе передовые технологии аналогового, физического и цифрового моделирования. Это мощная среда для глубокого звукового дизайна, предлагающая как интуитивно понятный интерфейс для быстрой работы, так и безграничные возможности для создания сложных текстур.",
-    "full_title": "u-he — Zebra 3 (v3.0.0.21799)",
-    "id": "zebra_3",
-    "magnet": "magnet:?xt=urn:btih:a8d10e63583b7eea70cedab1bcce1f93fa32973f&dn=u-he%20Zebra3%20v3.0.0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "screenshots": [],
-    "tags": [
-      "VST3",
-      "Synth"
-    ],
-    "title": "Zebra 3",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
     "arch": "VSTi, VSTi3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/repro_1_repro_5_cover.png",
     "description": "Repro-1 погружается в прошлое для аналогового вдохновения, благоговейно моделируя классический синтезатор. Каждая деталь оригинала была захвачена с помощью технологии моделирования на уровне компонентов, чтобы создать самую настоящую модель какую только возможно. Все тончайшие характеристики, найденные в оригинале присутствуют в Repro-1.",
@@ -480,3 +465,4 @@
     "video_url": "https://www.youtube.com/playlist?list=PLGxiyRm2uEmqcEFvE0qiWpap3i_4aUJtf",
     "zip": ""
   }
+]
