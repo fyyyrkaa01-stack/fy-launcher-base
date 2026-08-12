@@ -1052,5 +1052,22 @@
     "screenshots": [],
     "video_url": "",
     "version": "7.5.0"
+  },
+  {
+    "id": "metric-halo",
+    "title": "Metric Halo",
+    "full_title": "Metric Halo v4.1.17",
+    "arch": "",
+    "tags": [
+      "effects"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/metric-halo.jpg",
+    "torrent": "assets\\torrents\\metric-halo.torrent",
+    "magnet": "magnet:?xt=urn:btih:5261bef901dbc143be29daf0d31681c1ff1938e5&dn=Metric.Halo.Make.Believe.Howies.179.v4.1.17-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "Легендарный компрессор/лимитер NTP 179-120 теперь доступен в виде точной программной модели, созданной совместно с мастеринг-инженером Хоуи Вайнбергом. Именно этот процессор десятилетиями использовался при мастеринге альбомов, ставших эталоном звучания.\nПлагин передаёт характер оригинального устройства: плотную динамику, фирменный «клей», насыщенную аналоговую сатурацию и узнаваемый тембр. Интерфейс адаптирован под рабочий процесс Хоуи, поэтому все ключевые настройки находятся под рукой. Есть масштабируемый GUI и кроссплатформенный менеджер пресетов MH.\n⚙️ Форматы: VST, VST3, AAX (64-bit). Поддерживается Windows 7 и новее.\n📌 Для работы требуется установленная TEAM R2R System v1.5.1. Плагин особенно оценят те, кто занимается мастерингом и хочет получить характер культового NTP 179-120 без поиска редкого железа.\nРазмер: 42.6 MB",
+    "screenshots": [],
+    "video_url": "",
+    "version": "4.1.17"
   }
 ]
