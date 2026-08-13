@@ -1086,5 +1086,22 @@
     "screenshots": [],
     "video_url": "",
     "version": "3.0.3"
+  },
+  {
+    "id": "nk-productions-all-bundle",
+    "title": "NK Productions All Bundle",
+    "full_title": "NK Productions All Bundle v10.08.2026",
+    "arch": "X64",
+    "tags": [
+      "effects"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/nk-productions-all-bundle.jpg",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:005fac3905977e0a3123cfde1243e68c616b04aa&dn=NK%20Productions%20-%20All%20Plugins%20Bundle%20%28ItUsed%29&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "AEQ-115 Hybrid Diffusion моделирует дискретный Class-A эквалайзер с трансформаторно-балансным выходом, AEQ-550 Beyond Analog предлагает трёхполосную аналоговую EQ-схему, а AEQ-4000 Fusion eXtreme воспроизводит секцию эквализации крупноформатной микшерной консоли.\nОтдельно здесь есть ALA-101 Hybridization — инструмент для аналогового моделирования и сатурации. В итоге комплект закрывает задачи эквализации, окраски и насыщения сигнала. 🎧\nФормат: VST3 x64\nСистема: Windows 10+\nДата сборки: 10.08.2026\nРазмер:  103.6 MB",
+    "screenshots": [],
+    "video_url": "",
+    "version": "10.08.2026"
   }
 ]
