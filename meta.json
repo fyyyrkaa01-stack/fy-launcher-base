@@ -4,19 +4,7 @@
     "effects:waves",
     "effects:zebra_3"
   ],
-  "news": [
-    {
-      "id": "test-bot-da",
-      "title": "ТЕСТ БОТ ДА",
-      "date": "2026-08-13",
-      "category": "events",
-      "description": "тест да да ажа",
-      "banner_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/events/news_test-bot-da_banner.jpg",
-      "content_image_url": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/news/events/news_test-bot-da_content.jpg",
-      "show_on_home": true,
-      "send_notification": true
-    }
-  ],
+  "news": [],
   "premium_cards": [
     {
       "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/premium/card_1_cover.png",
