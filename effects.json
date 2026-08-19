@@ -1037,71 +1037,54 @@
     "zip": ""
   },
   {
-    "id": "halion",
-    "title": "HALion",
-    "full_title": "HALion 7.5.0",
     "arch": "X64",
-    "tags": [
-      "effects"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/halion.jpg",
-    "torrent": "assets\\torrents\\halion.torrent",
-    "magnet": "magnet:?xt=urn:btih:39ae9841b4e4f56026887f5e89082c9caf9f3b7c&dn=Steinberg.HALion.7.v7.5.0-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
     "description": "🎹 В версии добавили FM-движок, созданный совместно с Yamaha: до 8 операторов, Algorithm Finder и импорт SYX-файлов DX7/TX81Z. Spectral Zone открывает новые возможности для Time-Stretch, Resynthesis и глубокой обработки сэмплов.\nОбновлены система модуляции, редактор огибающих, микшер, MediaBay и встроенные эффекты, включая REVerence с поддержкой сторонних IR.\n⚙️ Форматы: Standalone, VST3, AAX, 64-bit. Поддерживаются Windows 10/11 x64.\nУстановка:\nЕсли ранее устанавливали TEAM R2R Network Block Runtime - удалите его!_Для удаления запустите unins000.exe_в папке C:\\Program Files\\TEAM R2R\\Network Block Runtime\nПримечание:\nЕсли уже установлены Silk Emulator v1.5.0 и последняя версия TEAM R2R System, пропустить пункты №1-3\n1._Установить TEAM R2R System_► СКАЧАТЬ\n2._Установить Setup Steinberg Silk Emulator v1.5.0.exe\n3._Перезагрузить ОС\nУдалить предыдущую версию (рекомендация от R2R, так что на ваше усмотрение)\n4._Установить Steinberg Mediabay_(Это необходимо для работы браузера контента. Без Mediabay контент может быть пустым.)\n5._Установить HALion7.msi\n6._Папку Content_поместить в\nКод:\n%PROGRAMDATA%\\Steinberg\\\nЕсли установлен Steinberg Library Manager(SLM), запустите его и перетащите папку Content_в окно SLM\nПримечание:\nR2R в инструкции не упоминает об установке сертификата R2RCA.cer, но на всякий случай он добавлен в раздачу.\nРазмер: 1.21 GB\nВидео - https://youtu.be/QCfn3Tq7Muw",
+    "full_title": "HALion 7.5.0",
+    "id": "halion",
+    "magnet": "magnet:?xt=urn:btih:39ae9841b4e4f56026887f5e89082c9caf9f3b7c&dn=Steinberg.HALion.7.v7.5.0-R2R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "screenshots": [],
+    "tags": [
+      "effects"
+    ],
+    "title": "HALion",
+    "torrent": "assets\\torrents\\halion.torrent",
+    "version": "7.5.0",
     "video_url": "",
-    "version": "7.5.0"
+    "zip": ""
   },
   {
-    "id": "metric-halo",
-    "title": "Metric Halo",
-    "full_title": "Metric Halo v4.1.17",
     "arch": "",
-    "tags": [
-      "effects"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/metric-halo.jpg",
-    "torrent": "assets\\torrents\\metric-halo.torrent",
-    "magnet": "magnet:?xt=urn:btih:5261bef901dbc143be29daf0d31681c1ff1938e5&dn=Metric.Halo.Make.Believe.Howies.179.v4.1.17-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
     "description": "Легендарный компрессор/лимитер NTP 179-120 теперь доступен в виде точной программной модели, созданной совместно с мастеринг-инженером Хоуи Вайнбергом. Именно этот процессор десятилетиями использовался при мастеринге альбомов, ставших эталоном звучания.\nПлагин передаёт характер оригинального устройства: плотную динамику, фирменный «клей», насыщенную аналоговую сатурацию и узнаваемый тембр. Интерфейс адаптирован под рабочий процесс Хоуи, поэтому все ключевые настройки находятся под рукой. Есть масштабируемый GUI и кроссплатформенный менеджер пресетов MH.\n⚙️ Форматы: VST, VST3, AAX (64-bit). Поддерживается Windows 7 и новее.\n📌 Для работы требуется установленная TEAM R2R System v1.5.1. Плагин особенно оценят те, кто занимается мастерингом и хочет получить характер культового NTP 179-120 без поиска редкого железа.\nРазмер: 42.6 MB",
+    "full_title": "Metric Halo v4.1.17",
+    "id": "metric-halo",
+    "magnet": "magnet:?xt=urn:btih:5261bef901dbc143be29daf0d31681c1ff1938e5&dn=Metric.Halo.Make.Believe.Howies.179.v4.1.17-R2R&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "screenshots": [],
-    "video_url": "",
-    "version": "4.1.17"
-  },
-  {
-    "id": "final-mix-software-westlake-eq-iii",
-    "title": "Final Mix Software WESTLAKE EQ III",
-    "full_title": "Final Mix Software WESTLAKE EQ III v3.0.3",
-    "arch": "X64",
     "tags": [
       "effects"
     ],
+    "title": "Metric Halo",
+    "torrent": "assets\\torrents\\metric-halo.torrent",
+    "version": "4.1.17",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "arch": "X64",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/final-mix-software-westlake-eq-iii.jpg",
-    "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:ab7c770d1d214c8ca47cd6957a5bff89d84a2b62&dn=Final%20Mix%20Software%20WESTLAKE%20EQ%20III%20v3.0.3%20WiN%20macOS&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
     "description": "В арсенале — 6 полос, 69 фиксированных частот, диапазон усиления и ослабления ±18 дБ, а также плавные HP/LP-фильтры и две Air-полосы для аккуратного добавления воздуха. 🆕 Версия от 05.08.2026. Форматы: VST, VST3, AU, AAX x64. Поддерживаются Windows 10 и macOS.",
+    "full_title": "Final Mix Software WESTLAKE EQ III v3.0.3",
+    "id": "final-mix-software-westlake-eq-iii",
+    "magnet": "magnet:?xt=urn:btih:ab7c770d1d214c8ca47cd6957a5bff89d84a2b62&dn=Final%20Mix%20Software%20WESTLAKE%20EQ%20III%20v3.0.3%20WiN%20macOS&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "screenshots": [],
-    "video_url": "",
-    "version": "3.0.3"
-  },
-  {
-    "id": "nk-productions-all-bundle",
-    "title": "NK Productions All Bundle",
-    "full_title": "NK Productions All Bundle v10.08.2026",
-    "arch": "X64",
     "tags": [
       "effects"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/covers/nk-productions-all-bundle.jpg",
+    "title": "Final Mix Software WESTLAKE EQ III",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:005fac3905977e0a3123cfde1243e68c616b04aa&dn=NK%20Productions%20-%20All%20Plugins%20Bundle%20%28ItUsed%29&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
-    "description": "AEQ-115 Hybrid Diffusion моделирует дискретный Class-A эквалайзер с трансформаторно-балансным выходом, AEQ-550 Beyond Analog предлагает трёхполосную аналоговую EQ-схему, а AEQ-4000 Fusion eXtreme воспроизводит секцию эквализации крупноформатной микшерной консоли.\nОтдельно здесь есть ALA-101 Hybridization — инструмент для аналогового моделирования и сатурации. В итоге комплект закрывает задачи эквализации, окраски и насыщения сигнала. 🎧\nФормат: VST3 x64\nСистема: Windows 10+\nДата сборки: 10.08.2026\nРазмер:  103.6 MB",
-    "screenshots": [],
+    "version": "3.0.3",
     "video_url": "",
-    "version": "10.08.2026"
+    "zip": ""
   }
 ]
