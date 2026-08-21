@@ -1,9 +1,8 @@
 [
   {
-    "id": "cymatics_horizon_house_sample_pack",
-    "title": "Cymatics - Horizon House Sample Pack",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/cymatics_horizon_house_sample_pack_cover.png",
     "description": "набор от cymatics",
+    "id": "cymatics_horizon_house_sample_pack",
     "midis": [
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_1_c_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_10_f_min",
@@ -26,12 +25,14 @@
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_7_f_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_8_f_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_9_f_min"
-    ]
+    ],
+    "title": "Cymatics - Horizon House Sample Pack"
   },
   {
+    "id": "midi_collection",
+    "title": "PROJECT ONE Production Suite",
     "cover": "",
     "description": "пак от cymatics",
-    "id": "midi_collection",
     "midis": [
       "midi_collection_ambient_cymatics_allure_midi_d_min",
       "midi_collection_ambient_cymatics_another_midi_g_min",
@@ -348,8 +349,7 @@
       "midi_collection_world_cymatics_lamento_midi_c_min",
       "midi_collection_world_cymatics_mile_high_midi_g_min",
       "midi_collection_world_cymatics_nueva_midi_a_min"
-    ],
-    "title": "PROJECT ONE Production Suite"
+    ]
   },
   {
     "cover": "",
