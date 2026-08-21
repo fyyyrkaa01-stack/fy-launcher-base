@@ -1,8 +1,9 @@
 [
   {
+    "id": "cymatics_horizon_house_sample_pack",
+    "title": "Cymatics - Horizon House Sample Pack",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/midi_packs/cymatics_horizon_house_sample_pack_cover.png",
     "description": "набор от cymatics",
-    "id": "cymatics_horizon_house_sample_pack",
     "midis": [
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_1_c_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_10_f_min",
@@ -25,8 +26,7 @@
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_7_f_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_8_f_min",
       "cymatics_horizon_house_sample_pack_cymatics_horizon_midi_9_f_min"
-    ],
-    "title": "Cymatics - Horizon House Sample Pack"
+    ]
   },
   {
     "cover": "",
@@ -352,10 +352,9 @@
     "title": "PROJECT ONE Production Suite"
   },
   {
-    "id": "cymatics_the_ultimate_midi_collection",
-    "title": "Cymatics The Ultimate MIDI Collection",
     "cover": "",
     "description": "",
+    "id": "cymatics_the_ultimate_midi_collection",
     "midis": [
       "cymatics_the_ultimate_midi_collection_cymatics_emerald_hip_hop_midi_pack_cymatics_emerald_hihat_midi_1",
       "cymatics_the_ultimate_midi_collection_cymatics_emerald_hip_hop_midi_pack_cymatics_emerald_hihat_midi_10",
@@ -1258,6 +1257,7 @@
       "cymatics_the_ultimate_midi_collection_cymatics_phantom_midi_pack_cymatics_phantom_midi_loop_97_f_min",
       "cymatics_the_ultimate_midi_collection_cymatics_phantom_midi_pack_cymatics_phantom_midi_loop_98_f_min",
       "cymatics_the_ultimate_midi_collection_cymatics_phantom_midi_pack_cymatics_phantom_midi_loop_99_f_min"
-    ]
+    ],
+    "title": "Cymatics The Ultimate MIDI Collection"
   }
 ]
