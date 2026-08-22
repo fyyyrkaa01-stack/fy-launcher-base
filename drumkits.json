@@ -340,7 +340,7 @@
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/kshmr_vol_3_cover.png",
     "description": "",
-    "file_size": "5.09 GB",
+    "file_size": "5.1 GB",
     "full_title": "Splice Sounds - Sounds of KSHMR Vol.3",
     "id": "kshmr_vol_3",
     "magnet": "magnet:?xt=urn:btih:5fca719641619e858c609b5d9c75e60b9b09a94a&dn=Splice%20Sounds%20-%20Sounds%20of%20KSHMR%20Vol.3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
@@ -469,22 +469,22 @@
     "zip": ""
   },
   {
-    "id": "estrada_vol_1",
-    "title": "Estrada Vol.1",
-    "full_title": "Palagin - Estrada Vol.1 (Pop Drum Kit)",
+    "added_at": "2026-08-03",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/estrada_vol_1_cover.png",
+    "description": "",
+    "file_size": "286.2 MB",
+    "full_title": "Palagin - Estrada Vol.1 (Pop Drum Kit)",
+    "id": "estrada_vol_1",
+    "magnet": "magnet:?xt=urn:btih:dbffc20854370ab0e012ef167cd603120cef0915&dn=Palagin%20-%20Estrada%20Vol.1%20DLX%20%28Pop%20Drum%20Kit%29&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "DRUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/estrada_vol_1_cover.png",
+    "title": "Estrada Vol.1",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:dbffc20854370ab0e012ef167cd603120cef0915&dn=Palagin%20-%20Estrada%20Vol.1%20DLX%20%28Pop%20Drum%20Kit%29&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "zip": "",
-    "description": "",
-    "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-03",
-    "sample_count": 0,
-    "file_size": "286.2 MB"
+    "zip": ""
   }
 ]
