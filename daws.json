@@ -18,7 +18,8 @@
     ],
     "title": "Ableton",
     "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops"
+    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops",
+    "added_at": "2026-08-24"
   },
   {
     "arch": "",
@@ -40,7 +41,8 @@
     ],
     "title": "FL Studio",
     "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s"
+    "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s",
+    "added_at": "2026-08-24"
   },
   {
     "arch": "",
@@ -61,7 +63,8 @@
     ],
     "title": "Cubase Pro",
     "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8"
+    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8",
+    "added_at": "2026-08-24"
   },
   {
     "arch": "",
@@ -79,7 +82,8 @@
     ],
     "title": "Studio One Pro 7",
     "torrent": "",
-    "video_url": ""
+    "video_url": "",
+    "added_at": "2026-08-24"
   },
   {
     "arch": "",
@@ -97,7 +101,8 @@
     ],
     "title": "Bitwig Studio",
     "torrent": "",
-    "video_url": ""
+    "video_url": "",
+    "added_at": "2026-08-24"
   },
   {
     "arch": "",
@@ -114,6 +119,7 @@
     ],
     "title": "REAPER",
     "torrent": "",
-    "video_url": ""
+    "video_url": "",
+    "added_at": "2026-08-24"
   }
 ]
