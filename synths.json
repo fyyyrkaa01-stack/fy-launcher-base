@@ -59,27 +59,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "VST, VST3, AAX (MOD)",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
-    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
-    "file_size": "342.9 MB",
-    "full_title": "Reveal Sound - Spire v1.5.19.5343",
-    "id": "reveal_sound_spire",
-    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
-    "install_instructions_visible": true,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:4d6c6a7ae1a26c2163e4a7045586e0bc4127f421&dn=Reveal.Sound.Spire.v1.5.19.5343.Incl.Patched.and.Keygen-R2R&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "VST3",
-      "Synth"
-    ],
-    "title": "Reveal Sound Spire",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "VSTi/AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/dune_3_cover.png",
     "description": "DUNE 3 построен на базе удостоенного наград синтезаторе DUNE 2, добавляя новые функции и инновационные идеи, чтобы создать лучший опыт работы с DUNE! DUNE 3 поставляется с множеством новых патчей, созданных опытными звукорежиссерами. Так как DUNE 3 полностью совместим с DUNE 2, он также включает в себя его звуковые предустановки - удвоение размера фабричной библиотеки до более чем 1000 патчей. Пересмотренный раздел фильтров в Dune 3 теперь содержит двойной многорежимный фильтр и эффект вставки. Различные режимы маршрутизации, такие как последовательное / параллельное и бесшовное смешивание с помощью регулятора баланса, обеспечивают неограниченный творческий потенциал! Также были добавлены новые типы фильтров, включающие фильтры в цепи обратной связи с нулевой задержкой, основанные на нашей новейшей технологии аналогового моделирования. Для творческого креатива есть новые эффекты вставки, такие как formant/vowel фильтр или фазер, которые значительно расширяют спектр возможностей звукового дизайна.",
@@ -496,28 +475,52 @@
     "zip": ""
   },
   {
-    "id": "pure_sub",
-    "title": "Pure SUB",
-    "full_title": "Arturia Pure SUB",
+    "added_at": "2026-08-29",
     "arch": "VST3 | AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pure_sub_cover.png",
+    "description": "синтезатор для тех случаев, когда нужен бас с нормальным фундаментом, но без скуки. Здесь три независимых слоя: Sub, Harmonics и Texture. Можно собирать 808, сабы, Reese-басы и более грязные текстурные тембры.",
+    "file_size": "305.1 MB",
+    "full_title": "Arturia Pure SUB",
+    "id": "pure_sub",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "magnet": "magnet:?xt=urn:btih:5c58876e7325d90191b764f9d0b67767cd2905cd&dn=Arturia%20-%20Pure%20SUB%201.0.0%20V.R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Synth",
       "ARTURIA",
       "BASS"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pure_sub_cover.png",
+    "title": "Pure SUB",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/pure_sub.torrent",
-    "magnet": "magnet:?xt=urn:btih:5c58876e7325d90191b764f9d0b67767cd2905cd&dn=Arturia%20-%20Pure%20SUB%201.0.0%20V.R&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "reveal_sound_spire",
+    "title": "Reveal Sound Spire",
+    "full_title": "Reveal Sound Spire 1.5.21",
+    "arch": "VST, VST3, AAX (MOD)",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/reveal_sound_spire.torrent",
+    "magnet": "magnet:?xt=urn:btih:b564c92f92524877731720ef489995bbfa91e651&dn=Reveal.Sound.Spire&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "синтезатор для тех случаев, когда нужен бас с нормальным фундаментом, но без скуки. Здесь три независимых слоя: Sub, Harmonics и Texture. Можно собирать 808, сабы, Reese-басы и более грязные текстурные тембры.",
+    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-29",
+    "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "305.1 MB",
+    "file_size": "331.4 MB",
     "unpacked_size": "",
-    "producer": "Arturia",
-    "install_instructions": "",
-    "install_instructions_visible": false
+    "producer": "",
+    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
+    "install_instructions_visible": true
   }
 ]
