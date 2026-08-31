@@ -1,5 +1,6 @@
 [
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/omnisphere_3_library_cover.png",
     "description": "Omnisphere — это флагманский синтезатор от Spectrasonics, инструмент необычайной мощности и универсальности. Ведущие артисты по всему миру считают Omnisphere незаменимым источником звукового вдохновения. Это отмеченное наградами программное обеспечение объединяет множество различных типов синтеза в одном великолепно звучащем инструменте, открывающем безграничный простор для творческого исследования.\nДанный релиз включает только библиотеку звуков для Omnisphere 3.",
@@ -12,10 +13,10 @@
     ],
     "title": "Omnisphere 3 Library",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/noire_cover.png",
     "description": "Размер: 14.91 GB\nВыразительный концертный рояль. • Концертный рояль Нильса Фрама, тщательно сэмплированный в легендарном месте • Чистые, с войлочным демпфированием и версии со звуковым дизайном с широкими возможностями настройки • Инновационный движок частиц вдохновляет на идеи для сольных композиций, партитур и многого другого",
@@ -32,10 +33,10 @@
     ],
     "title": "Noire",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/analog_dreams_cover.jpg",
     "description": "Классические синтезаторы в современном колорите!",
@@ -53,10 +54,10 @@
     ],
     "title": "Analog Dreams",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
+    "added_at": "2026-08-24",
     "arch": "11.43 GB",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_5_content_cover.png",
     "description": "Испытайте синтезатор, который действительно делает все. Обладая самыми современными функциями и непревзойденной универсальностью, NEXUS5 - это ворота в безграничное творчество.\n1) Установите Nexus 5.\nИз папки Nexus 5 Content:\n2) Скопируйте файл tags.csv и вставьте в папку «C:\\Users\\Public\\Documents\\reFX\\NEXUS». 3) Скопируйте N5_Factory_Presets.svg и вставьте в папку «C:\\Users\\Ваше имя пользователя\\AppData\\Roaming\\reFX\\cloud\\cache\\images». 4) Скопируйте папки NKS, Presets, Samples в вашу старую библиотеку Nexus! 5) Поздравляем и наслаждаемся!\n\nЕсли вы новый пользователь Nexus и у вас нет ранее выпущенных библиотек Nexus 4, просто укажите местоположение папки\nпапки «Nexus 5 Content», включенной в эту раздачу во время установки Nexus 5...\nВы также можете изменить расположение папки Content, отредактировав Settings.json в «C:\\Users\\Public\\Documents\\reFX\\NEXUS»\n(Используйте текстовый документ для редактирования)Пример редактирования строки: library_folder\": «F:\\\\Nexus 5 Factory Content Library\\\\Nexus 5 Content»\nИспользуйте двойной обратный \\\\ слеш между разделениями папок.",
@@ -70,26 +71,10 @@
     ],
     "title": "Nexus 5 Content",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
-    "arch": "197.35 GB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_4_complete_cover.png",
-    "description": "1. Запустить файл reFX Nexus v4.5.4 CE.exe, указать путь к папке Nexus Library и установить. \n2. Распаковать NKS.exe файл и переместить распакованную папку NKS в папку Nexus Library. В ней находятся файлы предпрослушки пресетов и также некоторые пресеты для NI Maschine & Komplete Kontrol.\nФайл NexusFiles.exe позволяет отобразить все расширения и также относящиеся к ним папки Samples.",
-    "full_title": "reFX - Nexus v4.5.4 Complete",
-    "id": "nexus_4_complete",
-    "magnet": "magnet:?xt=urn:btih:79c7febc23c674f228b6383d602d591cc750c289&dn=reFX%20-%20Nexus%204%20Complete&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "библиотека"
-    ],
-    "title": "Nexus 4 Complete",
-    "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
-  },
-  {
+    "added_at": "2026-08-24",
     "arch": "849.8 MB",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
     "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
@@ -104,8 +89,7 @@
     ],
     "title": "Arturia - Sound Banks",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
     "added_at": "2026-08-24",
@@ -568,5 +552,28 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
+  },
+  {
+    "id": "nexus_4_complete",
+    "title": "Nexus 4 Complete",
+    "full_title": "reFX - Nexus v4.5.4 Complete",
+    "arch": "",
+    "tags": [
+      "библиотека"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_4_complete_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:79c7febc23c674f228b6383d602d591cc750c289&dn=reFX%20-%20Nexus%204%20Complete&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "zip": "",
+    "description": "1. Запустить файл reFX Nexus v4.5.4 CE.exe, указать путь к папке Nexus Library и установить. \n2. Распаковать NKS.exe файл и переместить распакованную папку NKS в папку Nexus Library. В ней находятся файлы предпрослушки пресетов и также некоторые пресеты для NI Maschine & Komplete Kontrol.\nФайл NexusFiles.exe позволяет отобразить все расширения и также относящиеся к ним папки Samples.",
+    "screenshots": [],
+    "video_url": "",
+    "added_at": "2026-08-24",
+    "sample_count": 0,
+    "file_size": "197.35 GB",
+    "unpacked_size": "",
+    "producer": "",
+    "install_instructions": "",
+    "install_instructions_visible": true
   }
 ]
