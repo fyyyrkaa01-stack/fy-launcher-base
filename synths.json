@@ -500,27 +500,51 @@
     "zip": ""
   },
   {
-    "id": "reveal_sound_spire",
-    "title": "Reveal Sound Spire",
-    "full_title": "Reveal Sound Spire 1.5.21",
+    "added_at": "2026-08-24",
     "arch": "VST, VST3, AAX (MOD)",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
+    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
+    "file_size": "331.4 MB",
+    "full_title": "Reveal Sound Spire 1.5.21",
+    "id": "reveal_sound_spire",
+    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:b564c92f92524877731720ef489995bbfa91e651&dn=Reveal.Sound.Spire&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/reveal_sound_spire_cover.jpg",
+    "title": "Reveal Sound Spire",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/reveal_sound_spire.torrent",
-    "magnet": "magnet:?xt=urn:btih:b564c92f92524877731720ef489995bbfa91e651&dn=Reveal.Sound.Spire&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "nexus_2",
+    "title": "Nexus 2",
+    "full_title": "ReFX - Nexus v.2.2 Repack",
+    "arch": "VST | VST3",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_2_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/nexus_2.torrent",
+    "magnet": "magnet:?xt=urn:btih:cd639b62c726a329ad2f504e641e7bfb8c5e1074&dn=Nexus%202%20REPACK&tr=http%3A%2F%2Fbt3.rutracker.org%2Fann%3Fuk%3DWlbrNBvhHR&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Spire — это программный полифонический синтезатор, который сочетает в себе мощную модуляцию звукового движка и гибкую архитектуру, а графический интерфейс обеспечивает непревзойденное удобство использования. Spire — это воплощение лучших возможностей как программных, так и аппаратных синтезаторов.",
+    "description": "+ 42 библиотеки пресетов\n\nNexus 2 - это долгожданная вторая версия знаменитого ромплера от компании ReFX. Программа отличается достаточно низкими требованиями к \"железу\" и множеством библиотек пресетов на все случаи жизни.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-24",
+    "added_at": "2026-08-31",
     "sample_count": 0,
-    "file_size": "331.4 MB",
+    "file_size": "14.8 GB",
     "unpacked_size": "",
-    "producer": "",
-    "install_instructions": "Установить TEAM R2R Network Block Runtime v1.0.0\n1. Установить Spire, запустить Spire_KeyGen.exe, в кейгене вписать имя и почту в соответствующие окна, нажать \"Generate\" и сохранить полученный файл\n2. После запуска плагина указать на сохранённый файл",
+    "producer": "ReFX",
+    "install_instructions": "Инструкция по установке\n\n1. Монтируем ISO Nexus content. 2. Копируем папку Nexus content любое место на Вашем жёстком диске. 3. Монтируем ISO Nexus 2 4. Запускаем Nexus 2 Setup и устанавливаем в папку с Вашими плагинами. 5. Запускаем AiR eLicenser Emulator Setup 6. Запускаем DAW, в ней запускаем Nexus 2. 7. Ждём когда он найдёт и просканирует папку Nexus content. 8. Наслаждаемся.\n\nВНИМАНИЕ!!! ЕСЛИ У ВАС СТОЯЛА ДРУГАЯ ПАПКА С БИБЛИОТЕКОЙ NEXUS, ОБЯЗАТЕЛЬНО ЕЁ УДАЛИТЕ ПЕРЕД УСТАНОВКОЙ ПАПКИ ИЗ ЭТОЙ РАЗДАЧИ!\n\nДополнительно\n\nДополнительная информация\n\nЭто REPACK. Ничего не надо импортировать. Просто устанавливаем и работаем. Все доступные банки для Nexus 2.2 здесь уже установлены. Также доступны все скины.",
     "install_instructions_visible": true
   }
 ]
