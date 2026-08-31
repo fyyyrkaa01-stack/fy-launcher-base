@@ -1,27 +1,6 @@
 [
   {
-    "arch": "",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_cover.png",
-    "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе. Live синхронизирует все и работает в режиме реального времени, поэтому вы можете воспроизводить и изменять свои музыкальные идеи, не прерывая творческий процесс. Но Live также имеет революционный Session View: уникальный блокнот для импровизации, игры и исполнения с музыкальными идеями, без ограничений по времени. Свободно и независимо запускайте и останавливайте любое количество аудио или MIDI-петель - все остается синхронизированным. Почти все в Live работает в режиме реального времени - добавляйте, изменяйте порядок или удаляйте устройства, играйте с гибкой маршрутизацией треков Live и многим другим - и все это без прерывания творческого процесса. Создавайте более смелые звуки с новыми устройствами Live. Оставайтесь в потоке с множеством улучшений рабочего процесса. Еще больше отдаляйтесь от компьютера с помощью Push. Создайте свой звук с помощью кураторской библиотеки. И получите неограниченный потенциал Max for Live, встроенный без проблем",
-    "full_title": "Ableton - Live 12 Suite v12.4.3",
-    "id": "ableton",
-    "install_instructions": "1. У вас должна быть установлена последняя версия TEAM R2R System \n2. Установить Ableton Live 12 Suite Installer.exe\n3. Поместить файл vcruntime140_1.dll в папку с установленной программой(По умолчанию C:\\ProgramData\\Ableton\\Live 12 Suite\\Program)\nВАЖНО!\nНИКОГДА не пытайтесь поместить файл vcruntime140_1.dll в папку system32 !!!\n\nNEVER try overwriting the \"vcruntime140_1.dll\" in the system32 dir!\n\n4. Запустить Ableton и в окне авторизации нажать \"No internet on this computer\". Из появившегося окна скопировать \"Your hardware code\".Примечание: при нажатии на \"Save\", можно получить текстовый файл с кодом.\n5. Запустить WM_Ableton.r2rwm, вставить скопированный код, нажать \nGENERATE \nи сохранить полученный файл Authorize.auz.\n6. Перетащите полученный файл в окно регистрации \"Authorizing your software offline\"Примечание: Если не получается перетащить файл лицензии в окно программы, то закройте Ableton Live Suite и запустите полученный файл лицензии при помощи(\"Открыть с помощью\") Ableton Live Suite.\nМожно обновляться(после обновления, если это требуется, повторно поместить файл vcruntime140_1.dllв папку с установленной программой)\nПримечание:\n\nЕсли у вас слетела регистрация, проверьте, не удалил ли ваш антивирус файл vcruntime140_1.dll из папки с программой. Если это так, добавьте папку с установленной программой в исключение антивируса и верните удалённый файл.\n\nТак же регистрация может слететь ввиду того, что ваша установленная и вылеченная версия обновилась самостоятельно. Если вы не хотите автоматического обновления, отключите его.\n(Options > Preferences > Licenses Maintenance > Get Automatic Updates > Never)",
-    "install_instructions_visible": true,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:5ea7a6f5c5d72bf0e56ebc69240f649a299295b0&dn=Ableton%20Live%2012%20Suite%20v12.4.3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_1.jpg",
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_2.jpg"
-    ],
-    "tags": [
-      "DAW"
-    ],
-    "title": "Ableton",
-    "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops",
-    "added_at": "2026-08-24"
-  },
-  {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_cover.png",
     "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
@@ -41,10 +20,10 @@
     ],
     "title": "FL Studio",
     "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s",
-    "added_at": "2026-08-24"
+    "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s"
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/cubase_pro_cover.png",
     "description": "Вы хотите начать создавать свою собственную музыку, вывести свое производство на профессиональный уровень или оптимизировать рабочий процесс в сжатые сроки? Что бы вам ни понадобилось, Cubase поможет вам полностью раскрыть свой творческий потенциал. От композиторов голливудских блокбастеров и продюсеров Billboard Hot 100 до увлеченных новичков, мир музыкального производства доверяет всеобъемлющему набору функций, простым инструментам и непревзойденному звуку нашего известного программного обеспечения для создания музыки.",
@@ -63,10 +42,10 @@
     ],
     "title": "Cubase Pro",
     "torrent": "",
-    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8",
-    "added_at": "2026-08-24"
+    "video_url": "https://www.youtube.com/watch?v=WCIEomY3pc8"
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/studio_one_pro_7_cover.png",
     "description": "Studio One Pro 7 - одна DAW для всех Ваш универсальный продакшн - центр со всем необходимым для записи, продюсирования, микширования, мастеринга и исполнения.\n\n* Удалить старую версию Studio One ** Удалить папки в директории\n%PROGRAMDATA%\\PreSonus\\ %APPDATA%\\PreSonus\\ \n1. Установить PreSonus Studio One Pro 7 \n2. Установить и запустить PreSonus Sphere Manager v2.0.0 \n3. Нажать Install Magic - Studio One 7.cmd \n4. Нажать Subscription - Renew.cmd \n5. Запустите PreSonus Studio One Pro 7\nПримечание Данный релиз можно устанавливать поверх предыдущих версий, начиная с v7.0.2 и выполнить шаги 3,4,5 из пункта \"Установка|Активация\"",
@@ -82,10 +61,10 @@
     ],
     "title": "Studio One Pro 7",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
     "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
@@ -101,10 +80,10 @@
     ],
     "title": "Bitwig Studio",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
   },
   {
+    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_cover.png",
     "description": "Cockos Reaper является одной из самых продвинутых программ для создания музыки, как в студии, так и в домашних условиях. Главная «фишка» программы заключается в том, что она имеет паттерновое, клавиатурное и аудио редактирование. Вы можете задавать неограниченное количество аудио или миди треков, не считая того, сколько можно добавить виртуальных инструментов формата VST. Reaper занимает не такое большое место на жестком диске и не загружает процессор, как программы из серии FL Studio, Cubase, Reason или Sonar. С данной программой вы сможете работать даже на маломощных компьютерах с звуковыми картами, которые не поддерживают режимы работы Full duplex. Хотя, если саундкарта поддерживает этот режим, вы получите неограниченные возможности по созданию своих композиций с профессиональным звучанием даже в таких форматах, как 5+1, а при наличии дополнительных плагинов, и 7+1.\n\n1. После установки программы запустить REAPER_KeyGen.exe, вписать любой Email, нажать \nPATCH \nи указать на файл reaper.exe_в папке с установленной программой.\n2. Нажать GENERATE и сохранить файл лицензии в папке с программой.\nРусификация\nПри запущенном REAPER запустить файл Russian.ReaperLangPack и указать на reaper.exe в установленной папке. Перезапустить REAPER\nПримечание:\nВы можете самостоятельно создать портативную версию, в инсталляторе для этого есть соответствующий чекбокс. Лечение и русификация аналогична установочной версии\n￼",
@@ -119,7 +98,32 @@
     ],
     "title": "REAPER",
     "torrent": "",
-    "video_url": "",
-    "added_at": "2026-08-24"
+    "video_url": ""
+  },
+  {
+    "id": "ableton",
+    "title": "Ableton",
+    "full_title": "Ableton - Live 12 Suite v12.4.5",
+    "arch": "",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/daws/ableton.torrent",
+    "magnet": "magnet:?xt=urn:btih:e3fc93479b2769b6b21e577dfeaaeeffed0e456b&dn=Ableton%20Live%2012%20Suite%20v12.4.5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Ableton Live позволяет вам легко создавать, производить и исполнять музыку в одном интуитивно понятном интерфейсе. Live синхронизирует все и работает в режиме реального времени, поэтому вы можете воспроизводить и изменять свои музыкальные идеи, не прерывая творческий процесс. Но Live также имеет революционный Session View: уникальный блокнот для импровизации, игры и исполнения с музыкальными идеями, без ограничений по времени. Свободно и независимо запускайте и останавливайте любое количество аудио или MIDI-петель - все остается синхронизированным. Почти все в Live работает в режиме реального времени - добавляйте, изменяйте порядок или удаляйте устройства, играйте с гибкой маршрутизацией треков Live и многим другим - и все это без прерывания творческого процесса. Создавайте более смелые звуки с новыми устройствами Live. Оставайтесь в потоке с множеством улучшений рабочего процесса. Еще больше отдаляйтесь от компьютера с помощью Push. Создайте свой звук с помощью кураторской библиотеки. И получите неограниченный потенциал Max for Live, встроенный без проблем",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_1.jpg",
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/ableton_screenshot_2.jpg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=EP6t3-HNops",
+    "added_at": "2026-08-24",
+    "sample_count": 0,
+    "file_size": "6.3 GB",
+    "unpacked_size": "",
+    "producer": "Ableton",
+    "install_instructions": "1. У вас должна быть установлена последняя версия TEAM R2R System \n2. Установить Ableton Live 12 Suite Installer.exe\n3. Поместить файл vcruntime140_1.dll в папку с установленной программой(По умолчанию C:\\ProgramData\\Ableton\\Live 12 Suite\\Program)\nВАЖНО!\nНИКОГДА не пытайтесь поместить файл vcruntime140_1.dll в папку system32 !!!\n\nNEVER try overwriting the \"vcruntime140_1.dll\" in the system32 dir!\n\n4. Запустить Ableton и в окне авторизации нажать \"No internet on this computer\". Из появившегося окна скопировать \"Your hardware code\".Примечание: при нажатии на \"Save\", можно получить текстовый файл с кодом.\n5. Запустить WM_Ableton.r2rwm, вставить скопированный код, нажать \nGENERATE \nи сохранить полученный файл Authorize.auz.\n6. Перетащите полученный файл в окно регистрации \"Authorizing your software offline\"Примечание: Если не получается перетащить файл лицензии в окно программы, то закройте Ableton Live Suite и запустите полученный файл лицензии при помощи(\"Открыть с помощью\") Ableton Live Suite.\nМожно обновляться(после обновления, если это требуется, повторно поместить файл vcruntime140_1.dllв папку с установленной программой)\nПримечание:\n\nЕсли у вас слетела регистрация, проверьте, не удалил ли ваш антивирус файл vcruntime140_1.dll из папки с программой. Если это так, добавьте папку с установленной программой в исключение антивируса и верните удалённый файл.\n\nТак же регистрация может слететь ввиду того, что ваша установленная и вылеченная версия обновилась самостоятельно. Если вы не хотите автоматического обновления, отключите его.\n(Options > Preferences > Licenses Maintenance > Get Automatic Updates > Never)",
+    "install_instructions_visible": true
   }
 ]
