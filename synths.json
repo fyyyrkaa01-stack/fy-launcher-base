@@ -217,23 +217,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "VST|VST3|AAX|AU",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
-    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)",
-    "full_title": "reFX - Nexus 5 v5.4.14",
-    "id": "nexus_5",
-    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "VST3",
-      "Synth"
-    ],
-    "title": "Nexus 5",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "VSTi, VSTi3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/repro_1_repro_5_cover.png",
     "description": "Repro-1 погружается в прошлое для аналогового вдохновения, благоговейно моделируя классический синтезатор. Каждая деталь оригинала была захвачена с помощью технологии моделирования на уровне компонентов, чтобы создать самую настоящую модель какую только возможно. Все тончайшие характеристики, найденные в оригинале присутствуют в Repro-1.",
@@ -524,27 +507,51 @@
     "zip": ""
   },
   {
-    "id": "nexus_2",
-    "title": "Nexus 2",
-    "full_title": "ReFX - Nexus v.2.2 Repack",
+    "added_at": "2026-08-31",
     "arch": "VST | VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_2_cover.png",
+    "description": "+ 42 библиотеки пресетов\n\nNexus 2 - это долгожданная вторая версия знаменитого ромплера от компании ReFX. Программа отличается достаточно низкими требованиями к \"железу\" и множеством библиотек пресетов на все случаи жизни.",
+    "file_size": "14.8 GB",
+    "full_title": "ReFX - Nexus v.2.2 Repack",
+    "id": "nexus_2",
+    "install_instructions": "Инструкция по установке\n\n1. Монтируем ISO Nexus content. 2. Копируем папку Nexus content любое место на Вашем жёстком диске. 3. Монтируем ISO Nexus 2 4. Запускаем Nexus 2 Setup и устанавливаем в папку с Вашими плагинами. 5. Запускаем AiR eLicenser Emulator Setup 6. Запускаем DAW, в ней запускаем Nexus 2. 7. Ждём когда он найдёт и просканирует папку Nexus content. 8. Наслаждаемся.\n\nВНИМАНИЕ!!! ЕСЛИ У ВАС СТОЯЛА ДРУГАЯ ПАПКА С БИБЛИОТЕКОЙ NEXUS, ОБЯЗАТЕЛЬНО ЕЁ УДАЛИТЕ ПЕРЕД УСТАНОВКОЙ ПАПКИ ИЗ ЭТОЙ РАЗДАЧИ!\n\nДополнительно\n\nДополнительная информация\n\nЭто REPACK. Ничего не надо импортировать. Просто устанавливаем и работаем. Все доступные банки для Nexus 2.2 здесь уже установлены. Также доступны все скины.",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:cd639b62c726a329ad2f504e641e7bfb8c5e1074&dn=Nexus%202%20REPACK&tr=http%3A%2F%2Fbt3.rutracker.org%2Fann%3Fuk%3DWlbrNBvhHR&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "ReFX",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_2_cover.png",
+    "title": "Nexus 2",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/nexus_2.torrent",
-    "magnet": "magnet:?xt=urn:btih:cd639b62c726a329ad2f504e641e7bfb8c5e1074&dn=Nexus%202%20REPACK&tr=http%3A%2F%2Fbt3.rutracker.org%2Fann%3Fuk%3DWlbrNBvhHR&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "nexus_5",
+    "title": "Nexus 5",
+    "full_title": "reFX - Nexus 5 v5.4.14",
+    "arch": "VST|VST3|AAX|AU",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/nexus_5_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:f1675bc695983284698317856ec67c0532fe4991&dn=reFX%20-%20Nexus%205%20v5.4.14%20%5BV.R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "+ 42 библиотеки пресетов\n\nNexus 2 - это долгожданная вторая версия знаменитого ромплера от компании ReFX. Программа отличается достаточно низкими требованиями к \"железу\" и множеством библиотек пресетов на все случаи жизни.",
+    "description": "БИБЛИОТЕКИ КАЧАТЬ В \"БИБЛИОТЕКА\" ВКЛАДКА ТАКАЯ ЕСЛИ ЧТОО!!!\n\nПараметры установки\n• Clean Install - устанавливает новую версию плагина (v5.#.#) • Update Only - обновляет старую версию плагина • Library Destination - строка в которой вы указываете путь к Nexus Library (параметр активен только при выборе Clean Install)",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-31",
+    "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "14.8 GB",
+    "file_size": "",
     "unpacked_size": "",
     "producer": "ReFX",
-    "install_instructions": "Инструкция по установке\n\n1. Монтируем ISO Nexus content. 2. Копируем папку Nexus content любое место на Вашем жёстком диске. 3. Монтируем ISO Nexus 2 4. Запускаем Nexus 2 Setup и устанавливаем в папку с Вашими плагинами. 5. Запускаем AiR eLicenser Emulator Setup 6. Запускаем DAW, в ней запускаем Nexus 2. 7. Ждём когда он найдёт и просканирует папку Nexus content. 8. Наслаждаемся.\n\nВНИМАНИЕ!!! ЕСЛИ У ВАС СТОЯЛА ДРУГАЯ ПАПКА С БИБЛИОТЕКОЙ NEXUS, ОБЯЗАТЕЛЬНО ЕЁ УДАЛИТЕ ПЕРЕД УСТАНОВКОЙ ПАПКИ ИЗ ЭТОЙ РАЗДАЧИ!\n\nДополнительно\n\nДополнительная информация\n\nЭто REPACK. Ничего не надо импортировать. Просто устанавливаем и работаем. Все доступные банки для Nexus 2.2 здесь уже установлены. Также доступны все скины.",
+    "install_instructions": "",
     "install_instructions_visible": true
   }
 ]
