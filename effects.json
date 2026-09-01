@@ -1145,27 +1145,51 @@
     "zip": ""
   },
   {
-    "id": "toneflx",
-    "title": "TONEFLX",
-    "full_title": "Sonix Audio - TONEFLX 1.1.0",
+    "added_at": "2026-08-29",
     "arch": "VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/toneflx_cover.png",
+    "description": "TONEFLX — это универсальный плагин эффектов в стиле аналоговых педалей, оснащенный 8 педалями, которые позволяют превратить плоские цифровые звуки в теплые, текстурные и живые тона.",
+    "file_size": "595 MB",
+    "full_title": "Sonix Audio - TONEFLX 1.1.0",
+    "id": "toneflx",
+    "install_instructions": "Шаг 1: Установите плагин VST. Пока не открывайте DAW.\nШаг 2: Заблокируйте телеметрию. (этот шаг не требуется для активации, но я бы все же рекомендовал заблокировать его) 1) Откройте это местоположение \"C:\\Windows\\System32\\drivers\\etc\" 2) Откройте \"хосты\" с помощью блокнота. Добавьте \"127.0.0.1 ffwd-auth.co.uk\" и сохраните его\nШаг 3: Наслаждайтесь полностью разблокированным плагином! ----------------------------------- Перейдите в папку плагина: \\AppData\\Roaming\\Sonix Audio\\TONEFLX\n1) Скопируйте и вставьте \"TONEFLX LAUNCH PARTY PRESETS\" в папку \"USER\" 2) Снова откройте плагин и проверьте папку \"USER\" внутри плагина. ---------------------------------- \nОбновление 1.1.0 Поместите файл \"TONEFLX.vst3\" в папку \"%COMMONPROGRAMFILES%\\VST3\\TONEFLX.vst3\\Contents\\x86_64-win\"",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:7edcce132f61011645102974a17178a90fbe5c22&dn=TONEFLX.1.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "TONEFLX",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "САТУРАЦИЯ"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/toneflx_cover.png",
+    "title": "TONEFLX",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/toneflx.torrent",
-    "magnet": "magnet:?xt=urn:btih:7edcce132f61011645102974a17178a90fbe5c22&dn=TONEFLX.1.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "zip": "",
-    "description": "TONEFLX — это универсальный плагин эффектов в стиле аналоговых педалей, оснащенный 8 педалями, которые позволяют превратить плоские цифровые звуки в теплые, текстурные и живые тона.",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "darkware",
+    "title": "DARKWARE",
+    "full_title": "Jack Dark DARKWARE",
+    "arch": "VST | VST3",
+    "tags": [
+      "Synth",
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/darkware_cover.png",
+    "torrent": "",
+    "magnet": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-darkware.zip",
+    "description": "Архивные плагины прямоком из 2007 года",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-29",
+    "added_at": "2026-09-01",
     "sample_count": 0,
-    "file_size": "595 MB",
+    "file_size": "",
     "unpacked_size": "",
-    "producer": "TONEFLX",
-    "install_instructions": "Шаг 1: Установите плагин VST. Пока не открывайте DAW.\nШаг 2: Заблокируйте телеметрию. (этот шаг не требуется для активации, но я бы все же рекомендовал заблокировать его) 1) Откройте это местоположение \"C:\\Windows\\System32\\drivers\\etc\" 2) Откройте \"хосты\" с помощью блокнота. Добавьте \"127.0.0.1 ffwd-auth.co.uk\" и сохраните его\nШаг 3: Наслаждайтесь полностью разблокированным плагином! ----------------------------------- Перейдите в папку плагина: \\AppData\\Roaming\\Sonix Audio\\TONEFLX\n1) Скопируйте и вставьте \"TONEFLX LAUNCH PARTY PRESETS\" в папку \"USER\" 2) Снова откройте плагин и проверьте папку \"USER\" внутри плагина. ---------------------------------- \nОбновление 1.1.0 Поместите файл \"TONEFLX.vst3\" в папку \"%COMMONPROGRAMFILES%\\VST3\\TONEFLX.vst3\\Contents\\x86_64-win\"",
+    "producer": "Jack Dark",
+    "install_instructions": "",
     "install_instructions_visible": true
   }
 ]
