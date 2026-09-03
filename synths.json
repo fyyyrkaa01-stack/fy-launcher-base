@@ -560,26 +560,50 @@
     "zip": ""
   },
   {
-    "id": "prophecy",
-    "title": "Prophecy",
-    "full_title": "KORG Prophecy v1.7.2",
+    "added_at": "2026-09-04",
     "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/prophecy_cover.png",
+    "description": "виртуальная версия того самого монофонического соло-синтезатора Prophecy. Для тех, кто любит характерные синтовые лиды и вообще старые Корги.",
+    "file_size": "211.1 MB",
+    "full_title": "KORG Prophecy v1.7.2",
+    "id": "prophecy",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:96b5bd0a3ea5c52fcc90a30ffbeb0967910242f7&dn=KORG.Prophecy.v1.7.2-R2R%2BRET&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "KORG",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/prophecy_cover.png",
+    "title": "Prophecy",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/prophecy.torrent",
-    "magnet": "magnet:?xt=urn:btih:96b5bd0a3ea5c52fcc90a30ffbeb0967910242f7&dn=KORG.Prophecy.v1.7.2-R2R%2BRET&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "memorymode_2",
+    "title": "Memorymode 2",
+    "full_title": "Cherry Audio Memorymode 2",
+    "arch": "SAL, VSTi, VST3, AAX |",
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/memorymode_2_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/memorymode_2.torrent",
+    "magnet": "magnet:?xt=urn:btih:f41abb01a71948bc61c27534d1f67dd5eff0718c&dn=Cherry.Audio.Memorymode.V2.v1.0.9.75-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "виртуальная версия того самого монофонического соло-синтезатора Prophecy. Для тех, кто любит характерные синтовые лиды и вообще старые Корги.",
+    "description": "переработанная эмуляция легендарного Memorymoog: два слоя по 16 голосов, три осциллятора, лестничный фильтр 12/24 дБ, арпеджиатор и секвенсор.\n\nЗдесь больше 800 пресетов, включая 100 заводских патчей Memorymoog, MPE, аналоговый дрейф и три независимые FX-цепочки с 22 эффектами. Можно импортировать оригинальные SysEx-банки.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-04",
     "sample_count": 0,
-    "file_size": "211.1 MB",
+    "file_size": "223.8 MB",
     "unpacked_size": "",
-    "producer": "KORG",
+    "producer": "Cherry Audio",
     "install_instructions": "",
     "install_instructions_visible": true
   }
