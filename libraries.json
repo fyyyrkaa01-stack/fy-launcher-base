@@ -560,26 +560,47 @@
     "zip": ""
   },
   {
-    "id": "nexus_4_complete",
-    "title": "Nexus 4 Complete",
-    "full_title": "reFX - Nexus v4.5.4 Complete",
+    "added_at": "2026-08-24",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_4_complete_cover.png",
+    "description": "1. Запустить файл reFX Nexus v4.5.4 CE.exe, указать путь к папке Nexus Library и установить. \n2. Распаковать NKS.exe файл и переместить распакованную папку NKS в папку Nexus Library. В ней находятся файлы предпрослушки пресетов и также некоторые пресеты для NI Maschine & Komplete Kontrol.\nФайл NexusFiles.exe позволяет отобразить все расширения и также относящиеся к ним папки Samples.",
+    "file_size": "197.35 GB",
+    "full_title": "reFX - Nexus v4.5.4 Complete",
+    "id": "nexus_4_complete",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:79c7febc23c674f228b6383d602d591cc750c289&dn=reFX%20-%20Nexus%204%20Complete&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "ReFX",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_4_complete_cover.png",
+    "title": "Nexus 4 Complete",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:79c7febc23c674f228b6383d602d591cc750c289&dn=reFX%20-%20Nexus%204%20Complete&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "session_guitarist_electric_neon",
+    "title": "Session Guitarist Electric Neon",
+    "full_title": "Native Instruments Session Guitarist Electric Neon Deluxe",
+    "arch": "",
+    "tags": [],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_guitarist_electric_neon_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/session_guitarist_electric_neon.torrent",
+    "magnet": "magnet:?xt=urn:btih:e46f44f855df68b05fe0fc7a6053bb7497525d6e&dn=Session%20Guitarist%20-%20Electric%20Neon%20Deluxe%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "1. Запустить файл reFX Nexus v4.5.4 CE.exe, указать путь к папке Nexus Library и установить. \n2. Распаковать NKS.exe файл и переместить распакованную папку NKS в папку Nexus Library. В ней находятся файлы предпрослушки пресетов и также некоторые пресеты для NI Maschine & Komplete Kontrol.\nФайл NexusFiles.exe позволяет отобразить все расширения и также относящиеся к ним папки Samples.",
+    "description": "библиотека для KONTAKT с готовыми электрогитарными партиями, которые хорошо вписываются в синтовые аранжировки.\n\nВнутри 240 жанровых паттернов, игра медиатором и пальцами, а также 30 вручную настроенных цепочек усилителей и эффектов",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-24",
+    "added_at": "2026-09-04",
     "sample_count": 0,
-    "file_size": "197.35 GB",
+    "file_size": "13.9 GB",
     "unpacked_size": "",
-    "producer": "ReFX",
+    "producer": "Native Instruments",
     "install_instructions": "",
-    "install_instructions_visible": true
+    "install_instructions_visible": false
   }
 ]
