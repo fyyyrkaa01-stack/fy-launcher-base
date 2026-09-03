@@ -561,30 +561,6 @@
   },
   {
     "added_at": "2026-09-04",
-    "arch": "VST3",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/prophecy_cover.png",
-    "description": "виртуальная версия того самого монофонического соло-синтезатора Prophecy. Для тех, кто любит характерные синтовые лиды и вообще старые Корги.",
-    "file_size": "211.1 MB",
-    "full_title": "KORG Prophecy v1.7.2",
-    "id": "prophecy",
-    "install_instructions": "",
-    "install_instructions_visible": true,
-    "magnet": "magnet:?xt=urn:btih:96b5bd0a3ea5c52fcc90a30ffbeb0967910242f7&dn=KORG.Prophecy.v1.7.2-R2R%2BRET&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "producer": "KORG",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "VST3",
-      "Synth"
-    ],
-    "title": "Prophecy",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/prophecy.torrent",
-    "unpacked_size": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "added_at": "2026-09-04",
     "arch": "SAL, VSTi, VST3, AAX |",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/memorymode_2_cover.png",
     "description": "переработанная эмуляция легендарного Memorymoog: два слоя по 16 голосов, три осциллятора, лестничный фильтр 12/24 дБ, арпеджиатор и секвенсор.\n\nЗдесь больше 800 пресетов, включая 100 заводских патчей Memorymoog, MPE, аналоговый дрейф и три независимые FX-цепочки с 22 эффектами. Можно импортировать оригинальные SysEx-банки.",
@@ -608,27 +584,51 @@
     "zip": ""
   },
   {
-    "id": "memory_rites",
-    "title": "Memory Rites",
+    "added_at": "2026-09-04",
+    "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/memory_rites_cover.png",
+    "description": "",
+    "file_size": "106.7 MB",
     "full_title": "Minimal Audio - EPROM Memory Rites v1.0.3",
+    "id": "memory_rites",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:dfa4f54af6b0dbf4f91a0b2b4189c641b60062ce&dn=OFFLINE_Minimal_Audio_EPROM_Memory_Rites_1.0.3_Incl_Keygen_MOCHA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "Minimal Audio",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "title": "Memory Rites",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/memory_rites.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "prophecy",
+    "title": "Prophecy",
+    "full_title": "KORG Prophecy v1.7.2",
     "arch": "VST3",
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/memory_rites_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/memory_rites.torrent",
-    "magnet": "magnet:?xt=urn:btih:dfa4f54af6b0dbf4f91a0b2b4189c641b60062ce&dn=OFFLINE_Minimal_Audio_EPROM_Memory_Rites_1.0.3_Incl_Keygen_MOCHA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/prophecy_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/prophecy.torrent",
+    "magnet": "magnet:?xt=urn:btih:96b5bd0a3ea5c52fcc90a30ffbeb0967910242f7&dn=KORG.Prophecy.v1.7.2-R2R%2BRET&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "",
+    "description": "виртуальная версия того самого монофонического соло-синтезатора Prophecy. Для тех, кто любит характерные синтовые лиды и вообще старые Корги.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-04",
     "sample_count": 0,
-    "file_size": "106.7 MB",
+    "file_size": "211.1 MB",
     "unpacked_size": "",
-    "producer": "Minimal Audio",
-    "install_instructions": "",
+    "producer": "KORG",
+    "install_instructions": "* Установите программу.\n* Запустите кейген и выполните регистрацию.\n\nПользуйтесь!\n\n* Версия с предварительно примененным патчем (работает в офлайн-режиме).\n\n> Попробуйте и купите программу/плагин, если они вам понравятся.\n> Всегда поддерживайте разработчика.",
     "install_instructions_visible": true
   }
 ]
