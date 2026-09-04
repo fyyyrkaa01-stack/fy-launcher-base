@@ -653,26 +653,50 @@
     "zip": ""
   },
   {
-    "id": "the_prince",
-    "title": "The Prince",
-    "full_title": "Cradle The Prince v1.1.3.0",
+    "added_at": "2026-09-05",
     "arch": "VST3 | VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/the_prince_cover.png",
+    "description": "За свою 20-летнюю карьеру Фрэнк Дьюкс создал некоторых из самых известных артистов этого поколения. Такие имена, как Дрейк, The Weeknd, Джеймс Блейк, Фрэнк Оушен и Тейлор Свифт, украшают его обширную коллекцию работ. Использование Фрэнком эмоциональных звуков, продуманных аранжировок и сочных мелодий стало отличительной чертой его песенного творчества и продюсирования.\nСодержание • Более 250 пресетов, созданных и отобранных Фрэнком • Более 130 исходных сэмплов из множества винтажных синтезаторов • Встроенный набор эффектов студийного качества • Смешивайте звуки с помощью мощного управления смешиванием",
+    "file_size": "496.6 MB",
+    "full_title": "Cradle The Prince v1.1.3.0",
+    "id": "the_prince",
+    "install_instructions": "1. Удалите все предыдущие версии. Убедитесь, что вы правильно удалили \\AppData\\Local\\Cradle и C:\\ProgramData\\Cradle. Результатом должна быть полностью чистая установка.\n2. Установите продукт Cradle.\n3. Запустите keygen (от имени администратора), выберите продукт, нажмите \"Generate\", затем \"Patch\", найдите файл и примените патч.\n4. Добавьте эти адреса в свой файл hosts:\n0.0.0.1 support.cradle.app. 0.0.0.1 api.staging.cradle.app 0.0.0.1 учетные записи.cradle.app 0.0.0.1 api.cradle.app 0.0.0.1 cradle.app\n4. Семиминутный перерыв в уборную закончился.\n---------------------------------------------------------------------------------------------------------------------------\nЯ изменил программу установки, чтобы создать JSON-файл artifacts, содержащий путь к библиотеке, выбранный во время установки, поэтому нет необходимости полагаться на HUB для изменения желаемого пути.\nДля \"The Prince\" нажмите \"ADVANCED\" перед созданием лицензии.\nЕсли вы хотите использовать Cradle Hub, просто установите то, что вам нужно, удалите \"global.json\" из \"\\AppData\\Local\\Cradle\" и запустите keygen; однако помните, что после этого вам нужно будет удалить концентратор.\nЗащита: JWT PS256 + XOR Blob + HW Lock / RSA-PSS 2048 (PS256)",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:fd7cf6f421026d09691b9c8d22abd7a5c5516c57&dn=Cradle%20-%20The%20Prince%20v1.1.3.0%20%5B-X-%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "Cradle",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/the_prince_cover.png",
+    "title": "The Prince",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/the_prince.torrent",
-    "magnet": "magnet:?xt=urn:btih:fd7cf6f421026d09691b9c8d22abd7a5c5516c57&dn=Cradle%20-%20The%20Prince%20v1.1.3.0%20%5B-X-%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "sq80_v",
+    "title": "SQ80 V",
+    "full_title": "Arturia - SQ80 V v1.1.2",
+    "arch": "VST | VST3",
+    "tags": [
+      "Synth",
+      "ARTURIA"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/sq80_v_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/sq80_v.torrent",
+    "magnet": "magnet:?xt=urn:btih:cd01d94670d1bc4d52ed46269b5c8cd999815c01&dn=Arturia%20-%20SQ80%20V%20MORiA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "За свою 20-летнюю карьеру Фрэнк Дьюкс создал некоторых из самых известных артистов этого поколения. Такие имена, как Дрейк, The Weeknd, Джеймс Блейк, Фрэнк Оушен и Тейлор Свифт, украшают его обширную коллекцию работ. Использование Фрэнком эмоциональных звуков, продуманных аранжировок и сочных мелодий стало отличительной чертой его песенного творчества и продюсирования.\nСодержание • Более 250 пресетов, созданных и отобранных Фрэнком • Более 130 исходных сэмплов из множества винтажных синтезаторов • Встроенный набор эффектов студийного качества • Смешивайте звуки с помощью мощного управления смешиванием",
+    "description": "ORGANIC DIGITAL WAVEMAKER SQ80 V — это возрожденный классический синтезатор Cross-Wave от Ensoniq 80-х, сочетающий в себе гибридный лоу-фай характер, сложные индустриальные текстуры и тысячи уникальных комбинаций волновых форм в быстродействующем программном синтезаторе, улучшенном для современного производства. Цифровой синтез разгадан. Цифровые синтезаторы часто известны своим острым, как бритва, кристально чистым и точным звуком — у SQ80 V другие идеи. Исследуйте подробное программное воскрешение цифрового антигероя, который хочет нарушить правила. Запечатлейте стойкость, характер и очаровательное несовершенство, любимое Джоном Карпентером, Адамски, мистером Банглом и многими другими, с помощью инструмента, который одновременно сложный и доступный, сфокусированный и замысловатый, резкий и сказочный — и не похожий ни на что, что вы слышали раньше.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "496.6 MB",
+    "file_size": "321.8 MB",
     "unpacked_size": "",
-    "producer": "Cradle",
-    "install_instructions": "1. Удалите все предыдущие версии. Убедитесь, что вы правильно удалили \\AppData\\Local\\Cradle и C:\\ProgramData\\Cradle. Результатом должна быть полностью чистая установка.\n2. Установите продукт Cradle.\n3. Запустите keygen (от имени администратора), выберите продукт, нажмите \"Generate\", затем \"Patch\", найдите файл и примените патч.\n4. Добавьте эти адреса в свой файл hosts:\n0.0.0.1 support.cradle.app. 0.0.0.1 api.staging.cradle.app 0.0.0.1 учетные записи.cradle.app 0.0.0.1 api.cradle.app 0.0.0.1 cradle.app\n4. Семиминутный перерыв в уборную закончился.\n---------------------------------------------------------------------------------------------------------------------------\nЯ изменил программу установки, чтобы создать JSON-файл artifacts, содержащий путь к библиотеке, выбранный во время установки, поэтому нет необходимости полагаться на HUB для изменения желаемого пути.\nДля \"The Prince\" нажмите \"ADVANCED\" перед созданием лицензии.\nЕсли вы хотите использовать Cradle Hub, просто установите то, что вам нужно, удалите \"global.json\" из \"\\AppData\\Local\\Cradle\" и запустите keygen; однако помните, что после этого вам нужно будет удалить концентратор.\nЗащита: JWT PS256 + XOR Blob + HW Lock / RSA-PSS 2048 (PS256)",
+    "producer": "Arturia",
+    "install_instructions": "1. Устанавливаем программу запустив файл SQ80_V__1_1_2_1843.exe 2. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папку C:\\ProgramData\\Arturia\\SQ80 V\\x64 3. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папки где установлены ваши плагины VST2 (по умолчанию C:\\Program Files\\Vstplugins) и VST3 (по умолчанию C:\\Program Files\\Common Files\\VST3) 4. Наслаждаемся))",
     "install_instructions_visible": true
   }
 ]
