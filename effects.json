@@ -1302,26 +1302,50 @@
     "zip": ""
   },
   {
-    "id": "massimizer",
-    "title": "Massimizer",
-    "full_title": "Emphaseas x Pretender - Massimizer v1.0.1",
+    "added_at": "2026-09-05",
     "arch": "VST3 | AU",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/massimizer_cover.png",
+    "description": "MASSIMIZER - это не просто рингмод сайдчейн компрессор с насыщением, а продуманная система экстремального усиления громкости без клиппинга и сохранением динамики и детализации. Гармоническое уплотнение сигнала без перегрузки по частотам. Темп-синхронизированный осцилограф - точная визуализация формы волны в ритме вашего трека. Многофункциональный измеритель динамики - контроль RMS, пиков и LUFS-M в реальном времени. Гониометр с фазовым анализатором и стереорасширителем - безупречная стереокартина и контроля моносовместимости.\n\nMASSIMIZER - это профессиональный инструмент для тех, кто не готов жертвовать качеством ради громкости. Используйте тот же секрет, что и ведущие инженеры сведения и мастеринга - контролируемая агрессия и максимальная мощность без клиппинга",
+    "file_size": "30 MB",
+    "full_title": "Emphaseas x Pretender - Massimizer v1.0.1",
+    "id": "massimizer",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "",
+    "producer": "Emphaseas x Pretender",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "КОМПРЕССОР"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/massimizer_cover.png",
+    "title": "Massimizer",
+    "torrent": "",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-massimizer.zip"
+  },
+  {
+    "id": "rough_rider_3",
+    "title": "Rough Rider 3",
+    "full_title": "Audio Damage Rough Rider 3",
+    "arch": "VST3 | VST",
+    "tags": [
+      "Effect",
+      "КОМПРЕССОР"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/rough_rider_3_cover.png",
     "torrent": "",
     "magnet": "",
-    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-massimizer.zip",
-    "description": "MASSIMIZER - это не просто рингмод сайдчейн компрессор с насыщением, а продуманная система экстремального усиления громкости без клиппинга и сохранением динамики и детализации. Гармоническое уплотнение сигнала без перегрузки по частотам. Темп-синхронизированный осцилограф - точная визуализация формы волны в ритме вашего трека. Многофункциональный измеритель динамики - контроль RMS, пиков и LUFS-M в реальном времени. Гониометр с фазовым анализатором и стереорасширителем - безупречная стереокартина и контроля моносовместимости.\n\nMASSIMIZER - это профессиональный инструмент для тех, кто не готов жертвовать качеством ради громкости. Используйте тот же секрет, что и ведущие инженеры сведения и мастеринга - контролируемая агрессия и максимальная мощность без клиппинга",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-rough_rider_3.zip",
+    "description": "Rough Rider (актуальная версия — Rough Rider 3) — это динамический компрессор с агрессивным, «винтажным» характером и теплым звучанием. Он не задумывался как универсальный инструмент для незаметного сжатия, а создан специально для того, чтобы добавлять плотность, панч и «кач» ритмическим трекам. [1, 2, 3, 4]\n🥁 Где применять: Лучше всего звучит на барабанных шинах (drum buss), партиях синтезаторного баса, агрессивного вокала и чистых гитар",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "30 MB",
+    "file_size": "5 MB",
     "unpacked_size": "",
-    "producer": "Emphaseas x Pretender",
+    "producer": "Audio Damage",
     "install_instructions": "",
     "install_instructions_visible": true
   }
