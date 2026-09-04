@@ -239,30 +239,6 @@
     "zip": ""
   },
   {
-    "added_at": "2026-08-24",
-    "arch": "849.8 MB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
-    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
-    "file_size": "878.2 MB",
-    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
-    "id": "arturia_sound_banks",
-    "install_instructions": "",
-    "install_instructions_visible": true,
-    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "producer": "Arturia",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "библиотека",
-      "ARTURIA"
-    ],
-    "title": "Arturia - Sound Banks",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/arturia_sound_banks.torrent",
-    "unpacked_size": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
     "added_at": "2026-09-05",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/chronos_for_omnisphere_cover.png",
@@ -696,25 +672,49 @@
     "zip": ""
   },
   {
-    "id": "nexus_5_content",
-    "title": "Nexus 5 Content",
-    "full_title": "reFX - Nexus 5 v5.1.0 [Incl. Nexus 5 Content]",
+    "added_at": "2026-08-24",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_5_content_cover.png",
+    "description": "Испытайте синтезатор, который действительно делает все. Обладая самыми современными функциями и непревзойденной универсальностью, NEXUS5 - это ворота в безграничное творчество.\n1) Установите Nexus 5.\nИз папки Nexus 5 Content:\n2) Скопируйте файл tags.csv и вставьте в папку «C:\\Users\\Public\\Documents\\reFX\\NEXUS». 3) Скопируйте N5_Factory_Presets.svg и вставьте в папку «C:\\Users\\Ваше имя пользователя\\AppData\\Roaming\\reFX\\cloud\\cache\\images». 4) Скопируйте папки NKS, Presets, Samples в вашу старую библиотеку Nexus! 5) Поздравляем и наслаждаемся!\n\nЕсли вы новый пользователь Nexus и у вас нет ранее выпущенных библиотек Nexus 4, просто укажите местоположение папки\nпапки «Nexus 5 Content», включенной в эту раздачу во время установки Nexus 5...\nВы также можете изменить расположение папки Content, отредактировав Settings.json в «C:\\Users\\Public\\Documents\\reFX\\NEXUS»\n(Используйте текстовый документ для редактирования)Пример редактирования строки: library_folder\": «F:\\\\Nexus 5 Factory Content Library\\\\Nexus 5 Content»\nИспользуйте двойной обратный \\\\ слеш между разделениями папок.",
+    "file_size": "11.4 GB",
+    "full_title": "reFX - Nexus 5 v5.1.0 [Incl. Nexus 5 Content]",
+    "id": "nexus_5_content",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:8da21153afccb3dad8fd6cc24ab392e62b1f7048&dn=reFX%20-%20Nexus%205%20v5.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "ReFX",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_5_content_cover.png",
+    "title": "Nexus 5 Content",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:8da21153afccb3dad8fd6cc24ab392e62b1f7048&dn=reFX%20-%20Nexus%205%20v5.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "arturia_sound_banks",
+    "title": "Arturia - Sound Banks",
+    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "arch": "",
+    "tags": [
+      "библиотека",
+      "ARTURIA"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/arturia_sound_banks.torrent",
+    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Испытайте синтезатор, который действительно делает все. Обладая самыми современными функциями и непревзойденной универсальностью, NEXUS5 - это ворота в безграничное творчество.\n1) Установите Nexus 5.\nИз папки Nexus 5 Content:\n2) Скопируйте файл tags.csv и вставьте в папку «C:\\Users\\Public\\Documents\\reFX\\NEXUS». 3) Скопируйте N5_Factory_Presets.svg и вставьте в папку «C:\\Users\\Ваше имя пользователя\\AppData\\Roaming\\reFX\\cloud\\cache\\images». 4) Скопируйте папки NKS, Presets, Samples в вашу старую библиотеку Nexus! 5) Поздравляем и наслаждаемся!\n\nЕсли вы новый пользователь Nexus и у вас нет ранее выпущенных библиотек Nexus 4, просто укажите местоположение папки\nпапки «Nexus 5 Content», включенной в эту раздачу во время установки Nexus 5...\nВы также можете изменить расположение папки Content, отредактировав Settings.json в «C:\\Users\\Public\\Documents\\reFX\\NEXUS»\n(Используйте текстовый документ для редактирования)Пример редактирования строки: library_folder\": «F:\\\\Nexus 5 Factory Content Library\\\\Nexus 5 Content»\nИспользуйте двойной обратный \\\\ слеш между разделениями папок.",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "11.4 GB",
+    "file_size": "878.2 MB",
     "unpacked_size": "",
-    "producer": "ReFX",
+    "producer": "Arturia",
     "install_instructions": "",
     "install_instructions_visible": true
   }
