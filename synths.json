@@ -1,26 +1,6 @@
 [
   {
     "added_at": "2026-08-24",
-    "arch": "STANDALONE, VSTi, VSTi3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/analog_lab_v_cover.png",
-    "description": "Антология клавишных инструментов\nСоздавайте, продюсируйте, выступайте. Analog Lab Pro — это плагин, объединяющий тысячи пресетов мирового класса, охватывающих десятки нестареющих инструментов, мгновенное управление и безупречную интеграцию — в одном месте. Полноценное редактирование пресетов, доступно только для владельцев полных версий наших синтезаторов (Mini V, Modular V, CS-80V, Wurlitzer V и т. д.).",
-    "file_size": "3.2 GB",
-    "full_title": "Arturia - Analog Lab V Pro v5.12.4",
-    "id": "analog_lab_v",
-    "install_instructions": "",
-    "install_instructions_visible": true,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:b8ae58053a07eceb60d1e89e706f78356feaeaf2&dn=Arturia.Analog.Lab.V.v5.12.4.VR&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "VST3"
-    ],
-    "title": "Analog Lab V",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "VSTi/AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/dune_3_cover.png",
     "description": "DUNE 3 построен на базе удостоенного наград синтезаторе DUNE 2, добавляя новые функции и инновационные идеи, чтобы создать лучший опыт работы с DUNE! DUNE 3 поставляется с множеством новых патчей, созданных опытными звукорежиссерами. Так как DUNE 3 полностью совместим с DUNE 2, он также включает в себя его звуковые предустановки - удвоение размера фабричной библиотеки до более чем 1000 патчей. Пересмотренный раздел фильтров в Dune 3 теперь содержит двойной многорежимный фильтр и эффект вставки. Различные режимы маршрутизации, такие как последовательное / параллельное и бесшовное смешивание с помощью регулятора баланса, обеспечивают неограниченный творческий потенциал! Также были добавлены новые типы фильтров, включающие фильтры в цепи обратной связи с нулевой задержкой, основанные на нашей новейшей технологии аналогового моделирования. Для творческого креатива есть новые эффекты вставки, такие как formant/vowel фильтр или фазер, которые значительно расширяют спектр возможностей звукового дизайна.",
@@ -706,23 +686,46 @@
     "zip": ""
   },
   {
-    "id": "pigments_7",
-    "title": "Pigments 7",
+    "added_at": "2026-08-24",
+    "arch": "STANDALONE, VSTi, VSTi3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
+    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
+    "file_size": "",
     "full_title": "Arturia - Pigments v..7.0.1",
+    "id": "pigments_7",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:7498cb3e5e5d33ec6a7c614d8b8a8f210d32e1c7&dn=Arturia%20Pigments%20v7.0.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "VST3"
+    ],
+    "title": "Pigments 7",
+    "torrent": "",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "analog_lab_v",
+    "title": "Analog Lab V",
+    "full_title": "Arturia - Analog Lab V Pro v5.12.4",
     "arch": "STANDALONE, VSTi, VSTi3, AAX",
     "tags": [
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/analog_lab_v_cover.png",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:7498cb3e5e5d33ec6a7c614d8b8a8f210d32e1c7&dn=Arturia%20Pigments%20v7.0.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "magnet": "magnet:?xt=urn:btih:b8ae58053a07eceb60d1e89e706f78356feaeaf2&dn=Arturia.Analog.Lab.V.v5.12.4.VR&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
+    "description": "Антология клавишных инструментов\nСоздавайте, продюсируйте, выступайте. Analog Lab Pro — это плагин, объединяющий тысячи пресетов мирового класса, охватывающих десятки нестареющих инструментов, мгновенное управление и безупречную интеграцию — в одном месте. Полноценное редактирование пресетов, доступно только для владельцев полных версий наших синтезаторов (Mini V, Modular V, CS-80V, Wurlitzer V и т. д.).",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "",
+    "file_size": "3.2 GB",
     "unpacked_size": "",
     "producer": "Arturia",
     "install_instructions": "",
