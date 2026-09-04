@@ -1193,25 +1193,49 @@
     "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-darkware.zip"
   },
   {
-    "id": "catalyst_series_bundle",
-    "title": "Catalyst Series Bundle",
-    "full_title": "iZotope - Catalyst Series Bundle",
+    "added_at": "2026-09-04",
     "arch": "VST3 | VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/catalyst_series_bundle_cover.png",
+    "description": "Плагины iZotope Aurora, Cascadia, Plasma, а теперь и Velvet, — это небольшие, оптимизированные плагины, которые отличаются от канальных линеек Ozone, Neutron и Nectar. Эти инструменты обеспечивают интеллектуальную реверберацию, сатурацию, задержку и деэссинг в виде серии Catalyst.\nОписание",
+    "file_size": "405.9 MB",
+    "full_title": "iZotope - Catalyst Series Bundle",
+    "id": "catalyst_series_bundle",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:90bfdbf880f0adcb558df11acb5b2896e51490d5&dn=iZotope.Catalyst.Series-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "iZotope",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/catalyst_series_bundle_cover.png",
+    "title": "Catalyst Series Bundle",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/catalyst_series_bundle.torrent",
-    "magnet": "magnet:?xt=urn:btih:90bfdbf880f0adcb558df11acb5b2896e51490d5&dn=iZotope.Catalyst.Series-R2R&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "orion",
+    "title": "Orion",
+    "full_title": "Cradle Orion v1.2.1.",
+    "arch": "VST3 | VST",
+    "tags": [
+      "Effect",
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/orion_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/orion.torrent",
+    "magnet": "magnet:?xt=urn:btih:55bc432e38da980336fc5c2f208a3e5c4eab6c5e&dn=Cradle%20-%20Orion%20v1.2.1%20%5BSEnki%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Плагины iZotope Aurora, Cascadia, Plasma, а теперь и Velvet, — это небольшие, оптимизированные плагины, которые отличаются от канальных линеек Ozone, Neutron и Nectar. Эти инструменты обеспечивают интеллектуальную реверберацию, сатурацию, задержку и деэссинг в виде серии Catalyst.\nОписание",
+    "description": "• Добавьте мощности, удара и веса вашим барабанам за считанные секунды • Инструменты насыщения, компрессии и гармонизации для придания формы вашим барабанам • Сложная параллельная маршрутизация упрощена до одного плагина • Очень низкая задержка",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-09-04",
+    "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "405.9 MB",
+    "file_size": "15.8 MB",
     "unpacked_size": "",
-    "producer": "iZotope",
+    "producer": "Cradle",
     "install_instructions": "",
     "install_instructions_visible": true
   }
