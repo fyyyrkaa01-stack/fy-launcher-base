@@ -497,30 +497,6 @@
     "zip": ""
   },
   {
-    "added_at": "2026-08-24",
-    "arch": "STANDALONE, VST3i, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
-    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
-    "file_size": "1.1 GB",
-    "full_title": "Native Instruments - Kontakt 8 v8.12.1",
-    "id": "kontakt_8",
-    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
-    "install_instructions_visible": true,
-    "magnet": "magnet:?xt=urn:btih:d46d2a09639862e3d97e55005eb0d1864ffa90e0&dn=Native%20Instruments%20-%20Kontakt%208%20v8.12.1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "producer": "Native Instruments",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "VST",
-      "VST3"
-    ],
-    "title": "Kontakt 8",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/kontakt_8.torrent",
-    "unpacked_size": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
     "added_at": "2026-09-04",
     "arch": "SAL, VSTi, VST3, AAX |",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/memorymode_2_cover.png",
@@ -709,26 +685,50 @@
     "zip": ""
   },
   {
-    "id": "pigments_7",
-    "title": "Pigments 7",
-    "full_title": "Arturia - Pigments v..7.0.1",
+    "added_at": "2026-08-24",
     "arch": "STANDALONE, VSTi, VSTi3, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
+    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
+    "file_size": "1.6 GB",
+    "full_title": "Arturia - Pigments v..7.0.1",
+    "id": "pigments_7",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:e3187979144e2ab088c80c390598d6eaa1627110&dn=Arturia.Pigments.v7.0.1.6772&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
+    "title": "Pigments 7",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/pigments_7.torrent",
-    "magnet": "magnet:?xt=urn:btih:e3187979144e2ab088c80c390598d6eaa1627110&dn=Arturia.Pigments.v7.0.1.6772&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "kontakt_8",
+    "title": "Kontakt 8",
+    "full_title": "Native Instruments - Kontakt 8 v8.13.0 [bobdule]",
+    "arch": "STANDALONE, VST3i, AAX",
+    "tags": [
+      "VST",
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/kontakt_8.torrent",
+    "magnet": "magnet:?xt=urn:btih:de21fd0ab07b98c7a77d2a3d8c40a8eaf876bda7&dn=Native%20Instruments%20-%20Kontakt%208%20v8.13.0%20%5Bbobdule%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
+    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "1.6 GB",
+    "file_size": "1.2 GB",
     "unpacked_size": "",
-    "producer": "Arturia",
-    "install_instructions": "",
+    "producer": "Native Instruments",
+    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
     "install_instructions_visible": true
   }
 ]
