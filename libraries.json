@@ -196,29 +196,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "11.43 GB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_5_content_cover.png",
-    "description": "Испытайте синтезатор, который действительно делает все. Обладая самыми современными функциями и непревзойденной универсальностью, NEXUS5 - это ворота в безграничное творчество.\n1) Установите Nexus 5.\nИз папки Nexus 5 Content:\n2) Скопируйте файл tags.csv и вставьте в папку «C:\\Users\\Public\\Documents\\reFX\\NEXUS». 3) Скопируйте N5_Factory_Presets.svg и вставьте в папку «C:\\Users\\Ваше имя пользователя\\AppData\\Roaming\\reFX\\cloud\\cache\\images». 4) Скопируйте папки NKS, Presets, Samples в вашу старую библиотеку Nexus! 5) Поздравляем и наслаждаемся!\n\nЕсли вы новый пользователь Nexus и у вас нет ранее выпущенных библиотек Nexus 4, просто укажите местоположение папки\nпапки «Nexus 5 Content», включенной в эту раздачу во время установки Nexus 5...\nВы также можете изменить расположение папки Content, отредактировав Settings.json в «C:\\Users\\Public\\Documents\\reFX\\NEXUS»\n(Используйте текстовый документ для редактирования)Пример редактирования строки: library_folder\": «F:\\\\Nexus 5 Factory Content Library\\\\Nexus 5 Content»\nИспользуйте двойной обратный \\\\ слеш между разделениями папок.",
-    "file_size": "11.4 GB",
-    "full_title": "reFX - Nexus 5 v5.1.0 [Incl. Nexus 5 Content]",
-    "id": "nexus_5_content",
-    "install_instructions": "",
-    "install_instructions_visible": true,
-    "magnet": "magnet:?xt=urn:btih:8da21153afccb3dad8fd6cc24ab392e62b1f7048&dn=reFX%20-%20Nexus%205%20v5.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "producer": "ReFX",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "библиотека"
-    ],
-    "title": "Nexus 5 Content",
-    "torrent": "",
-    "unpacked_size": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_4_complete_cover.png",
     "description": "1. Запустить файл reFX Nexus v4.5.4 CE.exe, указать путь к папке Nexus Library и установить. \n2. Распаковать NKS.exe файл и переместить распакованную папку NKS в папку Nexus Library. В ней находятся файлы предпрослушки пресетов и также некоторые пресеты для NI Maschine & Komplete Kontrol.\nФайл NexusFiles.exe позволяет отобразить все расширения и также относящиеся к ним папки Samples.",
@@ -695,26 +672,49 @@
     "zip": ""
   },
   {
-    "id": "play_series_hybrid_keys",
-    "title": "Play Series: HYBRID KEYS",
-    "full_title": "Native Instruments - Play Series: HYBRID KEYS 2.1.0",
+    "added_at": "2026-08-24",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_hybrid_keys_cover.png",
+    "description": "не нашел описание сорри",
+    "file_size": "3.7 GB",
+    "full_title": "Native Instruments - Play Series: HYBRID KEYS 2.1.0",
+    "id": "play_series_hybrid_keys",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:e54764fea9f9b4967d3467665f1457393d01595c&dn=Hybrid%20Keys%202.1.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "producer": "",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/play_series_hybrid_keys_cover.png",
+    "title": "Play Series: HYBRID KEYS",
     "torrent": "",
-    "magnet": "magnet:?xt=urn:btih:e54764fea9f9b4967d3467665f1457393d01595c&dn=Hybrid%20Keys%202.1.0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "nexus_5_content",
+    "title": "Nexus 5 Content",
+    "full_title": "reFX - Nexus 5 v5.1.0 [Incl. Nexus 5 Content]",
+    "arch": "",
+    "tags": [
+      "библиотека"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/nexus_5_content_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:8da21153afccb3dad8fd6cc24ab392e62b1f7048&dn=reFX%20-%20Nexus%205%20v5.1.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "не нашел описание сорри",
+    "description": "Испытайте синтезатор, который действительно делает все. Обладая самыми современными функциями и непревзойденной универсальностью, NEXUS5 - это ворота в безграничное творчество.\n1) Установите Nexus 5.\nИз папки Nexus 5 Content:\n2) Скопируйте файл tags.csv и вставьте в папку «C:\\Users\\Public\\Documents\\reFX\\NEXUS». 3) Скопируйте N5_Factory_Presets.svg и вставьте в папку «C:\\Users\\Ваше имя пользователя\\AppData\\Roaming\\reFX\\cloud\\cache\\images». 4) Скопируйте папки NKS, Presets, Samples в вашу старую библиотеку Nexus! 5) Поздравляем и наслаждаемся!\n\nЕсли вы новый пользователь Nexus и у вас нет ранее выпущенных библиотек Nexus 4, просто укажите местоположение папки\nпапки «Nexus 5 Content», включенной в эту раздачу во время установки Nexus 5...\nВы также можете изменить расположение папки Content, отредактировав Settings.json в «C:\\Users\\Public\\Documents\\reFX\\NEXUS»\n(Используйте текстовый документ для редактирования)Пример редактирования строки: library_folder\": «F:\\\\Nexus 5 Factory Content Library\\\\Nexus 5 Content»\nИспользуйте двойной обратный \\\\ слеш между разделениями папок.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "3.7 GB",
+    "file_size": "11.4 GB",
     "unpacked_size": "",
-    "producer": "",
+    "producer": "ReFX",
     "install_instructions": "",
     "install_instructions_visible": true
   }
