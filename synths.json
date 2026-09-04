@@ -2,25 +2,6 @@
   {
     "added_at": "2026-08-24",
     "arch": "STANDALONE, VSTi, VSTi3, AAX",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
-    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
-    "full_title": "Arturia - Pigments v..7.0.1",
-    "id": "pigments_7",
-    "install_instructions": "",
-    "install_instructions_visible": true,
-    "is_hidden": false,
-    "magnet": "magnet:?xt=urn:btih:7498cb3e5e5d33ec6a7c614d8b8a8f210d32e1c7&dn=Arturia%20Pigments%20v7.0.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "VST3"
-    ],
-    "title": "Pigments 7",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
-    "arch": "STANDALONE, VSTi, VSTi3, AAX",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/analog_lab_v_cover.png",
     "description": "Антология клавишных инструментов\nСоздавайте, продюсируйте, выступайте. Analog Lab Pro — это плагин, объединяющий тысячи пресетов мирового класса, охватывающих десятки нестареющих инструментов, мгновенное управление и безупречную интеграцию — в одном месте. Полноценное редактирование пресетов, доступно только для владельцев полных версий наших синтезаторов (Mini V, Modular V, CS-80V, Wurlitzer V и т. д.).",
     "file_size": "3.2 GB",
@@ -700,27 +681,50 @@
     "zip": ""
   },
   {
-    "id": "symphonic_elements_bundle",
-    "title": "Symphonic Elements Bundle",
-    "full_title": "UJAM - Symphonic Elements Bundle v2026.08",
+    "added_at": "2026-09-05",
     "arch": "VST3 | VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/symphonic_elements_bundle_cover.png",
+    "description": "Hans Zimmer’s Symphonic Elements предлагают голливудские струнные, духовые, ударные и перкуссионные ансамбли в простой в использовании и вдохновляющей серии виртуальных инструментов. Навыки оркестровки не требуются.\nВсемирно известный голливудский саунд BRAAASS, DRUMS, STRIIIINGS и PERRCS сочетают исключительные оркестровые исполнения с захватывающими вариантами звукового оформления - от четкого симфонического звучания до научно-фантастических звуковых ландшафтов.",
+    "file_size": "16.8 GB",
+    "full_title": "UJAM - Symphonic Elements Bundle v2026.08",
+    "id": "symphonic_elements_bundle",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:782a72ed67e87a5fbdc3499747584525d39bce2c&dn=UJAM%20-%20Symphonic%20Elements%20Bundle%20v2026.08%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "producer": "UJAM",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST3",
       "Synth",
       "DAW"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/symphonic_elements_bundle_cover.png",
+    "title": "Symphonic Elements Bundle",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/symphonic_elements_bundle.torrent",
-    "magnet": "magnet:?xt=urn:btih:782a72ed67e87a5fbdc3499747584525d39bce2c&dn=UJAM%20-%20Symphonic%20Elements%20Bundle%20v2026.08%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "pigments_7",
+    "title": "Pigments 7",
+    "full_title": "Arturia - Pigments v..7.0.1",
+    "arch": "STANDALONE, VSTi, VSTi3, AAX",
+    "tags": [
+      "VST3"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/pigments_7_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:7498cb3e5e5d33ec6a7c614d8b8a8f210d32e1c7&dn=Arturia%20Pigments%20v7.0.1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Hans Zimmer’s Symphonic Elements предлагают голливудские струнные, духовые, ударные и перкуссионные ансамбли в простой в использовании и вдохновляющей серии виртуальных инструментов. Навыки оркестровки не требуются.\nВсемирно известный голливудский саунд BRAAASS, DRUMS, STRIIIINGS и PERRCS сочетают исключительные оркестровые исполнения с захватывающими вариантами звукового оформления - от четкого симфонического звучания до научно-фантастических звуковых ландшафтов.",
+    "description": "Pigments — это программный VST-плагин, позволяющий создавать любые звуки, от лучших современных пресетов, готовых к микшированию, до глубокой настройки пользовательских звуков. Исследуйте все оттенки синтеза и воплотите свои самые смелые звуковые фантазии в реальность, независимо от вашего стиля.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-09-05",
+    "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "16.8 GB",
+    "file_size": "",
     "unpacked_size": "",
-    "producer": "UJAM",
+    "producer": "Arturia",
     "install_instructions": "",
     "install_instructions_visible": true
   }
