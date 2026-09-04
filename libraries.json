@@ -863,26 +863,50 @@
     "zip": ""
   },
   {
-    "id": "jump_up_drum_and_bass",
-    "title": "Jump-Up - Drum and Bass",
+    "added_at": "2026-09-05",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/jump_up_drum_and_bass_cover.png",
+    "description": "Вдохновленные взрывной атмосферой современных драм-н-бейс треков, мы создали Jump-Up Drum & Bass Detonator, предоставляющий всё необходимое для создания запоминающегося, мощного джамп-ап трека в темпе 174 BPM. Этот пакет, содержащий 717 файлов (862 МБ) с передовыми звуками, создан для скорости, мощи и гибкости. От агрессивных басов и энергичных ударных до готовых к фестивалям эффектов и атмосферных звуков — каждый элемент разработан для мощного и актуального звучания. Мелодические наборы дают вам мгновенное вдохновение и полный контроль. Каждый набор включает в себя полные лупы микса, отдельные дорожки и MIDI-файлы, поэтому вы можете быстро изменять мелодии или адаптировать их к своему собственному звучанию. Весь мелодический контент поставляется с MIDI-файлами, что упрощает комбинирование звуков с ваншотами внутри сэмплера или включенными пресетами Serum 2.",
+    "file_size": "862.7 MB",
     "full_title": "Ghosthack - Jump-Up - Drum and Bass",
+    "id": "jump_up_drum_and_bass",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:08814a471ba3cce189b290328907b070e99c2a6d&dn=Ghosthack%20-%20Jump-Up%20-%20Drum%20and%20Bass&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "Ghosthack",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "библиотека",
+      "SERUM"
+    ],
+    "title": "Jump-Up - Drum and Bass",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/jump_up_drum_and_bass.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "mycellium_vol_2",
+    "title": "Mycellium Vol. 2",
+    "full_title": "Mycellium Vol. 2: Dark & Forest Serum 2 Presets",
     "arch": "",
     "tags": [
       "библиотека",
       "SERUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/jump_up_drum_and_bass_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/jump_up_drum_and_bass.torrent",
-    "magnet": "magnet:?xt=urn:btih:08814a471ba3cce189b290328907b070e99c2a6d&dn=Ghosthack%20-%20Jump-Up%20-%20Drum%20and%20Bass&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/mycellium_vol_2_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/mycellium_vol_2.torrent",
+    "magnet": "magnet:?xt=urn:btih:81dfdc019f36a6a6d309409835dac3f98911c8ea&dn=Freak%20Audio%20Mycellium%20Vol.2%20Dark%20%26%20Forest%20Serum%202%20Presets&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
     "zip": "",
-    "description": "Вдохновленные взрывной атмосферой современных драм-н-бейс треков, мы создали Jump-Up Drum & Bass Detonator, предоставляющий всё необходимое для создания запоминающегося, мощного джамп-ап трека в темпе 174 BPM. Этот пакет, содержащий 717 файлов (862 МБ) с передовыми звуками, создан для скорости, мощи и гибкости. От агрессивных басов и энергичных ударных до готовых к фестивалям эффектов и атмосферных звуков — каждый элемент разработан для мощного и актуального звучания. Мелодические наборы дают вам мгновенное вдохновение и полный контроль. Каждый набор включает в себя полные лупы микса, отдельные дорожки и MIDI-файлы, поэтому вы можете быстро изменять мелодии или адаптировать их к своему собственному звучанию. Весь мелодический контент поставляется с MIDI-файлами, что упрощает комбинирование звуков с ваншотами внутри сэмплера или включенными пресетами Serum 2.",
+    "description": "Freak Audio Mycellium Vol. 2 — генеративный банк звуков, созданный эксклюзивно для синтезатора Xfer Serum 2. Пак ориентирован на такие стили, как Dark Psytrance, Forest Psy, Twilight, Night Psy, Psycore и экспериментальный глитч/басс саунд-дизайн.\nПресеты используют расширенные возможности архитектуры Serum 2: многоступенчатую матрицу модуляции, спектральный морфинг, стохастические LFO и генераторы хаоса, за счет чего патчи непрерывно мутируют и звучат органично без монотонных повторений.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "862.7 MB",
+    "file_size": "175.5 MB",
     "unpacked_size": "",
-    "producer": "Ghosthack",
+    "producer": "",
     "install_instructions": "",
     "install_instructions_visible": true
   }
