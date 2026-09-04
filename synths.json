@@ -708,27 +708,52 @@
     "zip": ""
   },
   {
-    "id": "kontakt_8",
-    "title": "Kontakt 8",
-    "full_title": "Native Instruments - Kontakt 8 v8.13.0 [bobdule]",
+    "added_at": "2026-08-24",
     "arch": "STANDALONE, VST3i, AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "file_size": "1.2 GB",
+    "full_title": "Native Instruments - Kontakt 8 v8.13.0 [bobdule]",
+    "id": "kontakt_8",
+    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:de21fd0ab07b98c7a77d2a3d8c40a8eaf876bda7&dn=Native%20Instruments%20-%20Kontakt%208%20v8.13.0%20%5Bbobdule%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+    "producer": "Native Instruments",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "VST",
       "VST3"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/kontakt_8_cover.png",
+    "title": "Kontakt 8",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/kontakt_8.torrent",
-    "magnet": "magnet:?xt=urn:btih:de21fd0ab07b98c7a77d2a3d8c40a8eaf876bda7&dn=Native%20Instruments%20-%20Kontakt%208%20v8.13.0%20%5Bbobdule%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
-    "zip": "",
-    "description": "Платформа для виртуальных инструментов, созданная заново Представьте себе любой звук - Kontakt позволит вам найти его, создать и преобразовать. Последняя версия нашей революционной платформы для сэмплирования сочетает в себе совершенно новый набор интеллектуальных инструментов и бесчисленные возможности для создания звуков, заново определяя, как вы генерируете идеи и создаете музыку.",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "meowsynth",
+    "title": "MeowSynth",
+    "full_title": "MeowSynth WIN 32",
+    "arch": "VST3",
+    "tags": [
+      "VST3",
+      "Synth",
+      "котики"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/meowsynth_cover.png",
+    "torrent": "",
+    "magnet": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/synths-meowsynth.zip",
+    "description": "это легендарный бесплатный виртуальный синтезатор (VST-плагин), созданный отечественным разработчиком под ником Knobster, который полностью имитирует\nкошачье мяуканье. Выпущенный еще в 2009 году, он стал культовым интернет-мемом в сообществе музыкантов и продюсеров благодаря своему забавному интерфейсу с анимированным котом, который открывает рот в такт нажимаемым нотам. [1, 2, 3]",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-24",
+    "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "1.2 GB",
+    "file_size": "",
     "unpacked_size": "",
-    "producer": "Native Instruments",
-    "install_instructions": "1) Запустите программу Kontakt 8 8.11.0 Setup на своем компьютере. 2) Отключите антивирус и распакуйте KKontakt 8.11.0 Full Options Patcher.7z, затем запустите Kontakt 8.11.0 Full Options Patcher от имени администратора. (Если при установке вы сняли флажок AAX или VST3, патчер сообщит вам, что не может найти файл, просто нажмите кнопку NO). Нажмите кнопку Patch и дождитесь появления текста \nDONE \nв левом нижнем углу.\n\nКак добавить библиотеку?? После успешной регистрации Kontakt, вы можете добавить библиотеку с «Kontakt_Button» в папку «C:\\Program Files\\Native Instruments\\Kontakt 8» Если эта утилита отсутствует, возможно, она была занесена в черный список вашим антивирусом или Kontakt не зарегистрировался должным образом.\n\nМогу ли я установить последнюю версию Kontakt 8 поверх предыдущей версии Kontakt (bobdule)? ДА! Можно, только убедитесь, что вы используете то же самое расположение (по умолчанию).\n\nKontakt 6/7 или Kontakt 8 могут работать бок о бок? Да! Вы можете установить обе версии без каких-либо конфликтов.",
+    "producer": "KNOBSTER",
+    "install_instructions": "",
     "install_instructions_visible": true
   }
 ]
