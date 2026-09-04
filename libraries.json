@@ -98,26 +98,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "2.65 GB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ashlight_cover.png",
-    "description": "",
-    "file_size": "2.6 GB",
-    "full_title": "Native Instruments - ASHLIGHT 1.6.0",
-    "id": "ashlight",
-    "magnet": "magnet:?xt=urn:btih:263c29f9a7ad5d24598260a8cc16e24a94b8b999&dn=Ashlight%201.6.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "библиотека",
-      "KONTAKT"
-    ],
-    "title": "ASHLIGHT",
-    "torrent": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "2.4 GB",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/straylight_cover.png",
     "description": "Создавайте уникальные кинематографические звуковые ландшафты, переходы и окружающие тона в реальном времени. Созданный для звукорежиссёров и композиторов фильмов, телевидения и игр, Straylight идеально подходит для всего: от постапокалиптической научной фантастики до суровых триллеров. Он сочетает в себе специализированные модули детализации и воспроизведения сэмплов с тщательно подобранными источниками звуков, эффектами и мощной матрицей модуляции X-Y, обеспечивающей вдохновляющее динамичное исполнение и звуковой дизайн непосредственно на изображении.",
@@ -695,26 +675,50 @@
     "zip": ""
   },
   {
-    "id": "arturia_sound_banks",
-    "title": "Arturia - Sound Banks",
-    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "added_at": "2026-08-24",
     "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "file_size": "878.2 MB",
+    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "id": "arturia_sound_banks",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "ARTURIA"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "title": "Arturia - Sound Banks",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/arturia_sound_banks.torrent",
-    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "ashlight",
+    "title": "ASHLIGHT",
+    "full_title": "Native Instruments - ASHLIGHT 1.6.0",
+    "arch": "",
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ashlight_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:263c29f9a7ad5d24598260a8cc16e24a94b8b999&dn=Ashlight%201.6.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
     "zip": "",
-    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "878.2 MB",
+    "file_size": "2.6 GB",
     "unpacked_size": "",
-    "producer": "Arturia",
+    "producer": "",
     "install_instructions": "",
     "install_instructions_visible": true
   }
