@@ -676,27 +676,52 @@
     "zip": ""
   },
   {
-    "id": "sq80_v",
-    "title": "SQ80 V",
-    "full_title": "Arturia - SQ80 V v1.1.2",
+    "added_at": "2026-09-05",
     "arch": "VST | VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/sq80_v_cover.png",
+    "description": "ORGANIC DIGITAL WAVEMAKER SQ80 V — это возрожденный классический синтезатор Cross-Wave от Ensoniq 80-х, сочетающий в себе гибридный лоу-фай характер, сложные индустриальные текстуры и тысячи уникальных комбинаций волновых форм в быстродействующем программном синтезаторе, улучшенном для современного производства. Цифровой синтез разгадан. Цифровые синтезаторы часто известны своим острым, как бритва, кристально чистым и точным звуком — у SQ80 V другие идеи. Исследуйте подробное программное воскрешение цифрового антигероя, который хочет нарушить правила. Запечатлейте стойкость, характер и очаровательное несовершенство, любимое Джоном Карпентером, Адамски, мистером Банглом и многими другими, с помощью инструмента, который одновременно сложный и доступный, сфокусированный и замысловатый, резкий и сказочный — и не похожий ни на что, что вы слышали раньше.",
+    "file_size": "321.8 MB",
+    "full_title": "Arturia - SQ80 V v1.1.2",
+    "id": "sq80_v",
+    "install_instructions": "1. Устанавливаем программу запустив файл SQ80_V__1_1_2_1843.exe 2. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папку C:\\ProgramData\\Arturia\\SQ80 V\\x64 3. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папки где установлены ваши плагины VST2 (по умолчанию C:\\Program Files\\Vstplugins) и VST3 (по умолчанию C:\\Program Files\\Common Files\\VST3) 4. Наслаждаемся))",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:cd01d94670d1bc4d52ed46269b5c8cd999815c01&dn=Arturia%20-%20SQ80%20V%20MORiA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Synth",
       "ARTURIA"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/sq80_v_cover.png",
+    "title": "SQ80 V",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/sq80_v.torrent",
-    "magnet": "magnet:?xt=urn:btih:cd01d94670d1bc4d52ed46269b5c8cd999815c01&dn=Arturia%20-%20SQ80%20V%20MORiA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "symphonic_elements_bundle",
+    "title": "Symphonic Elements Bundle",
+    "full_title": "UJAM - Symphonic Elements Bundle v2026.08",
+    "arch": "VST3 | VST",
+    "tags": [
+      "VST3",
+      "Synth",
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/symphonic_elements_bundle_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/symphonic_elements_bundle.torrent",
+    "magnet": "magnet:?xt=urn:btih:782a72ed67e87a5fbdc3499747584525d39bce2c&dn=UJAM%20-%20Symphonic%20Elements%20Bundle%20v2026.08%20%5BR2R%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "ORGANIC DIGITAL WAVEMAKER SQ80 V — это возрожденный классический синтезатор Cross-Wave от Ensoniq 80-х, сочетающий в себе гибридный лоу-фай характер, сложные индустриальные текстуры и тысячи уникальных комбинаций волновых форм в быстродействующем программном синтезаторе, улучшенном для современного производства. Цифровой синтез разгадан. Цифровые синтезаторы часто известны своим острым, как бритва, кристально чистым и точным звуком — у SQ80 V другие идеи. Исследуйте подробное программное воскрешение цифрового антигероя, который хочет нарушить правила. Запечатлейте стойкость, характер и очаровательное несовершенство, любимое Джоном Карпентером, Адамски, мистером Банглом и многими другими, с помощью инструмента, который одновременно сложный и доступный, сфокусированный и замысловатый, резкий и сказочный — и не похожий ни на что, что вы слышали раньше.",
+    "description": "Hans Zimmer’s Symphonic Elements предлагают голливудские струнные, духовые, ударные и перкуссионные ансамбли в простой в использовании и вдохновляющей серии виртуальных инструментов. Навыки оркестровки не требуются.\nВсемирно известный голливудский саунд BRAAASS, DRUMS, STRIIIINGS и PERRCS сочетают исключительные оркестровые исполнения с захватывающими вариантами звукового оформления - от четкого симфонического звучания до научно-фантастических звуковых ландшафтов.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "321.8 MB",
+    "file_size": "16.8 GB",
     "unpacked_size": "",
-    "producer": "Arturia",
-    "install_instructions": "1. Устанавливаем программу запустив файл SQ80_V__1_1_2_1843.exe 2. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папку C:\\ProgramData\\Arturia\\SQ80 V\\x64 3. Из папки MORiA копируем файлы SQ80 V.dll и SQ80 V.vst3 в папки где установлены ваши плагины VST2 (по умолчанию C:\\Program Files\\Vstplugins) и VST3 (по умолчанию C:\\Program Files\\Common Files\\VST3) 4. Наслаждаемся))",
+    "producer": "UJAM",
+    "install_instructions": "",
     "install_instructions_visible": true
   }
 ]
