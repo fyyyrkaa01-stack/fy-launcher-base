@@ -1247,26 +1247,50 @@
     "zip": ""
   },
   {
-    "id": "tonal_balance_control_3",
-    "title": "Tonal Balance Control 3",
-    "full_title": "iZotope Tonal Balance Control 3 v3.2.0",
+    "added_at": "2026-09-05",
     "arch": "VST3 | VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/tonal_balance_control_3_cover.png",
+    "description": "Для тех, кто постоянно сверяет микс с референсами. iZotope Tonal Balance Control 3 v3.2.0 показывает, насколько частотный баланс трека попадает в нужную цель, и предлагает 30+ жанровых эталонов.\n\nМожно захватывать свои референсы, смешивать два профиля через Target Blender и оценивать отдельно вокал, динамику и ширину стерео. А встроенный гибридный EQ позволяет сразу подправить проблемные места, не выходя из TBC.",
+    "file_size": "248.4 MB",
+    "full_title": "iZotope Tonal Balance Control 3 v3.2.0",
+    "id": "tonal_balance_control_3",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:bd4df61b087fb8262b9953fbe66e17effa4b4746&dn=iZotope%20-%20Tonal%20Balance%20Control%203%20v3.2.0%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "iZotope",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect",
       "Mastering"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/tonal_balance_control_3_cover.png",
+    "title": "Tonal Balance Control 3",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/tonal_balance_control_3.torrent",
-    "magnet": "magnet:?xt=urn:btih:bd4df61b087fb8262b9953fbe66e17effa4b4746&dn=iZotope%20-%20Tonal%20Balance%20Control%203%20v3.2.0%20%5BR2R%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "mangler",
+    "title": "Mangler",
+    "full_title": "Unison - Mangler v.1.4.8",
+    "arch": "VST3 | VST",
+    "tags": [
+      "Effect",
+      "САТУРАЦИЯ"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/mangler_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/mangler.torrent",
+    "magnet": "magnet:?xt=urn:btih:fa5e0fcdf8e0f5493381c06b30df2ca6947136cd&dn=Unison.Mangler.v1.4.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Для тех, кто постоянно сверяет микс с референсами. iZotope Tonal Balance Control 3 v3.2.0 показывает, насколько частотный баланс трека попадает в нужную цель, и предлагает 30+ жанровых эталонов.\n\nМожно захватывать свои референсы, смешивать два профиля через Target Blender и оценивать отдельно вокал, динамику и ширину стерео. А встроенный гибридный EQ позволяет сразу подправить проблемные места, не выходя из TBC.",
+    "description": "1. Mangle\nЭта ручка активирует уникальный гибридный эффект дисторшна и компрессии, на настройку которого у нас ушли месяцы тестирования.\n2. Destroy\nЭта ручка активирует наш самый агрессивный аналоговый дисторшн, чтобы ваши звуки сводили слушателей с ума.\n3. Bite\nЭта ручка активирует эффект битового дробителя, чтобы придать вашим звукам дополнительную остроту и уникальность.\n4. Expand\nЭта ручка обеспечивает безупречную ширину стереозвучания, чтобы получить сверхширокий звук, который украсит ваш микс.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "248.4 MB",
+    "file_size": "84.1 MB",
     "unpacked_size": "",
-    "producer": "iZotope",
+    "producer": "Unison",
     "install_instructions": "",
     "install_instructions_visible": true
   }
