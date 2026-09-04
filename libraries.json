@@ -81,25 +81,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "4.91 GB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/the_grandeur_cover.png",
-    "description": "Яркий, современный новый Grand-рояль от Native Instruments.",
-    "full_title": "Native Instruments - The Grandeur (KONTAKT)",
-    "id": "the_grandeur",
-    "magnet": "magnet:?xt=urn:btih:4e51c2ed6ec06519a790e048543a8702cc75ea58&dn=The%20Grandeur%20v%201.2.0&tr=http%3A%2F%2Fbt4.rutracker.org%2Fann%3Fuk%3D0G5ZNZuoaP&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "sample_count": 0,
-    "screenshots": [],
-    "tags": [
-      "библиотека",
-      "KONTAKT"
-    ],
-    "title": "The Grandeur",
-    "torrent": "",
-    "video_url": "",
-    "zip": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "9.98 GB",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/una_corda_cover.png",
     "description": "Подготовленное фортепиано с оригинальным звучанием, созданное Дэвидом Клэвинсом совместно с композитором Нильсом Фрамом.",
@@ -635,27 +616,51 @@
     "zip": ""
   },
   {
-    "id": "noire",
-    "title": "Noire",
+    "added_at": "2026-08-24",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/noire_cover.png",
+    "description": "Размер: 14.91 GB\nВыразительный концертный рояль. • Концертный рояль Нильса Фрама, тщательно сэмплированный в легендарном месте • Чистые, с войлочным демпфированием и версии со звуковым дизайном с широкими возможностями настройки • Инновационный движок частиц вдохновляет на идеи для сольных композиций, партитур и многого другого",
+    "file_size": "15.1 GB",
     "full_title": "Noire 1.2.1 Full + Update (KONTAKT)",
+    "id": "noire",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "magnet": "magnet:?xt=urn:btih:aadf63d055e03c051498230ab0a799f790f038d6&dn=Noire%201.2.1%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "producer": "",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "библиотека",
+      "KONTAKT"
+    ],
+    "title": "Noire",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/noire.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "the_grandeur",
+    "title": "The Grandeur",
+    "full_title": "Native Instruments - The Grandeur (KONTAKT)",
     "arch": "",
     "tags": [
       "библиотека",
       "KONTAKT"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/noire_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/noire.torrent",
-    "magnet": "magnet:?xt=urn:btih:aadf63d055e03c051498230ab0a799f790f038d6&dn=Noire%201.2.1%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/the_grandeur_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:4e51c2ed6ec06519a790e048543a8702cc75ea58&dn=The%20Grandeur%20v%201.2.0&tr=http%3A%2F%2Fbt4.rutracker.org%2Fann%3Fuk%3D0G5ZNZuoaP&tr=http%3A%2F%2Fretracker.local%2Fannounce",
     "zip": "",
-    "description": "Размер: 14.91 GB\nВыразительный концертный рояль. • Концертный рояль Нильса Фрама, тщательно сэмплированный в легендарном месте • Чистые, с войлочным демпфированием и версии со звуковым дизайном с широкими возможностями настройки • Инновационный движок частиц вдохновляет на идеи для сольных композиций, партитур и многого другого",
+    "description": "Яркий, современный новый Grand-рояль от Native Instruments.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "15.1 GB",
+    "file_size": "4.91 GB",
     "unpacked_size": "",
     "producer": "",
     "install_instructions": "",
-    "install_instructions_visible": false
+    "install_instructions_visible": true
   }
 ]
