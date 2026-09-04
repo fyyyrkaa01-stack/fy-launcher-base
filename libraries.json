@@ -932,26 +932,50 @@
     "zip": ""
   },
   {
-    "id": "fiction_indie_dance",
-    "title": "Fiction - Indie Dance",
+    "added_at": "2026-09-05",
+    "arch": "",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/fiction_indie_dance_cover.png",
+    "description": "Fiction — это ваш полный набор инструментов для современного инди-дэнса: гипнотический, грувовый звук, созданный для утренних сетов и ночных танцполов. Глубокие басовые линии, заводная перкуссия и ритмы, призванные поддерживать непрерывное движение на танцполе. Вдохновлённый такими артистами, как Brunello, Adam Ten и Mita Gami, а также лейблами Maccabi House, Crosstown Rebels и Diynamic, Fiction предоставляет вам строительные блоки для создания собственных гипнотических, готовых к клубной жизни грувов. Минимальные, плотные ударные оставляют грув открытым для глубоких басовых линий, сокрушительного грита, быстрых вибрато-лидов и зацикленных вокальных хуков, каждый слой тянет трек вперед. Каждый звук разработан таким образом, чтобы сочетаться друг с другом, быть богатым по текстуре и идеально вписываться в микс, поэтому слои сливаются с первого такта.",
+    "file_size": "1.9 GB",
     "full_title": "The Producer School - Fiction - Indie Dance",
+    "id": "fiction_indie_dance",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:fc4070599292c847ffdc54a07fafafd19131c836&dn=The%20Producer%20School%20-%20Fiction%20-%20Indie%20Dance&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "producer": "The Producer School",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "библиотека",
+      "SERUM"
+    ],
+    "title": "Fiction - Indie Dance",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/fiction_indie_dance.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "ultimate_producer_bundle",
+    "title": "Ultimate Producer Bundle",
+    "full_title": "Ghosthack - Ultimate Producer Bundle 2026",
     "arch": "",
     "tags": [
       "библиотека",
       "SERUM"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/fiction_indie_dance_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/fiction_indie_dance.torrent",
-    "magnet": "magnet:?xt=urn:btih:fc4070599292c847ffdc54a07fafafd19131c836&dn=The%20Producer%20School%20-%20Fiction%20-%20Indie%20Dance&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/ultimate_producer_bundle_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:ab2d8fa692a87dc425c83caa761ba1a0a0cb4c18&dn=Ghosthack%20-%20Ultimate%20Producer%20Bundle%202026&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Fiction — это ваш полный набор инструментов для современного инди-дэнса: гипнотический, грувовый звук, созданный для утренних сетов и ночных танцполов. Глубокие басовые линии, заводная перкуссия и ритмы, призванные поддерживать непрерывное движение на танцполе. Вдохновлённый такими артистами, как Brunello, Adam Ten и Mita Gami, а также лейблами Maccabi House, Crosstown Rebels и Diynamic, Fiction предоставляет вам строительные блоки для создания собственных гипнотических, готовых к клубной жизни грувов. Минимальные, плотные ударные оставляют грув открытым для глубоких басовых линий, сокрушительного грита, быстрых вибрато-лидов и зацикленных вокальных хуков, каждый слой тянет трек вперед. Каждый звук разработан таким образом, чтобы сочетаться друг с другом, быть богатым по текстуре и идеально вписываться в микс, поэтому слои сливаются с первого такта.",
+    "description": "Ultimate Producer Bundle 2026. Оцените 24 полных звуковых пакета, которые улучшат ваше творчество, вдохновение и продуктивность. Более 226 000 продюсеров создали успешные треки с использованием аудиосэмплов Ghosthack.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "1.9 GB",
+    "file_size": "18.5 GB",
     "unpacked_size": "",
-    "producer": "The Producer School",
+    "producer": "Ghosthack",
     "install_instructions": "",
     "install_instructions_visible": true
   }
