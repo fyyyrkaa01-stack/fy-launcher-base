@@ -43,25 +43,6 @@
   {
     "added_at": "2026-08-24",
     "arch": "",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
-    "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
-    "file_size": "377.6 MB",
-    "full_title": "Bitwig Studio 6.0",
-    "id": "bitwig_studio",
-    "magnet": "magnet:?xt=urn:btih:0df73ce205ec1905427a29ec9998ee8b8b61640c&dn=Bitwig%20Studio%20v6.0%20Windows-Team%20BATs&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "screenshots": [
-      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_screenshot_1.png"
-    ],
-    "tags": [
-      "DAW"
-    ],
-    "title": "Bitwig Studio",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
-    "arch": "",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/reaper_cover.png",
     "description": "Cockos Reaper является одной из самых продвинутых программ для создания музыки, как в студии, так и в домашних условиях. Главная «фишка» программы заключается в том, что она имеет паттерновое, клавиатурное и аудио редактирование. Вы можете задавать неограниченное количество аудио или миди треков, не считая того, сколько можно добавить виртуальных инструментов формата VST. Reaper занимает не такое большое место на жестком диске и не загружает процессор, как программы из серии FL Studio, Cubase, Reason или Sonar. С данной программой вы сможете работать даже на маломощных компьютерах с звуковыми картами, которые не поддерживают режимы работы Full duplex. Хотя, если саундкарта поддерживает этот режим, вы получите неограниченные возможности по созданию своих композиций с профессиональным звучанием даже в таких форматах, как 5+1, а при наличии дополнительных плагинов, и 7+1.\n\n1. После установки программы запустить REAPER_KeyGen.exe, вписать любой Email, нажать \nPATCH \nи указать на файл reaper.exe_в папке с установленной программой.\n2. Нажать GENERATE и сохранить файл лицензии в папке с программой.\nРусификация\nПри запущенном REAPER запустить файл Russian.ReaperLangPack и указать на reaper.exe в установленной папке. Перезапустить REAPER\nПримечание:\nВы можете самостоятельно создать портативную версию, в инсталляторе для этого есть соответствующий чекбокс. Лечение и русификация аналогична установочной версии\n￼",
     "full_title": "Cockos REAPER 7.78 + Portable",
@@ -104,29 +85,54 @@
     "zip": ""
   },
   {
-    "id": "fl_studio",
-    "title": "FL Studio",
-    "full_title": "Image-Line - FL Studio Producer Edition v26.1.5",
+    "added_at": "2026-08-24",
     "arch": "",
-    "tags": [
-      "DAW"
-    ],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/daws/fl_studio.torrent",
-    "magnet": "magnet:?xt=urn:btih:7b2dda823939408351f1d9ad93ba2008d815b03e&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%20v26.1.5%20%5B5618%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
-    "zip": "",
     "description": "Компания Image Line выпускает обновлённую версию своей культовой DAW, которая обзавелась набором новых функций и возможностей. FL Studio - это одна из лучших программ для создания музыки. С её помощью вы можете создавать собственные треки любого стиля. В программу входят все необходимые функции для работы со звуком: запись, сведение, мастеринг, а также имеет более 100 инструментов и эффектов.",
+    "file_size": "1.3 GB",
+    "full_title": "Image-Line - FL Studio Producer Edition v26.1.5",
+    "id": "fl_studio",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "magnet": "magnet:?xt=urn:btih:7b2dda823939408351f1d9ad93ba2008d815b03e&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%20v26.1.5%20%5B5618%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+    "producer": "Image-Line",
+    "sample_count": 0,
     "screenshots": [
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_screenshot_1.jpg",
       "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/fl_studio_screenshot_2.png"
     ],
+    "tags": [
+      "DAW"
+    ],
+    "title": "FL Studio",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/daws/fl_studio.torrent",
+    "unpacked_size": "",
     "video_url": "https://www.youtube.com/watch?v=IvJ1EAs8Sxw&t=485s",
+    "zip": ""
+  },
+  {
+    "id": "bitwig_studio",
+    "title": "Bitwig Studio",
+    "full_title": "Bitwig Studio 6.1",
+    "arch": "",
+    "tags": [
+      "DAW"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/daws/bitwig_studio.torrent",
+    "magnet": "magnet:?xt=urn:btih:a98d20dcacd3539631d22f81062b05c639493375&dn=Bitwig%20Studio%206%20v6.1-Team%20Totoro&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "Компания Bitwig выпускает шестую версию своей программной рабочей станции. DAW обзавелась множеством улучшений, переработкой графического интерфейса и многими другими нововведениями.\n\n\nУстановите Bitwig Studio\n2. Запустите Bitwig Studio и нажмите «Continue» в диалоговом окне «Continue\" on the \"Activation file update», если оно появится.\n3. Когда появится экран входа в систему, закройте Bitwig Studio.\n4. Скопируйте файл «bitwig.jar» из папки crack в\nКод:\nC:\\Program Files\\Bitwig Studio\\bin\nили в папку, куда вы установили программу.\n5. Запустите Bitwig Studio > Нажмите «Activate offline» > Нажмите «Load Activation file» и выберите файл активации «activation.bwreg» из папки crack.\n__(Примечание: Вы можете открыть «activation.bwreg» в блокноте и изменить его имя.)\n6. Нажмите «Launch Bitwig Studio».\n7. Наслаждайтесь!",
+    "screenshots": [
+      "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/daws/bitwig_studio_screenshot_1.png"
+    ],
+    "video_url": "",
     "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "1.3 GB",
+    "file_size": "1.4 GB",
     "unpacked_size": "",
-    "producer": "Image-Line",
+    "producer": "Bitwig",
     "install_instructions": "",
-    "install_instructions_visible": false
+    "install_instructions_visible": true
   }
 ]
