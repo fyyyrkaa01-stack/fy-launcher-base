@@ -58,24 +58,6 @@
   },
   {
     "added_at": "2026-08-24",
-    "arch": "849.8 MB",
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
-    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
-    "file_size": "849.8 MB",
-    "full_title": "Arturia - Sound Banks 2026.7 Updates Only (SOUNDBANK)(VR)",
-    "id": "arturia_sound_banks",
-    "magnet": "magnet:?xt=urn:btih:057ea7f6d13a10a66ba4d7ea38040d42996ae86b&dn=Arturia.Sound.Banks.Update.Only.2026.7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
-    "screenshots": [],
-    "tags": [
-      "библиотека",
-      "ARTURIA"
-    ],
-    "title": "Arturia - Sound Banks",
-    "torrent": "",
-    "video_url": ""
-  },
-  {
-    "added_at": "2026-08-24",
     "arch": "595 MB",
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/guitars_in_space_vol4_cover.png",
     "description": "Guitars In Space VOL 4 превращает гитару в живые текстуры, атмосферные слои и выразительные звуковые пейзажи, выходящие за пределы привычного звучания",
@@ -583,24 +565,48 @@
     "zip": ""
   },
   {
-    "id": "session_guitarist_electric_neon",
-    "title": "Session Guitarist Electric Neon",
-    "full_title": "Native Instruments Session Guitarist Electric Neon Deluxe",
+    "added_at": "2026-09-04",
     "arch": "",
-    "tags": [],
     "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/session_guitarist_electric_neon_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/session_guitarist_electric_neon.torrent",
-    "magnet": "magnet:?xt=urn:btih:e46f44f855df68b05fe0fc7a6053bb7497525d6e&dn=Session%20Guitarist%20-%20Electric%20Neon%20Deluxe%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
     "description": "библиотека для KONTAKT с готовыми электрогитарными партиями, которые хорошо вписываются в синтовые аранжировки.\n\nВнутри 240 жанровых паттернов, игра медиатором и пальцами, а также 30 вручную настроенных цепочек усилителей и эффектов",
+    "file_size": "13.9 GB",
+    "full_title": "Native Instruments Session Guitarist Electric Neon Deluxe",
+    "id": "session_guitarist_electric_neon",
+    "install_instructions": "",
+    "install_instructions_visible": false,
+    "magnet": "magnet:?xt=urn:btih:e46f44f855df68b05fe0fc7a6053bb7497525d6e&dn=Session%20Guitarist%20-%20Electric%20Neon%20Deluxe%20%5BNative%20Instruments%5D%20rutracker.org&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "Native Instruments",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [],
+    "title": "Session Guitarist Electric Neon",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/session_guitarist_electric_neon.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "arturia_sound_banks",
+    "title": "Arturia - Sound Banks",
+    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "arch": "849.8 MB",
+    "tags": [
+      "библиотека",
+      "ARTURIA"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/arturia_sound_banks.torrent",
+    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-09-04",
+    "added_at": "2026-08-24",
     "sample_count": 0,
-    "file_size": "13.9 GB",
+    "file_size": "878.2 MB",
     "unpacked_size": "",
-    "producer": "Native Instruments",
+    "producer": "Arturia",
     "install_instructions": "",
-    "install_instructions_visible": false
+    "install_instructions_visible": true
   }
 ]
