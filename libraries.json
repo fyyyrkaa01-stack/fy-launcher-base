@@ -586,27 +586,50 @@
     "zip": ""
   },
   {
-    "id": "arturia_sound_banks",
-    "title": "Arturia - Sound Banks",
-    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "added_at": "2026-08-24",
     "arch": "849.8 MB",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "file_size": "878.2 MB",
+    "full_title": "Arturia Sound Banks 2026.8 Updates Only",
+    "id": "arturia_sound_banks",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "producer": "Arturia",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "библиотека",
       "ARTURIA"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/arturia_sound_banks_cover.png",
+    "title": "Arturia - Sound Banks",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/arturia_sound_banks.torrent",
-    "magnet": "magnet:?xt=urn:btih:964daa313924df332291a787c08e0485cd400e18&dn=Arturia.Sound.Banks.Update.Only.2026.8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "chronos_for_omnisphere",
+    "title": "Chronos for Omnisphere",
+    "full_title": "Luftrum - Chronos for Omnisphere 3",
+    "arch": "",
+    "tags": [
+      "библиотека"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/libraries/chronos_for_omnisphere_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/libraries/chronos_for_omnisphere.torrent",
+    "magnet": "magnet:?xt=urn:btih:562c3ee45b6024f80b670ee2c4385a5b4f170ee0&dn=Luftrum%20Chronos%20for%20Omnisphere%203&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
     "zip": "",
-    "description": "Следите за постоянно меняющимся музыкальным ландшафтом благодаря звукам, вдохновленным передовыми жанрами, уникальной инструментовке и даже вашим любимым исполнителям, искусно созданным ведущими звукорежиссерами 3 разблокированных звуковых банка Arturia Factory и 7 сторонних банков с июля 2026 года",
+    "description": "Названный в честь древнего воплощения времени, Chronos отражает вечный и неудержимый поток бесконечности. Он простирается перед нами бесконечно, и в его глубинах свет искривляется, а воспоминания дрейфуют, словно далекие отголоски. Созданный Luftrum и представляющий собой одну из лучших работ, когда-либо созданных Sonic Underworld, Chronos — это кинематографическая одиссея из 150 пресетов, разработанная эксклюзивно для Spectrasonics Omnisphere 3. Chronos вдохновлен современными научно-фантастическими мирами. Он переходит от резкого электронного звучания «Трон: Наследие» Daft Punk к суровой, продуваемой ветром красоте «Марсианина» и внеземной лингвистике «Прибытия», с отсылкой к тектонической мощи и антиутопическому величию «Бегущего по лезвию 2049» и «Дюны». В основе Chronos лежит движение. Более 50 пресетов посвящены самой архитектуре времени — пульсирующему ядру секвенций, арпеджио и ритмических паттернов, призванных продвигать повествование вперед. Это пульсирующий ритм, несущий напряжение, импульс и эмоции в еще не рассказанные истории. Потому что в музыке то, что мы делаем со временем… это всё. Но Chronos — это больше, чем просто ритмическое движение. Внутри вы также найдете мягкие кинематографические пэды, эмбиентные гитарные гибриды, развивающиеся звуковые ландшафты, полифонические синтезаторы, клавишные и аналоговые синтезаторные басы, а также эффекты перехода и научно-фантастические эффекты. В общей сложности набор содержит 150 пресетов Omnisphere. Также включены шесть высококачественных обоев для рабочего стола с обложкой альбома. Эти визуальные материалы разработаны в различных разрешениях и обеспечивают панорамный фон для ваших сессий Omnisphere.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-08-24",
+    "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "878.2 MB",
+    "file_size": "23 MB",
     "unpacked_size": "",
-    "producer": "Arturia",
-    "install_instructions": "",
+    "producer": "Luftrum",
+    "install_instructions": "Установка: · Вариант 1: Открыть Omnisphere ► ≡ ► Install .omnisphere ► Выбрать файл *.omnisphere · Вариант 2: Для альтернативной установки поместить папку Chronos в *\\STEAM\\Omnisphere\\Settings Library\\Patches\nТребования: Spectrasonics Omnisphere 3",
     "install_instructions_visible": true
   }
 ]
