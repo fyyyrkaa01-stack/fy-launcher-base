@@ -757,26 +757,50 @@
     "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/synths-meowsynth.zip"
   },
   {
-    "id": "air_nexus_2",
-    "title": "Air-nexus 2",
+    "added_at": "2026-09-05",
+    "arch": "VST3",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/air_nexus_2_cover.png",
+    "description": "Порядок установки: 1.Качаем все что тут есть. Если у вас уже стоят фрукты на машинке или стоит версия 9 ничего страшного, сойдет. тогда сразу к пункту 4 2.Ставим фрукт и ASIO4ALL он в процессе установки фрукта установится. 3.После установки жмакаем по файлику reg и ура, фрукт уже не демо) 4.Качаем air-nexus2.iso, это есть нексус, монтируем его с помощью демона (Daemon tools) и ставим его на компьютер. 5.С монтированого air-nexus2.iso копируем папку nexus content например в папку с фруктом или еще куда нибудь нексус должен ее сам найти. 6.Качаем AiR eLicenser Emulator Setup.exe и так же ставим, желательно от прав админа, там дале-далее и готово. 7.Качаем FOR NEXUS 2.2.rar они же дополнительные банки звуков для нексус и содержимое архива кидаем либо на рабочий стол, либо в любую другую папку, если на рабочий стол то проще будет установить эти банки, после установки их можно стереть. 8.Добавляем нексус в список плагинов. В патерне жмакаем на любой звук правой клавишой и выбираем инсерт, далле More(больше) и там нажимаем рефреш, фрукт обновит список плагинов и ставим галочку напротив нексуса. 9.Заходим нексус и он ищет папку нексус контент на вашем компьютере(может занять некоторое время) 10.Ставим банки. Жмакаем на кнопку SYS в нексусе и в открытом окошке если же вы сохранили банки на рабочий стол нажимаем на desktop и ждем долго, при этом комп не трогаем (мышку шевелить можно), если даже свернуть банки установляться криво (у меня так точно такое было, просто свернул), если же банки не на рабочем столе то вместо кнопки desktop жмем import data и ставим по одному банку.",
+    "file_size": "14.7 GB",
     "full_title": "Air-nexus 2 (64 бит)",
+    "id": "air_nexus_2",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:d843494c7792605ff7a14f73d18c0659f3e43e58&dn=Nexus&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "reFX",
+    "sample_count": 0,
+    "screenshots": [],
+    "tags": [
+      "VST3",
+      "Synth"
+    ],
+    "title": "Air-nexus 2",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/air_nexus_2.torrent",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "zenology_pro",
+    "title": "ZENOLOGY Pro",
+    "full_title": "Roland - ZENOLOGY Pro v2.0.7",
     "arch": "VST3",
     "tags": [
       "VST3",
       "Synth"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/air_nexus_2_cover.png",
-    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/air_nexus_2.torrent",
-    "magnet": "magnet:?xt=urn:btih:d843494c7792605ff7a14f73d18c0659f3e43e58&dn=Nexus&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/synths/zenology_pro_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/synths/zenology_pro.torrent",
+    "magnet": "magnet:?xt=urn:btih:dfb3c37d4a2932176021e620973f72f8ca037937&dn=Roland.ZENOLOGY.Pro.v2.0.7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
     "zip": "",
-    "description": "Порядок установки: 1.Качаем все что тут есть. Если у вас уже стоят фрукты на машинке или стоит версия 9 ничего страшного, сойдет. тогда сразу к пункту 4 2.Ставим фрукт и ASIO4ALL он в процессе установки фрукта установится. 3.После установки жмакаем по файлику reg и ура, фрукт уже не демо) 4.Качаем air-nexus2.iso, это есть нексус, монтируем его с помощью демона (Daemon tools) и ставим его на компьютер. 5.С монтированого air-nexus2.iso копируем папку nexus content например в папку с фруктом или еще куда нибудь нексус должен ее сам найти. 6.Качаем AiR eLicenser Emulator Setup.exe и так же ставим, желательно от прав админа, там дале-далее и готово. 7.Качаем FOR NEXUS 2.2.rar они же дополнительные банки звуков для нексус и содержимое архива кидаем либо на рабочий стол, либо в любую другую папку, если на рабочий стол то проще будет установить эти банки, после установки их можно стереть. 8.Добавляем нексус в список плагинов. В патерне жмакаем на любой звук правой клавишой и выбираем инсерт, далле More(больше) и там нажимаем рефреш, фрукт обновит список плагинов и ставим галочку напротив нексуса. 9.Заходим нексус и он ищет папку нексус контент на вашем компьютере(может занять некоторое время) 10.Ставим банки. Жмакаем на кнопку SYS в нексусе и в открытом окошке если же вы сохранили банки на рабочий стол нажимаем на desktop и ждем долго, при этом комп не трогаем (мышку шевелить можно), если даже свернуть банки установляться криво (у меня так точно такое было, просто свернул), если же банки не на рабочем столе то вместо кнопки desktop жмем import data и ставим по одному банку.",
+    "description": "⚡ Усовершенствованный программный синтезатор ⚡ На протяжении десятилетий звучание инструментов Roland оказывало огромное влияние на музыку. Наши легендарные инструменты определили такие жанры, как техно, хаус, рэп, трэп и хип-хоп, а также оказали глубокое влияние на поп-музыку, рок и саундтреки к фильмам. Кульминацией этого многолетнего наследия стала система синтеза ZEN-Core. Это самый совершенный звуковой движок из всех, что мы когда-либо создавали. Он используется в наших профессиональных синтезаторах, таких как JUPITER-X и FANTOM, которые выступают на сценах и в студиях по всему миру.",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-05",
     "sample_count": 0,
-    "file_size": "14.7 GB",
+    "file_size": "1.8 GB",
     "unpacked_size": "",
-    "producer": "reFX",
+    "producer": "Roland",
     "install_instructions": "",
     "install_instructions_visible": true
   }
