@@ -489,5 +489,28 @@
     "torrent": "",
     "video_url": "",
     "zip": ""
+  },
+  {
+    "id": "filth_vol_8",
+    "title": "Filth Vol.8",
+    "full_title": "Beat Butcha - Filth Vol.8",
+    "arch": "",
+    "tags": [
+      "DRUM"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/drumkits/filth_vol_8_cover.png",
+    "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/drumkits/filth_vol_8.torrent",
+    "magnet": "magnet:?xt=urn:btih:20e6d5b115a21fbc80709e553615226e50e1e659&dn=Beat%20Butcha%20-%20Filth%20Vol.8%20-%20Drum%20Kit&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+    "zip": "",
+    "description": "Этот набор сэмплов — настоящий арсенал без прикрас: жёсткие оригинальные живые барабанные лупы, сырая перкуссия, завораживающие мелодии и чёткие нарезки — всё это тщательно составлено и разработано Beat Butcha для серьёзного битмейкинга. В послужном списке Butcha — Griselda, Evidence, Killer Mike, Schoolboy Q, SZA, Dreamville, Tyler, the Creator, Dominic Fike, Jordan Ward, Brent Faiyaz и The Carters, но прежде всего он известен самыми жёсткими бум-бэп-барабанами и самыми пугающими мелодиями в индустрии.",
+    "screenshots": [],
+    "video_url": "",
+    "added_at": "2026-09-09",
+    "sample_count": 0,
+    "file_size": "4.6 GB",
+    "unpacked_size": "",
+    "producer": "Beat Butcha",
+    "install_instructions": "",
+    "install_instructions_visible": true
   }
 ]
