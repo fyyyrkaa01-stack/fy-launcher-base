@@ -922,7 +922,7 @@
     "file_size": "737.6 MB",
     "unpacked_size": "",
     "producer": "Native Instruments",
-    "install_instructions": "",
+    "install_instructions": "1. Создать пустую папку. Имя самой папки и путь к ней НЕ ДОЛЖНЫ СОДЕРЖАТЬ КИРИЛЛИЦУ. Папка ДОЛЖНА БЫТЬ ДОСТУПНА ДЛЯ ЗАПИСИ. \n2. Запустить инсталятор KontaktPortable_v7101.exe \n3. Нажать кнопку Browse... и выбрать созданную пустую папку \n4. Нажать кнопку Extract",
     "install_instructions_visible": true
   }
 ]
