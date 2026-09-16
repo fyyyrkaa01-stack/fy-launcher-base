@@ -1428,26 +1428,50 @@
     "zip": ""
   },
   {
-    "id": "artist_pass_plugins_bundle_v2026_03",
-    "title": "Artist Pass Plugins Bundle v2026.03",
-    "full_title": "Black Salt Audio - Artist Pass Plugins Bundle v2026.03",
+    "added_at": "2026-09-16",
     "arch": "VST3 | VST",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/artist_pass_plugins_bundle_v2026_03_cover.png",
+    "description": "Все плагины Black Salt Audio Каждый плагин BSA разработан таким образом, чтобы помочь вам сосредоточиться на самом важном: музыке, а не математике... творчестве, а не сложности. Как только вы ознакомитесь с нашими плагинами, ваши текущие инструменты снова станут доступными с высокой скоростью.",
+    "file_size": "1.19 GB",
+    "full_title": "Black Salt Audio - Artist Pass Plugins Bundle v2026.03",
+    "id": "artist_pass_plugins_bundle_v2026_03",
+    "install_instructions": "1. Установите плагины 2. Установите R2R System - Скачать 3. Активируйте при помощи WM_BlackSaltAudio.r2rwm --------------------- Примечание\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "install_instructions_visible": true,
+    "magnet": "",
+    "producer": "Black Salt Audio",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Effect"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/artist_pass_plugins_bundle_v2026_03_cover.png",
+    "title": "Artist Pass Plugins Bundle v2026.03",
     "torrent": "",
-    "magnet": "",
-    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-artist_pass_plugins_bundle_v2026_03.zip",
-    "description": "Все плагины Black Salt Audio Каждый плагин BSA разработан таким образом, чтобы помочь вам сосредоточиться на самом важном: музыке, а не математике... творчестве, а не сложности. Как только вы ознакомитесь с нашими плагинами, ваши текущие инструменты снова станут доступными с высокой скоростью.",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-artist_pass_plugins_bundle_v2026_03.zip"
+  },
+  {
+    "id": "the_glue",
+    "title": "The Glue",
+    "full_title": "Cytomic - The Glue v1.7.6",
+    "arch": "VST3 | VST",
+    "tags": [
+      "VST3",
+      "КОМПРЕССОР"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/the_glue_cover.png",
+    "torrent": "",
+    "magnet": "magnet:?xt=urn:btih:38ccb3c785d53ac64ff2da76c95cbb1e56f12ed2&dn=Cytomic%20-%20The%20Glue%20v1.7.6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "zip": "",
+    "description": "",
     "screenshots": [],
     "video_url": "",
     "added_at": "2026-09-16",
     "sample_count": 0,
-    "file_size": "1.19 GB",
+    "file_size": "14.1 MB",
     "unpacked_size": "",
-    "producer": "Black Salt Audio",
-    "install_instructions": "1. Установите плагины 2. Установите R2R System - Скачать 3. Активируйте при помощи WM_BlackSaltAudio.r2rwm --------------------- Примечание\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
+    "producer": "Cytomic",
+    "install_instructions": "Удалите предыдущие версии. Установите плагин(ы). Запустите плагин и запустите автономную авторизацию. Скопируйте код вызова. Запустите наш кейген. Введите свое имя и вставьте код вызова. Сгенерируйте файл ответа *.txt. Перетащите файл ответа в графический интерфейс. Авторизуйтесь, наслаждайтесь!",
     "install_instructions_visible": true
   }
 ]
