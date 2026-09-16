@@ -1403,28 +1403,51 @@
     "zip": ""
   },
   {
-    "id": "voxity",
-    "title": "VOXITY",
-    "full_title": "Cymatics VOXITY Vocal Mixing Plugin v1.0.0",
+    "added_at": "2026-09-11",
     "arch": "VST3 | VST | AAX",
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/voxity_cover.png",
+    "description": "Превратите свой вокал из любительского в профессиональный за считанные секунды VOXITY — это наш универсальный плагин для микширования вокала, созданный для того, чтобы любой исполнитель или продюсер мог за считанные секунды добиться выдающегося звучания вокала, готового для использования в индустрии.\n\nМы работали с инженерами по микшированию и звукорежиссёрами мирового уровня, чтобы добиться профессионального качества и чистоты звука, а также создать полную библиотеку пресетов для каждого жанра.\n\nПросто сосредоточьтесь на своей работе, а VOXITY сделает всё остальное.",
+    "file_size": "31.6 MB",
+    "full_title": "Cymatics VOXITY Vocal Mixing Plugin v1.0.0",
+    "id": "voxity",
+    "install_instructions": "",
+    "install_instructions_visible": true,
+    "magnet": "magnet:?xt=urn:btih:97e7aa3539d0ed62490d6cc5bb333480bfcd510d&dn=CYM_VOXITY_1_0_0_WIN&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
+    "producer": "Cymatics",
+    "sample_count": 0,
+    "screenshots": [],
     "tags": [
       "Synth",
       "Effect",
       "Vocal"
     ],
-    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/voxity_cover.png",
+    "title": "VOXITY",
     "torrent": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/downloads/effects/voxity.torrent",
-    "magnet": "magnet:?xt=urn:btih:97e7aa3539d0ed62490d6cc5bb333480bfcd510d&dn=CYM_VOXITY_1_0_0_WIN&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce",
-    "zip": "",
-    "description": "Превратите свой вокал из любительского в профессиональный за считанные секунды VOXITY — это наш универсальный плагин для микширования вокала, созданный для того, чтобы любой исполнитель или продюсер мог за считанные секунды добиться выдающегося звучания вокала, готового для использования в индустрии.\n\nМы работали с инженерами по микшированию и звукорежиссёрами мирового уровня, чтобы добиться профессионального качества и чистоты звука, а также создать полную библиотеку пресетов для каждого жанра.\n\nПросто сосредоточьтесь на своей работе, а VOXITY сделает всё остальное.",
+    "unpacked_size": "",
+    "video_url": "",
+    "zip": ""
+  },
+  {
+    "id": "artist_pass_plugins_bundle_v2026_03",
+    "title": "Artist Pass Plugins Bundle v2026.03",
+    "full_title": "Black Salt Audio - Artist Pass Plugins Bundle v2026.03",
+    "arch": "VST3 | VST",
+    "tags": [
+      "Effect"
+    ],
+    "cover": "https://raw.githubusercontent.com/fyyyrkaa01-stack/fy-launcher-base/main/assets/images/effects/artist_pass_plugins_bundle_v2026_03_cover.png",
+    "torrent": "",
+    "magnet": "",
+    "zip": "https://github.com/fyyyrkaa01-stack/fy-launcher-base/releases/download/fy-launcher-assets/effects-artist_pass_plugins_bundle_v2026_03.zip",
+    "description": "Все плагины Black Salt Audio Каждый плагин BSA разработан таким образом, чтобы помочь вам сосредоточиться на самом важном: музыке, а не математике... творчестве, а не сложности. Как только вы ознакомитесь с нашими плагинами, ваши текущие инструменты снова станут доступными с высокой скоростью.",
     "screenshots": [],
     "video_url": "",
-    "added_at": "2026-09-11",
+    "added_at": "2026-09-16",
     "sample_count": 0,
-    "file_size": "31.6 MB",
+    "file_size": "1.19 GB",
     "unpacked_size": "",
-    "producer": "Cymatics",
-    "install_instructions": "",
+    "producer": "Black Salt Audio",
+    "install_instructions": "1. Установите плагины 2. Установите R2R System - Скачать 3. Активируйте при помощи WM_BlackSaltAudio.r2rwm --------------------- Примечание\nЕсли возникла ошибка \"Signature verification failed\", то перезагрузите ПК, либо переместите файл .r2rwm на другой диск и запустите.",
     "install_instructions_visible": true
   }
 ]
